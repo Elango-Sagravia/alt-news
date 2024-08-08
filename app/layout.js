@@ -11,8 +11,8 @@ import AppProvider from "@/context/appContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Alternative investments news",
-  description: "One of the leading newsletter for alternative investments",
+  title: "Geopolitics",
+  description: "One of the leading newsletter",
 };
 
 export default function RootLayout({ children }) {
