@@ -1,9 +1,9 @@
 const content = {
   homePage: {
     hero: {
-      title: "Grasp Geopolitics in No Time",
+      title: "Your daily dose of private equity and alternative investments.",
       subTitle:
-        "Curious about global political dynamics and key events? Receive concise, expert analysis in our weekday newsletter.",
+        "Perfect for private equity enthusiasts. Get daily, expert analysis. Subscribe to Alternative Investment News today!",
     },
   },
   subscribe: {
@@ -11,12 +11,13 @@ const content = {
   },
   advertise: {
     hero: {
-      title: "Our mission: Quick and clear geopolitical news",
+      title: "Our mission: Fresh private equity insights, daily",
       subTitle:
-        "Connect with an international audience hungry for insightful geopolitical analysis.",
+        "Want to connect with thousands of investors and professionals in the alternative investment space?",
     },
     statusSection: {
-      heading: "Reach new heights with Geopolitical World",
+      heading:
+        "Partner with Alternative Investment News to reach an elite audience.",
       list: [
         {
           title: "54%",
@@ -24,7 +25,8 @@ const content = {
         },
         {
           title: "10k",
-          description: "new subscribers join Geopolitical World monthly.",
+          description:
+            "new subscribers join Alternative Investment News monthly.",
         },
         {
           title: "2%",
@@ -34,16 +36,16 @@ const content = {
       ],
     },
     formSection: {
-      heading: "Take your brand global",
+      heading: "Boost your brand's global visibility",
       subHeading:
-        "Connect with over 100,000 engaged readers worldwide. Let’s discuss how we can help elevate your brand.",
+        "Connect with over 100,000 engaged investors and professionals worldwide. Let’s discuss how we can elevate your brand in the private equity space.",
     },
   },
   archivePage: {
     formSection: {
       heading: "Unlock exclusive insights with our free subscription",
       description:
-        "Subscribe now to continue reading and receive geopolitical insights and expert analysis.",
+        "Subscribe now for full access to top private equity news, weekday updates, and expert analysis.",
     },
   },
   contactPage: {
@@ -51,15 +53,15 @@ const content = {
       list: [
         {
           question: "How do I subscribe to the newsletter?",
-          answer: `To subscribe, enter your email address in the subscription box and click "Join Free." Our newsletters are sent every weekday, ensuring you stay updated with concise geopolitical news and analysis.`,
+          answer: `To subscribe, enter your email address in the subscription box and click "Join Free." Our newsletters are sent every weekday, ensuring you stay updated with the latest private equity news and insights.`,
         },
         {
           question: "How often will I receive newsletters?",
-          answer: `You will receive our newsletters every weekday, keeping you informed with daily geopolitical insights.`,
+          answer: `You will receive our newsletters every weekday, providing you with daily updates on private equity and alternative investments.`,
         },
         {
           question: "What type of content will be included in the newsletters?",
-          answer: `Our newsletters feature concise summaries of the most important geopolitical news, expert analysis, and key insights to keep you informed.`,
+          answer: `Our newsletters feature curated private equity news, expert analysis, and key insights into the alternative investment landscape.`,
         },
         {
           question: "How do I unsubscribe or change my email preferences?",
