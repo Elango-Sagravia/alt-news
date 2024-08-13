@@ -1,23 +1,25 @@
 const content = {
   homePage: {
     hero: {
-      title: "Your daily dose of private equity and alternative investments.",
+      title:
+        "Insider news for the guild of private equity and alternative investments.",
       subTitle:
-        "Perfect for private equity enthusiasts. Get daily, expert analysis. Subscribe to Alternative Investment News today!",
+        "Written for alternative investment professionals. Weekday newsletter to keep track of happenings inside the industry. A brief 4-minute read.",
     },
   },
   subscribe: {
-    title: "Gain insights, stay informed.",
+    title: "Stay informed, widen your worldview.",
   },
   advertise: {
     hero: {
-      title: "Our mission: Fresh private equity insights, daily",
+      title:
+        "Our mission is to share alternative investment insights with the world.",
       subTitle:
-        "Want to connect with thousands of investors and professionals in the alternative investment space?",
+        "To reach our engaged audience of 200,000 subscribers, contact us below.",
+      buttonText: "Advertise with us",
     },
     statusSection: {
-      heading:
-        "Partner with Alternative Investment News to reach an elite audience.",
+      heading: "Reach new customers with Alternative Investment News.",
       list: [
         {
           title: "54%",
@@ -26,7 +28,7 @@ const content = {
         {
           title: "10k",
           description:
-            "new subscribers join Alternative Investment News monthly.",
+            "new subscribers join Alternative Investment News monthly",
         },
         {
           title: "2%",
@@ -36,16 +38,38 @@ const content = {
       ],
     },
     formSection: {
-      heading: "Boost your brand's global visibility",
-      subHeading:
-        "Connect with over 100,000 engaged investors and professionals worldwide. Let’s discuss how we can elevate your brand in the private equity space.",
+      left: [
+        {
+          title: "General Inquiries",
+          type: "email",
+          href: "contact@altdaily.co",
+          content: "contact@altdaily.co",
+        },
+        {
+          title: "Front desk",
+          type: "phone",
+          href: "+1 (307) 429-0673",
+          content: "(307) 429-0673",
+        },
+        {
+          title: "Advertise with us",
+          type: "email",
+          href: "contact@altdaily.co",
+          content: "contact@altdaily.co",
+        },
+        {
+          title: "Speak to sales",
+          type: "link",
+          href: "contact@altdaily.co",
+          content: "contact@altdaily.co",
+        },
+      ],
     },
   },
   archivePage: {
     formSection: {
-      heading: "Unlock exclusive insights with our free subscription",
-      description:
-        "Subscribe now for full access to top private equity news, weekday updates, and expert analysis.",
+      heading: "Stay informed, widen your worldview.",
+      description: "",
     },
   },
   contactPage: {
@@ -53,15 +77,15 @@ const content = {
       list: [
         {
           question: "How do I subscribe to the newsletter?",
-          answer: `To subscribe, enter your email address in the subscription box and click "Join Free." Our newsletters are sent every weekday, ensuring you stay updated with the latest private equity news and insights.`,
+          answer: `To subscribe, enter your email address in the subscription box and click "Join Free." Our newsletters are sent every weekday, ensuring you stay updated with concise geopolitical news and analysis.`,
         },
         {
           question: "How often will I receive newsletters?",
-          answer: `You will receive our newsletters every weekday, providing you with daily updates on private equity and alternative investments.`,
+          answer: `You will receive our newsletters every weekday, keeping you informed with daily geopolitical insights.`,
         },
         {
           question: "What type of content will be included in the newsletters?",
-          answer: `Our newsletters feature curated private equity news, expert analysis, and key insights into the alternative investment landscape.`,
+          answer: `Our newsletters feature concise summaries of the most important geopolitical news, expert analysis, and key insights to keep you informed.`,
         },
         {
           question: "How do I unsubscribe or change my email preferences?",
