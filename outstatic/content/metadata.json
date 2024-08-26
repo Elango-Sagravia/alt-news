@@ -1,25 +1,7 @@
 {
   "commit": "554ff5593630802ecb34428abdfbab937ef53960",
-  "generated": "Mon, 26 Aug 2024 10:01:47 GMT",
+  "generated": "Mon, 26 Aug 2024 10:02:21 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "ae0af47302f23c936c4112776965adb7a0b02539",
-        "hash": "3167771934",
-        "path": "outstatic/content/blogs/test-blog-from-local.md"
-      },
-      "author": {
-        "name": "Camylle",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/image-AxOT.jpg",
-      "description": "",
-      "publishedAt": "2024-08-26T08:49:54.368Z",
-      "slug": "test-blog-from-local",
-      "status": "published",
-      "title": "Test-blog-from-local"
-    },
     {
       "__outstatic": {
         "commit": "50dc4676bfdb0eff0abfcbb1b5d17e33bde63717",
@@ -38,6 +20,24 @@
       "slug": "test-blog-from-prod",
       "status": "published",
       "title": "test blog from prod"
+    },
+    {
+      "__outstatic": {
+        "commit": "ae0af47302f23c936c4112776965adb7a0b02539",
+        "hash": "3167771934",
+        "path": "outstatic/content/blogs/test-blog-from-local.md"
+      },
+      "author": {
+        "name": "Camylle",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/image-AxOT.jpg",
+      "description": "",
+      "publishedAt": "2024-08-26T08:49:54.368Z",
+      "slug": "test-blog-from-local",
+      "status": "published",
+      "title": "Test-blog-from-local"
     }
   ]
 }
