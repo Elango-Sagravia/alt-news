@@ -26,7 +26,10 @@ export async function markdownToHtml(markdown) {
   const result = await remark().use(html).process(markdown);
   return result.toString();
 }
-
+export async function generateStaticParams() {
+  const posts = getDocumentSlugs("blogs");
+  return posts.map((slug) => ({ slug }));
+}
 export default async function Home({ params }) {
   const blog = await getData(params);
   return (
