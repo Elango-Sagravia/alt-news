@@ -1,7 +1,7 @@
 ---
 relatedArticles: ''
 readTime: '10'
-coverImage: ''
+coverImage: '/images/downtime-c0Mj.jpg'
 description: ''
 slug: 'the-second-test-blog'
 author:
