@@ -1,5 +1,5 @@
 import SingleBlog from "@/components/ui/singleBlog/singleBlog";
-import { getDocumentBySlug, getDocuments } from "outstatic/server";
+import { getDocumentBySlug } from "outstatic/server";
 import { remark } from "remark";
 import html from "remark-html";
 
@@ -25,13 +25,6 @@ async function getData(params) {
 export async function markdownToHtml(markdown) {
   const result = await remark().use(html).process(markdown);
   return result.toString();
-}
-
-export async function generateStaticParams() {
-  const allPosts = await getDocuments("blogs");
-  return allPosts.map((post) => ({
-    slug: post.slug,
-  }));
 }
 
 export default async function Home({ params }) {
