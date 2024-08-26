@@ -1,4 +1,6 @@
 ---
+latest: 'true'
+relatedArticles: ''
 readTime: '5'
 coverImage: '/images/bank-transfer-initiated-IxNT.jpg'
 description: ''
