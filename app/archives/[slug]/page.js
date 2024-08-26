@@ -1,5 +1,5 @@
 import SingleBlog from "@/components/ui/singleBlog/singleBlog";
-import { getDocumentBySlug } from "outstatic/server";
+import { getDocumentBySlug, getDocumentSlugs } from "outstatic/server";
 import { remark } from "remark";
 import html from "remark-html";
 
