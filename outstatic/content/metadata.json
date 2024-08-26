@@ -1,6 +1,6 @@
 {
-  "commit": "70aaccc8fd6716de52913a6feb3052c47354cf56",
-  "generated": "2024-08-26T15:17:51.845Z",
+  "commit": "ff4b4e7f355722f35cfcd657c0f211b56dd0ec54",
+  "generated": "2024-08-26T15:19:43.378Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,6 +20,27 @@
       "slug": "test-blog-from-local",
       "status": "draft",
       "title": "Test-blog-from-local"
+    },
+    {
+      "__outstatic": {
+        "commit": "ff4b4e7f355722f35cfcd657c0f211b56dd0ec54",
+        "hash": "351917800",
+        "path": "outstatic/content/blogs/my-first-test-blog-from-prod.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/image-AwMT.jpg",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-26T15:50:57.219Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "my-first-test-blog-from-prod",
+      "status": "published",
+      "title": "My first test blog from prod"
     }
   ]
 }
