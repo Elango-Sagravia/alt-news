@@ -1,6 +1,6 @@
 {
-  "commit": "ebe9475d8581ee92f5d78c093c6b1b775ee9a29c",
-  "generated": "Mon, 26 Aug 2024 09:57:53 GMT",
+  "commit": "3f7369d8574ab6a4d1115e2c7bcf0af47dbccc5f",
+  "generated": "2024-08-26T10:01:04.642Z",
   "metadata": [
     {
       "__outstatic": {
@@ -23,8 +23,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7eb3ffd768ef49853b0b0151f567a3e200fb42a8",
-        "hash": "3167771934",
+        "commit": "3f7369d8574ab6a4d1115e2c7bcf0af47dbccc5f",
+        "hash": "3084870282",
         "path": "outstatic/content/blogs/test-blog-from-local.md"
       },
       "author": {
@@ -35,8 +35,9 @@
       "coverImage": "/images/image-AxOT.jpg",
       "description": "",
       "publishedAt": "2024-08-26T08:49:54.368Z",
+      "readTime": "2",
       "slug": "test-blog-from-local",
-      "status": "published",
+      "status": "draft",
       "title": "Test-blog-from-local"
     }
   ]

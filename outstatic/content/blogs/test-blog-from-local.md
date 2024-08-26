@@ -1,12 +1,13 @@
 ---
-title: 'Test-blog-from-local'
-status: 'published'
+readTime: '2'
+coverImage: '/images/image-AxOT.jpg'
+description: ''
+slug: 'test-blog-from-local'
 author:
   name: 'Camylle'
   picture: ''
-slug: 'test-blog-from-local'
-description: ''
-coverImage: '/images/image-AxOT.jpg'
+status: 'draft'
+title: 'Test-blog-from-local'
 publishedAt: '2024-08-26T08:49:54.368Z'
 ---
 
