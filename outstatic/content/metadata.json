@@ -1,29 +1,10 @@
 {
-  "commit": "ff4b4e7f355722f35cfcd657c0f211b56dd0ec54",
-  "generated": "2024-08-26T15:19:43.378Z",
+  "commit": "fcc8fc805509765f24d991729f7661ed191bb149",
+  "generated": "Mon, 26 Aug 2024 15:30:28 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "ae0af47302f23c936c4112776965adb7a0b02539",
-        "hash": "3084870282",
-        "path": "outstatic/content/blogs/test-blog-from-local.md"
-      },
-      "author": {
-        "name": "Camylle",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/image-AxOT.jpg",
-      "description": "",
-      "publishedAt": "2024-08-26T08:49:54.368Z",
-      "readTime": "2",
-      "slug": "test-blog-from-local",
-      "status": "draft",
-      "title": "Test-blog-from-local"
-    },
-    {
-      "__outstatic": {
-        "commit": "ff4b4e7f355722f35cfcd657c0f211b56dd0ec54",
+        "commit": "883c763840b468609dbffbaf85c5d234f96cf674",
         "hash": "351917800",
         "path": "outstatic/content/blogs/my-first-test-blog-from-prod.md"
       },
