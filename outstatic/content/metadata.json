@@ -1,7 +1,26 @@
 {
-  "commit": "ae2853ffe7e533818d34c1d742bfc4ad89a621a0",
-  "generated": "2024-08-26T09:55:14.962Z",
+  "commit": "ebe9475d8581ee92f5d78c093c6b1b775ee9a29c",
+  "generated": "Mon, 26 Aug 2024 09:57:49 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "50dc4676bfdb0eff0abfcbb1b5d17e33bde63717",
+        "hash": "3555363699",
+        "path": "outstatic/content/blogs/test-blog-from-prod.md"
+      },
+      "author": {
+        "name": "Camylle",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/bank-transfer-initiated-IxNT.jpg",
+      "description": "",
+      "publishedAt": "2024-08-26T10:25:22.787Z",
+      "readTime": "5",
+      "slug": "test-blog-from-prod",
+      "status": "published",
+      "title": "test blog from prod"
+    },
     {
       "__outstatic": {
         "commit": "7eb3ffd768ef49853b0b0151f567a3e200fb42a8",
@@ -19,25 +38,6 @@
       "slug": "test-blog-from-local",
       "status": "published",
       "title": "Test-blog-from-local"
-    },
-    {
-      "__outstatic": {
-        "commit": "ae2853ffe7e533818d34c1d742bfc4ad89a621a0",
-        "hash": "3555363699",
-        "path": "outstatic/content/blogs/test-blog-from-prod.md"
-      },
-      "author": {
-        "name": "Camylle",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/bank-transfer-initiated-IxNT.jpg",
-      "description": "",
-      "publishedAt": "2024-08-26T10:25:22.787Z",
-      "readTime": "5",
-      "slug": "test-blog-from-prod",
-      "status": "published",
-      "title": "test blog from prod"
     }
   ]
 }
