@@ -29,12 +29,8 @@ export async function markdownToHtml(markdown) {
 
 export default async function Home({ params }) {
   const blog = await getData(params);
-  console.log(blog.content.split("\n"));
   return (
     <div>
-      {/* {blog.content.split("\n").map((el) => (
-        <div dangerouslySetInnerHTML={{ __html: el }}></div>
-      ))} */}
       <SingleBlog blog={blog} />
     </div>
   );
