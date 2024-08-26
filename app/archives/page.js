@@ -3,7 +3,24 @@ import GridContainer from "@/components/ui/gridContainer/gridContainer";
 import Subscribe from "@/components/ui/subscribe/subscribe";
 import blogs from "@/blogs";
 
-export default function archive() {
+import { getDocuments } from "outstatic/server";
+
+async function getData() {
+  const blogs = getDocuments("blogs", [
+    "title",
+    "publishedAt",
+    "slug",
+    "author",
+    "content",
+    "coverImage",
+    "readTime",
+  ]);
+
+  return blogs;
+}
+
+export default async function archive() {
+  const blogs = await getData();
   return (
     <main className="">
       <ArchiveHeader />
