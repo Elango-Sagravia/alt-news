@@ -1,0 +1,24 @@
+{
+  "commit": "7b86a1d58076dc8d4b548cf700b2b2e34ab51521",
+  "generated": "Mon, 26 Aug 2024 09:41:54 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "7eb3ffd768ef49853b0b0151f567a3e200fb42a8",
+        "hash": "3167771934",
+        "path": "outstatic/content/blogs/test-blog-from-local.md"
+      },
+      "author": {
+        "name": "Camylle",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/image-AxOT.jpg",
+      "description": "",
+      "publishedAt": "2024-08-26T08:49:54.368Z",
+      "slug": "test-blog-from-local",
+      "status": "published",
+      "title": "Test-blog-from-local"
+    }
+  ]
+}
