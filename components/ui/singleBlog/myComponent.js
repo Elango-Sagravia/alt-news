@@ -1,3 +1,5 @@
+"use client";
+
 import content from "@/content/content";
 import { useAppContext } from "@/context/appContext";
 import React from "react";
