@@ -1,6 +1,6 @@
 {
-  "commit": "f72234578e68268f21b9d6ea15c3c68738e1c86b",
-  "generated": "2024-08-27T09:20:12.217Z",
+  "commit": "056d4e37a3a532c7639f068afd7e3dcebbf96266",
+  "generated": "2024-08-27T09:58:15.606Z",
   "metadata": [
     {
       "__outstatic": {
@@ -65,6 +65,27 @@
       "slug": "my-first-test-blog-from-prod",
       "status": "draft",
       "title": "My first test blog from prod"
+    },
+    {
+      "__outstatic": {
+        "commit": "056d4e37a3a532c7639f068afd7e3dcebbf96266",
+        "hash": "156225512",
+        "path": "outstatic/content/blogs/vc-boom-in-europe.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/vc-boom-in-europe-U4MD.webp",
+      "cutOff": "3",
+      "description": "",
+      "publishedAt": "2024-08-01T10:22:06.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "vc-boom-in-europe",
+      "status": "published",
+      "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
     }
   ]
 }
