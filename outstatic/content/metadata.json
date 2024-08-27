@@ -1,6 +1,6 @@
 {
   "commit": "7bc8f8cebc77f7df97f9070a1dc3a234723ab8e1",
-  "generated": "2024-08-27T12:42:10.386Z",
+  "generated": "2024-08-27T12:42:39.793Z",
   "metadata": [
     {
       "__outstatic": {
@@ -25,24 +25,25 @@
     },
     {
       "__outstatic": {
-        "commit": "1eb9b2c0190ee021b12bd3a87562693d6a9899dd",
-        "hash": "790971503",
-        "path": "outstatic/content/blogs/third-blog-post.md"
+        "commit": "f72234578e68268f21b9d6ea15c3c68738e1c86b",
+        "hash": "4105747418",
+        "path": "outstatic/content/blogs/my-first-test-blog-from-prod.md"
       },
       "author": {
-        "name": "Elango",
+        "name": "Camylle",
         "picture": ""
       },
       "collection": "blogs",
-      "coverImage": "/images/beneficiary-I5OT.jpg",
-      "cutOff": "3",
+      "coverImage": "/images/image-AwMT.jpg",
+      "cutOff": "4",
       "description": "",
-      "publishedAt": "2024-08-01T09:19:48.000Z",
-      "readTime": "5",
-      "relatedArticles": "my-first-test-blog-from-prod,the-second-test-blog",
-      "slug": "third-blog-post",
-      "status": "published",
-      "title": "Third blog post"
+      "latest": "true",
+      "publishedAt": "2024-08-26T15:50:57.219Z",
+      "readTime": "10",
+      "relatedArticles": "the-second-test-blog",
+      "slug": "my-first-test-blog-from-prod",
+      "status": "draft",
+      "title": "My first test blog from prod"
     },
     {
       "__outstatic": {
