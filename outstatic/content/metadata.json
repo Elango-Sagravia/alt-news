@@ -1,6 +1,6 @@
 {
-  "commit": "efca298951d59e103cb09331edce76e365a2ff4f",
-  "generated": "2024-08-27T14:27:27.263Z",
+  "commit": "45ed578fd8abe4efaea96868838638c50036e91a",
+  "generated": "2024-08-27T14:27:38.212Z",
   "metadata": [
     {
       "__outstatic": {
@@ -216,8 +216,8 @@
     },
     {
       "__outstatic": {
-        "commit": "efca298951d59e103cb09331edce76e365a2ff4f",
-        "hash": "2293994619",
+        "commit": "45ed578fd8abe4efaea96868838638c50036e91a",
+        "hash": "3269437808",
         "path": "outstatic/content/blogs/trend-micro-buyout.md"
       },
       "author": {
@@ -229,7 +229,7 @@
       "cutOff": "4",
       "description": "",
       "latest": "true",
-      "publishedAt": "2024-08-27T14:56:38.839Z",
+      "publishedAt": "2024-08-11T14:56:38.000Z",
       "readTime": "5",
       "relatedArticles": "",
       "slug": "trend-micro-buyout",

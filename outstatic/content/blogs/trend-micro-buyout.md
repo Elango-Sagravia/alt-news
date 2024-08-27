@@ -10,9 +10,8 @@ author:
   name: 'Camy'
   picture: ''
 status: 'published'
-title: '11th Aug: Trend Micro Buyout Buzz, SoftBank’s AI Push
-'
-publishedAt: '2024-08-27T14:56:38.839Z'
+title: '11th Aug: Trend Micro Buyout Buzz, SoftBank’s AI Push '
+publishedAt: '2024-08-11T14:56:38.000Z'
 ---
 
 ### **Is Trend Micro Heading for a Major Buyout?**
