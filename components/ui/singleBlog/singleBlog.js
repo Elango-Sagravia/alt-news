@@ -43,7 +43,7 @@ const SingleBlog = ({ blog, relatedArticles }) => {
             <p className="text-sm mt-4 md:text-center md:w-4/5 md:mx-auto">
               {content.archivePage.formSection.description}
             </p>
-            <SubscriberForm formClasses="w-5/6 md:w-3/4 lg:w-3/5 flex flex-col gap-2 mt-8 md:mx-auto" />
+            <SubscriberForm formClasses="w-full md:w-3/4 lg:w-3/5 flex flex-col gap-2 mt-8 md:mx-auto" />
             {/* <form className="w-5/6 md:w-3/4 lg:w-3/5 flex flex-col mt-8 md:mx-auto">
               <div className="flex gap-2 justify-center">
                 <Input
