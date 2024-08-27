@@ -1,6 +1,6 @@
 {
-  "commit": "88393ba36fa49f674363e61af6eeeb6cbac9de25",
-  "generated": "2024-08-27T11:08:46.923Z",
+  "commit": "93fe819980bafb7b55f90edac61a03b3a4d25bd9",
+  "generated": "2024-08-27T11:31:49.900Z",
   "metadata": [
     {
       "__outstatic": {
@@ -107,6 +107,28 @@
       "slug": "florida-expands-pe-investments",
       "status": "draft",
       "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
+    },
+    {
+      "__outstatic": {
+        "commit": "93fe819980bafb7b55f90edac61a03b3a4d25bd9",
+        "hash": "924413571",
+        "path": "outstatic/content/blogs/golds-rise-crypto-confidence.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/178306907?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/italian-wine-resilience-E1OT.webp",
+      "cutOff": "3",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-05T12:06:56.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "golds-rise-crypto-confidence",
+      "status": "published",
+      "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
     }
   ]
 }
