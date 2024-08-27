@@ -1,6 +1,6 @@
 {
-  "commit": "3036fd6da853cf28870bc33f0a9fc3b0f66ac65d",
-  "generated": "2024-08-27T07:30:22.068Z",
+  "commit": "1eb9b2c0190ee021b12bd3a87562693d6a9899dd",
+  "generated": "2024-08-27T09:03:20.579Z",
   "metadata": [
     {
       "__outstatic": {
@@ -44,6 +44,27 @@
       "slug": "the-second-test-blog",
       "status": "published",
       "title": "the second test blog"
+    },
+    {
+      "__outstatic": {
+        "commit": "1eb9b2c0190ee021b12bd3a87562693d6a9899dd",
+        "hash": "790971503",
+        "path": "outstatic/content/blogs/third-blog-post.md"
+      },
+      "author": {
+        "name": "Elango",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/beneficiary-I5OT.jpg",
+      "cutOff": "3",
+      "description": "",
+      "publishedAt": "2024-08-01T09:19:48.000Z",
+      "readTime": "5",
+      "relatedArticles": "my-first-test-blog-from-prod,the-second-test-blog",
+      "slug": "third-blog-post",
+      "status": "published",
+      "title": "Third blog post"
     }
   ]
 }
