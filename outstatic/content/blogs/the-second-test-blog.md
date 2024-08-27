@@ -1,6 +1,6 @@
 ---
 cutOff: '4'
-relatedArticles: ''
+relatedArticles: 'my-first-test-blog-from-prod'
 readTime: '10'
 coverImage: '/images/downtime-c0Mj.jpg'
 description: ''

@@ -1,28 +1,7 @@
 {
-  "commit": "fd24fbade6bf0b3e72258b7d4ef7dc6ea1487f6f",
-  "generated": "2024-08-27T07:29:28.879Z",
+  "commit": "3036fd6da853cf28870bc33f0a9fc3b0f66ac65d",
+  "generated": "2024-08-27T07:30:22.068Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "0b56fbcefed3a42150abeae25bd2c11c2f4e0eff",
-        "hash": "4079887986",
-        "path": "outstatic/content/blogs/the-second-test-blog.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
-      },
-      "collection": "blogs",
-      "coverImage": "/images/downtime-c0Mj.jpg",
-      "cutOff": "4",
-      "description": "",
-      "publishedAt": "2024-08-26T16:13:08.740Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "the-second-test-blog",
-      "status": "published",
-      "title": "the second test blog"
-    },
     {
       "__outstatic": {
         "commit": "fd24fbade6bf0b3e72258b7d4ef7dc6ea1487f6f",
@@ -44,6 +23,27 @@
       "slug": "my-first-test-blog-from-prod",
       "status": "published",
       "title": "My first test blog from prod"
+    },
+    {
+      "__outstatic": {
+        "commit": "3036fd6da853cf28870bc33f0a9fc3b0f66ac65d",
+        "hash": "518260840",
+        "path": "outstatic/content/blogs/the-second-test-blog.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/downtime-c0Mj.jpg",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-26T16:13:08.740Z",
+      "readTime": "10",
+      "relatedArticles": "my-first-test-blog-from-prod",
+      "slug": "the-second-test-blog",
+      "status": "published",
+      "title": "the second test blog"
     }
   ]
 }
