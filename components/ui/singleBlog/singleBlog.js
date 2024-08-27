@@ -8,9 +8,10 @@ import "./styles.css";
 import HTMLContent from "./myComponent";
 import content from "@/content/content";
 import SubscriberForm from "../subscriberForm/subscriberForm";
+import RelatedArticles from "../relatedArticles/relatedArticles";
 
-const SingleBlog = ({ blog }) => {
-  console.log(blog);
+const SingleBlog = ({ blog, relatedArticles }) => {
+  console.log(relatedArticles);
   const { isSubscribed } = useAppContext();
   console.log("object :>> ", blog);
   return (
@@ -29,6 +30,9 @@ const SingleBlog = ({ blog }) => {
             blogCutOff={!isSubscribed ? blog.cutOff : blog.content.length}
           />
         </div>
+        {isSubscribed && relatedArticles.length > 0 && (
+          <RelatedArticles articles={relatedArticles} />
+        )}
       </section>
       {!isSubscribed && (
         <section className="bg-gradient-to-t	from-nl_sec_background to-white px-8 pt-4 pb-16 md:py-16 md:px-16 md:pb-32">

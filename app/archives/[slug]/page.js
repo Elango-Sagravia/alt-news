@@ -1,5 +1,10 @@
 import SingleBlog from "@/components/ui/singleBlog/singleBlog";
-import { getDocumentBySlug, getDocumentSlugs } from "outstatic/server";
+import { notFound } from "next/navigation";
+import {
+  getDocumentBySlug,
+  getDocuments,
+  getDocumentSlugs,
+} from "outstatic/server";
 import { remark } from "remark";
 import html from "remark-html";
 
@@ -13,7 +18,11 @@ async function getData(params) {
     "coverImage",
     "readTime",
     "cutOff",
+    "relatedArticles",
   ]);
+  if (!post) {
+    notFound();
+  }
   console.log("post in slug", post);
   const content = await markdownToHtml(post.content || "");
 
@@ -33,9 +42,19 @@ export async function generateStaticParams() {
 }
 export default async function Home({ params }) {
   const blog = await getData(params);
+  const blogs = await getDocuments("blogs", [
+    "title",
+    "slug",
+    "coverImage",
+    "readTime",
+  ]);
+  const relatedBlogsSlugs = blog.relatedArticles.split(",");
+  const relatedArticles = blogs.filter((el) =>
+    relatedBlogsSlugs.includes(el.slug)
+  );
   return (
     <div>
-      <SingleBlog blog={blog} />
+      <SingleBlog blog={blog} relatedArticles={relatedArticles} />
     </div>
   );
 }
