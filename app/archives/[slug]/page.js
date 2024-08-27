@@ -12,6 +12,7 @@ async function getData(params) {
     "content",
     "coverImage",
     "readTime",
+    "cutOff",
   ]);
   console.log("post in slug", post);
   const content = await markdownToHtml(post.content || "");

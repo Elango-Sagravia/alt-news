@@ -24,7 +24,10 @@ const SingleBlog = ({ blog }) => {
         <BlogTitle title={blog.title} />
         <BlogBannerImage url={blog.coverImage} />
         <div>
-          <HTMLContent contentString={blog.content} blogCutOff={2} />
+          <HTMLContent
+            contentString={blog.content}
+            blogCutOff={!isSubscribed ? blog.cutOff : blog.content.length}
+          />
         </div>
       </section>
       {!isSubscribed && (
