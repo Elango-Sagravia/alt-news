@@ -14,7 +14,7 @@ title: '11th Aug: Trend Micro Buyout Buzz, SoftBank’s AI Push '
 publishedAt: '2024-08-11T14:56:38.000Z'
 ---
 
-### **Is Trend Micro Heading for a Major Buyout?**
+### Is Trend Micro Heading for a Major Buyout?
 
 Trend Micro Inc. (4704 JP) might be on the brink of a significant sale, as reported by Reuters, which sent its ADRs soaring by 10%. The company’s co-founders, now in their late 60s and 70s, may be considering a sale as part of succession planning. Activist investor ValueAct has been pressuring the company, though its stock has remained stagnant in recent years. Given the high multiples involved, a strategic buyer seems more likely than a private equity firm. Speculation is growing on who might step in, how much they would pay, and the strategic benefits they could gain.
 
@@ -32,7 +32,7 @@ Fila Holdings announced that its subsidiary, Magnus Holdings, plans to sell a 1.
 
 This week in the Asia-Pacific M&A landscape, 46 deals were in focus, with several notable transactions making headlines. KKR has shown interest in Fuji Soft (9749 JP), while Itochu has launched tender offers for Descente (8114 JP) and C.I. TAKIRON Corporation (4215 JP). Other key updates include developments at Pacific Smiles (PSQ AU), Greatview Aseptic Packaging (468 HK), L'Occitane (973 HK), and Fancl Corp (4921 JP). As the M&A market heats up, these transactions highlight companies' strategic moves to navigate the region's complex and competitive business environment.
 
-### **SoftBank's AI Ambitions Surge Amid Market Turmoil**
+### SoftBank's AI Ambitions Surge Amid Market Turmoil
 
 Japan's SoftBank Group remains bullish on AI investments despite narrowing its net loss to ¥174.3 billion ($1.2 billion) in Q2 2024, down from ¥477.6 billion a year prior. The Vision Fund, rebounding with a ¥1.9 billion gain, highlights the rising value of crucial portfolio companies like ByteDance and Coupang. However, SoftBank faced a sharp $15 billion drop in market value following Japan's interest rate hike. Undeterred, SoftBank plans a ¥500 billion share buyback and continues its AI push with new investments in Wiz, AlphaSense, and a $200 million stake in Tempus AI, underscoring its strategic focus on logistics, robotics, and autonomous driving.
 

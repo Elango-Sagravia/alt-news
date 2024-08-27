@@ -1,6 +1,6 @@
 {
-  "commit": "ae3917b98ffa3b1bb424f11aa9ca081031bb5877",
-  "generated": "2024-08-27T15:12:31.995Z",
+  "commit": "e899e1fb984d742e7a737314046c2f27d400d789",
+  "generated": "2024-08-27T17:06:36.256Z",
   "metadata": [
     {
       "__outstatic": {
@@ -108,28 +108,6 @@
       "slug": "florida-expands-pe-investments",
       "status": "published",
       "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
-    },
-    {
-      "__outstatic": {
-        "commit": "45ed578fd8abe4efaea96868838638c50036e91a",
-        "hash": "3269437808",
-        "path": "outstatic/content/blogs/trend-micro-buyout.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/celletrion-merger-UyOD.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-11T14:56:38.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "trend-micro-buyout",
-      "status": "published",
-      "title": "11th Aug: Trend Micro Buyout Buzz, SoftBank’s AI Push "
     },
     {
       "__outstatic": {
@@ -253,6 +231,28 @@
       "slug": "terms-of-use",
       "status": "published",
       "title": "Terms of use"
+    },
+    {
+      "__outstatic": {
+        "commit": "e899e1fb984d742e7a737314046c2f27d400d789",
+        "hash": "1608319390",
+        "path": "outstatic/content/blogs/trend-micro-buyout.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/celletrion-merger-UyOD.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-11T14:56:38.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "trend-micro-buyout",
+      "status": "published",
+      "title": "11th Aug: Trend Micro Buyout Buzz, SoftBank’s AI Push "
     }
   ]
 }
