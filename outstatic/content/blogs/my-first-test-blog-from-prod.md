@@ -9,7 +9,7 @@ slug: 'my-first-test-blog-from-prod'
 author:
   name: 'Camylle'
   picture: ''
-status: 'published'
+status: 'draft'
 title: 'My first test blog from prod'
 publishedAt: '2024-08-26T15:50:57.219Z'
 ---
