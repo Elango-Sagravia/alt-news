@@ -1,6 +1,6 @@
 {
-  "commit": "5eb85cfa75ee33a0d6a9d45f532b8a67aec89961",
-  "generated": "2024-08-27T13:53:28.557Z",
+  "commit": "b8bd9561bc38106ddcb183d63048b24df005eb41",
+  "generated": "2024-08-27T14:07:36.357Z",
   "metadata": [
     {
       "__outstatic": {
@@ -192,6 +192,27 @@
       "slug": "ai-crypto-debate",
       "status": "published",
       "title": "9th Aug: AI-Crypto Debate, PE Exits Surge, Cleantech Investment Record "
+    },
+    {
+      "__outstatic": {
+        "commit": "b8bd9561bc38106ddcb183d63048b24df005eb41",
+        "hash": "3253614650",
+        "path": "outstatic/content/blogs/alibabas-dual-primary-listing.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": "/images/alibaba-cyMj.webp"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/alibaba-c4MD.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-10T14:43:42.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "alibabas-dual-primary-listing",
+      "status": "published",
+      "title": "10th Aug: Alibaba’s Listing, KKR’s Takeover of Fuji Soft "
     }
   ]
 }
