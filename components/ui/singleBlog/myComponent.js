@@ -8,8 +8,8 @@ const HTMLContent = ({ contentString, blogCutOff }) => {
   useEffect(() => {
     // Define custom styles for different HTML elements
     const customStyles = {
-      h2: "text-4xl font-bold mb-4",
-      h3: "text-3xl font-bold mb-4",
+      h2: "text-4xl font-bold my-4",
+      h3: "text-3xl font-bold my-4",
       p: "mb-4",
       img: "max-w-full h-auto",
       a: "text-blue-500 hover:text-blue-700",
@@ -20,7 +20,7 @@ const HTMLContent = ({ contentString, blogCutOff }) => {
 
     // Replace HTML tags with styled equivalents
     const styledContent = contentString
-      .replace(/<h2>/g, `<h2 class="${customStyles.h3}">`)
+      .replace(/<h2>/g, `<h2 class="${customStyles.h2}">`)
       .replace(/<h3>/g, `<h3 class="${customStyles.h3}">`)
       .replace(/<p>/g, `<p class="${customStyles.p}">`)
       .replace(/<img /g, `<img class="${customStyles.img}" `)

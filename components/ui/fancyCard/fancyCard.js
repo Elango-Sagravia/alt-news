@@ -9,6 +9,7 @@ const changeFormat = (isoDate) => {
   return formattedDate;
 };
 export default function FancyCard({ article }) {
+  console.log("article :>> ", article);
   return (
     <div className="flex mt-8 min-h-96 md:min-h-[410px]">
       <div className="hidden flex-1 sm:block relative">

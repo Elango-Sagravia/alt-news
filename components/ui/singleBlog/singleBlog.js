@@ -23,8 +23,8 @@ const SingleBlog = ({ blog, relatedArticles }) => {
       >
         <BlogInfo date={blog.publishedAt} read_time={blog.readTime} />
         <BlogTitle title={blog.title} />
-        <BlogBannerImage url={blog.coverImage} />
-        <div>
+        {/* <BlogBannerImage url={blog.coverImage} /> */}
+        <div className="mt-10">
           <HTMLContent
             contentString={blog.content}
             blogCutOff={!isSubscribed ? blog.cutOff : blog.content.length}
