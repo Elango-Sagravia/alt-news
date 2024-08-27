@@ -1,6 +1,6 @@
 {
-  "commit": "fa04caee3352bcb875951d27c6e337d7abf52786",
-  "generated": "Tue, 27 Aug 2024 06:09:00 GMT",
+  "commit": "97871a48dc660f6c92cff151d25d3fa431f3f363",
+  "generated": "2024-08-27T06:13:12.103Z",
   "metadata": [
     {
       "__outstatic": {
@@ -24,20 +24,21 @@
     },
     {
       "__outstatic": {
-        "commit": "883c763840b468609dbffbaf85c5d234f96cf674",
-        "hash": "351917800",
+        "commit": "97871a48dc660f6c92cff151d25d3fa431f3f363",
+        "hash": "818212953",
         "path": "outstatic/content/blogs/my-first-test-blog-from-prod.md"
       },
       "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
+        "name": "Camylle",
+        "picture": ""
       },
       "collection": "blogs",
       "coverImage": "/images/image-AwMT.jpg",
+      "cutOff": "4",
       "description": "",
       "latest": "true",
       "publishedAt": "2024-08-26T15:50:57.219Z",
-      "readTime": "5",
+      "readTime": "10",
       "relatedArticles": "",
       "slug": "my-first-test-blog-from-prod",
       "status": "published",
