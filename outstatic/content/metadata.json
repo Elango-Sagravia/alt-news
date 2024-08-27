@@ -1,6 +1,6 @@
 {
-  "commit": "957a8cc9052f7b6e651257b79bc80d63879845f0",
-  "generated": "2024-08-27T11:32:28.996Z",
+  "commit": "6f420e681d6f41556886037bfdab0b70e208b7c5",
+  "generated": "2024-08-27T11:41:53.011Z",
   "metadata": [
     {
       "__outstatic": {
@@ -129,6 +129,27 @@
       "slug": "florida-expands-pe-investments",
       "status": "published",
       "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
+    },
+    {
+      "__outstatic": {
+        "commit": "6f420e681d6f41556886037bfdab0b70e208b7c5",
+        "hash": "1708290396",
+        "path": "outstatic/content/blogs/loan-defaults-dip.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": "/images/saudi-arabia-cyNz.webp"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/saudi-arabia-I4ND.webp",
+      "cutOff": "3",
+      "description": "",
+      "publishedAt": "2024-08-06T12:20:58.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "loan-defaults-dip",
+      "status": "published",
+      "title": "6th Aug: Loan Defaults Dip, Saudi AI Fund, JP Morgan Forecasts "
     }
   ]
 }
