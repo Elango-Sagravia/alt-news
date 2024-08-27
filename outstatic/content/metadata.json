@@ -1,6 +1,6 @@
 {
-  "commit": "b8bd9561bc38106ddcb183d63048b24df005eb41",
-  "generated": "2024-08-27T14:07:36.357Z",
+  "commit": "efca298951d59e103cb09331edce76e365a2ff4f",
+  "generated": "2024-08-27T14:27:27.263Z",
   "metadata": [
     {
       "__outstatic": {
@@ -213,6 +213,28 @@
       "slug": "alibabas-dual-primary-listing",
       "status": "published",
       "title": "10th Aug: Alibaba’s Listing, KKR’s Takeover of Fuji Soft "
+    },
+    {
+      "__outstatic": {
+        "commit": "efca298951d59e103cb09331edce76e365a2ff4f",
+        "hash": "2293994619",
+        "path": "outstatic/content/blogs/trend-micro-buyout.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/celletrion-merger-UyOD.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-27T14:56:38.839Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "trend-micro-buyout",
+      "status": "published",
+      "title": "11th Aug: Trend Micro Buyout Buzz, SoftBank’s AI Push "
     }
   ]
 }
