@@ -23,7 +23,7 @@ export default async function ArchiveHome() {
   return (
     <div className="px-8 pb-36 md:px-16 pt-8 max-w-7xl mx-auto">
       <HeadingWithUnderline text="Archives" />
-      <GridContainer hideButton={false} articles={blogs.splice(0, 8)} />
+      <GridContainer hideButton={false} articles={blogs.splice(0, 9)} />
     </div>
   );
 }
