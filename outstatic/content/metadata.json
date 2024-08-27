@@ -1,6 +1,6 @@
 {
-  "commit": "7bc8f8cebc77f7df97f9070a1dc3a234723ab8e1",
-  "generated": "2024-08-27T12:42:39.793Z",
+  "commit": "5eb85cfa75ee33a0d6a9d45f532b8a67aec89961",
+  "generated": "2024-08-27T13:53:28.557Z",
   "metadata": [
     {
       "__outstatic": {
@@ -171,6 +171,27 @@
       "slug": "hedge-funds-bet-on-crypto",
       "status": "published",
       "title": "8th Aug: Hedge Funds Bet Big on Crypto, Dental AI Surge "
+    },
+    {
+      "__outstatic": {
+        "commit": "5eb85cfa75ee33a0d6a9d45f532b8a67aec89961",
+        "hash": "2908958137",
+        "path": "outstatic/content/blogs/ai-crypto-debate.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": "/images/european-leveraged-loans--bounce-I2Mz.webp"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/european-leveraged-loans--bounce-k5Mj.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-09T13:34:25.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "ai-crypto-debate",
+      "status": "published",
+      "title": "9th Aug: AI-Crypto Debate, PE Exits Surge, Cleantech Investment Record "
     }
   ]
 }
