@@ -8,9 +8,8 @@ slug: 'florida-expands-pe-investments'
 author:
   name: 'Camy'
   picture: ''
-status: 'draft'
-title: '2nd Aug: Florida Expands PE Investments, Apollo''s $6.3B Gaming Deal
-'
+status: 'published'
+title: '2nd Aug: Florida Expands PE Investments, Apollo''s $6.3B Gaming Deal '
 publishedAt: '2024-08-02T11:42:46.000Z'
 ---
 
@@ -24,6 +23,6 @@ Apollo Global Management has announced a $6.3 billion all-cash acquisition, taki
 
 ### **Ola Electric’s $734 Million IPO Amidst Indian Market Boom**
 
-![](/images/florida-pe-investments-k1OD.webp)
+![Ola electric](/images/florida-pe-investments-k1OD.webp)
 
 Ola Electric, backed by Softbank, is set to launch a $734 million IPO on August 2, targeting a $4 billion valuation. The IPO will consist of $657 million in new cash and $77 million from existing investors. This move comes as India’s IPO market experiences a surge, with 141 companies raising $22.9 billion year-to-date. Ola Electric’s offering has garnered significant interest from major investors, including Fidelity, Nomura, and Norges Bank, reflecting strong confidence in the company’s growth prospects.

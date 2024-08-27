@@ -1,6 +1,6 @@
 {
-  "commit": "93fe819980bafb7b55f90edac61a03b3a4d25bd9",
-  "generated": "2024-08-27T11:31:49.900Z",
+  "commit": "957a8cc9052f7b6e651257b79bc80d63879845f0",
+  "generated": "2024-08-27T11:32:28.996Z",
   "metadata": [
     {
       "__outstatic": {
@@ -89,27 +89,6 @@
     },
     {
       "__outstatic": {
-        "commit": "88393ba36fa49f674363e61af6eeeb6cbac9de25",
-        "hash": "539004102",
-        "path": "outstatic/content/blogs/florida-expands-pe-investments.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/florida-pe-investments-k0OT.webp",
-      "cutOff": "3",
-      "description": "",
-      "publishedAt": "2024-08-02T11:42:46.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "florida-expands-pe-investments",
-      "status": "draft",
-      "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
-    },
-    {
-      "__outstatic": {
         "commit": "93fe819980bafb7b55f90edac61a03b3a4d25bd9",
         "hash": "924413571",
         "path": "outstatic/content/blogs/golds-rise-crypto-confidence.md"
@@ -129,6 +108,27 @@
       "slug": "golds-rise-crypto-confidence",
       "status": "published",
       "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
+    },
+    {
+      "__outstatic": {
+        "commit": "957a8cc9052f7b6e651257b79bc80d63879845f0",
+        "hash": "706252010",
+        "path": "outstatic/content/blogs/florida-expands-pe-investments.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/florida-pe-investments-k0OT.webp",
+      "cutOff": "3",
+      "description": "",
+      "publishedAt": "2024-08-02T11:42:46.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "florida-expands-pe-investments",
+      "status": "published",
+      "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
     }
   ]
 }
