@@ -1,6 +1,6 @@
 {
-  "commit": "389621958da39479f9791aebc2aaa9c3d3327e82",
-  "generated": "2024-08-27T10:51:13.365Z",
+  "commit": "88393ba36fa49f674363e61af6eeeb6cbac9de25",
+  "generated": "2024-08-27T11:08:46.923Z",
   "metadata": [
     {
       "__outstatic": {
@@ -86,6 +86,27 @@
       "slug": "vc-boom-in-europe",
       "status": "published",
       "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
+    },
+    {
+      "__outstatic": {
+        "commit": "88393ba36fa49f674363e61af6eeeb6cbac9de25",
+        "hash": "539004102",
+        "path": "outstatic/content/blogs/florida-expands-pe-investments.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/florida-pe-investments-k0OT.webp",
+      "cutOff": "3",
+      "description": "",
+      "publishedAt": "2024-08-02T11:42:46.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "florida-expands-pe-investments",
+      "status": "draft",
+      "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
     }
   ]
 }
