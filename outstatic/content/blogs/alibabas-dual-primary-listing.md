@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: ''
 coverImage: '/images/alibaba-c4MD.webp'
 description: ''
 slug: 'alibabas-dual-primary-listing'
@@ -9,14 +9,13 @@ author:
   name: 'Camy'
   picture: '/images/alibaba-cyMj.webp'
 status: 'published'
-title: '10th Aug: Alibaba’s Listing, KKR’s Takeover of Fuji Soft
-'
+title: '10th Aug: Alibaba’s Listing, KKR’s Takeover of Fuji Soft '
 publishedAt: '2024-08-10T14:43:42.000Z'
 ---
 
 ### **Alibaba’s Dual Primary Listing Nears Completion**
 
-![](/images/european-leveraged-loans--bounce-A1Mj.webp)
+![alibaba](/images/european-leveraged-loans--bounce-A1Mj.webp)
 
 Alibaba's dual primary listing in Hong Kong is progressing toward completion by August, with a crucial Board review scheduled for August 14. This strategic move is expected to attract significant investments from Mainland Chinese investors, potentially boosting Alibaba's stock performance. The listing is part of Alibaba's efforts to strengthen its Asian presence and diversify its investor base, especially given recent market volatility. The dual listing will enhance liquidity and provide Alibaba with additional capital to support its growth and expansion plans.
 
