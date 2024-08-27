@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/mercado-libre-expands-in-mexico-czOD.webp'
 description: ''
 slug: 'thrives-5b-fund'
@@ -9,8 +9,7 @@ author:
   name: 'Camy'
   picture: '/images/mercado-libre-expands-in-mexico-Q3Mj.webp'
 status: 'published'
-title: '7th Aug: Thrive’s $5B Fund, SaaS Buyouts Surge, Haize Labs Hits $100M
-'
+title: '7th Aug: Thrive’s $5B Fund, SaaS Buyouts Surge, Haize Labs Hits $100M '
 publishedAt: '2024-08-07T12:34:34.000Z'
 ---
 
@@ -28,7 +27,7 @@ Haize Labs, a startup focused on AI safety, has been valued at $100 million foll
 
 ### **Mercado Libre Doubles Down on Mexico**
 
-![](/images/mercado-libre-expands-in-mexico-IxMz.webp)
+![Mercado Libre](/images/mercado-libre-expands-in-mexico-IxMz.webp)
 
 Latin American e-commerce giant Mercado Libre is making a record $2.5 billion investment in Mexico this year. The company plans to expand its warehouse network to over 100 facilities by year-end, significantly bolster its workforce, and utilize AI to enhance the user experience. Despite facing increasing competition, Mercado Libre remains confident in Mexico’s growth potential, with the country contributing over 20% to its total revenue. The company’s strategy underscores the critical role of logistics and financial services in the region’s e-commerce landscape and its commitment to maintaining market leadership.
 

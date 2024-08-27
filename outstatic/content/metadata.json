@@ -1,6 +1,6 @@
 {
-  "commit": "af4c53bb2a0f03005193779b386e62cbab4b2f8e",
-  "generated": "2024-08-27T14:29:45.662Z",
+  "commit": "2235d222b7aecb188c8c00192c2d67e6f2569b1f",
+  "generated": "2024-08-27T14:30:40.699Z",
   "metadata": [
     {
       "__outstatic": {
@@ -132,27 +132,6 @@
     },
     {
       "__outstatic": {
-        "commit": "9f18651a11be7bacbc5abb7adee994f2b1f5d232",
-        "hash": "941048146",
-        "path": "outstatic/content/blogs/thrives-5b-fund.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": "/images/mercado-libre-expands-in-mexico-Q3Mj.webp"
-      },
-      "collection": "blogs",
-      "coverImage": "/images/mercado-libre-expands-in-mexico-czOD.webp",
-      "cutOff": "4",
-      "description": "",
-      "publishedAt": "2024-08-07T12:34:34.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "thrives-5b-fund",
-      "status": "published",
-      "title": "7th Aug: Thrive’s $5B Fund, SaaS Buyouts Surge, Haize Labs Hits $100M "
-    },
-    {
-      "__outstatic": {
         "commit": "45ed578fd8abe4efaea96868838638c50036e91a",
         "hash": "3269437808",
         "path": "outstatic/content/blogs/trend-micro-buyout.md"
@@ -235,6 +214,27 @@
       "slug": "hedge-funds-bet-on-crypto",
       "status": "published",
       "title": "8th Aug: Hedge Funds Bet Big on Crypto, Dental AI Surge "
+    },
+    {
+      "__outstatic": {
+        "commit": "2235d222b7aecb188c8c00192c2d67e6f2569b1f",
+        "hash": "3082191711",
+        "path": "outstatic/content/blogs/thrives-5b-fund.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": "/images/mercado-libre-expands-in-mexico-Q3Mj.webp"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/mercado-libre-expands-in-mexico-czOD.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-07T12:34:34.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "thrives-5b-fund",
+      "status": "published",
+      "title": "7th Aug: Thrive’s $5B Fund, SaaS Buyouts Surge, Haize Labs Hits $100M "
     }
   ]
 }
