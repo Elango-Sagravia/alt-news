@@ -1,11 +1,11 @@
 {
-  "commit": "8d57c47bf3cf83460baacc56d780d8a3fc53ffc5",
-  "generated": "Mon, 26 Aug 2024 16:09:51 GMT",
+  "commit": "fa04caee3352bcb875951d27c6e337d7abf52786",
+  "generated": "Tue, 27 Aug 2024 06:09:00 GMT",
   "metadata": [
     {
       "__outstatic": {
         "commit": "3ba470748a7701c3c5ce27128ce30d3658584696",
-        "hash": "1846367984",
+        "hash": "833529961",
         "path": "outstatic/content/blogs/the-second-test-blog.md"
       },
       "author": {
@@ -13,7 +13,7 @@
         "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
       },
       "collection": "blogs",
-      "coverImage": "",
+      "coverImage": "/images/downtime-c0Mj.jpg",
       "description": "",
       "publishedAt": "2024-08-26T16:13:08.740Z",
       "readTime": "10",
