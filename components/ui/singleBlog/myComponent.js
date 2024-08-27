@@ -1,7 +1,7 @@
 import { useAppContext } from "@/context/appContext";
 import React, { useEffect, useState } from "react";
 
-const HTMLContent = ({ contentString, blogCutOff }) => {
+const HTMLContent = ({ contentString, blogCutOff, enableCutOff }) => {
   const { isSubscribed } = useAppContext();
   const [htmlStrings, setHtmlStrings] = useState([]);
 
@@ -45,7 +45,7 @@ const HTMLContent = ({ contentString, blogCutOff }) => {
       {htmlStrings.map((htmlString, index) => (
         <div key={index} dangerouslySetInnerHTML={{ __html: htmlString }}></div>
       ))}
-      {!isSubscribed && (
+      {!isSubscribed && enableCutOff && (
         <p className="blur-sm">
           Habitasse eleifend eros dui auctor viverra tortor odio sapien.
           Sollicitudin nascetur purus odio pulvinar consequat. Parturient

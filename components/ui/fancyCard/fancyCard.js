@@ -2,12 +2,8 @@ import Image from "next/image";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import Link from "next/link";
 import libre from "@/components/libre-font";
-const options = { day: "2-digit", month: "short", year: "numeric" };
-const changeFormat = (isoDate) => {
-  const formattedDate = new Date(isoDate).toLocaleDateString("en-GB", options);
+import changeFormat from "@/components/dateFormat";
 
-  return formattedDate;
-};
 export default function FancyCard({ article }) {
   console.log("article :>> ", article);
   return (

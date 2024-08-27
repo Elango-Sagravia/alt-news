@@ -28,6 +28,7 @@ const SingleBlog = ({ blog, relatedArticles }) => {
           <HTMLContent
             contentString={blog.content}
             blogCutOff={!isSubscribed ? blog.cutOff : blog.content.length}
+            enableCutOff={true}
           />
         </div>
         {isSubscribed && relatedArticles.length > 0 && (
