@@ -1,7 +1,7 @@
 ---
 cutOff: '3'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/zepto-quick-commerce-M0OD.webp'
 description: ''
 slug: 'hedge-funds-bet-on-crypto'
@@ -9,8 +9,7 @@ author:
   name: 'Camy'
   picture: '/images/zepto-quick-commerce-gyMz.webp'
 status: 'published'
-title: '8th Aug: Hedge Funds Bet Big on Crypto, Dental AI Surge
-'
+title: '8th Aug: Hedge Funds Bet Big on Crypto, Dental AI Surge '
 publishedAt: '2024-08-08T13:10:27.000Z'
 ---
 
@@ -20,7 +19,7 @@ Top-tier hedge funds are increasingly betting big on Bitcoin and other cryptocur
 
 ### **Zepto Raises $665M to Conquer Quick Commerce**
 
-![](/images/zepto-quick-commerce-MyMj.webp)
+![Zepto](/images/zepto-quick-commerce-MyMj.webp)
 
 Pearl, a pioneering dental AI company based in California, has secured $58 million in Series B funding, marking the largest investment in the dental AI sector to date. This significant capital infusion will support Pearl's continued expansion and the development of its AI-driven tools designed for dental professionals. Pearl's flagship platform, Second Opinion, uses AI to assist dentists in diagnosing conditions like tooth decay and calculus. With the dental AI market expected to reach $18.3 billion by 2032, Pearl is poised for substantial growth, leading the way in integrating advanced AI technologies into everyday dental practice.
 
