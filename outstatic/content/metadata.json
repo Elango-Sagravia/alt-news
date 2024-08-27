@@ -1,6 +1,6 @@
 {
-  "commit": "7a940c07fd628e9c8a8d3d81bd22b0c1e0a1a87d",
-  "generated": "2024-08-27T14:51:49.343Z",
+  "commit": "ae3917b98ffa3b1bb424f11aa9ca081031bb5877",
+  "generated": "2024-08-27T15:04:45.357Z",
   "metadata": [
     {
       "__outstatic": {
@@ -238,7 +238,7 @@
     },
     {
       "__outstatic": {
-        "commit": "7a940c07fd628e9c8a8d3d81bd22b0c1e0a1a87d",
+        "commit": "ae3917b98ffa3b1bb424f11aa9ca081031bb5877",
         "hash": "1657798689",
         "path": "outstatic/content/policies/terms-of-use.md"
       },
