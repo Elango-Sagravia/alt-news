@@ -1,6 +1,6 @@
 {
-  "commit": "a8a76b688a3f30d43f15dd52139048005f2b1622",
-  "generated": "2024-08-27T14:31:47.417Z",
+  "commit": "7a940c07fd628e9c8a8d3d81bd22b0c1e0a1a87d",
+  "generated": "2024-08-27T14:51:49.343Z",
   "metadata": [
     {
       "__outstatic": {
@@ -235,6 +235,24 @@
       "slug": "loan-defaults-dip",
       "status": "published",
       "title": "6th Aug: Loan Defaults Dip, Saudi AI Fund, JP Morgan Forecasts "
+    },
+    {
+      "__outstatic": {
+        "commit": "7a940c07fd628e9c8a8d3d81bd22b0c1e0a1a87d",
+        "hash": "1657798689",
+        "path": "outstatic/content/policies/terms-of-use.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-27T15:17:31.769Z",
+      "slug": "terms-of-use",
+      "status": "published",
+      "title": "Terms of use"
     }
   ]
 }
