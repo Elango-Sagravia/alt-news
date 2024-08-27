@@ -9,8 +9,7 @@ author:
   name: 'Camy'
   picture: '/images/european-leveraged-loans--bounce-I2Mz.webp'
 status: 'published'
-title: '9th Aug: AI-Crypto Debate, PE Exits Surge, Cleantech Investment Record
-'
+title: '9th Aug: AI-Crypto Debate, PE Exits Surge, Cleantech Investment Record '
 publishedAt: '2024-08-09T13:34:25.000Z'
 ---
 
@@ -24,7 +23,7 @@ The landscape for distressed investing in 2024 remains steady despite economic u
 
 ### **European Leveraged Loans Rebound After Decline**
 
-![](/images/european-leveraged-loans--bounce-M0MD.webp)
+![European leveraged loans](/images/european-leveraged-loans--bounce-M0MD.webp)
 
 Europe’s secondary loan market has stabilized after experiencing its worst daily performance since October 2023. The sharp drop on August 5, driven by a broader equity sell-off, led to a 0.32% decline in the Morningstar European Leveraged Loan Index (ELLI). However, the market quickly rebounded with modest gains in subsequent days. The August decline was notable but remains minor compared to previous market shocks, such as those during the early COVID-19 lockdowns. The drop affected various consumer-linked credits, with significant losses observed in B-minus-rated companies like Wyndham Vacations.
 
