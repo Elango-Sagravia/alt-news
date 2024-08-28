@@ -12,7 +12,7 @@ publishedAt: '2024-08-20T13:27:16.000Z'
 
 Alternative Investment News ("Website") is a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). We are committed to ensuring that our customers are satisfied with their experience. This Refund Policy outlines the conditions under which refunds may be issued.
 
-### **1. Eligibility for Refunds**
+**1. Eligibility for Refunds**
 
 Refunds are available to advertisers under the following circumstances:
 
@@ -20,8 +20,9 @@ Refunds are available to advertisers under the following circumstances:
 
 If the scheduled newsletter is not delivered due to a fault on our part, we offer two options:
 
-- Rescheduling: We can reschedule your advertisement to appear in a different newsletter or on a different day that aligns with your marketing goals.
-- Full Refund: If rescheduling is not feasible or preferred, a full refund will be issued.
+**Rescheduling:** We can reschedule your advertisement to appear in a different newsletter or on a different day that aligns with your marketing goals.
+
+**Full Refund:** If rescheduling is not feasible or preferred, a full refund will be issued.
 
 Non-delivery refers to technical issues on our end that result in the newsletter not being sent to the subscribers.
 
@@ -33,7 +34,7 @@ If there is an error in the placement of your advertisement (e.g., incorrect pla
 
 If you are charged more than once for the same advertisement, a refund will be issued for the duplicate payment.
 
-### **2. Non-Refundable Situations**
+**2. Non-Refundable Situations**
 
 Refunds will not be issued in the following cases:
 
@@ -49,7 +50,7 @@ We do not guarantee specific results from your advertisement (such as clicks, le
 
 Refunds will not be issued for delays in the publication of the newsletter due to events outside our control, such as technical issues on the advertiser’s end or force majeure events.
 
-### **3. Refund Request Process**
+**3. Refund Request Process**
 
 To request a refund, please follow these steps:
 
@@ -65,14 +66,14 @@ Our team will review your request within 5 business days and may contact you for
 
 You will be notified of our decision via email within 10 business days. If approved, the refund will be processed within 14 business days to the original payment method.
 
-### **4. Partial Refunds**
+**4. Partial Refunds**
 
 In cases where a partial refund is appropriate, we will work with you to determine a fair amount based on the nature of the issue and the extent to which the advertisement was delivered as agreed.
 
-### **5. Changes to the Refund Policy**
+**5. Changes to the Refund Policy**
 
 We reserve the right to modify or update this Refund Policy at any time. Any changes will be effective immediately upon posting on the Website. It is your responsibility to review this policy periodically to stay informed about our refund practices.
 
-### **6. Contact Information**
+**6. Contact Information**
 
 If you have any questions or concerns about this Refund Policy, please contact us at [contact@altdaily.co](mailto:contact@altdaily.co).
