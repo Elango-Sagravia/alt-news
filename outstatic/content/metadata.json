@@ -1,6 +1,6 @@
 {
-  "commit": "84a32fb5d5fe559deb81cddb0d3d2c482addb035",
-  "generated": "2024-08-28T13:02:21.980Z",
+  "commit": "01f7a66bf49e97b6b2f686d03a8f7d34ece1d37c",
+  "generated": "2024-08-28T14:41:00.724Z",
   "metadata": [
     {
       "__outstatic": {
@@ -274,24 +274,6 @@
     },
     {
       "__outstatic": {
-        "commit": "55b8ed49f64b7c92a182b4a8fc9edd2a90dfc2c2",
-        "hash": "2665014781",
-        "path": "outstatic/content/policies/cookie-policy.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-20T12:47:14.000Z",
-      "slug": "cookie-policy",
-      "status": "published",
-      "title": "Cookie Policy"
-    },
-    {
-      "__outstatic": {
         "commit": "84a32fb5d5fe559deb81cddb0d3d2c482addb035",
         "hash": "3454270424",
         "path": "outstatic/content/policies/refund-policy.md"
@@ -307,6 +289,24 @@
       "slug": "refund-policy",
       "status": "published",
       "title": "Refund policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "01f7a66bf49e97b6b2f686d03a8f7d34ece1d37c",
+        "hash": "2165738497",
+        "path": "outstatic/content/policies/cookie-policy.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-20T12:47:14.000Z",
+      "slug": "cookie-policy",
+      "status": "published",
+      "title": "Cookie Policy"
     }
   ]
 }
