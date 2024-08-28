@@ -1,6 +1,6 @@
 {
-  "commit": "01f7a66bf49e97b6b2f686d03a8f7d34ece1d37c",
-  "generated": "2024-08-28T14:41:00.724Z",
+  "commit": "153482d8e819cf6def68cb484e8933261f5822a8",
+  "generated": "2024-08-28T14:51:47.290Z",
   "metadata": [
     {
       "__outstatic": {
@@ -256,24 +256,6 @@
     },
     {
       "__outstatic": {
-        "commit": "6f6010c79110321180ee6f79a50954b248bf2e9a",
-        "hash": "1903894204",
-        "path": "outstatic/content/policies/privacy-policy.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-20T12:21:37.000Z",
-      "slug": "privacy-policy",
-      "status": "published",
-      "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
         "commit": "84a32fb5d5fe559deb81cddb0d3d2c482addb035",
         "hash": "3454270424",
         "path": "outstatic/content/policies/refund-policy.md"
@@ -307,6 +289,24 @@
       "slug": "cookie-policy",
       "status": "published",
       "title": "Cookie Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "153482d8e819cf6def68cb484e8933261f5822a8",
+        "hash": "2493808656",
+        "path": "outstatic/content/policies/privacy-policy.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-20T12:21:37.000Z",
+      "slug": "privacy-policy",
+      "status": "published",
+      "title": "Privacy Policy"
     }
   ]
 }
