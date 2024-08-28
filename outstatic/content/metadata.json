@@ -1,6 +1,6 @@
 {
-  "commit": "55b8ed49f64b7c92a182b4a8fc9edd2a90dfc2c2",
-  "generated": "2024-08-28T12:09:44.894Z",
+  "commit": "84a32fb5d5fe559deb81cddb0d3d2c482addb035",
+  "generated": "2024-08-28T13:02:21.980Z",
   "metadata": [
     {
       "__outstatic": {
@@ -289,6 +289,24 @@
       "slug": "cookie-policy",
       "status": "published",
       "title": "Cookie Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "84a32fb5d5fe559deb81cddb0d3d2c482addb035",
+        "hash": "3454270424",
+        "path": "outstatic/content/policies/refund-policy.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-20T13:27:16.000Z",
+      "slug": "refund-policy",
+      "status": "published",
+      "title": "Refund policy"
     }
   ]
 }
