@@ -1,6 +1,6 @@
 {
-  "commit": "16c410e2fd35fd5440d42120b6f3364b69c25b15",
-  "generated": "2024-08-28T16:37:13.590Z",
+  "commit": "b7684907e209d023c35f348a433f6dbac798d6ae",
+  "generated": "2024-08-28T16:49:56.799Z",
   "metadata": [
     {
       "__outstatic": {
@@ -328,6 +328,27 @@
       "slug": "gleans-250m-raise",
       "status": "published",
       "title": "12th Aug: Glean’s $250M Raise, Shiprocket’s $120M Funding Round"
+    },
+    {
+      "__outstatic": {
+        "commit": "b7684907e209d023c35f348a433f6dbac798d6ae",
+        "hash": "2996697300",
+        "path": "outstatic/content/blogs/flat-and-down-rounds-surge.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/prana-thoracic-k1Mj.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-12T17:28:11.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "flat-and-down-rounds-surge",
+      "status": "published",
+      "title": "13th Aug: Flat and Down Rounds Surge, Balderton’s $1.3B Fundraise"
     }
   ]
 }
