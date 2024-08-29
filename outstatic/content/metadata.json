@@ -1,6 +1,6 @@
 {
-  "commit": "d9890a4098276bd64c0ec8b0db991b6508aa6278",
-  "generated": "2024-08-29T08:12:36.458Z",
+  "commit": "45ca9c9b0539fddd6d80dfa86ef2bb11eb0fc4bf",
+  "generated": "2024-08-29T08:38:52.014Z",
   "metadata": [
     {
       "__outstatic": {
@@ -370,6 +370,28 @@
       "slug": "pes-football-club-influence",
       "status": "published",
       "title": "14th Aug: PE's Football Club Influence, EliseAI Reaches Unicorn Status"
+    },
+    {
+      "__outstatic": {
+        "commit": "45ca9c9b0539fddd6d80dfa86ef2bb11eb0fc4bf",
+        "hash": "3761648995",
+        "path": "outstatic/content/blogs/healthcare-innovation-boost.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/178306907?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/histonics-QzNj.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-15T09:01:11.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "healthcare-innovation-boost",
+      "status": "published",
+      "title": "15th Aug: Healthcare Innovation Boost, EliseAI Reaches Unicorn Status"
     }
   ]
 }
