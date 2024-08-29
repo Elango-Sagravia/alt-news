@@ -1,6 +1,6 @@
 {
-  "commit": "7239b91973b694e2965f29a26afb482ebafa525f",
-  "generated": "2024-08-29T09:02:16.904Z",
+  "commit": "949f80ebefc31996535d4fc55525b0670922d0db",
+  "generated": "2024-08-29T09:02:48.993Z",
   "metadata": [
     {
       "__outstatic": {
@@ -65,27 +65,6 @@
       "slug": "vc-boom-in-europe",
       "status": "published",
       "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
-    },
-    {
-      "__outstatic": {
-        "commit": "957a8cc9052f7b6e651257b79bc80d63879845f0",
-        "hash": "706252010",
-        "path": "outstatic/content/blogs/florida-expands-pe-investments.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/florida-pe-investments-k0OT.webp",
-      "cutOff": "3",
-      "description": "",
-      "publishedAt": "2024-08-02T11:42:46.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "florida-expands-pe-investments",
-      "status": "published",
-      "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
     },
     {
       "__outstatic": {
@@ -413,6 +392,27 @@
       "slug": "golds-rise-crypto-confidence",
       "status": "published",
       "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
+    },
+    {
+      "__outstatic": {
+        "commit": "949f80ebefc31996535d4fc55525b0670922d0db",
+        "hash": "125181276",
+        "path": "outstatic/content/blogs/florida-expands-pe-investments.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/florida-pe-investments-k0OT.webp",
+      "cutOff": "3",
+      "description": "",
+      "publishedAt": "2024-08-02T11:42:46.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "florida-expands-pe-investments",
+      "status": "published",
+      "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
     }
   ]
 }
