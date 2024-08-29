@@ -1,6 +1,6 @@
 {
-  "commit": "b6fb96f377c9eed1262dd5c1510a64320ed8ae27",
-  "generated": "2024-08-29T09:05:07.786Z",
+  "commit": "2ea634738523fb0f6c90f8d227e7de9181a314c0",
+  "generated": "2024-08-29T10:50:32.262Z",
   "metadata": [
     {
       "__outstatic": {
@@ -413,6 +413,28 @@
       "slug": "vc-boom-in-europe",
       "status": "published",
       "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
+    },
+    {
+      "__outstatic": {
+        "commit": "2ea634738523fb0f6c90f8d227e7de9181a314c0",
+        "hash": "2110521469",
+        "path": "outstatic/content/blogs/market-moves.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/goldman-sachs-EyMz.webp",
+      "cutOff": "10",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-19T09:59:28.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "market-moves",
+      "status": "published",
+      "title": "19th Aug: Market Moves, Hedge Fund Strategies, and Global M&A"
     }
   ]
 }
