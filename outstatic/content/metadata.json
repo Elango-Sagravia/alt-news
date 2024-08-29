@@ -1,6 +1,6 @@
 {
-  "commit": "0348abb998f43857bec6c6748d302f358d9e4ba3",
-  "generated": "2024-08-29T06:28:56.675Z",
+  "commit": "a41fc0014d47f8f2889db6f2e73500d0f9e740af",
+  "generated": "2024-08-29T08:11:31.921Z",
   "metadata": [
     {
       "__outstatic": {
@@ -349,6 +349,27 @@
       "slug": "ai-crypto-debate",
       "status": "published",
       "title": "9th Aug: AI-Crypto Debate, PE Exits Surge, Cleantech Investment Record "
+    },
+    {
+      "__outstatic": {
+        "commit": "a41fc0014d47f8f2889db6f2e73500d0f9e740af",
+        "hash": "4187255944",
+        "path": "outstatic/content/blogs/pes-football-club-influence.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/football-E5Mj.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-14T08:00:07.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "pes-football-club-influence",
+      "status": "published",
+      "title": "14th Aug: PE's Football Club Influence, EliseAI Reaches Unicorn Status"
     }
   ]
 }
