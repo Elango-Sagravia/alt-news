@@ -18,13 +18,13 @@ Alternative Investments News ("Website") is a newsletter owned and operated by S
 
 We may collect personal information that you voluntarily provide to us when you register on the Website, subscribe to our newsletter, respond to a survey, fill out a form, or otherwise enter information on our Website. This information may include:
 
-Name
+\-Name
 
-Email address
+\-Email address
 
-Phone number
+\-Phone number
 
-Mailing address
+\-Mailing address
 
 Any other information you choose to provideIn compliance with the CAN-SPAM Act, all emails sent from us will clearly state who the email is from and provide clear information on how to contact the sender. In addition, all email messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further email communication from us.
 
@@ -32,15 +32,15 @@ Any other information you choose to provideIn compliance with the CAN-SPAM Act, 
 
 We may also collect non-personal information about you automatically when you access or use the Website. This information may include:
 
-Browser type
+\-Browser type
 
-Operating system
+\-Operating system
 
-IP address
+\-IP address
 
-Pages viewed
+\-Pages viewed
 
-Time and date of visits
+\-Time and date of visits
 
 Other anonymous statistical data involving your use of the Website
 

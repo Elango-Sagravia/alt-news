@@ -1,6 +1,6 @@
 {
-  "commit": "65378f26e6da4206eeb03026e9d915b9008ec11e",
-  "generated": "2024-08-29T12:23:48.626Z",
+  "commit": "8fe5e6fd59be7390e79caf8bf8e275b85d1a4f76",
+  "generated": "2024-08-29T14:33:01.855Z",
   "metadata": [
     {
       "__outstatic": {
@@ -183,24 +183,6 @@
       "slug": "refund-policy",
       "status": "published",
       "title": "Refund policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "267725eed71126e8201edebfc214299cef5b32a1",
-        "hash": "2493808656",
-        "path": "outstatic/content/policies/privacy-policy.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-20T12:21:37.000Z",
-      "slug": "privacy-policy",
-      "status": "published",
-      "title": "Privacy Policy"
     },
     {
       "__outstatic": {
@@ -457,6 +439,24 @@
       "slug": "exoduspoints-decline-viking-s-big-win",
       "status": "published",
       "title": "20th Aug: ExodusPoint's Decline, Viking's Big Win, and Bitcoin ETF Bets"
+    },
+    {
+      "__outstatic": {
+        "commit": "8fe5e6fd59be7390e79caf8bf8e275b85d1a4f76",
+        "hash": "2042753991",
+        "path": "outstatic/content/policies/privacy-policy.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-20T12:21:37.000Z",
+      "slug": "privacy-policy",
+      "status": "published",
+      "title": "Privacy Policy"
     }
   ]
 }
