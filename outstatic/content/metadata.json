@@ -1,6 +1,6 @@
 {
-  "commit": "33414090b282f59dd384417b58b08f151ce3e734",
-  "generated": "2024-08-29T11:24:09.436Z",
+  "commit": "65378f26e6da4206eeb03026e9d915b9008ec11e",
+  "generated": "2024-08-29T12:23:48.626Z",
   "metadata": [
     {
       "__outstatic": {
@@ -438,8 +438,8 @@
     },
     {
       "__outstatic": {
-        "commit": "33414090b282f59dd384417b58b08f151ce3e734",
-        "hash": "2490752902",
+        "commit": "65378f26e6da4206eeb03026e9d915b9008ec11e",
+        "hash": "2274201737",
         "path": "outstatic/content/blogs/exoduspoints-decline-viking-s-big-win.md"
       },
       "author": {
@@ -450,6 +450,7 @@
       "coverImage": "/images/b43a-cxNj.jpg",
       "cutOff": "4",
       "description": "",
+      "latest": "true",
       "publishedAt": "2024-08-20T11:42:25.000Z",
       "readTime": "10",
       "relatedArticles": "",

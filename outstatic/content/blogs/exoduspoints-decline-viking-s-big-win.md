@@ -1,5 +1,6 @@
 ---
 cutOff: '4'
+latest: 'true'
 relatedArticles: ''
 readTime: '10'
 coverImage: '/images/b43a-cxNj.jpg'
