@@ -1,6 +1,6 @@
 {
-  "commit": "4e21835d5d26d8f64c757778db51e92e4574afc9",
-  "generated": "2024-08-29T08:54:26.834Z",
+  "commit": "f8a52c500ce437ea94d59425748465cbcf0cf0f7",
+  "generated": "2024-08-29T08:55:20.437Z",
   "metadata": [
     {
       "__outstatic": {
@@ -310,27 +310,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b7684907e209d023c35f348a433f6dbac798d6ae",
-        "hash": "2996697300",
-        "path": "outstatic/content/blogs/flat-and-down-rounds-surge.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/prana-thoracic-k1Mj.webp",
-      "cutOff": "4",
-      "description": "",
-      "publishedAt": "2024-08-12T17:28:11.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "flat-and-down-rounds-surge",
-      "status": "published",
-      "title": "13th Aug: Flat and Down Rounds Surge, Balderton’s $1.3B Fundraise"
-    },
-    {
-      "__outstatic": {
         "commit": "0348abb998f43857bec6c6748d302f358d9e4ba3",
         "hash": "3997364496",
         "path": "outstatic/content/blogs/ai-crypto-debate.md"
@@ -413,6 +392,27 @@
       "slug": "supply-chain-revival",
       "status": "published",
       "title": "16th Aug: Supply Chain Revival, AI Investment Frenzy "
+    },
+    {
+      "__outstatic": {
+        "commit": "f8a52c500ce437ea94d59425748465cbcf0cf0f7",
+        "hash": "1397153700",
+        "path": "outstatic/content/blogs/flat-and-down-rounds-surge.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/prana-thoracic-k1Mj.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-12T17:28:11.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "flat-and-down-rounds-surge",
+      "status": "published",
+      "title": "13th Aug: Flat and Down Rounds Surge, Balderton’s $1.3B Fundraise"
     }
   ]
 }
