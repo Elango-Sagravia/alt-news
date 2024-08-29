@@ -1,6 +1,6 @@
 {
-  "commit": "2ea634738523fb0f6c90f8d227e7de9181a314c0",
-  "generated": "2024-08-29T10:50:32.262Z",
+  "commit": "33414090b282f59dd384417b58b08f151ce3e734",
+  "generated": "2024-08-29T11:24:09.436Z",
   "metadata": [
     {
       "__outstatic": {
@@ -435,6 +435,27 @@
       "slug": "market-moves",
       "status": "published",
       "title": "19th Aug: Market Moves, Hedge Fund Strategies, and Global M&A"
+    },
+    {
+      "__outstatic": {
+        "commit": "33414090b282f59dd384417b58b08f151ce3e734",
+        "hash": "2490752902",
+        "path": "outstatic/content/blogs/exoduspoints-decline-viking-s-big-win.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": "/images/b43a-YyNT.jpg"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/b43a-cxNj.jpg",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-20T11:42:25.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "exoduspoints-decline-viking-s-big-win",
+      "status": "published",
+      "title": "20th Aug: ExodusPoint's Decline, Viking's Big Win, and Bitcoin ETF Bets"
     }
   ]
 }
