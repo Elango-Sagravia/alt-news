@@ -1,6 +1,6 @@
 {
-  "commit": "a41fc0014d47f8f2889db6f2e73500d0f9e740af",
-  "generated": "2024-08-29T08:11:31.921Z",
+  "commit": "d9890a4098276bd64c0ec8b0db991b6508aa6278",
+  "generated": "2024-08-29T08:12:36.458Z",
   "metadata": [
     {
       "__outstatic": {
@@ -352,8 +352,8 @@
     },
     {
       "__outstatic": {
-        "commit": "a41fc0014d47f8f2889db6f2e73500d0f9e740af",
-        "hash": "4187255944",
+        "commit": "d9890a4098276bd64c0ec8b0db991b6508aa6278",
+        "hash": "1554888105",
         "path": "outstatic/content/blogs/pes-football-club-influence.md"
       },
       "author": {
