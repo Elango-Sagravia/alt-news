@@ -1,6 +1,6 @@
 {
-  "commit": "7a25bbe25d48a53a4b8e1828599e972607f16ee3",
-  "generated": "2024-08-30T12:49:47.192Z",
+  "commit": "814fef4f6b89e3b08956e062576562bdec985dff",
+  "generated": "2024-08-30T13:15:01.980Z",
   "metadata": [
     {
       "__outstatic": {
@@ -479,6 +479,28 @@
       "slug": "crypto-moves",
       "status": "published",
       "title": "21st Aug:  Crypto Moves, Hedge Fund Bets, and Nvidia's Surge"
+    },
+    {
+      "__outstatic": {
+        "commit": "814fef4f6b89e3b08956e062576562bdec985dff",
+        "hash": "2070129670",
+        "path": "outstatic/content/blogs/coal-merger.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/22nd-aug_-coal-merger--tokyo-tower-bid--tech-surge-a--1--Y5OT.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-22T13:40:36.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "coal-merger",
+      "status": "published",
+      "title": "22nd Aug: Coal Merger, Tokyo Tower Bid, Tech Surge"
     }
   ]
 }
