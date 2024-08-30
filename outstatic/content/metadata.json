@@ -1,6 +1,6 @@
 {
-  "commit": "a3fbf4f47a7996fb364e1f21856c46d748004198",
-  "generated": "2024-08-30T14:32:22.992Z",
+  "commit": "13a6f2788b8bb4a525de7d4d771e86d4c509c559",
+  "generated": "2024-08-30T15:08:01.104Z",
   "metadata": [
     {
       "__outstatic": {
@@ -566,6 +566,28 @@
       "slug": "hedge-fund-moves",
       "status": "published",
       "title": "27th Aug: Hedge Fund Moves, AI Fund Launch"
+    },
+    {
+      "__outstatic": {
+        "commit": "13a6f2788b8bb4a525de7d4d771e86d4c509c559",
+        "hash": "3230641048",
+        "path": "outstatic/content/blogs/sec-eases-vc-rules.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/28th-aug--sec-eases-vc-rules--blackstone-eyes-3.7b-loan-a-gwND.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-28T15:23:44.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "sec-eases-vc-rules",
+      "status": "published",
+      "title": "28th Aug: SEC Eases VC Rules, Blackstone Eyes $3.7B Loan"
     }
   ]
 }
