@@ -1,6 +1,6 @@
 {
-  "commit": "da2c01ee5ef3d75ad308e0b8cedb37d11abfab32",
-  "generated": "2024-08-30T13:35:13.644Z",
+  "commit": "b667e76e62d6c0b9f31d19d640c8dba67c2b0e49",
+  "generated": "2024-08-30T14:11:35.473Z",
   "metadata": [
     {
       "__outstatic": {
@@ -523,6 +523,28 @@
       "slug": "bolts-450m-deal",
       "status": "published",
       "title": "23rd Aug: Bolt's $450M Deal, UK Private Equity Faces Tax Hike"
+    },
+    {
+      "__outstatic": {
+        "commit": "b667e76e62d6c0b9f31d19d640c8dba67c2b0e49",
+        "hash": "1592855170",
+        "path": "outstatic/content/blogs/hedge-funds-bet-big-on-gold.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/26th-aug_-hedge-funds-bet-big-on-gold--diesel-market-struggles-b-U3Nj.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-26T14:23:38.000Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "hedge-funds-bet-big-on-gold",
+      "status": "published",
+      "title": "26th Aug: Hedge Funds Bet Big on Gold, Diesel Market Struggles"
     }
   ]
 }
