@@ -1,6 +1,6 @@
 {
-  "commit": "8fe5e6fd59be7390e79caf8bf8e275b85d1a4f76",
-  "generated": "2024-08-29T14:36:48.350Z",
+  "commit": "7a25bbe25d48a53a4b8e1828599e972607f16ee3",
+  "generated": "2024-08-30T12:49:47.192Z",
   "metadata": [
     {
       "__outstatic": {
@@ -457,6 +457,28 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "7a25bbe25d48a53a4b8e1828599e972607f16ee3",
+        "hash": "3936279182",
+        "path": "outstatic/content/blogs/crypto-moves.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/21st-aug_--crypto-moves--hedge-fund-bets--and-nvidia-s-surge-gxOD.webp",
+      "cutOff": "10",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-21T12:56:14.000Z",
+      "readTime": "11",
+      "relatedArticles": "",
+      "slug": "crypto-moves",
+      "status": "published",
+      "title": "21st Aug:  Crypto Moves, Hedge Fund Bets, and Nvidia's Surge"
     }
   ]
 }
