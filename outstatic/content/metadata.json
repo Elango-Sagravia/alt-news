@@ -1,6 +1,6 @@
 {
-  "commit": "b667e76e62d6c0b9f31d19d640c8dba67c2b0e49",
-  "generated": "2024-08-30T14:11:35.473Z",
+  "commit": "a3fbf4f47a7996fb364e1f21856c46d748004198",
+  "generated": "2024-08-30T14:32:22.992Z",
   "metadata": [
     {
       "__outstatic": {
@@ -545,6 +545,27 @@
       "slug": "hedge-funds-bet-big-on-gold",
       "status": "published",
       "title": "26th Aug: Hedge Funds Bet Big on Gold, Diesel Market Struggles"
+    },
+    {
+      "__outstatic": {
+        "commit": "a3fbf4f47a7996fb364e1f21856c46d748004198",
+        "hash": "1063357918",
+        "path": "outstatic/content/blogs/hedge-fund-moves.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/subject-line--27th-aug--hedge-fund-moves--ai-fund-launch-b-MwNT.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-27T15:11:15.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "hedge-fund-moves",
+      "status": "published",
+      "title": "27th Aug: Hedge Fund Moves, AI Fund Launch"
     }
   ]
 }
