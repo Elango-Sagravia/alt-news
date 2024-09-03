@@ -1,6 +1,6 @@
 {
-  "commit": "6610fbb58792103d5fed91f247c644ee8cf80596",
-  "generated": "2024-09-03T15:22:37.378Z",
+  "commit": "3b97ed01ad7b141db3669bcf0bd96b11d72260e3",
+  "generated": "2024-09-03T15:40:37.215Z",
   "metadata": [
     {
       "__outstatic": {
@@ -676,8 +676,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6610fbb58792103d5fed91f247c644ee8cf80596",
-        "hash": "3513079114",
+        "commit": "3b97ed01ad7b141db3669bcf0bd96b11d72260e3",
+        "hash": "3100775800",
         "path": "outstatic/content/policies/terms-of-use.md"
       },
       "author": {
@@ -687,7 +687,7 @@
       "collection": "policies",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2024-08-27T15:17:31.769Z",
+      "publishedAt": "2024-08-20T15:17:31.000Z",
       "slug": "terms-of-use",
       "status": "published",
       "title": "Terms of use"
