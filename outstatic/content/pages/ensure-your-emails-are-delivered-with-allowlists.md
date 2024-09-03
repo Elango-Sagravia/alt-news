@@ -17,12 +17,9 @@ To ensure you never miss an update from our newsletter, we recommend adding our 
 ### Add a sender to contacts
 
 1. **Log in**: Access your Gmail account.
-
 2. **Open Email**: Locate and open the email from the sender you wish to safelist.
-
 3. **Hover over sender's name**: Position your cursor over the sender’s name in the email.
-
-4. **Add to contacts**: A window will appear. Click the **Add to Contacts** icon to save the sender to your Contacts list.
+4. **Add to contacts**: A window will appear. Click the Add to Contacts icon to save the sender to your Contacts list.
 
 ### Safelist before opening an email
 
