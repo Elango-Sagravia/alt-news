@@ -1,6 +1,6 @@
 {
-  "commit": "7fd1277885a149fd4df30b3f65798e1e2f536c69",
-  "generated": "2024-08-30T15:14:41.020Z",
+  "commit": "5316ea97c8071b66343e5cbce22322666e43f7b9",
+  "generated": "2024-09-03T10:47:37.172Z",
   "metadata": [
     {
       "__outstatic": {
@@ -588,6 +588,24 @@
       "slug": "hedge-fund-moves",
       "status": "published",
       "title": "27th Aug: Hedge Fund Moves, AI Fund Launch"
+    },
+    {
+      "__outstatic": {
+        "commit": "5316ea97c8071b66343e5cbce22322666e43f7b9",
+        "hash": "732766231",
+        "path": "outstatic/content/pages/ensure-your-emails-are-delivered-with-allowlists.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-03T11:13:36.936Z",
+      "slug": "ensure-your-emails-are-delivered-with-allowlists",
+      "status": "published",
+      "title": "Ensure your emails are delivered with allowlists"
     }
   ]
 }
