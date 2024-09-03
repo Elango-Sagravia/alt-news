@@ -1,6 +1,6 @@
 {
-  "commit": "57ccaff8b59b160da72a98616cfcc600106d721c",
-  "generated": "2024-09-03T11:09:10.037Z",
+  "commit": "e96bde584513f8a6f79305cefb55f91668a4185e",
+  "generated": "2024-09-03T11:13:43.118Z",
   "metadata": [
     {
       "__outstatic": {
@@ -334,28 +334,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7239b91973b694e2965f29a26afb482ebafa525f",
-        "hash": "1635880634",
-        "path": "outstatic/content/blogs/golds-rise-crypto-confidence.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/178306907?v=4"
-      },
-      "collection": "blogs",
-      "coverImage": "/images/italian-wine-resilience-E1OT.webp",
-      "cutOff": "3",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-05T12:06:56.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "golds-rise-crypto-confidence",
-      "status": "published",
-      "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
-    },
-    {
-      "__outstatic": {
         "commit": "949f80ebefc31996535d4fc55525b0670922d0db",
         "hash": "125181276",
         "path": "outstatic/content/blogs/florida-expands-pe-investments.md"
@@ -606,6 +584,28 @@
       "slug": "vc-boom-in-europe",
       "status": "published",
       "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
+    },
+    {
+      "__outstatic": {
+        "commit": "e96bde584513f8a6f79305cefb55f91668a4185e",
+        "hash": "3713081262",
+        "path": "outstatic/content/blogs/golds-rise-crypto-confidence.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/italian-wine-resilience-E1OT.webp",
+      "cutOff": "3",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-05T12:06:56.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "golds-rise-crypto-confidence",
+      "status": "published",
+      "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
     }
   ]
 }
