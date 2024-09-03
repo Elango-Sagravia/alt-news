@@ -1,6 +1,6 @@
 {
-  "commit": "e8d1518f4b23e6edfd6568f657165d8278fccf9d",
-  "generated": "2024-09-03T14:27:06.027Z",
+  "commit": "e79069e7567c588338b675281bd604bb1a67d23e",
+  "generated": "2024-09-03T14:53:38.417Z",
   "metadata": [
     {
       "__outstatic": {
@@ -648,6 +648,27 @@
       "slug": "nfls-new-pe-rules",
       "status": "published",
       "title": "30th Aug: NFL's New PE Rules, Amazon Overtakes Microsoft"
+    },
+    {
+      "__outstatic": {
+        "commit": "e79069e7567c588338b675281bd604bb1a67d23e",
+        "hash": "2890878920",
+        "path": "outstatic/content/blogs/dollar-bears-emerge.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/2nd-sept--dollar-bears-emerge--taiwan-swap-market-tensions-b-I1NT.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-09-02T15:15:37.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "dollar-bears-emerge",
+      "status": "published",
+      "title": "2nd Sept: Dollar Bears Emerge, Taiwan Swap Market Tensions"
     }
   ]
 }
