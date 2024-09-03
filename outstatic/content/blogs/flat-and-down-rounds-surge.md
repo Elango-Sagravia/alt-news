@@ -19,11 +19,11 @@ As pandemic-era valuations fade, nearly 30% of venture capital deals in the firs
 
 ### Ragie Secures $5.5M to Expand AI Application Development
 
-San Francisco-based AI startup Ragie has raised $5.5 million in funding to accelerate its mission of enabling developers to build AI applications connected to their data with remarkable speed and efficiency. Founded by industry veterans Bob Remeika and Mohammed Rafiq, Ragie has now opened its platform to the public. The funding round was led by Craft Ventures, with participation from Saga VC, Chapter One, and Valor. This investment will support Ragie’s growth as it seeks to revolutionize AI application development.
+San Francisco-based AI startup Ragie has raised $5.5 million in funding to accelerate its mission of enabling developers to build AI applications connected to their data with remarkable speed and efficiency. Founded by industry veterans Bob Remeika and Mohammed Rafiq, Ragie has now opened its platform to the public. Craft Ventures led the funding round, which included participation from Saga VC, Chapter One, and Valor. This investment will support Ragie’s growth as it seeks to revolutionize AI application development.
 
 ### UptimeAI Raises $14M in Series A Funding
 
-Houston-based UptimeAI, the pioneer of AI-based plant monitoring software for industrial businesses, has secured $14 million in Series A funding. The round was led by WestBridge Capital, with participation from Emergent Ventures and Aditya Birla Ventures. The funds will expand UptimeAI's operations in North America, further advancing its mission to enhance industrial plant efficiency through cutting-edge AI technology.
+Houston-based UptimeAI, the pioneer of AI-based plant monitoring software for industrial businesses, has secured $14 million in Series A funding. The round was led by WestBridge Capital, with participation from Emergent Ventures and Aditya Birla Ventures. The funds will expand UptimeAI's operations in North America, advancing its mission to enhance industrial plant efficiency through cutting-edge AI technology.
 
 ### Prana Thoracic Secures $3M in Series A Extension
 
