@@ -1,13 +1,13 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/alibaba-c4MD.webp'
 description: ''
 slug: 'alibabas-dual-primary-listing'
 author:
   name: 'Camy'
-  picture: '/images/alibaba-cyMj.webp'
+  picture: ''
 status: 'published'
 title: '10th Aug: Alibaba’s Listing, KKR’s Takeover of Fuji Soft '
 publishedAt: '2024-08-10T14:43:42.000Z'
