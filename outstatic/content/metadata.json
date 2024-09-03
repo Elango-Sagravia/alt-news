@@ -1,6 +1,6 @@
 {
-  "commit": "d411c508c15d36f31eaff622a4b4ae1ef19378e4",
-  "generated": "2024-09-03T10:51:42.863Z",
+  "commit": "57ccaff8b59b160da72a98616cfcc600106d721c",
+  "generated": "2024-09-03T11:09:10.037Z",
   "metadata": [
     {
       "__outstatic": {
@@ -377,27 +377,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b6fb96f377c9eed1262dd5c1510a64320ed8ae27",
-        "hash": "3405447987",
-        "path": "outstatic/content/blogs/vc-boom-in-europe.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/vc-boom-in-europe-U4MD.webp",
-      "cutOff": "3",
-      "description": "",
-      "publishedAt": "2024-08-01T10:22:06.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "vc-boom-in-europe",
-      "status": "published",
-      "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
-    },
-    {
-      "__outstatic": {
         "commit": "2ea634738523fb0f6c90f8d227e7de9181a314c0",
         "hash": "2110521469",
         "path": "outstatic/content/blogs/market-moves.md"
@@ -606,6 +585,27 @@
       "slug": "ensure-your-emails-are-delivered-with-allowlists",
       "status": "published",
       "title": "Ensure your emails are delivered with allowlists"
+    },
+    {
+      "__outstatic": {
+        "commit": "57ccaff8b59b160da72a98616cfcc600106d721c",
+        "hash": "1771376916",
+        "path": "outstatic/content/blogs/vc-boom-in-europe.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/vc-boom-in-europe-U4MD.webp",
+      "cutOff": "3",
+      "description": "",
+      "publishedAt": "2024-08-01T10:22:06.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "vc-boom-in-europe",
+      "status": "published",
+      "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
     }
   ]
 }
