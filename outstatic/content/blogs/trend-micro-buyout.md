@@ -28,7 +28,7 @@ The merger process between Celltrion Inc. and Celltrion Pharm is gaining momentu
 
 Fila Holdings announced that its subsidiary, Magnus Holdings, plans to sell a 1.8% stake in Acushnet Holdings through a block deal worth approximately 98 billion won. This transaction will positively impact Fila Holdings, potentially leading to higher shareholder capital returns. Fila Holdings currently holds a 51.9% stake in Acushnet Holdings. The block deal could enhance Fila’s financial flexibility, and the company’s NAV valuation suggests an 18.2% upside potential from current levels, making it an attractive investment proposition in the short term.
 
-### Asia-Pac M&A Roundup
+### Asia-Pacific M&A Roundup
 
 This week in the Asia-Pacific M&A landscape, 46 deals were in focus, with several notable transactions making headlines. KKR has shown interest in Fuji Soft (9749 JP), while Itochu has launched tender offers for Descente (8114 JP) and C.I. TAKIRON Corporation (4215 JP). Other key updates include developments at Pacific Smiles (PSQ AU), Greatview Aseptic Packaging (468 HK), L'Occitane (973 HK), and Fancl Corp (4921 JP). As the M&A market heats up, these transactions highlight companies' strategic moves to navigate the region's complex and competitive business environment.
 
