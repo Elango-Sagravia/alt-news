@@ -1,6 +1,6 @@
 {
-  "commit": "19c31930363a6f981dbac379318d4b4457d3fcff",
-  "generated": "2024-09-03T13:23:56.954Z",
+  "commit": "075db7fe10b2b11ced3c84a0a7fd3bbad9eca12c",
+  "generated": "2024-09-03T13:33:08.417Z",
   "metadata": [
     {
       "__outstatic": {
@@ -141,27 +141,6 @@
       "slug": "sec-eases-vc-rules",
       "status": "published",
       "title": "28th Aug: SEC Eases VC Rules, Blackstone Eyes $3.7B Loan"
-    },
-    {
-      "__outstatic": {
-        "commit": "7fd1277885a149fd4df30b3f65798e1e2f536c69",
-        "hash": "2212145977",
-        "path": "outstatic/content/blogs/hedge-fund-moves.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/subject-line--27th-aug--hedge-fund-moves--ai-fund-launch-b-MwNT.webp",
-      "cutOff": "4",
-      "description": "",
-      "publishedAt": "2024-08-27T15:11:15.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "hedge-fund-moves",
-      "status": "published",
-      "title": "27th Aug: Hedge Fund Moves, AI Fund Launch"
     },
     {
       "__outstatic": {
@@ -606,6 +585,27 @@
       "slug": "hedge-funds-bet-big-on-gold",
       "status": "published",
       "title": "26th Aug: Hedge Funds Bet Big on Gold, Diesel Market Struggles"
+    },
+    {
+      "__outstatic": {
+        "commit": "075db7fe10b2b11ced3c84a0a7fd3bbad9eca12c",
+        "hash": "4031416091",
+        "path": "outstatic/content/blogs/hedge-fund-moves.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/subject-line--27th-aug--hedge-fund-moves--ai-fund-launch-b-MwNT.webp",
+      "cutOff": "5",
+      "description": "",
+      "publishedAt": "2024-08-27T15:11:15.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "hedge-fund-moves",
+      "status": "published",
+      "title": "27th Aug: Hedge Fund Moves, AI Fund Launch"
     }
   ]
 }
