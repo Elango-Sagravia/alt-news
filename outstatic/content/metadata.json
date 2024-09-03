@@ -1,6 +1,6 @@
 {
-  "commit": "bc9657c7e7a3e17a0eac9a81abf9ca905adb0828",
-  "generated": "2024-09-03T15:11:31.559Z",
+  "commit": "6610fbb58792103d5fed91f247c644ee8cf80596",
+  "generated": "2024-09-03T15:22:37.378Z",
   "metadata": [
     {
       "__outstatic": {
@@ -482,24 +482,6 @@
     },
     {
       "__outstatic": {
-        "commit": "6f88ae9492a27b2ea4b41be9a4783df7510877a8",
-        "hash": "2507634411",
-        "path": "outstatic/content/policies/terms-of-use.md"
-      },
-      "author": {
-        "name": "",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-27T15:17:31.769Z",
-      "slug": "terms-of-use",
-      "status": "published",
-      "title": "Terms of use"
-    },
-    {
-      "__outstatic": {
         "commit": "5d2d6dec9e12bb38b048104c0eef605c2279c7ea",
         "hash": "2777493417",
         "path": "outstatic/content/blogs/coal-merger.md"
@@ -691,6 +673,24 @@
       "slug": "blackstones-13-5b-deal",
       "status": "published",
       "title": "3rd Sept: Blackstone's $13.5B Deal, Investcorp Shakeup"
+    },
+    {
+      "__outstatic": {
+        "commit": "6610fbb58792103d5fed91f247c644ee8cf80596",
+        "hash": "3513079114",
+        "path": "outstatic/content/policies/terms-of-use.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-27T15:17:31.769Z",
+      "slug": "terms-of-use",
+      "status": "published",
+      "title": "Terms of use"
     }
   ]
 }

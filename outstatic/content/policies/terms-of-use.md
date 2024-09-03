@@ -101,7 +101,7 @@ We do not accept advertising for:
 
 9.5 Adult Content
 
-- Pornography, escort services, or sexually [explicit material](http://material.sex)[.](http://material.Sex)
+- Pornography, escort services, or sexually explicit material.
 
 - Sex toys, adult products, or adult dating services, except where such advertising is legally permitted and appropriately targeted.
 
