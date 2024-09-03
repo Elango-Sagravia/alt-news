@@ -84,13 +84,11 @@ We do not accept advertising for:
 9.2 Alcoholic Beverages
 
 - Alcoholic beverages, including beer, wine, and spirits.
-
 - Products or services that directly encourage the consumption of alcohol, unless targeted to a verified, age-appropriate audience.
 
 9.3 Gambling and Betting
 
 - Online or offline casinos, sports betting, lotteries, and other gambling-related activities.
-
 - Websites or services that promote gambling, unless they are licensed and compliant with applicable laws.
 
 9.4 Pharmaceuticals and Health Products

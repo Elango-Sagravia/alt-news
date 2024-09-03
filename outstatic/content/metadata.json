@@ -1,6 +1,6 @@
 {
-  "commit": "29976431c338f54ac2d9f76215a6361c73dea583",
-  "generated": "2024-09-03T12:34:57.969Z",
+  "commit": "6f88ae9492a27b2ea4b41be9a4783df7510877a8",
+  "generated": "2024-09-03T12:51:38.010Z",
   "metadata": [
     {
       "__outstatic": {
@@ -44,24 +44,6 @@
       "slug": "my-first-test-blog-from-prod",
       "status": "draft",
       "title": "My first test blog from prod"
-    },
-    {
-      "__outstatic": {
-        "commit": "ae3917b98ffa3b1bb424f11aa9ca081031bb5877",
-        "hash": "1657798689",
-        "path": "outstatic/content/policies/terms-of-use.md"
-      },
-      "author": {
-        "name": "",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-27T15:17:31.769Z",
-      "slug": "terms-of-use",
-      "status": "published",
-      "title": "Terms of use"
     },
     {
       "__outstatic": {
@@ -606,6 +588,24 @@
       "slug": "crypto-moves",
       "status": "published",
       "title": "21st Aug:  Crypto Moves, Hedge Fund Bets, and Nvidia's Surge"
+    },
+    {
+      "__outstatic": {
+        "commit": "6f88ae9492a27b2ea4b41be9a4783df7510877a8",
+        "hash": "2507634411",
+        "path": "outstatic/content/policies/terms-of-use.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-27T15:17:31.769Z",
+      "slug": "terms-of-use",
+      "status": "published",
+      "title": "Terms of use"
     }
   ]
 }
