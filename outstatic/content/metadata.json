@@ -1,6 +1,6 @@
 {
-  "commit": "9fe668347842e8473068f10912faae30878e1d7a",
-  "generated": "2024-09-03T11:26:24.653Z",
+  "commit": "a20b0f6d75d0fc961d84e579e8a1da33feae5ba0",
+  "generated": "2024-09-03T11:29:09.696Z",
   "metadata": [
     {
       "__outstatic": {
@@ -183,27 +183,6 @@
       "slug": "flat-and-down-rounds-surge",
       "status": "published",
       "title": "13th Aug: Flat and Down Rounds Surge, Balderton’s $1.3B Fundraise"
-    },
-    {
-      "__outstatic": {
-        "commit": "b6d416503337bd68ef027410626e94e89c73472d",
-        "hash": "760237078",
-        "path": "outstatic/content/blogs/gleans-250m-raise.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/electrochromic-U2NT.webp",
-      "cutOff": "4",
-      "description": "",
-      "publishedAt": "2024-08-11T17:03:10.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "gleans-250m-raise",
-      "status": "published",
-      "title": "12th Aug: Glean’s $250M Raise, Shiprocket’s $120M Funding Round"
     },
     {
       "__outstatic": {
@@ -606,6 +585,27 @@
       "slug": "trend-micro-buyout",
       "status": "published",
       "title": "11th Aug: Trend Micro Buyout Buzz, SoftBank’s AI Push "
+    },
+    {
+      "__outstatic": {
+        "commit": "a20b0f6d75d0fc961d84e579e8a1da33feae5ba0",
+        "hash": "2496809493",
+        "path": "outstatic/content/blogs/gleans-250m-raise.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/electrochromic-U2NT.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-11T17:03:10.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "gleans-250m-raise",
+      "status": "published",
+      "title": "12th Aug: Glean’s $250M Raise, Shiprocket’s $120M Funding Round"
     }
   ]
 }

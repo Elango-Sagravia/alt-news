@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/electrochromic-U2NT.webp'
 description: ''
 slug: 'gleans-250m-raise'
