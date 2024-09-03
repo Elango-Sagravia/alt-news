@@ -1,6 +1,6 @@
 {
-  "commit": "ea2edbe4208ad851c456966c4c1ca1f9b4351a63",
-  "generated": "2024-09-03T11:47:39.077Z",
+  "commit": "27875d9512413cc31bf3e9a5cee1b68ff22f9a6e",
+  "generated": "2024-09-03T12:09:28.123Z",
   "metadata": [
     {
       "__outstatic": {
@@ -119,28 +119,6 @@
       "slug": "florida-expands-pe-investments",
       "status": "published",
       "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
-    },
-    {
-      "__outstatic": {
-        "commit": "2ea634738523fb0f6c90f8d227e7de9181a314c0",
-        "hash": "2110521469",
-        "path": "outstatic/content/blogs/market-moves.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/goldman-sachs-EyMz.webp",
-      "cutOff": "10",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-19T09:59:28.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "market-moves",
-      "status": "published",
-      "title": "19th Aug: Market Moves, Hedge Fund Strategies, and Global M&A"
     },
     {
       "__outstatic": {
@@ -606,6 +584,28 @@
       "slug": "supply-chain-revival",
       "status": "published",
       "title": "16th Aug: Supply Chain Revival, AI Investment Frenzy "
+    },
+    {
+      "__outstatic": {
+        "commit": "27875d9512413cc31bf3e9a5cee1b68ff22f9a6e",
+        "hash": "2118088439",
+        "path": "outstatic/content/blogs/market-moves.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/goldman-sachs-EyMz.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-19T09:59:28.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "market-moves",
+      "status": "published",
+      "title": "19th Aug: Market Moves, Hedge Fund Strategies, and Global M&A"
     }
   ]
 }
