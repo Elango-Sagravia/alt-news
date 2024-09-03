@@ -1,6 +1,6 @@
 {
-  "commit": "d411c508c15d36f31eaff622a4b4ae1ef19378e4",
-  "generated": "2024-09-03T11:15:19.217Z",
+  "commit": "e841290a54e22de445ebc572f79eea3b18a0f537",
+  "generated": "2024-09-03T11:15:51.519Z",
   "metadata": [
     {
       "__outstatic": {
@@ -86,27 +86,6 @@
       "slug": "thrives-5b-fund",
       "status": "published",
       "title": "7th Aug: Thrive’s $5B Fund, SaaS Buyouts Surge, Haize Labs Hits $100M "
-    },
-    {
-      "__outstatic": {
-        "commit": "a8a76b688a3f30d43f15dd52139048005f2b1622",
-        "hash": "3565886037",
-        "path": "outstatic/content/blogs/loan-defaults-dip.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": "/images/saudi-arabia-cyNz.webp"
-      },
-      "collection": "blogs",
-      "coverImage": "/images/saudi-arabia-I4ND.webp",
-      "cutOff": "3",
-      "description": "",
-      "publishedAt": "2024-08-06T12:20:58.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "loan-defaults-dip",
-      "status": "published",
-      "title": "6th Aug: Loan Defaults Dip, Saudi AI Fund, JP Morgan Forecasts "
     },
     {
       "__outstatic": {
@@ -334,28 +313,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7239b91973b694e2965f29a26afb482ebafa525f",
-        "hash": "1635880634",
-        "path": "outstatic/content/blogs/golds-rise-crypto-confidence.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/178306907?v=4"
-      },
-      "collection": "blogs",
-      "coverImage": "/images/italian-wine-resilience-E1OT.webp",
-      "cutOff": "3",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-05T12:06:56.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "golds-rise-crypto-confidence",
-      "status": "published",
-      "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
-    },
-    {
-      "__outstatic": {
         "commit": "949f80ebefc31996535d4fc55525b0670922d0db",
         "hash": "125181276",
         "path": "outstatic/content/blogs/florida-expands-pe-investments.md"
@@ -374,27 +331,6 @@
       "slug": "florida-expands-pe-investments",
       "status": "published",
       "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
-    },
-    {
-      "__outstatic": {
-        "commit": "b6fb96f377c9eed1262dd5c1510a64320ed8ae27",
-        "hash": "3405447987",
-        "path": "outstatic/content/blogs/vc-boom-in-europe.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/vc-boom-in-europe-U4MD.webp",
-      "cutOff": "3",
-      "description": "",
-      "publishedAt": "2024-08-01T10:22:06.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "vc-boom-in-europe",
-      "status": "published",
-      "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
     },
     {
       "__outstatic": {
@@ -592,7 +528,7 @@
     {
       "__outstatic": {
         "commit": "d411c508c15d36f31eaff622a4b4ae1ef19378e4",
-        "hash": "3995292029",
+        "hash": "1233133421",
         "path": "outstatic/content/pages/ensure-your-emails-are-delivered-with-allowlists.md"
       },
       "author": {
@@ -606,6 +542,70 @@
       "slug": "ensure-your-emails-are-delivered-with-allowlists",
       "status": "published",
       "title": "Ensure your emails are delivered with allowlists"
+    },
+    {
+      "__outstatic": {
+        "commit": "57ccaff8b59b160da72a98616cfcc600106d721c",
+        "hash": "1771376916",
+        "path": "outstatic/content/blogs/vc-boom-in-europe.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/vc-boom-in-europe-U4MD.webp",
+      "cutOff": "3",
+      "description": "",
+      "publishedAt": "2024-08-01T10:22:06.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "vc-boom-in-europe",
+      "status": "published",
+      "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
+    },
+    {
+      "__outstatic": {
+        "commit": "e96bde584513f8a6f79305cefb55f91668a4185e",
+        "hash": "3713081262",
+        "path": "outstatic/content/blogs/golds-rise-crypto-confidence.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/italian-wine-resilience-E1OT.webp",
+      "cutOff": "3",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-05T12:06:56.000Z",
+      "readTime": "10",
+      "relatedArticles": "",
+      "slug": "golds-rise-crypto-confidence",
+      "status": "published",
+      "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
+    },
+    {
+      "__outstatic": {
+        "commit": "e841290a54e22de445ebc572f79eea3b18a0f537",
+        "hash": "1572129775",
+        "path": "outstatic/content/blogs/loan-defaults-dip.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": "/images/saudi-arabia-cyNz.webp"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/saudi-arabia-I4ND.webp",
+      "cutOff": "3",
+      "description": "",
+      "publishedAt": "2024-08-06T12:20:58.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "loan-defaults-dip",
+      "status": "published",
+      "title": "6th Aug: Loan Defaults Dip, Saudi AI Fund, JP Morgan Forecasts "
     }
   ]
 }
