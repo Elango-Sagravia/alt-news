@@ -1,13 +1,13 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/european-leveraged-loans--bounce-k5Mj.webp'
 description: ''
 slug: 'ai-crypto-debate'
 author:
   name: 'Camy'
-  picture: '/images/european-leveraged-loans--bounce-I2Mz.webp'
+  picture: ''
 status: 'published'
 title: '9th Aug: AI-Crypto Debate, PE Exits Surge, Cleantech Investment Record '
 publishedAt: '2024-08-09T13:34:25.000Z'
@@ -29,7 +29,7 @@ Europe’s secondary loan market has stabilized after experiencing its worst dai
 
 ### Strategic Buyers Drive Higher Premiums in PE Exits
 
-Private equity (PE) firms are increasingly opting for exits through strategic buyers, who are willing to pay higher premiums than other PE buyers. The median deal value for assets sold to strategic buyers surged by 70.8% to $480 million in the first half of 2024. Strategic buyers leverage their financial flexibility and lower capital costs to fund larger acquisitions, driving up prices for desirable assets. As a result, 57% of PE firms plan to pursue strategic sales in the coming year, a significant increase from previous years. This trend intensifies competition in the M&A market, with PE firms adopting more strategic approaches to bidding.
+Private equity (PE) firms increasingly opt for exits through strategic buyers, who are willing to pay higher premiums than other PE buyers. The median deal value for assets sold to strategic buyers surged by 70.8% to $480 million in the first half of 2024. Strategic buyers leverage their financial flexibility and lower capital costs to fund larger acquisitions, driving up prices for desirable assets. As a result, 57% of PE firms plan to pursue strategic sales in the coming year, a significant increase from previous years. This trend intensifies competition in the M&A market, with PE firms adopting more strategic approaches to bidding.
 
 ### New NAV Loan Rules Impact Limited Partners
 
