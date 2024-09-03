@@ -1,6 +1,6 @@
 {
-  "commit": "b504fe3123dfc4b8fe20f7882e243304f7f27a1e",
-  "generated": "2024-09-03T11:32:02.990Z",
+  "commit": "814c57f2e2f1fb1e4d2d091923621492d466987f",
+  "generated": "2024-09-03T11:42:01.851Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,27 +98,6 @@
       "slug": "refund-policy",
       "status": "published",
       "title": "Refund policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "d9890a4098276bd64c0ec8b0db991b6508aa6278",
-        "hash": "1554888105",
-        "path": "outstatic/content/blogs/pes-football-club-influence.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/football-E5Mj.webp",
-      "cutOff": "4",
-      "description": "",
-      "publishedAt": "2024-08-14T08:00:07.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "pes-football-club-influence",
-      "status": "published",
-      "title": "14th Aug: PE's Football Club Influence, EliseAI Reaches Unicorn Status"
     },
     {
       "__outstatic": {
@@ -606,6 +585,27 @@
       "slug": "flat-and-down-rounds-surge",
       "status": "published",
       "title": "13th Aug: Flat and Down Rounds Surge, Balderton’s $1.3B Fundraise"
+    },
+    {
+      "__outstatic": {
+        "commit": "814c57f2e2f1fb1e4d2d091923621492d466987f",
+        "hash": "3695342729",
+        "path": "outstatic/content/blogs/pes-football-club-influence.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/football-E5Mj.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-14T08:00:07.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "pes-football-club-influence",
+      "status": "published",
+      "title": "14th Aug: PE's Football Club Influence, EliseAI Reaches Unicorn Status"
     }
   ]
 }

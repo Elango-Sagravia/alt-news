@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/football-E5Mj.webp'
 description: ''
 slug: 'pes-football-club-influence'
