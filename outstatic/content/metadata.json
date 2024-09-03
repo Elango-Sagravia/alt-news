@@ -1,6 +1,6 @@
 {
-  "commit": "5316ea97c8071b66343e5cbce22322666e43f7b9",
-  "generated": "2024-09-03T10:47:37.172Z",
+  "commit": "d411c508c15d36f31eaff622a4b4ae1ef19378e4",
+  "generated": "2024-09-03T10:48:51.222Z",
   "metadata": [
     {
       "__outstatic": {
@@ -591,7 +591,7 @@
     },
     {
       "__outstatic": {
-        "commit": "5316ea97c8071b66343e5cbce22322666e43f7b9",
+        "commit": "d411c508c15d36f31eaff622a4b4ae1ef19378e4",
         "hash": "732766231",
         "path": "outstatic/content/pages/ensure-your-emails-are-delivered-with-allowlists.md"
       },
