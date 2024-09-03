@@ -1,6 +1,6 @@
 {
-  "commit": "075db7fe10b2b11ced3c84a0a7fd3bbad9eca12c",
-  "generated": "2024-09-03T13:33:08.417Z",
+  "commit": "b49864dd8987501ec171b8c2c865787821ed445a",
+  "generated": "2024-09-03T13:45:36.040Z",
   "metadata": [
     {
       "__outstatic": {
@@ -119,28 +119,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "13a6f2788b8bb4a525de7d4d771e86d4c509c559",
-        "hash": "3230641048",
-        "path": "outstatic/content/blogs/sec-eases-vc-rules.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/28th-aug--sec-eases-vc-rules--blackstone-eyes-3.7b-loan-a-gwND.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-28T15:23:44.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "sec-eases-vc-rules",
-      "status": "published",
-      "title": "28th Aug: SEC Eases VC Rules, Blackstone Eyes $3.7B Loan"
     },
     {
       "__outstatic": {
@@ -606,6 +584,28 @@
       "slug": "hedge-fund-moves",
       "status": "published",
       "title": "27th Aug: Hedge Fund Moves, AI Fund Launch"
+    },
+    {
+      "__outstatic": {
+        "commit": "b49864dd8987501ec171b8c2c865787821ed445a",
+        "hash": "37158911",
+        "path": "outstatic/content/blogs/sec-eases-vc-rules.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/28th-aug--sec-eases-vc-rules--blackstone-eyes-3.7b-loan-a-gwND.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-28T15:23:44.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "sec-eases-vc-rules",
+      "status": "published",
+      "title": "28th Aug: SEC Eases VC Rules, Blackstone Eyes $3.7B Loan"
     }
   ]
 }
