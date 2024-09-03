@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/railcar-tech-Q1Nz.webp'
 description: ''
 slug: 'supply-chain-revival'
@@ -9,8 +9,7 @@ author:
   name: 'Camy'
   picture: ''
 status: 'published'
-title: '16th Aug: Supply Chain Revival, AI Investment Frenzy
-'
+title: '16th Aug: Supply Chain Revival, AI Investment Frenzy '
 publishedAt: '2024-08-16T09:27:45.000Z'
 ---
 
@@ -28,7 +27,7 @@ Despite a generally positive economic backdrop, European leveraged loan markets 
 
 ### SMBC Launches €450M Fund for European Private Credit
 
-SMBC has launched a €450 million European direct lending fund to bolster its private credit offering and expand its international asset management business. The fund will provide financing solutions to private equity firms that are choosing between private credit or broadly syndicated options. The fund targets high-quality mid-market companies in Western Europe's defensive sectors alongside SMBC’s existing credit ventures, including a JV with Park Square Capital. While cautious about immediate M&A activity, SMBC is optimistic about a more substantial deal flow in 2025, focusing on refinancing and add-on deals this year.
+SMBC has launched a €450 million European direct lending fund to bolster its private credit offering and expand its international asset management business. The fund will provide financing solutions to private equity firms who are choosing between private credit or broadly syndicated options. The fund targets high-quality mid-market companies in Western Europe's defensive sectors alongside SMBC’s existing credit ventures, including a JV with Park Square Capital. While cautious about immediate M&A activity, SMBC is optimistic about a more substantial deal flow in 2025, focusing on refinancing and add-on deals this year.
 
 ### AI Boom Pushes Seed VCs Aside as Valuations Soar
 
@@ -36,6 +35,6 @@ In the current AI boom, elite founders command sky-high valuations, often sideli
 
 ### Intramotev Raises $14.4M for Battery-Electric Railcar Tech
 
-![](/images/railcar-tech-I5NT.webp)
+![Battery-Electric Railcar Tech](/images/railcar-tech-I5NT.webp)
 
 Intramotev, a St. Louis-based technology company specializing in battery-electric railcar retrofits, has successfully raised $14.4 million in an oversubscribed Series A funding round. The round was led by Flybridge Capital Partners and Alpaca VC, with participation from investors including Advantage Capital, Aera VC, Band VC, Cantos, Cathcart Rail, Collide Capital, Decisive Point, and Idealab Arizona. This funding will help Intramotev accelerate the development and deployment of its innovative railcar technology.
