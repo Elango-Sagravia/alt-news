@@ -1,6 +1,6 @@
 {
-  "commit": "27875d9512413cc31bf3e9a5cee1b68ff22f9a6e",
-  "generated": "2024-09-03T12:09:28.123Z",
+  "commit": "173924793080b1093e24d2e1b4ff3418b9a9544f",
+  "generated": "2024-09-03T12:19:56.850Z",
   "metadata": [
     {
       "__outstatic": {
@@ -119,28 +119,6 @@
       "slug": "florida-expands-pe-investments",
       "status": "published",
       "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
-    },
-    {
-      "__outstatic": {
-        "commit": "65378f26e6da4206eeb03026e9d915b9008ec11e",
-        "hash": "2274201737",
-        "path": "outstatic/content/blogs/exoduspoints-decline-viking-s-big-win.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": "/images/b43a-YyNT.jpg"
-      },
-      "collection": "blogs",
-      "coverImage": "/images/b43a-cxNj.jpg",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-20T11:42:25.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "exoduspoints-decline-viking-s-big-win",
-      "status": "published",
-      "title": "20th Aug: ExodusPoint's Decline, Viking's Big Win, and Bitcoin ETF Bets"
     },
     {
       "__outstatic": {
@@ -606,6 +584,28 @@
       "slug": "market-moves",
       "status": "published",
       "title": "19th Aug: Market Moves, Hedge Fund Strategies, and Global M&A"
+    },
+    {
+      "__outstatic": {
+        "commit": "173924793080b1093e24d2e1b4ff3418b9a9544f",
+        "hash": "1192560220",
+        "path": "outstatic/content/blogs/exoduspoints-decline-viking-s-big-win.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/b43a-cxNj.jpg",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-20T11:42:25.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "exoduspoints-decline-viking-s-big-win",
+      "status": "published",
+      "title": "20th Aug: ExodusPoint's Decline, Viking's Big Win, and Bitcoin ETF Bets"
     }
   ]
 }
