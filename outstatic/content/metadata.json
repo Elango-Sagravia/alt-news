@@ -1,6 +1,6 @@
 {
   "commit": "da0ff97d7e0c21d9ce6299e96fe73de7b8e27bfc",
-  "generated": "2024-09-03T11:19:08.318Z",
+  "generated": "2024-09-03T11:20:12.031Z",
   "metadata": [
     {
       "__outstatic": {
@@ -65,6 +65,27 @@
       "slug": "hedge-funds-bet-on-crypto",
       "status": "published",
       "title": "8th Aug: Hedge Funds Bet Big on Crypto, Dental AI Surge "
+    },
+    {
+      "__outstatic": {
+        "commit": "2235d222b7aecb188c8c00192c2d67e6f2569b1f",
+        "hash": "3082191711",
+        "path": "outstatic/content/blogs/thrives-5b-fund.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": "/images/mercado-libre-expands-in-mexico-Q3Mj.webp"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/mercado-libre-expands-in-mexico-czOD.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-08-07T12:34:34.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "thrives-5b-fund",
+      "status": "published",
+      "title": "7th Aug: Thrive’s $5B Fund, SaaS Buyouts Surge, Haize Labs Hits $100M "
     },
     {
       "__outstatic": {
@@ -506,24 +527,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d411c508c15d36f31eaff622a4b4ae1ef19378e4",
-        "hash": "1233133421",
-        "path": "outstatic/content/pages/ensure-your-emails-are-delivered-with-allowlists.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-09-03T11:13:36.936Z",
-      "slug": "ensure-your-emails-are-delivered-with-allowlists",
-      "status": "published",
-      "title": "Ensure your emails are delivered with allowlists"
-    },
-    {
-      "__outstatic": {
         "commit": "57ccaff8b59b160da72a98616cfcc600106d721c",
         "hash": "1771376916",
         "path": "outstatic/content/blogs/vc-boom-in-europe.md"
@@ -589,23 +592,20 @@
     {
       "__outstatic": {
         "commit": "da0ff97d7e0c21d9ce6299e96fe73de7b8e27bfc",
-        "hash": "771472737",
-        "path": "outstatic/content/blogs/thrives-5b-fund.md"
+        "hash": "1732285218",
+        "path": "outstatic/content/pages/ensure-your-emails-are-delivered-with-allowlists.md"
       },
       "author": {
-        "name": "Camy",
-        "picture": ""
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
       },
-      "collection": "blogs",
-      "coverImage": "/images/mercado-libre-expands-in-mexico-czOD.webp",
-      "cutOff": "4",
+      "collection": "pages",
+      "coverImage": "",
       "description": "",
-      "publishedAt": "2024-08-07T12:34:34.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "thrives-5b-fund",
+      "publishedAt": "2024-09-03T11:13:36.936Z",
+      "slug": "ensure-your-emails-are-delivered-with-allowlists",
       "status": "published",
-      "title": "7th Aug: Thrive’s $5B Fund, SaaS Buyouts Surge, Haize Labs Hits $100M "
+      "title": "Ensure your emails are delivered with allowlists"
     }
   ]
 }
