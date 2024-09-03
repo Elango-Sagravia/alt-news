@@ -1,6 +1,6 @@
 {
-  "commit": "6f88ae9492a27b2ea4b41be9a4783df7510877a8",
-  "generated": "2024-09-03T12:51:38.010Z",
+  "commit": "5d2d6dec9e12bb38b048104c0eef605c2279c7ea",
+  "generated": "2024-09-03T13:07:24.902Z",
   "metadata": [
     {
       "__outstatic": {
@@ -119,28 +119,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "814fef4f6b89e3b08956e062576562bdec985dff",
-        "hash": "2070129670",
-        "path": "outstatic/content/blogs/coal-merger.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/22nd-aug_-coal-merger--tokyo-tower-bid--tech-surge-a--1--Y5OT.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-22T13:40:36.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "coal-merger",
-      "status": "published",
-      "title": "22nd Aug: Coal Merger, Tokyo Tower Bid, Tech Surge"
     },
     {
       "__outstatic": {
@@ -606,6 +584,28 @@
       "slug": "terms-of-use",
       "status": "published",
       "title": "Terms of use"
+    },
+    {
+      "__outstatic": {
+        "commit": "5d2d6dec9e12bb38b048104c0eef605c2279c7ea",
+        "hash": "2777493417",
+        "path": "outstatic/content/blogs/coal-merger.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/22nd-aug_-coal-merger--tokyo-tower-bid--tech-surge-a--1--Y5OT.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-22T13:40:36.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "coal-merger",
+      "status": "published",
+      "title": "22nd Aug: Coal Merger, Tokyo Tower Bid, Tech Surge"
     }
   ]
 }
