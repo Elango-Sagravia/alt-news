@@ -1,6 +1,6 @@
 {
-  "commit": "814c57f2e2f1fb1e4d2d091923621492d466987f",
-  "generated": "2024-09-03T11:42:01.851Z",
+  "commit": "4abe55e86c6f8b2f67d47f828501432f49178611",
+  "generated": "2024-09-03T11:46:24.235Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,28 +98,6 @@
       "slug": "refund-policy",
       "status": "published",
       "title": "Refund policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "45ca9c9b0539fddd6d80dfa86ef2bb11eb0fc4bf",
-        "hash": "3761648995",
-        "path": "outstatic/content/blogs/healthcare-innovation-boost.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/178306907?v=4"
-      },
-      "collection": "blogs",
-      "coverImage": "/images/histonics-QzNj.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-15T09:01:11.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "healthcare-innovation-boost",
-      "status": "published",
-      "title": "15th Aug: Healthcare Innovation Boost, EliseAI Reaches Unicorn Status"
     },
     {
       "__outstatic": {
@@ -606,6 +584,28 @@
       "slug": "pes-football-club-influence",
       "status": "published",
       "title": "14th Aug: PE's Football Club Influence, EliseAI Reaches Unicorn Status"
+    },
+    {
+      "__outstatic": {
+        "commit": "4abe55e86c6f8b2f67d47f828501432f49178611",
+        "hash": "3143979212",
+        "path": "outstatic/content/blogs/healthcare-innovation-boost.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/histonics-QzNj.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-15T09:01:11.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "healthcare-innovation-boost",
+      "status": "published",
+      "title": "15th Aug: Healthcare Innovation Boost, EliseAI Reaches Unicorn Status"
     }
   ]
 }
