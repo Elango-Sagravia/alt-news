@@ -32,8 +32,7 @@ To ensure you never miss an update from our newsletter, we recommend adding our 
 
 ---
 
-## \
-Yahoo! Mail
+## Yahoo! Mail
 
 ### Add a new contact
 
