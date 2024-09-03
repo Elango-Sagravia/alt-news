@@ -1,6 +1,6 @@
 {
-  "commit": "5d2d6dec9e12bb38b048104c0eef605c2279c7ea",
-  "generated": "2024-09-03T13:07:24.902Z",
+  "commit": "291546ecc337153190d0944b45881c40cc21b4f9",
+  "generated": "2024-09-03T13:18:09.593Z",
   "metadata": [
     {
       "__outstatic": {
@@ -119,28 +119,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "da2c01ee5ef3d75ad308e0b8cedb37d11abfab32",
-        "hash": "1283036637",
-        "path": "outstatic/content/blogs/bolts-450m-deal.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/23rd-aug_-bolts-450m-deal--uk-private-equity-faces-tax-hike-a-k1OT.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-23T14:06:20.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "bolts-450m-deal",
-      "status": "published",
-      "title": "23rd Aug: Bolt's $450M Deal, UK Private Equity Faces Tax Hike"
     },
     {
       "__outstatic": {
@@ -606,6 +584,28 @@
       "slug": "coal-merger",
       "status": "published",
       "title": "22nd Aug: Coal Merger, Tokyo Tower Bid, Tech Surge"
+    },
+    {
+      "__outstatic": {
+        "commit": "291546ecc337153190d0944b45881c40cc21b4f9",
+        "hash": "798856575",
+        "path": "outstatic/content/blogs/bolts-450m-deal.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/23rd-aug_-bolts-450m-deal--uk-private-equity-faces-tax-hike-a-k1OT.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-23T14:06:20.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "bolts-450m-deal",
+      "status": "published",
+      "title": "23rd Aug: Bolt's $450M Deal, UK Private Equity Faces Tax Hike"
     }
   ]
 }
