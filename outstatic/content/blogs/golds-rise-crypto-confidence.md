@@ -1,8 +1,8 @@
 ---
-cutOff: '3'
+cutOff: '4'
 latest: 'true'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/italian-wine-resilience-E1OT.webp'
 description: ''
 slug: 'golds-rise-crypto-confidence'

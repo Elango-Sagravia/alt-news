@@ -1,6 +1,6 @@
 {
-  "commit": "3b97ed01ad7b141db3669bcf0bd96b11d72260e3",
-  "generated": "2024-09-03T15:40:37.215Z",
+  "commit": "5b147966c0fab387ab192cd7240b28066588d6ba",
+  "generated": "2024-09-04T08:42:21.204Z",
   "metadata": [
     {
       "__outstatic": {
@@ -158,28 +158,6 @@
       "slug": "vc-boom-in-europe",
       "status": "published",
       "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
-    },
-    {
-      "__outstatic": {
-        "commit": "e96bde584513f8a6f79305cefb55f91668a4185e",
-        "hash": "3713081262",
-        "path": "outstatic/content/blogs/golds-rise-crypto-confidence.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/italian-wine-resilience-E1OT.webp",
-      "cutOff": "3",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-05T12:06:56.000Z",
-      "readTime": "10",
-      "relatedArticles": "",
-      "slug": "golds-rise-crypto-confidence",
-      "status": "published",
-      "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
     },
     {
       "__outstatic": {
@@ -691,6 +669,28 @@
       "slug": "terms-of-use",
       "status": "published",
       "title": "Terms of use"
+    },
+    {
+      "__outstatic": {
+        "commit": "5b147966c0fab387ab192cd7240b28066588d6ba",
+        "hash": "3434533511",
+        "path": "outstatic/content/blogs/golds-rise-crypto-confidence.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/italian-wine-resilience-E1OT.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-05T12:06:56.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "golds-rise-crypto-confidence",
+      "status": "published",
+      "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
     }
   ]
 }
