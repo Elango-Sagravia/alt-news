@@ -1,6 +1,6 @@
 {
-  "commit": "67dd6d2b7ec69602025ecfdb0631a8a79ad897b1",
-  "generated": "2024-09-04T10:29:37.988Z",
+  "commit": "87e4a251c187024a2b55f23a4dd735e08cd7d91d",
+  "generated": "2024-09-04T11:23:15.762Z",
   "metadata": [
     {
       "__outstatic": {
@@ -694,7 +694,7 @@
     },
     {
       "__outstatic": {
-        "commit": "67dd6d2b7ec69602025ecfdb0631a8a79ad897b1",
+        "commit": "87e4a251c187024a2b55f23a4dd735e08cd7d91d",
         "hash": "3854219390",
         "path": "outstatic/content/pages/ensure-our-newsletter-reaches-your-inbox.md"
       },
