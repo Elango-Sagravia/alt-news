@@ -1,6 +1,6 @@
 {
   "commit": "67dd6d2b7ec69602025ecfdb0631a8a79ad897b1",
-  "generated": "2024-09-04T10:29:26.352Z",
+  "generated": "2024-09-04T10:29:37.988Z",
   "metadata": [
     {
       "__outstatic": {
@@ -676,8 +676,26 @@
     },
     {
       "__outstatic": {
+        "commit": "8ecfec02aa252143a648eedf9cd1185d7a060afd",
+        "hash": "1967878633",
+        "path": "outstatic/content/pages/ensure-your-emails-are-delivered-with-allowlists.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-03T11:13:36.936Z",
+      "slug": "ensure-your-emails-are-delivered-with-allowlists",
+      "status": "published",
+      "title": "Ensure our newsletter reaches your inbox"
+    },
+    {
+      "__outstatic": {
         "commit": "67dd6d2b7ec69602025ecfdb0631a8a79ad897b1",
-        "hash": "2770291266",
+        "hash": "3854219390",
         "path": "outstatic/content/pages/ensure-our-newsletter-reaches-your-inbox.md"
       },
       "author": {
