@@ -1,6 +1,6 @@
 {
-  "commit": "87e4a251c187024a2b55f23a4dd735e08cd7d91d",
-  "generated": "2024-09-04T11:32:02.283Z",
+  "commit": "c57a076e60a388c62b02adae02bef469288da5fb",
+  "generated": "2024-09-04T12:00:36.861Z",
   "metadata": [
     {
       "__outstatic": {
@@ -712,8 +712,8 @@
     },
     {
       "__outstatic": {
-        "commit": "87e4a251c187024a2b55f23a4dd735e08cd7d91d",
-        "hash": "1260476057",
+        "commit": "c57a076e60a388c62b02adae02bef469288da5fb",
+        "hash": "4152928068",
         "path": "outstatic/content/blogs/morgan-stanley-targets-hedge-funds.md"
       },
       "author": {
@@ -724,6 +724,7 @@
       "coverImage": "/images/4th-sept--morgan-stanley-targets-hedge-funds--newspring-invests-in-hotels-b--1--MzNT.webp",
       "cutOff": "4",
       "description": "",
+      "latest": "true",
       "publishedAt": "2024-09-04T11:37:23.268Z",
       "readTime": "5",
       "relatedArticles": "",

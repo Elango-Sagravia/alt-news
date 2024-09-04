@@ -1,5 +1,6 @@
 ---
 cutOff: '4'
+latest: 'true'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/4th-sept--morgan-stanley-targets-hedge-funds--newspring-invests-in-hotels-b--1--MzNT.webp'
@@ -15,7 +16,7 @@ publishedAt: '2024-09-04T11:37:23.268Z'
 
 ### NewSpring Invests in Hotel Renovation Firm
 
-NewSpring has [invested in Salisbury Moore](https://newspringcapital.com/news/2024/newspring-progress-equity-partners-farragut-capi[…]partners-invest-in-hotel-renovation-leader-salisbury-moore), a hotel renovation company based in Raleigh, North Carolina. This investment, part of NewSpring's private credit strategy, also involves Farragut Capital Partners and Salem Investment Partners. Salisbury Moore, founded in 2005, provides renovation services for hotels and other properties, including government buildings. The current management team will remain in place. NewSpring, which manages about $3.5 billion in assets, continues to expand its portfolio with this latest move.
+NewSpring has [invested in Salisbury Moore](https://newspringcapital.com/news/2024/newspring-progress-equity-partners-farragut-capi%5B%E2%80%A6%5Dpartners-invest-in-hotel-renovation-leader-salisbury-moore), a hotel renovation company based in Raleigh, North Carolina. This investment, part of NewSpring's private credit strategy, also involves Farragut Capital Partners and Salem Investment Partners. Salisbury Moore, founded in 2005, provides renovation services for hotels and other properties, including government buildings. The current management team will remain in place. NewSpring, which manages about $3.5 billion in assets, continues to expand its portfolio with this latest move.
 
 ### Elliott Pushes for Changes at Southwest Airlines
 
@@ -25,7 +26,7 @@ Elliott Investment Management has [reached a 10% ownership](https://www.hedgewee
 
 ### Tikehau Capital's New Head of Private Equity
 
-Tikehau Capital has [appointed Christoph Rinnert](https://www.tikehaucapital.com/~/media/Files/T/Tikehau-Capital-V2/documents/media/en/pr-[…]s-christoph-rinnert-as-head-of-private-equity-germany.pdf) as the Head of Private Equity for Germany. Rinnert, with over 15 years of experience in private equity and M&A, will oversee investments in the DACH region, focusing on areas like digitalization, sustainability, and aerospace. His previous roles included leading DACH Industrial Technology at Deutschland Industriebeteiligungs GmbH and having advisory positions at Rothschild GmbH and PwC. Tikehau is aiming to capitalize on high-growth mid-market companies under Rinnert's leadership.
+Tikehau Capital has [appointed Christoph Rinnert](https://www.tikehaucapital.com/~/media/Files/T/Tikehau-Capital-V2/documents/media/en/pr-%5B%E2%80%A6%5Ds-christoph-rinnert-as-head-of-private-equity-germany.pdf) as the Head of Private Equity for Germany. Rinnert, with over 15 years of experience in private equity and M&A, will oversee investments in the DACH region, focusing on areas like digitalization, sustainability, and aerospace. His previous roles included leading DACH Industrial Technology at Deutschland Industriebeteiligungs GmbH and having advisory positions at Rothschild GmbH and PwC. Tikehau is aiming to capitalize on high-growth mid-market companies under Rinnert's leadership.
 
 ### Blackstone Buys Stake in Logistics Fund
 
