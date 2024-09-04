@@ -75,6 +75,8 @@ Below are the steps to safelist our newsletter depending on your email provider.
 - If our email is in your Spam folder, open it.
 - Click on "Not Spam" at the top of the email.
 
+---
+
 ## Hotmail/Outlook.com
 
 **Check junk folder:**
@@ -87,6 +89,8 @@ Below are the steps to safelist our newsletter depending on your email provider.
 - Under Safe Senders, enter our email address.
 - Click Save.
 
+---
+
 ## ProtonMail
 
 **Add to Contacts:**
@@ -98,6 +102,8 @@ Below are the steps to safelist our newsletter depending on your email provider.
 
 - If our email is in the Spam folder, open it.
 - Click "Not Spam."
+
+---
 
 ## Thunderbird
 
@@ -114,6 +120,8 @@ Below are the steps to safelist our newsletter depending on your email provider.
 - Tap More options (three dots).
 - Select Remove from Spam.
 
+---
+
 ## AT&T WebMail
 
 **Create a filter:**
@@ -126,6 +134,8 @@ Below are the steps to safelist our newsletter depending on your email provider.
 - Under Move the message to, select Inbox from the drop-down menu.
 - Click Add Filter again.
 
+---
+
 ## Mail.com
 
 **Add to contacts:**
@@ -135,6 +145,8 @@ Below are the steps to safelist our newsletter depending on your email provider.
 - Add the first/last name of the sender.
 - Add the first/last name of the sender.
 - Click Ok.
+
+---
 
 ## Final reminder
 
