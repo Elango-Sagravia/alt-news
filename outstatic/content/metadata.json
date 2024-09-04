@@ -1,6 +1,6 @@
 {
-  "commit": "5b147966c0fab387ab192cd7240b28066588d6ba",
-  "generated": "2024-09-04T08:42:21.204Z",
+  "commit": "be743ffaed3020a4672d2f45771d540dda2422c7",
+  "generated": "2024-09-04T09:41:46.441Z",
   "metadata": [
     {
       "__outstatic": {
@@ -119,24 +119,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "d411c508c15d36f31eaff622a4b4ae1ef19378e4",
-        "hash": "1233133421",
-        "path": "outstatic/content/pages/ensure-your-emails-are-delivered-with-allowlists.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-09-03T11:13:36.936Z",
-      "slug": "ensure-your-emails-are-delivered-with-allowlists",
-      "status": "published",
-      "title": "Ensure your emails are delivered with allowlists"
     },
     {
       "__outstatic": {
@@ -691,6 +673,24 @@
       "slug": "golds-rise-crypto-confidence",
       "status": "published",
       "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
+    },
+    {
+      "__outstatic": {
+        "commit": "be743ffaed3020a4672d2f45771d540dda2422c7",
+        "hash": "3405426326",
+        "path": "outstatic/content/pages/ensure-your-emails-are-delivered-with-allowlists.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-03T11:13:36.936Z",
+      "slug": "ensure-your-emails-are-delivered-with-allowlists",
+      "status": "published",
+      "title": "Ensure our newsletter reaches your inbox"
     }
   ]
 }
