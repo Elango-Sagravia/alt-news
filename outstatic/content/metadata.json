@@ -1,6 +1,6 @@
 {
-  "commit": "65817528e82bc982f17e147553a379494b85092b",
-  "generated": "2024-09-04T13:46:30.933Z",
+  "commit": "1eecc58f05652820f4b4dad181f2a921a4e13960",
+  "generated": "2024-09-05T10:32:26.478Z",
   "metadata": [
     {
       "__outstatic": {
@@ -731,6 +731,28 @@
       "slug": "dollar-bears-emerge",
       "status": "published",
       "title": "2nd Sept: Dollar Bears Emerge, Taiwan Swap Market Tensions"
+    },
+    {
+      "__outstatic": {
+        "commit": "1eecc58f05652820f4b4dad181f2a921a4e13960",
+        "hash": "789362348",
+        "path": "outstatic/content/blogs/sec-drops-hedge-fund-fee-rule.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/sec-drops-hedge-fund-fee-rule--tikehau-sells-preligens-stake-b-cyOD.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-05T10:58:50.432Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "sec-drops-hedge-fund-fee-rule",
+      "status": "published",
+      "title": "5th Sept: SEC drops hedge fund fee rule, Tikehau sells Preligens stake"
     }
   ]
 }
