@@ -1,6 +1,6 @@
 {
-  "commit": "1eecc58f05652820f4b4dad181f2a921a4e13960",
-  "generated": "2024-09-05T10:32:26.478Z",
+  "commit": "7570fae6943de6f67815a327ff894879b6269ca4",
+  "generated": "2024-09-06T13:14:11.796Z",
   "metadata": [
     {
       "__outstatic": {
@@ -753,6 +753,27 @@
       "slug": "sec-drops-hedge-fund-fee-rule",
       "status": "published",
       "title": "5th Sept: SEC drops hedge fund fee rule, Tikehau sells Preligens stake"
+    },
+    {
+      "__outstatic": {
+        "commit": "7570fae6943de6f67815a327ff894879b6269ca4",
+        "hash": "598918139",
+        "path": "outstatic/content/blogs/park-square-raises-eu-4bn.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/park-square-raises--3.4bn--goldman-sells-hedge-stake-a-czND.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-09-06T13:18:01.747Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "park-square-raises-eu-4bn",
+      "status": "published",
+      "title": "6th Sept: Park Square Raises €3.4bn, Goldman Sells Hedge Stake"
     }
   ]
 }
