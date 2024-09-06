@@ -1,5 +1,6 @@
 ---
 cutOff: '4'
+latest: 'true'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/park-square-raises--3.4bn--goldman-sells-hedge-stake-a-czND.webp'

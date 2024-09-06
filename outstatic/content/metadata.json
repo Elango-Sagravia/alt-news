@@ -1,6 +1,6 @@
 {
-  "commit": "7570fae6943de6f67815a327ff894879b6269ca4",
-  "generated": "2024-09-06T13:14:11.796Z",
+  "commit": "0ced2b5a0a8dfe740e3d5e1e2255d3a32fdfd0f1",
+  "generated": "2024-09-06T13:20:03.641Z",
   "metadata": [
     {
       "__outstatic": {
@@ -756,8 +756,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7570fae6943de6f67815a327ff894879b6269ca4",
-        "hash": "598918139",
+        "commit": "0ced2b5a0a8dfe740e3d5e1e2255d3a32fdfd0f1",
+        "hash": "1523870587",
         "path": "outstatic/content/blogs/park-square-raises-eu-4bn.md"
       },
       "author": {
@@ -768,6 +768,7 @@
       "coverImage": "/images/park-square-raises--3.4bn--goldman-sells-hedge-stake-a-czND.webp",
       "cutOff": "4",
       "description": "",
+      "latest": "true",
       "publishedAt": "2024-09-06T13:18:01.747Z",
       "readTime": "5",
       "relatedArticles": "",
