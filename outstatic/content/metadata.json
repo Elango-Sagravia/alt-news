@@ -1,6 +1,6 @@
 {
-  "commit": "0ced2b5a0a8dfe740e3d5e1e2255d3a32fdfd0f1",
-  "generated": "2024-09-06T13:20:03.641Z",
+  "commit": "b54caf8feb6ca181a15cc4868ba524364517e229",
+  "generated": "2024-09-09T09:51:50.862Z",
   "metadata": [
     {
       "__outstatic": {
@@ -775,6 +775,28 @@
       "slug": "park-square-raises-eu-4bn",
       "status": "published",
       "title": "6th Sept: Park Square Raises €3.4bn, Goldman Sells Hedge Stake"
+    },
+    {
+      "__outstatic": {
+        "commit": "b54caf8feb6ca181a15cc4868ba524364517e229",
+        "hash": "1652883682",
+        "path": "outstatic/content/blogs/ai-hedge-fund-platform-launch.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/ai-hedge-fund-platform-launch--abrdn-shuts-fund--regal-targets-1b-1-E2MD.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-09T10:27:44.155Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "ai-hedge-fund-platform-launch",
+      "status": "published",
+      "title": "9th Sept: AI Hedge Fund Platform Launch, abrdn Shuts Fund, Regal Targets $1B"
     }
   ]
 }
