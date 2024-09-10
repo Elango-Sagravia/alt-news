@@ -1,6 +1,6 @@
 {
-  "commit": "b54caf8feb6ca181a15cc4868ba524364517e229",
-  "generated": "2024-09-09T09:51:50.862Z",
+  "commit": "8a18c9c7538fac53afbd1756aa1034528a1e0fe1",
+  "generated": "2024-09-10T11:28:24.783Z",
   "metadata": [
     {
       "__outstatic": {
@@ -797,6 +797,28 @@
       "slug": "ai-hedge-fund-platform-launch",
       "status": "published",
       "title": "9th Sept: AI Hedge Fund Platform Launch, abrdn Shuts Fund, Regal Targets $1B"
+    },
+    {
+      "__outstatic": {
+        "commit": "8a18c9c7538fac53afbd1756aa1034528a1e0fe1",
+        "hash": "2469987077",
+        "path": "outstatic/content/blogs/castiks-eu2b-fund-cvcs-schenker-bid.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/10th-sept--castik-s--2b-fund--cvc-s-schenker-bid--kkr-s-infrastructure-bet-b-A5Mz.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-10T11:57:58.900Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "castiks-eu2b-fund-cvcs-schenker-bid",
+      "status": "published",
+      "title": "10th Sept: Castik’s €2B Fund, CVC’s Schenker Bid, KKR’s Infrastructure Bet"
     }
   ]
 }
