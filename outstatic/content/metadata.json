@@ -1,6 +1,6 @@
 {
-  "commit": "8a18c9c7538fac53afbd1756aa1034528a1e0fe1",
-  "generated": "2024-09-10T11:28:24.783Z",
+  "commit": "408cab27aceacab64109d857e1ca6c926299f277",
+  "generated": "2024-09-11T16:22:32.164Z",
   "metadata": [
     {
       "__outstatic": {
@@ -819,6 +819,28 @@
       "slug": "castiks-eu2b-fund-cvcs-schenker-bid",
       "status": "published",
       "title": "10th Sept: Castik’s €2B Fund, CVC’s Schenker Bid, KKR’s Infrastructure Bet"
+    },
+    {
+      "__outstatic": {
+        "commit": "408cab27aceacab64109d857e1ca6c926299f277",
+        "hash": "1640690441",
+        "path": "outstatic/content/blogs/thames-water-crisis.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/11th-sept--thames-water-crisis--apollos-private-credit-etf-a-I1ND.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-10T16:53:41.000Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "thames-water-crisis",
+      "status": "published",
+      "title": "11th Sept: Thames Water Crisis, Apollo's Private Credit ETF"
     }
   ]
 }
