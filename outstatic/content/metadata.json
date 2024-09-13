@@ -1,6 +1,6 @@
 {
-  "commit": "ac6aa7e4348f86bed6f71ebfb06549256cd4f1e7",
-  "generated": "2024-09-13T11:09:12.713Z",
+  "commit": "1da58affa83f1a9f83a3161c5873b42376bef4d1",
+  "generated": "2024-09-13T17:11:57.425Z",
   "metadata": [
     {
       "__outstatic": {
@@ -863,6 +863,28 @@
       "slug": "blackrock-pipeline-deal",
       "status": "published",
       "title": "12th Sept: BlackRock pipeline deal, Blackstone optimistic on inflation"
+    },
+    {
+      "__outstatic": {
+        "commit": "1da58affa83f1a9f83a3161c5873b42376bef4d1",
+        "hash": "2317520122",
+        "path": "outstatic/content/blogs/blackrocks-new-portfolio.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/13th-sept--blackrock-s-new-portfolio--european-real-estate-rebounds-a-AxNz.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-12T17:23:08.000Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "blackrocks-new-portfolio",
+      "status": "published",
+      "title": "13th Sept: BlackRock’s new portfolio, European real estate rebounds"
     }
   ]
 }
