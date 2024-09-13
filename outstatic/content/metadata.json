@@ -1,6 +1,6 @@
 {
-  "commit": "408cab27aceacab64109d857e1ca6c926299f277",
-  "generated": "2024-09-11T16:22:32.164Z",
+  "commit": "1aa4e184790cd4f573d3fc9df54fec71e7322587",
+  "generated": "2024-09-13T09:05:42.498Z",
   "metadata": [
     {
       "__outstatic": {
@@ -841,6 +841,28 @@
       "slug": "thames-water-crisis",
       "status": "published",
       "title": "11th Sept: Thames Water Crisis, Apollo's Private Credit ETF"
+    },
+    {
+      "__outstatic": {
+        "commit": "1aa4e184790cd4f573d3fc9df54fec71e7322587",
+        "hash": "1302993793",
+        "path": "outstatic/content/blogs/blackrock-pipeline-deal.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/12th-sept--blackrock-pipeline-deal--blackstone-optimistic-on-inflation-b-AzMD.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-12T09:14:57.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "blackrock-pipeline-deal",
+      "status": "published",
+      "title": "12th Sept: BlackRock pipeline deal, Blackstone optimistic on inflation"
     }
   ]
 }
