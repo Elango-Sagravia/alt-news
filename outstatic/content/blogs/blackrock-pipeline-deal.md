@@ -42,7 +42,7 @@ Trend-following hedge funds had a rough August, [losing](https://www.hedgeweek.c
 
 ### Standard Chartered Launches Digital Asset Custody
 
-[![](/images/12th-sept--blackrock-pipeline-deal--blackstone-optimistic-on-inflation-b-A5Nz.webp)](Standard Chartered  office facacde)
+![Standard Chartered office facade](/images/12th-sept--blackrock-pipeline-deal--blackstone-optimistic-on-inflation-b-A5Nz.webp)
 
 Standard Chartered is [launching](https://www.hedgeweek.com/standard-chartered-launches-uae-digital-asset-custody-service-with-bh-digital-as-first-client/) a digital asset custody service in the UAE, and Brevan Howard Digital is its first client. This new service will initially focus on bitcoin and ether, with plans to expand into other assets. Standard Chartered sees this as a big step in bridging traditional financial services with the emerging digital asset world. With a global reputation and a solid infrastructure, the bank hopes to attract more institutional clients looking for safe, regulated ways to store their digital assets.
 
