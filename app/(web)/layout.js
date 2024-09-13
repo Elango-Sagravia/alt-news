@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "AltDaily News",
-  description: "One of the leading newsletter",
+  description: "Alternative insights, fresh off the press",
 };
 
 export default function RootLayout({ children }) {
