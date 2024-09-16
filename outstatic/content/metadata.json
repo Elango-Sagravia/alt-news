@@ -1,6 +1,6 @@
 {
-  "commit": "1da58affa83f1a9f83a3161c5873b42376bef4d1",
-  "generated": "2024-09-13T17:11:57.425Z",
+  "commit": "61637c113b75918e943eb034b6533f849de0558c",
+  "generated": "2024-09-16T14:05:55.010Z",
   "metadata": [
     {
       "__outstatic": {
@@ -885,6 +885,28 @@
       "slug": "blackrocks-new-portfolio",
       "status": "published",
       "title": "13th Sept: BlackRock’s new portfolio, European real estate rebounds"
+    },
+    {
+      "__outstatic": {
+        "commit": "61637c113b75918e943eb034b6533f849de0558c",
+        "hash": "2908183577",
+        "path": "outstatic/content/blogs/cpp-expands-in-brazil.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/16th-sept--cpp-expands-in-brazil--icapital-goes-sports-a-g5MT.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-16T14:36:15.863Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "cpp-expands-in-brazil",
+      "status": "published",
+      "title": "16th Sept: CPP Expands in Brazil, iCapital Goes Sports"
     }
   ]
 }
