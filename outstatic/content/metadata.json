@@ -1,6 +1,6 @@
 {
-  "commit": "83783afb77542c7194194cecaee759dc5cc4a0ca",
-  "generated": "2024-09-17T12:27:55.423Z",
+  "commit": "59d72e8a12b3105b2304ded7cef15bba13dbf901",
+  "generated": "2024-09-18T13:36:54.649Z",
   "metadata": [
     {
       "__outstatic": {
@@ -929,6 +929,28 @@
       "slug": "millennium-seeks-10bn",
       "status": "published",
       "title": "17th Sep: Millennium Seeks $10bn, Bridgewater Expands to NYC"
+    },
+    {
+      "__outstatic": {
+        "commit": "59d72e8a12b3105b2304ded7cef15bba13dbf901",
+        "hash": "1862303587",
+        "path": "outstatic/content/blogs/patria-s-100m-fund.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/18th-sept--patria-s--100m-fund--jpmorgan-eyes-apple-card-a-c5Nz.jpg",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-18T14:12:39.919Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "patria-s-100m-fund",
+      "status": "published",
+      "title": "18th Sept: Patria’s $100M Fund, JPMorgan Eyes Apple Card "
     }
   ]
 }
