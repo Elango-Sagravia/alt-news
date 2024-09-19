@@ -1,6 +1,6 @@
 {
-  "commit": "59d72e8a12b3105b2304ded7cef15bba13dbf901",
-  "generated": "2024-09-18T13:36:54.649Z",
+  "commit": "7ce7f7fb363243ddf521fa800176fda34839c3fa",
+  "generated": "2024-09-19T13:39:05.204Z",
   "metadata": [
     {
       "__outstatic": {
@@ -951,6 +951,28 @@
       "slug": "patria-s-100m-fund",
       "status": "published",
       "title": "18th Sept: Patria’s $100M Fund, JPMorgan Eyes Apple Card "
+    },
+    {
+      "__outstatic": {
+        "commit": "7ce7f7fb363243ddf521fa800176fda34839c3fa",
+        "hash": "557574673",
+        "path": "outstatic/content/blogs/quadratures-us-expansion.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/19th-sept--quadrature-s-us-expansion--rokos-losses--japan-hedge-fund-moves-a-cyMj.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-19T14:08:54.832Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "quadratures-us-expansion",
+      "status": "published",
+      "title": "19th Sept: Quadrature’s US Expansion, Rokos Losses, Japan Hedge Fund Moves"
     }
   ]
 }
