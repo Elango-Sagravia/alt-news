@@ -1,6 +1,6 @@
 {
-  "commit": "7ce7f7fb363243ddf521fa800176fda34839c3fa",
-  "generated": "2024-09-19T13:39:05.204Z",
+  "commit": "290362ea402f476ca6fa589d638a4c00d838fc84",
+  "generated": "2024-09-20T12:53:03.429Z",
   "metadata": [
     {
       "__outstatic": {
@@ -973,6 +973,28 @@
       "slug": "quadratures-us-expansion",
       "status": "published",
       "title": "19th Sept: Quadrature’s US Expansion, Rokos Losses, Japan Hedge Fund Moves"
+    },
+    {
+      "__outstatic": {
+        "commit": "290362ea402f476ca6fa589d638a4c00d838fc84",
+        "hash": "3622219668",
+        "path": "outstatic/content/blogs/20th-sep-icg-s-1-9b-fund-brookfield-s-india-bet.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/20th-sep--icg-s--1.9b-fund--brookfield-s-india-bet-b-M3Mj.jpg",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-20T12:57:16.458Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "20th-sep-icg-s-1-9b-fund-brookfield-s-india-bet",
+      "status": "published",
+      "title": "20th Sep: ICG’s $1.9B Fund, Brookfield’s India Bet"
     }
   ]
 }
