@@ -1,6 +1,6 @@
 {
-  "commit": "290362ea402f476ca6fa589d638a4c00d838fc84",
-  "generated": "2024-09-20T12:53:03.429Z",
+  "commit": "7ab6b551a87563cc89080720552a85000b270248",
+  "generated": "2024-09-23T11:55:43.721Z",
   "metadata": [
     {
       "__outstatic": {
@@ -995,6 +995,28 @@
       "slug": "20th-sep-icg-s-1-9b-fund-brookfield-s-india-bet",
       "status": "published",
       "title": "20th Sep: ICG’s $1.9B Fund, Brookfield’s India Bet"
+    },
+    {
+      "__outstatic": {
+        "commit": "7ab6b551a87563cc89080720552a85000b270248",
+        "hash": "4258994317",
+        "path": "outstatic/content/blogs/two-sigma-faces-100m-sec-fine.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/23rd-sep--two-sigma-faces-100m-sec-fine--hedge-funds-bearish-on-diesel-b-YyNT.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-23T12:31:28.999Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "two-sigma-faces-100m-sec-fine",
+      "status": "published",
+      "title": "23rd Sep: Two Sigma faces $100m SEC fine, Hedge funds bearish on diesel"
     }
   ]
 }
