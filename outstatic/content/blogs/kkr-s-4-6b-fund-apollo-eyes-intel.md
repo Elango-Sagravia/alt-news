@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/24th-sept--kkr-s-4.6b-fund--apollo-eyes-intel-a-c4NT.webp'
+coverImage: '/images/24th-sept--kkr-s-4.6b-fund--apollo-eyes-intel-a-cwNz.webp'
 description: ''
 slug: 'kkr-s-4-6b-fund-apollo-eyes-intel'
 author:
@@ -42,7 +42,7 @@ The Singapore Exchange (SGX) is considering [expanding](https://www.hedgeweek.co
 
 ### Apollo Eyes $5 Billion Investment in Intel
 
-\[![](/images/24th-sept--kkr-s-4.6b-fund--apollo-eyes-intel-b-E4MT.webp)\](Apollo Global Management is in talks to invest up to $5 billion in Intel)
+![Apollo Global Management is in talks to invest up to $5 billion in Intel](/images/24th-sept--kkr-s-4.6b-fund--apollo-eyes-intel-b-E4MT.webp)
 
 Apollo Global Management is in talks with [Intel](https://www.privateequitywire.co.uk/apollo-eyes-5bn-intel-investment/) to make an equity-like investment of up to $5 billion. Intel, once the world’s top chipmaker, has seen its stock fall by 60% this year amid operational struggles. Apollo’s proposed investment would support Intel as it navigates challenging market conditions. While negotiations are still in the early stages, this investment would represent a significant boost for the semiconductor giant​.
 
