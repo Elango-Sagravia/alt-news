@@ -1,6 +1,6 @@
 {
-  "commit": "7ab6b551a87563cc89080720552a85000b270248",
-  "generated": "2024-09-23T11:55:43.721Z",
+  "commit": "1eafd4e8327db56e795ed55b201ae90d2a02012f",
+  "generated": "2024-09-24T12:56:58.605Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1017,6 +1017,28 @@
       "slug": "two-sigma-faces-100m-sec-fine",
       "status": "published",
       "title": "23rd Sep: Two Sigma faces $100m SEC fine, Hedge funds bearish on diesel"
+    },
+    {
+      "__outstatic": {
+        "commit": "1eafd4e8327db56e795ed55b201ae90d2a02012f",
+        "hash": "409640859",
+        "path": "outstatic/content/blogs/kkr-s-4-6b-fund-apollo-eyes-intel.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-24T13:33:08.073Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "kkr-s-4-6b-fund-apollo-eyes-intel",
+      "status": "published",
+      "title": "24th Sept: KKR’s $4.6B Fund, Apollo Eyes Intel"
     }
   ]
 }
