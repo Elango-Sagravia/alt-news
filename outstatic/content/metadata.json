@@ -1,6 +1,6 @@
 {
-  "commit": "1eafd4e8327db56e795ed55b201ae90d2a02012f",
-  "generated": "2024-09-24T12:56:58.605Z",
+  "commit": "a77a75dca26208fb4aaf4b451092425ef21853c7",
+  "generated": "2024-09-24T13:05:07.705Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1020,8 +1020,8 @@
     },
     {
       "__outstatic": {
-        "commit": "1eafd4e8327db56e795ed55b201ae90d2a02012f",
-        "hash": "409640859",
+        "commit": "a77a75dca26208fb4aaf4b451092425ef21853c7",
+        "hash": "996045284",
         "path": "outstatic/content/blogs/kkr-s-4-6b-fund-apollo-eyes-intel.md"
       },
       "author": {
@@ -1029,7 +1029,7 @@
         "picture": ""
       },
       "collection": "blogs",
-      "coverImage": "",
+      "coverImage": "/images/24th-sept--kkr-s-4.6b-fund--apollo-eyes-intel-a-c4NT.webp",
       "cutOff": "4",
       "description": "",
       "latest": "true",
