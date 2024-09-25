@@ -1,6 +1,6 @@
 {
-  "commit": "a77a75dca26208fb4aaf4b451092425ef21853c7",
-  "generated": "2024-09-24T13:06:09.528Z",
+  "commit": "8dae180c32bda3199089286ffa9d4297674442bb",
+  "generated": "2024-09-25T15:32:34.469Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1039,6 +1039,27 @@
       "slug": "kkr-s-4-6b-fund-apollo-eyes-intel",
       "status": "published",
       "title": "24th Sept: KKR’s $4.6B Fund, Apollo Eyes Intel"
+    },
+    {
+      "__outstatic": {
+        "commit": "8dae180c32bda3199089286ffa9d4297674442bb",
+        "hash": "4141134754",
+        "path": "outstatic/content/blogs/blackstones-8-4b-smartsheet-deal.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/25th-sep--blackstone-s-8.4b-smartsheet-deal--gold-bull-run-a-c1Nz.webp",
+      "cutOff": "4",
+      "description": "",
+      "publishedAt": "2024-09-25T02:00:47.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "blackstones-8-4b-smartsheet-deal",
+      "status": "published",
+      "title": "25th Sep: Blackstone’s $8.4B Smartsheet Deal, Gold Bull Run"
     }
   ]
 }
