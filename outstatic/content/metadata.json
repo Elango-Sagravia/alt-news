@@ -1,6 +1,6 @@
 {
   "commit": "e8d7a6be9126294c73247e8cb3c70effa842cf0c",
-  "generated": "2024-09-25T15:35:59.966Z",
+  "generated": "2024-09-25T15:36:30.001Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1043,7 +1043,7 @@
     {
       "__outstatic": {
         "commit": "e8d7a6be9126294c73247e8cb3c70effa842cf0c",
-        "hash": "4141134754",
+        "hash": "3338554043",
         "path": "outstatic/content/blogs/blackstones-8-4b-smartsheet-deal.md"
       },
       "author": {
@@ -1054,6 +1054,7 @@
       "coverImage": "/images/25th-sep--blackstone-s-8.4b-smartsheet-deal--gold-bull-run-a-c1Nz.webp",
       "cutOff": "4",
       "description": "",
+      "latest": "true",
       "publishedAt": "2024-09-25T02:00:47.000Z",
       "readTime": "5",
       "relatedArticles": "",

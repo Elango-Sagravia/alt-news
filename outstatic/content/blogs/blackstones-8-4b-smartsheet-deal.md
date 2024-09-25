@@ -1,5 +1,6 @@
 ---
 cutOff: '4'
+latest: 'true'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/25th-sep--blackstone-s-8.4b-smartsheet-deal--gold-bull-run-a-c1Nz.webp'
