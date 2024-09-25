@@ -1,6 +1,6 @@
 {
-  "commit": "8dae180c32bda3199089286ffa9d4297674442bb",
-  "generated": "2024-09-25T15:32:34.469Z",
+  "commit": "e8d7a6be9126294c73247e8cb3c70effa842cf0c",
+  "generated": "2024-09-25T15:35:59.966Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1042,7 +1042,7 @@
     },
     {
       "__outstatic": {
-        "commit": "8dae180c32bda3199089286ffa9d4297674442bb",
+        "commit": "e8d7a6be9126294c73247e8cb3c70effa842cf0c",
         "hash": "4141134754",
         "path": "outstatic/content/blogs/blackstones-8-4b-smartsheet-deal.md"
       },
