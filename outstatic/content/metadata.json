@@ -1,6 +1,6 @@
 {
-  "commit": "73dfa2254eff1239d18e55abb4f5f7e073d85e7f",
-  "generated": "2024-09-26T14:44:05.707Z",
+  "commit": "4599f3f3ac12fade35c162d2ac7585e8d11353c1",
+  "generated": "2024-09-27T14:23:46.488Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1083,6 +1083,28 @@
       "slug": "dubai-hedge-fund-growth-ellison-sentenced-for-ftx-fraud",
       "status": "published",
       "title": "26th Sep: Dubai Hedge Fund Growth, Ellison Sentenced for FTX Fraud"
+    },
+    {
+      "__outstatic": {
+        "commit": "4599f3f3ac12fade35c162d2ac7585e8d11353c1",
+        "hash": "789919008",
+        "path": "outstatic/content/blogs/dubai-s-hedge-fund-boom.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/27th-sept--dubais-hedge-fund-boom--omers-europe-exit--elliott-eyes-southwest-ceo-a-I3Nj.webp",
+      "cutOff": "4",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-27T14:57:23.696Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "dubai-s-hedge-fund-boom",
+      "status": "published",
+      "title": "27th Sept: Dubai's Hedge Fund Boom, Omers' Europe Exit, Elliott Eyes Southwest CEO"
     }
   ]
 }
