@@ -1,6 +1,6 @@
 {
-  "commit": "4599f3f3ac12fade35c162d2ac7585e8d11353c1",
-  "generated": "2024-09-27T14:23:46.488Z",
+  "commit": "755c415a904a734c58e8052cd995e0d83f85d7d6",
+  "generated": "2024-09-30T14:44:57.390Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1105,6 +1105,28 @@
       "slug": "dubai-s-hedge-fund-boom",
       "status": "published",
       "title": "27th Sept: Dubai's Hedge Fund Boom, Omers' Europe Exit, Elliott Eyes Southwest CEO"
+    },
+    {
+      "__outstatic": {
+        "commit": "755c415a904a734c58e8052cd995e0d83f85d7d6",
+        "hash": "291223545",
+        "path": "outstatic/content/blogs/whatfix-secures-90m-hedge-funds-hit-by-china-rally.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/30th-sept--whatfix-secures-90m--hedge-funds-hit-by-china-rally-a-Q0OT.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-30T15:23:06.548Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "whatfix-secures-90m-hedge-funds-hit-by-china-rally",
+      "status": "published",
+      "title": "30th Sept: Whatfix Secures $90M, Hedge Funds Hit by China Rally"
     }
   ]
 }
