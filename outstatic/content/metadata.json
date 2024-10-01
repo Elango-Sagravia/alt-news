@@ -1,6 +1,6 @@
 {
-  "commit": "9b22b0bb49944a1647119545f675842d8552ebbd",
-  "generated": "2024-10-01T15:09:42.652Z",
+  "commit": "89989ea107bbeb7ff75ebdd514a8d3d47a379e85",
+  "generated": "2024-10-01T15:10:31.416Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1130,8 +1130,8 @@
     },
     {
       "__outstatic": {
-        "commit": "9b22b0bb49944a1647119545f675842d8552ebbd",
-        "hash": "788645732",
+        "commit": "89989ea107bbeb7ff75ebdd514a8d3d47a379e85",
+        "hash": "4081403955",
         "path": "outstatic/content/blogs/gip-s-3b-fund-china-stock-rally-squeezes-hedge-funds.md"
       },
       "author": {
@@ -1139,7 +1139,7 @@
         "picture": ""
       },
       "collection": "blogs",
-      "coverImage": "",
+      "coverImage": "/images/1st-oct--gips-3b-fund--china-stock-rally-squeezes-hedge-funds-a--1--U4Mj.webp",
       "cutOff": "5",
       "description": "",
       "latest": "true",
@@ -1147,7 +1147,7 @@
       "readTime": "5",
       "relatedArticles": "",
       "slug": "gip-s-3b-fund-china-stock-rally-squeezes-hedge-funds",
-      "status": "draft",
+      "status": "published",
       "title": "1st Oct: GIP's $3B fund, China stock rally squeezes hedge funds"
     }
   ]
