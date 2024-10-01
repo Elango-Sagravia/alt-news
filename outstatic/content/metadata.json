@@ -1,6 +1,6 @@
 {
-  "commit": "755c415a904a734c58e8052cd995e0d83f85d7d6",
-  "generated": "2024-09-30T14:44:57.390Z",
+  "commit": "9b22b0bb49944a1647119545f675842d8552ebbd",
+  "generated": "2024-10-01T15:09:42.652Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1127,6 +1127,28 @@
       "slug": "whatfix-secures-90m-hedge-funds-hit-by-china-rally",
       "status": "published",
       "title": "30th Sept: Whatfix Secures $90M, Hedge Funds Hit by China Rally"
+    },
+    {
+      "__outstatic": {
+        "commit": "9b22b0bb49944a1647119545f675842d8552ebbd",
+        "hash": "788645732",
+        "path": "outstatic/content/blogs/gip-s-3b-fund-china-stock-rally-squeezes-hedge-funds.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-01T15:29:41.554Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "gip-s-3b-fund-china-stock-rally-squeezes-hedge-funds",
+      "status": "draft",
+      "title": "1st Oct: GIP's $3B fund, China stock rally squeezes hedge funds"
     }
   ]
 }
