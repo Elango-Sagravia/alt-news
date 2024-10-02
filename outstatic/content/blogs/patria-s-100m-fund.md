@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '7'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
@@ -10,8 +10,7 @@ author:
   name: 'Camy'
   picture: ''
 status: 'published'
-title: '18th Sept: Patria’s $100M Fund, JPMorgan Eyes Apple Card
-'
+title: '18th Sept: Patria’s $100M Fund, JPMorgan Eyes Apple Card '
 publishedAt: '2024-09-18T14:12:39.919Z'
 ---
 

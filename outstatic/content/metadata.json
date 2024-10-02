@@ -1,6 +1,6 @@
 {
-  "commit": "919d00c1571e7520c22937a2c41760c1c6bda919",
-  "generated": "2024-10-02T10:18:24.989Z",
+  "commit": "40056cdf1cabefa0b4bcbe368265425e1bf7f63d",
+  "generated": "2024-10-02T10:18:45.983Z",
   "metadata": [
     {
       "__outstatic": {
@@ -195,28 +195,6 @@
       "slug": "ensure-our-newsletter-reaches-your-inbox",
       "status": "published",
       "title": "Ensure our newsletter reaches your inbox"
-    },
-    {
-      "__outstatic": {
-        "commit": "59d72e8a12b3105b2304ded7cef15bba13dbf901",
-        "hash": "1862303587",
-        "path": "outstatic/content/blogs/patria-s-100m-fund.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/18th-sept--patria-s--100m-fund--jpmorgan-eyes-apple-card-a-c5Nz.jpg",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-18T14:12:39.919Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "patria-s-100m-fund",
-      "status": "published",
-      "title": "18th Sept: Patria’s $100M Fund, JPMorgan Eyes Apple Card "
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "cpp-expands-in-brazil",
       "status": "published",
       "title": "16th Sept: CPP Expands in Brazil, iCapital Goes Sports"
+    },
+    {
+      "__outstatic": {
+        "commit": "40056cdf1cabefa0b4bcbe368265425e1bf7f63d",
+        "hash": "2219474804",
+        "path": "outstatic/content/blogs/patria-s-100m-fund.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/18th-sept--patria-s--100m-fund--jpmorgan-eyes-apple-card-a-c5Nz.jpg",
+      "cutOff": "7",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-18T14:12:39.919Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "patria-s-100m-fund",
+      "status": "published",
+      "title": "18th Sept: Patria’s $100M Fund, JPMorgan Eyes Apple Card "
     }
   ]
 }
