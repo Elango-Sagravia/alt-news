@@ -1,6 +1,6 @@
 {
-  "commit": "40056cdf1cabefa0b4bcbe368265425e1bf7f63d",
-  "generated": "2024-10-02T10:19:41.172Z",
+  "commit": "77a354002481c8ca878d955ac2e640069ec733cf",
+  "generated": "2024-10-02T10:20:11.588Z",
   "metadata": [
     {
       "__outstatic": {
@@ -195,28 +195,6 @@
       "slug": "ensure-our-newsletter-reaches-your-inbox",
       "status": "published",
       "title": "Ensure our newsletter reaches your inbox"
-    },
-    {
-      "__outstatic": {
-        "commit": "7ce7f7fb363243ddf521fa800176fda34839c3fa",
-        "hash": "557574673",
-        "path": "outstatic/content/blogs/quadratures-us-expansion.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/19th-sept--quadrature-s-us-expansion--rokos-losses--japan-hedge-fund-moves-a-cyMj.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-19T14:08:54.832Z",
-      "readTime": "4",
-      "relatedArticles": "",
-      "slug": "quadratures-us-expansion",
-      "status": "published",
-      "title": "19th Sept: Quadrature’s US Expansion, Rokos Losses, Japan Hedge Fund Moves"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "patria-s-100m-fund",
       "status": "published",
       "title": "18th Sept: Patria’s $100M Fund, JPMorgan Eyes Apple Card "
+    },
+    {
+      "__outstatic": {
+        "commit": "77a354002481c8ca878d955ac2e640069ec733cf",
+        "hash": "380892540",
+        "path": "outstatic/content/blogs/quadratures-us-expansion.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/19th-sept--quadrature-s-us-expansion--rokos-losses--japan-hedge-fund-moves-a-cyMj.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-19T14:08:54.832Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "quadratures-us-expansion",
+      "status": "published",
+      "title": "19th Sept: Quadrature’s US Expansion, Rokos Losses, Japan Hedge Fund Moves"
     }
   ]
 }
