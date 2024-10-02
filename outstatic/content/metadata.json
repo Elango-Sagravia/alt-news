@@ -1,6 +1,6 @@
 {
-  "commit": "79ba71b55bafd6c48b0a7050d94a85fe43fa77ba",
-  "generated": "2024-10-02T09:50:40.379Z",
+  "commit": "14433a18bf18559977fba2e0d4daa706c8157e44",
+  "generated": "2024-10-02T09:53:33.538Z",
   "metadata": [
     {
       "__outstatic": {
@@ -591,28 +591,6 @@
     },
     {
       "__outstatic": {
-        "commit": "4599f3f3ac12fade35c162d2ac7585e8d11353c1",
-        "hash": "789919008",
-        "path": "outstatic/content/blogs/dubai-s-hedge-fund-boom.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/27th-sept--dubais-hedge-fund-boom--omers-europe-exit--elliott-eyes-southwest-ceo-a-I3Nj.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-27T14:57:23.696Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "dubai-s-hedge-fund-boom",
-      "status": "published",
-      "title": "27th Sept: Dubai's Hedge Fund Boom, Omers' Europe Exit, Elliott Eyes Southwest CEO"
-    },
-    {
-      "__outstatic": {
         "commit": "755c415a904a734c58e8052cd995e0d83f85d7d6",
         "hash": "291223545",
         "path": "outstatic/content/blogs/whatfix-secures-90m-hedge-funds-hit-by-china-rally.md"
@@ -1149,6 +1127,28 @@
       "slug": "hedge-funds-bet-big-on-gold",
       "status": "published",
       "title": "26th Aug: Hedge Funds Bet Big on Gold, Diesel Market Struggles"
+    },
+    {
+      "__outstatic": {
+        "commit": "14433a18bf18559977fba2e0d4daa706c8157e44",
+        "hash": "320832708",
+        "path": "outstatic/content/blogs/dubai-s-hedge-fund-boom.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/27th-sept--dubais-hedge-fund-boom--omers-europe-exit--elliott-eyes-southwest-ceo-a-I3Nj.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-27T14:57:23.696Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "dubai-s-hedge-fund-boom",
+      "status": "published",
+      "title": "27th Sept: Dubai's Hedge Fund Boom, Omers' Europe Exit, Elliott Eyes Southwest CEO"
     }
   ]
 }
