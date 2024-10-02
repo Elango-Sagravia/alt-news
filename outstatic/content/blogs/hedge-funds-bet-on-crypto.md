@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '6'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/zepto-quick-commerce-M0OD.webp'
