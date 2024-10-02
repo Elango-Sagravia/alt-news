@@ -1,6 +1,6 @@
 {
-  "commit": "5f4fafe8f6833581b363fce1a51ea3be76288d6b",
-  "generated": "2024-10-02T10:17:58.673Z",
+  "commit": "919d00c1571e7520c22937a2c41760c1c6bda919",
+  "generated": "2024-10-02T10:18:24.989Z",
   "metadata": [
     {
       "__outstatic": {
@@ -195,28 +195,6 @@
       "slug": "ensure-our-newsletter-reaches-your-inbox",
       "status": "published",
       "title": "Ensure our newsletter reaches your inbox"
-    },
-    {
-      "__outstatic": {
-        "commit": "61637c113b75918e943eb034b6533f849de0558c",
-        "hash": "2908183577",
-        "path": "outstatic/content/blogs/cpp-expands-in-brazil.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/16th-sept--cpp-expands-in-brazil--icapital-goes-sports-a-g5MT.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-16T14:36:15.863Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "cpp-expands-in-brazil",
-      "status": "published",
-      "title": "16th Sept: CPP Expands in Brazil, iCapital Goes Sports"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "millennium-seeks-10bn",
       "status": "published",
       "title": "17th Sep: Millennium Seeks $10bn, Bridgewater Expands to NYC"
+    },
+    {
+      "__outstatic": {
+        "commit": "919d00c1571e7520c22937a2c41760c1c6bda919",
+        "hash": "1381761128",
+        "path": "outstatic/content/blogs/cpp-expands-in-brazil.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/16th-sept--cpp-expands-in-brazil--icapital-goes-sports-a-g5MT.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-16T14:36:15.863Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "cpp-expands-in-brazil",
+      "status": "published",
+      "title": "16th Sept: CPP Expands in Brazil, iCapital Goes Sports"
     }
   ]
 }
