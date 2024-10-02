@@ -1,6 +1,6 @@
 {
-  "commit": "82b7b38e4e96ae11206dcc43e95cae81f1561773",
-  "generated": "2024-10-02T10:24:10.282Z",
+  "commit": "951895e70cdf2fffc492428e16bfa1a5d1e9725b",
+  "generated": "2024-10-02T10:31:01.332Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1042,28 +1042,6 @@
     },
     {
       "__outstatic": {
-        "commit": "77a354002481c8ca878d955ac2e640069ec733cf",
-        "hash": "380892540",
-        "path": "outstatic/content/blogs/quadratures-us-expansion.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/19th-sept--quadrature-s-us-expansion--rokos-losses--japan-hedge-fund-moves-a-cyMj.webp",
-      "cutOff": "6",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-19T14:08:54.832Z",
-      "readTime": "4",
-      "relatedArticles": "",
-      "slug": "quadratures-us-expansion",
-      "status": "published",
-      "title": "19th Sept: Quadrature’s US Expansion, Rokos Losses, Japan Hedge Fund Moves"
-    },
-    {
-      "__outstatic": {
         "commit": "3247577a080d9f9fcafb9e0b446a9e4667c8974e",
         "hash": "359724210",
         "path": "outstatic/content/blogs/two-sigma-faces-100m-sec-fine.md"
@@ -1149,6 +1127,28 @@
       "slug": "dubai-hedge-fund-growth-ellison-sentenced-for-ftx-fraud",
       "status": "published",
       "title": "26th Sep: Dubai Hedge Fund Growth, Ellison Sentenced for FTX Fraud"
+    },
+    {
+      "__outstatic": {
+        "commit": "951895e70cdf2fffc492428e16bfa1a5d1e9725b",
+        "hash": "3232318430",
+        "path": "outstatic/content/blogs/quadratures-us-expansion.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/19th-sept--quadrature-s-us-expansion--rokos-losses--japan-hedge-fund-moves-a-cyMj.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-19T14:08:54.832Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "quadratures-us-expansion",
+      "status": "published",
+      "title": "19th Sept: Quadrature’s US Expansion, Rokos Losses, Japan Hedge Fund Moves"
     }
   ]
 }
