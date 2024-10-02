@@ -1,6 +1,6 @@
 {
-  "commit": "0e7271a8805490a7df3f1b29e253b4d9a4e56155",
-  "generated": "2024-10-02T10:00:12.173Z",
+  "commit": "dc6f71094ff388c1bd201d6d09f67c21cadd628d",
+  "generated": "2024-10-02T10:03:43.839Z",
   "metadata": [
     {
       "__outstatic": {
@@ -195,28 +195,6 @@
       "slug": "ensure-our-newsletter-reaches-your-inbox",
       "status": "published",
       "title": "Ensure our newsletter reaches your inbox"
-    },
-    {
-      "__outstatic": {
-        "commit": "b54caf8feb6ca181a15cc4868ba524364517e229",
-        "hash": "1652883682",
-        "path": "outstatic/content/blogs/ai-hedge-fund-platform-launch.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/ai-hedge-fund-platform-launch--abrdn-shuts-fund--regal-targets-1b-1-E2MD.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-09T10:27:44.155Z",
-      "readTime": "4",
-      "relatedArticles": "",
-      "slug": "ai-hedge-fund-platform-launch",
-      "status": "published",
-      "title": "9th Sept: AI Hedge Fund Platform Launch, abrdn Shuts Fund, Regal Targets $1B"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "park-square-raises-eu-4bn",
       "status": "published",
       "title": "6th Sept: Park Square Raises €3.4bn, Goldman Sells Hedge Stake"
+    },
+    {
+      "__outstatic": {
+        "commit": "dc6f71094ff388c1bd201d6d09f67c21cadd628d",
+        "hash": "579063879",
+        "path": "outstatic/content/blogs/ai-hedge-fund-platform-launch.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/ai-hedge-fund-platform-launch--abrdn-shuts-fund--regal-targets-1b-1-E2MD.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-09T10:27:44.155Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "ai-hedge-fund-platform-launch",
+      "status": "published",
+      "title": "9th Sept: AI Hedge Fund Platform Launch, abrdn Shuts Fund, Regal Targets $1B"
     }
   ]
 }
