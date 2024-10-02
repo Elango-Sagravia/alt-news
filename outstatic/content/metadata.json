@@ -1,6 +1,6 @@
 {
-  "commit": "1a9143c28708481ff1cda9ab0cee271722bd2a98",
-  "generated": "2024-10-02T09:33:42.014Z",
+  "commit": "c989b7350553c319735ee1fdeb3ce9ffa8b8f14c",
+  "generated": "2024-10-02T09:34:31.162Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,27 +98,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "a20b0f6d75d0fc961d84e579e8a1da33feae5ba0",
-        "hash": "2496809493",
-        "path": "outstatic/content/blogs/gleans-250m-raise.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/electrochromic-U2NT.webp",
-      "cutOff": "4",
-      "description": "",
-      "publishedAt": "2024-08-11T17:03:10.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "gleans-250m-raise",
-      "status": "published",
-      "title": "12th Aug: Glean’s $250M Raise, Shiprocket’s $120M Funding Round"
     },
     {
       "__outstatic": {
@@ -1149,6 +1128,27 @@
       "slug": "trend-micro-buyout",
       "status": "published",
       "title": "11th Aug: Trend Micro Buyout Buzz, SoftBank’s AI Push "
+    },
+    {
+      "__outstatic": {
+        "commit": "c989b7350553c319735ee1fdeb3ce9ffa8b8f14c",
+        "hash": "1194102436",
+        "path": "outstatic/content/blogs/gleans-250m-raise.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/electrochromic-U2NT.webp",
+      "cutOff": "5",
+      "description": "",
+      "publishedAt": "2024-08-11T17:03:10.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "gleans-250m-raise",
+      "status": "published",
+      "title": "12th Aug: Glean’s $250M Raise, Shiprocket’s $120M Funding Round"
     }
   ]
 }
