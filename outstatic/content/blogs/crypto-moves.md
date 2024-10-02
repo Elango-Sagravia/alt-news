@@ -18,7 +18,7 @@ publishedAt: '2024-08-21T12:56:14.000Z'
 
 Coatue Management just made a bold move by increasing its [stake in Nvidia](https://www.hedgeweek.com/coatue-ups-nvidia-stake-by-nearly-900/) by nearly 900% in Q2. The hedge fund now holds 13.75 million shares, making up 6.61% of its portfolio. While other funds like Citadel and DE Shaw cut their Nvidia holdings, Coatue is doubling down, with its position now valued at around $1.7 billion. Coatue isn't alone in betting big on Nvidia—Renaissance Technologies and Marshall Wace also boosted their stakes. Coatue sees massive potential in the chipmaker, and they're not afraid to back it up with serious cash.
 
-### **Hedge Funds Shift from Industrials to Energy**
+### Hedge Funds Shift from Industrials to Energy
 
 Hedge funds are making a major move, [selling off industrial stocks](https://www.hedgeweek.com/hedge-funds-sell-industrial-stocks-and-buy-energy/) at the fastest pace in five years while continuing to buy energy stocks. According to a Goldman Sachs report, hedge funds are offloading companies in professional services, transportation, and machinery and instead picking up oil, gas, and energy equipment shares. This shift comes ahead of a potential U.S. interest rate cut as funds look to capitalize on sectors that might benefit from lower rates. Energy stocks have been hedge funds' top buys for four consecutive weeks.
 
