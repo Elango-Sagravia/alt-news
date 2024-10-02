@@ -1,6 +1,6 @@
 {
-  "commit": "778fccb971eeec1172ac131fbe43e82d8176095e",
-  "generated": "2024-10-02T09:45:41.246Z",
+  "commit": "639863d7d9e0d76ee0d9d47714a92280695c4ca3",
+  "generated": "2024-10-02T09:46:28.037Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1130,7 +1130,7 @@
     },
     {
       "__outstatic": {
-        "commit": "778fccb971eeec1172ac131fbe43e82d8176095e",
+        "commit": "639863d7d9e0d76ee0d9d47714a92280695c4ca3",
         "hash": "1593430660",
         "path": "outstatic/content/blogs/exoduspoints-decline-viking-s-big-win.md"
       },
