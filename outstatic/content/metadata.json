@@ -1,6 +1,6 @@
 {
-  "commit": "5a7dca303d658dd5e0cec1bb6cf7a382d34218e3",
-  "generated": "2024-10-02T09:32:58.607Z",
+  "commit": "1a9143c28708481ff1cda9ab0cee271722bd2a98",
+  "generated": "2024-10-02T09:33:42.014Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,28 +98,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "9fe668347842e8473068f10912faae30878e1d7a",
-        "hash": "4153259750",
-        "path": "outstatic/content/blogs/trend-micro-buyout.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/celletrion-merger-UyOD.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-11T14:56:38.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "trend-micro-buyout",
-      "status": "published",
-      "title": "11th Aug: Trend Micro Buyout Buzz, SoftBank’s AI Push "
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "castiks-eu2b-fund-cvcs-schenker-bid",
       "status": "published",
       "title": "10th Sept: Castik’s €2B Fund, CVC’s Schenker Bid, KKR’s Infrastructure Bet"
+    },
+    {
+      "__outstatic": {
+        "commit": "1a9143c28708481ff1cda9ab0cee271722bd2a98",
+        "hash": "3945049343",
+        "path": "outstatic/content/blogs/trend-micro-buyout.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/celletrion-merger-UyOD.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-11T14:56:38.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "trend-micro-buyout",
+      "status": "published",
+      "title": "11th Aug: Trend Micro Buyout Buzz, SoftBank’s AI Push "
     }
   ]
 }
