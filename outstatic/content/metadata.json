@@ -1,6 +1,6 @@
 {
-  "commit": "c17fb392cee5193c8666670c4f7d0783ea1d8d81",
-  "generated": "2024-10-02T09:56:42.458Z",
+  "commit": "a0a034d3175abbcfbe9b07e607d2b93b0b60487a",
+  "generated": "2024-10-02T09:57:38.780Z",
   "metadata": [
     {
       "__outstatic": {
@@ -195,28 +195,6 @@
       "slug": "ensure-our-newsletter-reaches-your-inbox",
       "status": "published",
       "title": "Ensure our newsletter reaches your inbox"
-    },
-    {
-      "__outstatic": {
-        "commit": "c57a076e60a388c62b02adae02bef469288da5fb",
-        "hash": "4152928068",
-        "path": "outstatic/content/blogs/morgan-stanley-targets-hedge-funds.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/4th-sept--morgan-stanley-targets-hedge-funds--newspring-invests-in-hotels-b--1--MzNT.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-04T11:37:23.268Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "morgan-stanley-targets-hedge-funds",
-      "status": "published",
-      "title": "4th Sept: Morgan Stanley Targets Hedge Funds, NewSpring Invests in Hotels"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "blackstones-13-5b-deal",
       "status": "published",
       "title": "3rd Sept: Blackstone's $13.5B Deal, Investcorp Shakeup"
+    },
+    {
+      "__outstatic": {
+        "commit": "a0a034d3175abbcfbe9b07e607d2b93b0b60487a",
+        "hash": "1193971464",
+        "path": "outstatic/content/blogs/morgan-stanley-targets-hedge-funds.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/4th-sept--morgan-stanley-targets-hedge-funds--newspring-invests-in-hotels-b--1--MzNT.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-04T11:37:23.268Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "morgan-stanley-targets-hedge-funds",
+      "status": "published",
+      "title": "4th Sept: Morgan Stanley Targets Hedge Funds, NewSpring Invests in Hotels"
     }
   ]
 }
