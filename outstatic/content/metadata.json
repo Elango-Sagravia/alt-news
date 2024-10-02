@@ -1,6 +1,6 @@
 {
-  "commit": "58b31539c1dd6e9132f1cef9f79ba1772208b282",
-  "generated": "2024-10-02T08:13:45.170Z",
+  "commit": "e46039f597d40c9e5fca6e6b6b16c854d18573f1",
+  "generated": "2024-10-02T09:27:43.167Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,27 +98,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "e841290a54e22de445ebc572f79eea3b18a0f537",
-        "hash": "1572129775",
-        "path": "outstatic/content/blogs/loan-defaults-dip.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": "/images/saudi-arabia-cyNz.webp"
-      },
-      "collection": "blogs",
-      "coverImage": "/images/saudi-arabia-I4ND.webp",
-      "cutOff": "3",
-      "description": "",
-      "publishedAt": "2024-08-06T12:20:58.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "loan-defaults-dip",
-      "status": "published",
-      "title": "6th Aug: Loan Defaults Dip, Saudi AI Fund, JP Morgan Forecasts "
     },
     {
       "__outstatic": {
@@ -1149,6 +1128,27 @@
       "slug": "golds-rise-crypto-confidence",
       "status": "published",
       "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
+    },
+    {
+      "__outstatic": {
+        "commit": "e46039f597d40c9e5fca6e6b6b16c854d18573f1",
+        "hash": "2384459991",
+        "path": "outstatic/content/blogs/loan-defaults-dip.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": "/images/saudi-arabia-cyNz.webp"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/saudi-arabia-I4ND.webp",
+      "cutOff": "5",
+      "description": "",
+      "publishedAt": "2024-08-06T12:20:58.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "loan-defaults-dip",
+      "status": "published",
+      "title": "6th Aug: Loan Defaults Dip, Saudi AI Fund, JP Morgan Forecasts "
     }
   ]
 }
