@@ -1,6 +1,6 @@
 {
-  "commit": "d9cc229c78edebd00f8ad071e9b709e34560e792",
-  "generated": "2024-10-02T08:12:55.297Z",
+  "commit": "58b31539c1dd6e9132f1cef9f79ba1772208b282",
+  "generated": "2024-10-02T08:13:45.170Z",
   "metadata": [
     {
       "__outstatic": {
@@ -591,28 +591,6 @@
     },
     {
       "__outstatic": {
-        "commit": "5b147966c0fab387ab192cd7240b28066588d6ba",
-        "hash": "3434533511",
-        "path": "outstatic/content/blogs/golds-rise-crypto-confidence.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/italian-wine-resilience-E1OT.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-05T12:06:56.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "golds-rise-crypto-confidence",
-      "status": "published",
-      "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
-    },
-    {
-      "__outstatic": {
         "commit": "8ecfec02aa252143a648eedf9cd1185d7a060afd",
         "hash": "1967878633",
         "path": "outstatic/content/pages/ensure-your-emails-are-delivered-with-allowlists.md"
@@ -1149,6 +1127,28 @@
       "slug": "florida-expands-pe-investments",
       "status": "published",
       "title": "2nd Aug: Florida Expands PE Investments, Apollo's $6.3B Gaming Deal "
+    },
+    {
+      "__outstatic": {
+        "commit": "58b31539c1dd6e9132f1cef9f79ba1772208b282",
+        "hash": "52684274",
+        "path": "outstatic/content/blogs/golds-rise-crypto-confidence.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/italian-wine-resilience-E1OT.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-05T12:06:56.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "golds-rise-crypto-confidence",
+      "status": "published",
+      "title": "5th Aug: Gold’s Rise, Crypto Confidence, Italian Wine Resilience "
     }
   ]
 }
