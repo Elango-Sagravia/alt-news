@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '5'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/30th-aug--nfls-new-pe-rules--amazon-overtakes-microsoft-a-A5Nz.webp'
