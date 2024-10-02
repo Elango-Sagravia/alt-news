@@ -1,6 +1,6 @@
 {
-  "commit": "6fdde1001e0d79d6d3bc933e0ccdf58b0494f2bd",
-  "generated": "2024-10-02T09:55:52.395Z",
+  "commit": "2a7ed0dece32373a7caf9944f654fef3ebdd4280",
+  "generated": "2024-10-02T09:56:24.135Z",
   "metadata": [
     {
       "__outstatic": {
@@ -239,27 +239,6 @@
       "slug": "morgan-stanley-targets-hedge-funds",
       "status": "published",
       "title": "4th Sept: Morgan Stanley Targets Hedge Funds, NewSpring Invests in Hotels"
-    },
-    {
-      "__outstatic": {
-        "commit": "65817528e82bc982f17e147553a379494b85092b",
-        "hash": "2769365891",
-        "path": "outstatic/content/blogs/dollar-bears-emerge.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/2nd-sept--dollar-bears-emerge--taiwan-swap-market-tensions-b-I1NT.webp",
-      "cutOff": "4",
-      "description": "",
-      "publishedAt": "2024-09-02T15:15:37.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "dollar-bears-emerge",
-      "status": "published",
-      "title": "2nd Sept: Dollar Bears Emerge, Taiwan Swap Market Tensions"
     },
     {
       "__outstatic": {
@@ -1149,6 +1128,27 @@
       "slug": "nfls-new-pe-rules",
       "status": "published",
       "title": "30th Aug: NFL's New PE Rules, Amazon Overtakes Microsoft"
+    },
+    {
+      "__outstatic": {
+        "commit": "2a7ed0dece32373a7caf9944f654fef3ebdd4280",
+        "hash": "2093833882",
+        "path": "outstatic/content/blogs/dollar-bears-emerge.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/2nd-sept--dollar-bears-emerge--taiwan-swap-market-tensions-b-I1NT.webp",
+      "cutOff": "5",
+      "description": "",
+      "publishedAt": "2024-09-02T15:15:37.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "dollar-bears-emerge",
+      "status": "published",
+      "title": "2nd Sept: Dollar Bears Emerge, Taiwan Swap Market Tensions"
     }
   ]
 }

@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '5'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/2nd-sept--dollar-bears-emerge--taiwan-swap-market-tensions-b-I1NT.webp'
