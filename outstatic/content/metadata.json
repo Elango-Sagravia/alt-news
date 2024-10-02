@@ -1,6 +1,6 @@
 {
-  "commit": "2a7ed0dece32373a7caf9944f654fef3ebdd4280",
-  "generated": "2024-10-02T09:56:24.135Z",
+  "commit": "c17fb392cee5193c8666670c4f7d0783ea1d8d81",
+  "generated": "2024-10-02T09:56:42.458Z",
   "metadata": [
     {
       "__outstatic": {
@@ -141,28 +141,6 @@
       "slug": "sec-eases-vc-rules",
       "status": "published",
       "title": "28th Aug: SEC Eases VC Rules, Blackstone Eyes $3.7B Loan"
-    },
-    {
-      "__outstatic": {
-        "commit": "bc9657c7e7a3e17a0eac9a81abf9ca905adb0828",
-        "hash": "2746742369",
-        "path": "outstatic/content/blogs/blackstones-13-5b-deal.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/3rd-september--blackstones-13.5b-deal--investcorp-shakeup-b-k5ND.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-03T15:42:27.393Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "blackstones-13-5b-deal",
-      "status": "published",
-      "title": "3rd Sept: Blackstone's $13.5B Deal, Investcorp Shakeup"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "dollar-bears-emerge",
       "status": "published",
       "title": "2nd Sept: Dollar Bears Emerge, Taiwan Swap Market Tensions"
+    },
+    {
+      "__outstatic": {
+        "commit": "c17fb392cee5193c8666670c4f7d0783ea1d8d81",
+        "hash": "2220124731",
+        "path": "outstatic/content/blogs/blackstones-13-5b-deal.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/3rd-september--blackstones-13.5b-deal--investcorp-shakeup-b-k5ND.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-03T15:42:27.393Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "blackstones-13-5b-deal",
+      "status": "published",
+      "title": "3rd Sept: Blackstone's $13.5B Deal, Investcorp Shakeup"
     }
   ]
 }
