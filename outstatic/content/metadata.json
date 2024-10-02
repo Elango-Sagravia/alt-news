@@ -1,6 +1,6 @@
 {
-  "commit": "77a354002481c8ca878d955ac2e640069ec733cf",
-  "generated": "2024-10-02T10:20:11.588Z",
+  "commit": "3247577a080d9f9fcafb9e0b446a9e4667c8974e",
+  "generated": "2024-10-02T10:22:02.282Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,28 +217,6 @@
       "slug": "20th-sep-icg-s-1-9b-fund-brookfield-s-india-bet",
       "status": "published",
       "title": "20th Sep: ICG’s $1.9B Fund, Brookfield’s India Bet"
-    },
-    {
-      "__outstatic": {
-        "commit": "7ab6b551a87563cc89080720552a85000b270248",
-        "hash": "4258994317",
-        "path": "outstatic/content/blogs/two-sigma-faces-100m-sec-fine.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/23rd-sep--two-sigma-faces-100m-sec-fine--hedge-funds-bearish-on-diesel-b-YyNT.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-23T12:31:28.999Z",
-      "readTime": "7",
-      "relatedArticles": "",
-      "slug": "two-sigma-faces-100m-sec-fine",
-      "status": "published",
-      "title": "23rd Sep: Two Sigma faces $100m SEC fine, Hedge funds bearish on diesel"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "quadratures-us-expansion",
       "status": "published",
       "title": "19th Sept: Quadrature’s US Expansion, Rokos Losses, Japan Hedge Fund Moves"
+    },
+    {
+      "__outstatic": {
+        "commit": "3247577a080d9f9fcafb9e0b446a9e4667c8974e",
+        "hash": "359724210",
+        "path": "outstatic/content/blogs/two-sigma-faces-100m-sec-fine.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/23rd-sep--two-sigma-faces-100m-sec-fine--hedge-funds-bearish-on-diesel-b-YyNT.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-23T12:31:28.999Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "two-sigma-faces-100m-sec-fine",
+      "status": "published",
+      "title": "23rd Sep: Two Sigma faces $100m SEC fine, Hedge funds bearish on diesel"
     }
   ]
 }
