@@ -1,6 +1,6 @@
 {
-  "commit": "a0a034d3175abbcfbe9b07e607d2b93b0b60487a",
-  "generated": "2024-10-02T09:57:38.780Z",
+  "commit": "aa84fc9e666e2e3a52d58febae4a72f0b1d451bc",
+  "generated": "2024-10-02T09:58:30.307Z",
   "metadata": [
     {
       "__outstatic": {
@@ -195,28 +195,6 @@
       "slug": "ensure-our-newsletter-reaches-your-inbox",
       "status": "published",
       "title": "Ensure our newsletter reaches your inbox"
-    },
-    {
-      "__outstatic": {
-        "commit": "1eecc58f05652820f4b4dad181f2a921a4e13960",
-        "hash": "789362348",
-        "path": "outstatic/content/blogs/sec-drops-hedge-fund-fee-rule.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/sec-drops-hedge-fund-fee-rule--tikehau-sells-preligens-stake-b-cyOD.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-05T10:58:50.432Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "sec-drops-hedge-fund-fee-rule",
-      "status": "published",
-      "title": "5th Sept: SEC drops hedge fund fee rule, Tikehau sells Preligens stake"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "morgan-stanley-targets-hedge-funds",
       "status": "published",
       "title": "4th Sept: Morgan Stanley Targets Hedge Funds, NewSpring Invests in Hotels"
+    },
+    {
+      "__outstatic": {
+        "commit": "aa84fc9e666e2e3a52d58febae4a72f0b1d451bc",
+        "hash": "280474553",
+        "path": "outstatic/content/blogs/sec-drops-hedge-fund-fee-rule.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/sec-drops-hedge-fund-fee-rule--tikehau-sells-preligens-stake-b-cyOD.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-05T10:58:50.432Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "sec-drops-hedge-fund-fee-rule",
+      "status": "published",
+      "title": "5th Sept: SEC drops hedge fund fee rule, Tikehau sells Preligens stake"
     }
   ]
 }
