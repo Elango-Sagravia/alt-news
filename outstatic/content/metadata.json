@@ -1,6 +1,6 @@
 {
-  "commit": "c989b7350553c319735ee1fdeb3ce9ffa8b8f14c",
-  "generated": "2024-10-02T09:34:31.162Z",
+  "commit": "299dc126e5a2a48a827194305c658e4214911a2c",
+  "generated": "2024-10-02T09:35:35.213Z",
   "metadata": [
     {
       "__outstatic": {
@@ -632,28 +632,6 @@
     },
     {
       "__outstatic": {
-        "commit": "1da58affa83f1a9f83a3161c5873b42376bef4d1",
-        "hash": "2317520122",
-        "path": "outstatic/content/blogs/blackrocks-new-portfolio.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/13th-sept--blackrock-s-new-portfolio--european-real-estate-rebounds-a-AxNz.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-12T17:23:08.000Z",
-      "readTime": "6",
-      "relatedArticles": "",
-      "slug": "blackrocks-new-portfolio",
-      "status": "published",
-      "title": "13th Sept: BlackRock’s new portfolio, European real estate rebounds"
-    },
-    {
-      "__outstatic": {
         "commit": "61637c113b75918e943eb034b6533f849de0558c",
         "hash": "2908183577",
         "path": "outstatic/content/blogs/cpp-expands-in-brazil.md"
@@ -1149,6 +1127,28 @@
       "slug": "gleans-250m-raise",
       "status": "published",
       "title": "12th Aug: Glean’s $250M Raise, Shiprocket’s $120M Funding Round"
+    },
+    {
+      "__outstatic": {
+        "commit": "299dc126e5a2a48a827194305c658e4214911a2c",
+        "hash": "2387772793",
+        "path": "outstatic/content/blogs/blackrocks-new-portfolio.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/13th-sept--blackrock-s-new-portfolio--european-real-estate-rebounds-a-AxNz.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-12T17:23:08.000Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "blackrocks-new-portfolio",
+      "status": "published",
+      "title": "13th Sept: BlackRock’s new portfolio, European real estate rebounds"
     }
   ]
 }
