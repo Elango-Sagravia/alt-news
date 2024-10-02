@@ -1,6 +1,6 @@
 {
-  "commit": "14433a18bf18559977fba2e0d4daa706c8157e44",
-  "generated": "2024-10-02T09:53:33.538Z",
+  "commit": "ef711dc2ad103d7b7ac69cc546a85fcd24a2f900",
+  "generated": "2024-10-02T09:54:22.280Z",
   "metadata": [
     {
       "__outstatic": {
@@ -141,27 +141,6 @@
       "slug": "sec-eases-vc-rules",
       "status": "published",
       "title": "28th Aug: SEC Eases VC Rules, Blackstone Eyes $3.7B Loan"
-    },
-    {
-      "__outstatic": {
-        "commit": "6b2db1739fab2c75a8246e85cffeef49f159ce72",
-        "hash": "3557781336",
-        "path": "outstatic/content/blogs/two-sigma-leadership-change.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/29th-aug--two-sigma-leadership-change--super-micro-troubles-a-EwOD.webp",
-      "cutOff": "4",
-      "description": "",
-      "publishedAt": "2024-08-29T14:35:24.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "two-sigma-leadership-change",
-      "status": "published",
-      "title": "29th Aug: Two Sigma Leadership Change, Super Micro Troubles"
     },
     {
       "__outstatic": {
@@ -1149,6 +1128,27 @@
       "slug": "dubai-s-hedge-fund-boom",
       "status": "published",
       "title": "27th Sept: Dubai's Hedge Fund Boom, Omers' Europe Exit, Elliott Eyes Southwest CEO"
+    },
+    {
+      "__outstatic": {
+        "commit": "ef711dc2ad103d7b7ac69cc546a85fcd24a2f900",
+        "hash": "363747458",
+        "path": "outstatic/content/blogs/two-sigma-leadership-change.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/29th-aug--two-sigma-leadership-change--super-micro-troubles-a-EwOD.webp",
+      "cutOff": "5",
+      "description": "",
+      "publishedAt": "2024-08-29T14:35:24.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "two-sigma-leadership-change",
+      "status": "published",
+      "title": "29th Aug: Two Sigma Leadership Change, Super Micro Troubles"
     }
   ]
 }

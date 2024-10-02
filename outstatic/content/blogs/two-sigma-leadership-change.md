@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '5'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/29th-aug--two-sigma-leadership-change--super-micro-troubles-a-EwOD.webp'
