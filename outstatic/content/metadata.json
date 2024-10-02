@@ -1,6 +1,6 @@
 {
-  "commit": "28b5dc8f587d5df48485d7a1f0f3ede0790b6af2",
-  "generated": "2024-10-02T09:40:50.861Z",
+  "commit": "959df25822499d4181508ff6f59d91a674beff64",
+  "generated": "2024-10-02T09:44:37.681Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,28 +98,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "27875d9512413cc31bf3e9a5cee1b68ff22f9a6e",
-        "hash": "2118088439",
-        "path": "outstatic/content/blogs/market-moves.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/goldman-sachs-EyMz.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-19T09:59:28.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "market-moves",
-      "status": "published",
-      "title": "19th Aug: Market Moves, Hedge Fund Strategies, and Global M&A"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "supply-chain-revival",
       "status": "published",
       "title": "16th Aug: Supply Chain Revival, AI Investment Frenzy "
+    },
+    {
+      "__outstatic": {
+        "commit": "959df25822499d4181508ff6f59d91a674beff64",
+        "hash": "398507384",
+        "path": "outstatic/content/blogs/market-moves.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/goldman-sachs-EyMz.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-19T09:59:28.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "market-moves",
+      "status": "published",
+      "title": "19th Aug: Market Moves, Hedge Fund Strategies, and Global M&A"
     }
   ]
 }
