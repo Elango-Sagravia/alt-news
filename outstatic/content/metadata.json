@@ -1,6 +1,6 @@
 {
-  "commit": "5339cdfdb25f64f01903ce585625865cdab4b737",
-  "generated": "2024-10-02T09:49:38.324Z",
+  "commit": "79ba71b55bafd6c48b0a7050d94a85fe43fa77ba",
+  "generated": "2024-10-02T09:50:40.379Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,28 +98,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "19c31930363a6f981dbac379318d4b4457d3fcff",
-        "hash": "3296845933",
-        "path": "outstatic/content/blogs/hedge-funds-bet-big-on-gold.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/26th-aug_-hedge-funds-bet-big-on-gold--diesel-market-struggles-b-U3Nj.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-26T14:23:38.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "hedge-funds-bet-big-on-gold",
-      "status": "published",
-      "title": "26th Aug: Hedge Funds Bet Big on Gold, Diesel Market Struggles"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "bolts-450m-deal",
       "status": "published",
       "title": "23rd Aug: Bolt's $450M Deal, UK Private Equity Faces Tax Hike"
+    },
+    {
+      "__outstatic": {
+        "commit": "79ba71b55bafd6c48b0a7050d94a85fe43fa77ba",
+        "hash": "4124572389",
+        "path": "outstatic/content/blogs/hedge-funds-bet-big-on-gold.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/26th-aug_-hedge-funds-bet-big-on-gold--diesel-market-struggles-b-U3Nj.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-26T14:23:38.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "hedge-funds-bet-big-on-gold",
+      "status": "published",
+      "title": "26th Aug: Hedge Funds Bet Big on Gold, Diesel Market Struggles"
     }
   ]
 }
