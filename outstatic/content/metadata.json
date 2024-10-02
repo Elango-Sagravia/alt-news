@@ -1,6 +1,6 @@
 {
-  "commit": "39b2984d3845299b22ef2abed051bc9c184312b9",
-  "generated": "2024-10-02T10:23:42.129Z",
+  "commit": "82b7b38e4e96ae11206dcc43e95cae81f1561773",
+  "generated": "2024-10-02T10:24:10.282Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,28 +217,6 @@
       "slug": "20th-sep-icg-s-1-9b-fund-brookfield-s-india-bet",
       "status": "published",
       "title": "20th Sep: ICG’s $1.9B Fund, Brookfield’s India Bet"
-    },
-    {
-      "__outstatic": {
-        "commit": "73dfa2254eff1239d18e55abb4f5f7e073d85e7f",
-        "hash": "1720205506",
-        "path": "outstatic/content/blogs/dubai-hedge-fund-growth-ellison-sentenced-for-ftx-fraud.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/26th-sep--dubai-hedge-fund-growth--ellison-sentenced-for-ftx-fraud-a-U3Nj.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-26T15:22:12.461Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "dubai-hedge-fund-growth-ellison-sentenced-for-ftx-fraud",
-      "status": "published",
-      "title": "26th Sep: Dubai Hedge Fund Growth, Ellison Sentenced for FTX Fraud"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "blackstones-8-4b-smartsheet-deal",
       "status": "published",
       "title": "25th Sep: Blackstone’s $8.4B Smartsheet Deal, Gold Bull Run"
+    },
+    {
+      "__outstatic": {
+        "commit": "82b7b38e4e96ae11206dcc43e95cae81f1561773",
+        "hash": "2409761404",
+        "path": "outstatic/content/blogs/dubai-hedge-fund-growth-ellison-sentenced-for-ftx-fraud.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/26th-sep--dubai-hedge-fund-growth--ellison-sentenced-for-ftx-fraud-a-U3Nj.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-26T15:22:12.461Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "dubai-hedge-fund-growth-ellison-sentenced-for-ftx-fraud",
+      "status": "published",
+      "title": "26th Sep: Dubai Hedge Fund Growth, Ellison Sentenced for FTX Fraud"
     }
   ]
 }
