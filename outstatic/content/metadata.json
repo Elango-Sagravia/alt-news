@@ -1,6 +1,6 @@
 {
-  "commit": "45dfb306d21900a6ed77e41e2e9050ca7c0de5e1",
-  "generated": "2024-10-02T09:36:44.283Z",
+  "commit": "3520e409e8da94fa815236113904e52eb09188da",
+  "generated": "2024-10-02T09:37:28.373Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,27 +98,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "814c57f2e2f1fb1e4d2d091923621492d466987f",
-        "hash": "3695342729",
-        "path": "outstatic/content/blogs/pes-football-club-influence.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/football-E5Mj.webp",
-      "cutOff": "4",
-      "description": "",
-      "publishedAt": "2024-08-14T08:00:07.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "pes-football-club-influence",
-      "status": "published",
-      "title": "14th Aug: PE's Football Club Influence, EliseAI Reaches Unicorn Status"
     },
     {
       "__outstatic": {
@@ -1149,6 +1128,27 @@
       "slug": "blackrock-pipeline-deal",
       "status": "published",
       "title": "12th Sept: BlackRock pipeline deal, Blackstone optimistic on inflation"
+    },
+    {
+      "__outstatic": {
+        "commit": "3520e409e8da94fa815236113904e52eb09188da",
+        "hash": "2644390016",
+        "path": "outstatic/content/blogs/pes-football-club-influence.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/football-E5Mj.webp",
+      "cutOff": "6",
+      "description": "",
+      "publishedAt": "2024-08-14T08:00:07.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "pes-football-club-influence",
+      "status": "published",
+      "title": "14th Aug: PE's Football Club Influence, EliseAI Reaches Unicorn Status"
     }
   ]
 }
