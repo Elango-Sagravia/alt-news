@@ -1,6 +1,6 @@
 {
-  "commit": "3520e409e8da94fa815236113904e52eb09188da",
-  "generated": "2024-10-02T09:37:28.373Z",
+  "commit": "2a471a3567dce58a1ab474d14b5f1f8f7926cd84",
+  "generated": "2024-10-02T09:38:46.749Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,28 +98,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "4abe55e86c6f8b2f67d47f828501432f49178611",
-        "hash": "3143979212",
-        "path": "outstatic/content/blogs/healthcare-innovation-boost.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/histonics-QzNj.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-15T09:01:11.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "healthcare-innovation-boost",
-      "status": "published",
-      "title": "15th Aug: Healthcare Innovation Boost, EliseAI Reaches Unicorn Status"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "pes-football-club-influence",
       "status": "published",
       "title": "14th Aug: PE's Football Club Influence, EliseAI Reaches Unicorn Status"
+    },
+    {
+      "__outstatic": {
+        "commit": "2a471a3567dce58a1ab474d14b5f1f8f7926cd84",
+        "hash": "2972331255",
+        "path": "outstatic/content/blogs/healthcare-innovation-boost.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/histonics-QzNj.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-15T09:01:11.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "healthcare-innovation-boost",
+      "status": "published",
+      "title": "15th Aug: Healthcare Innovation Boost, EliseAI Reaches Unicorn Status"
     }
   ]
 }
