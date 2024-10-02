@@ -1,6 +1,6 @@
 {
-  "commit": "3247577a080d9f9fcafb9e0b446a9e4667c8974e",
-  "generated": "2024-10-02T10:22:02.282Z",
+  "commit": "30295787131ef1ff77a967d91dbb2678235dc1b3",
+  "generated": "2024-10-02T10:22:57.887Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,28 +217,6 @@
       "slug": "20th-sep-icg-s-1-9b-fund-brookfield-s-india-bet",
       "status": "published",
       "title": "20th Sep: ICG’s $1.9B Fund, Brookfield’s India Bet"
-    },
-    {
-      "__outstatic": {
-        "commit": "a77a75dca26208fb4aaf4b451092425ef21853c7",
-        "hash": "2769068180",
-        "path": "outstatic/content/blogs/kkr-s-4-6b-fund-apollo-eyes-intel.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/24th-sept--kkr-s-4.6b-fund--apollo-eyes-intel-a-cwNz.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-24T13:33:08.073Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "kkr-s-4-6b-fund-apollo-eyes-intel",
-      "status": "published",
-      "title": "24th Sept: KKR’s $4.6B Fund, Apollo Eyes Intel"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "two-sigma-faces-100m-sec-fine",
       "status": "published",
       "title": "23rd Sep: Two Sigma faces $100m SEC fine, Hedge funds bearish on diesel"
+    },
+    {
+      "__outstatic": {
+        "commit": "30295787131ef1ff77a967d91dbb2678235dc1b3",
+        "hash": "3239039491",
+        "path": "outstatic/content/blogs/kkr-s-4-6b-fund-apollo-eyes-intel.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/24th-sept--kkr-s-4.6b-fund--apollo-eyes-intel-a-cwNz.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-24T13:33:08.073Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "kkr-s-4-6b-fund-apollo-eyes-intel",
+      "status": "published",
+      "title": "24th Sept: KKR’s $4.6B Fund, Apollo Eyes Intel"
     }
   ]
 }

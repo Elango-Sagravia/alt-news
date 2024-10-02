@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '5'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
@@ -18,7 +18,7 @@ publishedAt: '2024-09-24T13:33:08.073Z'
 
 KKR closed its Ascendant Fund SCSP at[ $4.6 billion](https://www.reuters.com/markets/us/kkr-raises-46-billion-debut-north-america-mid-market-deals-fund-2024-09-23/), reaching its hard cap. The fund, which focuses solely on middle-market companies in North America, was launched in 2022 and is the first of its kind for KKR. It targets industries such as consumer, financial services, healthcare, and technology. A key feature of this fund is its emphasis on employee ownership, aligning interests by providing equity to employees. The fund attracted backing from a wide array of investors, including public pensions, family offices, and insurance companies​.
 
-## Carmignac Launches Private Equity Strategy
+### Carmignac Launches Private Equity Strategy
 
 Carmignac has [introduced ](https://portfolio-adviser.com/carmignac-enters-private-markets-with-launch-of-article-8-pe-strategy/)its first private equity fund, Carmignac Private Evergreen, in partnership with Clipway. This semi-liquid strategy, classified as Article 8 under the Sustainable Finance Disclosure Regulation (SFDR), focuses on private equity investments across various sectors. Managed by a team of four, including Edouard Boscher and Megan Noelle Chew, the fund leverages both in-house expertise and its partnership with Clipway. Maxime Carmignac, CEO of Carmignac UK, highlighted the firm’s commitment to providing a long-term diversified strategy for European clients​.
 
