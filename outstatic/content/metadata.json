@@ -1,6 +1,6 @@
 {
   "commit": "40056cdf1cabefa0b4bcbe368265425e1bf7f63d",
-  "generated": "2024-10-02T10:18:45.983Z",
+  "generated": "2024-10-02T10:19:41.172Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1131,7 +1131,7 @@
     {
       "__outstatic": {
         "commit": "40056cdf1cabefa0b4bcbe368265425e1bf7f63d",
-        "hash": "2219474804",
+        "hash": "1910936994",
         "path": "outstatic/content/blogs/patria-s-100m-fund.md"
       },
       "author": {
@@ -1140,7 +1140,7 @@
       },
       "collection": "blogs",
       "coverImage": "/images/18th-sept--patria-s--100m-fund--jpmorgan-eyes-apple-card-a-c5Nz.jpg",
-      "cutOff": "7",
+      "cutOff": "6",
       "description": "",
       "latest": "true",
       "publishedAt": "2024-09-18T14:12:39.919Z",
