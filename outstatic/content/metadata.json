@@ -1,6 +1,6 @@
 {
-  "commit": "7762d6a00db31e95b0b1bf098fa2bc65995a01bd",
-  "generated": "2024-10-02T10:41:01.484Z",
+  "commit": "97750488ae814cb3c968ccf9cba32a76ec4af602",
+  "generated": "2024-10-02T13:27:32.299Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1149,6 +1149,28 @@
       "slug": "exoduspoints-decline-viking-s-big-win",
       "status": "published",
       "title": "20th Aug: ExodusPoint's Decline, Viking's Big Win, and Bitcoin ETF Bets"
+    },
+    {
+      "__outstatic": {
+        "commit": "97750488ae814cb3c968ccf9cba32a76ec4af602",
+        "hash": "2855313566",
+        "path": "outstatic/content/blogs/apollo-s-10b-target-veyrat-s-biomass-bet.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/2nd-oct--apollo-s-10b-target--veyrat-s-biomass-bet-a-AzNz.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-02T14:07:07.127Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "apollo-s-10b-target-veyrat-s-biomass-bet",
+      "status": "published",
+      "title": "2nd Oct: Apollo’s $10B Target, Veyrat’s Biomass Bet"
     }
   ]
 }
