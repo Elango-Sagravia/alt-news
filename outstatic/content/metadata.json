@@ -1,6 +1,6 @@
 {
-  "commit": "30295787131ef1ff77a967d91dbb2678235dc1b3",
-  "generated": "2024-10-02T10:22:57.887Z",
+  "commit": "39b2984d3845299b22ef2abed051bc9c184312b9",
+  "generated": "2024-10-02T10:23:42.129Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,28 +217,6 @@
       "slug": "20th-sep-icg-s-1-9b-fund-brookfield-s-india-bet",
       "status": "published",
       "title": "20th Sep: ICG’s $1.9B Fund, Brookfield’s India Bet"
-    },
-    {
-      "__outstatic": {
-        "commit": "e8d7a6be9126294c73247e8cb3c70effa842cf0c",
-        "hash": "3338554043",
-        "path": "outstatic/content/blogs/blackstones-8-4b-smartsheet-deal.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/25th-sep--blackstone-s-8.4b-smartsheet-deal--gold-bull-run-a-c1Nz.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-25T02:00:47.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "blackstones-8-4b-smartsheet-deal",
-      "status": "published",
-      "title": "25th Sep: Blackstone’s $8.4B Smartsheet Deal, Gold Bull Run"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "kkr-s-4-6b-fund-apollo-eyes-intel",
       "status": "published",
       "title": "24th Sept: KKR’s $4.6B Fund, Apollo Eyes Intel"
+    },
+    {
+      "__outstatic": {
+        "commit": "39b2984d3845299b22ef2abed051bc9c184312b9",
+        "hash": "1733779034",
+        "path": "outstatic/content/blogs/blackstones-8-4b-smartsheet-deal.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/25th-sep--blackstone-s-8.4b-smartsheet-deal--gold-bull-run-a-c1Nz.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-25T02:00:47.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "blackstones-8-4b-smartsheet-deal",
+      "status": "published",
+      "title": "25th Sep: Blackstone’s $8.4B Smartsheet Deal, Gold Bull Run"
     }
   ]
 }
