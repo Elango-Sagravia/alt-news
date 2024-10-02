@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '6'
 latest: 'true'
 relatedArticles: ''
 readTime: '3'
@@ -41,5 +41,3 @@ Bridgewater Associates, one of the largest hedge funds globally, is [opening](ht
 ### South Korea Appeals Elliott Damages Ruling
 
 South Korea is [appealing](https://www.hedgeweek.com/south-korea-appeals-british-court-ruling-in-dispute-with-activist-elliott/#:~:text=The%20South%20Korean%20government%20has,report%20by%20the%20Korea%20Times.) a British court decision that dismissed its lawsuit against US hedge fund Elliott Investment Management. The $100m dispute stems from a 2015 merger between two Samsung affiliates. The Permanent Court of Arbitration had ordered the Korean government to pay damages to Elliott, but South Korea argues the ruling misinterprets the Korea-US Free Trade Agreement. The government is determined to overturn the decision, concerned it could set a risky precedent for similar cases. The case highlights the ongoing tension between governments and global hedge funds in high-stakes legal battles.
-
- 

@@ -1,6 +1,6 @@
 {
-  "commit": "3b83dec07614baccbce992f6e9b6f9c3ebc7028f",
-  "generated": "2024-10-02T10:06:52.461Z",
+  "commit": "5f4fafe8f6833581b363fce1a51ea3be76288d6b",
+  "generated": "2024-10-02T10:17:58.673Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,28 +217,6 @@
       "slug": "cpp-expands-in-brazil",
       "status": "published",
       "title": "16th Sept: CPP Expands in Brazil, iCapital Goes Sports"
-    },
-    {
-      "__outstatic": {
-        "commit": "83783afb77542c7194194cecaee759dc5cc4a0ca",
-        "hash": "915381083",
-        "path": "outstatic/content/blogs/millennium-seeks-10bn.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/17th-sep--millennium-seeks-10bn--bridgewater-expands-to-nyc-b-k1OT.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-17T12:54:40.418Z",
-      "readTime": "3",
-      "relatedArticles": "",
-      "slug": "millennium-seeks-10bn",
-      "status": "published",
-      "title": "17th Sep: Millennium Seeks $10bn, Bridgewater Expands to NYC"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "thames-water-crisis",
       "status": "published",
       "title": "11th Sept: Thames Water Crisis, Apollo's Private Credit ETF"
+    },
+    {
+      "__outstatic": {
+        "commit": "5f4fafe8f6833581b363fce1a51ea3be76288d6b",
+        "hash": "618902215",
+        "path": "outstatic/content/blogs/millennium-seeks-10bn.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/17th-sep--millennium-seeks-10bn--bridgewater-expands-to-nyc-b-k1OT.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-17T12:54:40.418Z",
+      "readTime": "3",
+      "relatedArticles": "",
+      "slug": "millennium-seeks-10bn",
+      "status": "published",
+      "title": "17th Sep: Millennium Seeks $10bn, Bridgewater Expands to NYC"
     }
   ]
 }
