@@ -1,6 +1,6 @@
 {
-  "commit": "dc6f71094ff388c1bd201d6d09f67c21cadd628d",
-  "generated": "2024-10-02T10:03:43.839Z",
+  "commit": "3b83dec07614baccbce992f6e9b6f9c3ebc7028f",
+  "generated": "2024-10-02T10:06:52.461Z",
   "metadata": [
     {
       "__outstatic": {
@@ -195,28 +195,6 @@
       "slug": "ensure-our-newsletter-reaches-your-inbox",
       "status": "published",
       "title": "Ensure our newsletter reaches your inbox"
-    },
-    {
-      "__outstatic": {
-        "commit": "408cab27aceacab64109d857e1ca6c926299f277",
-        "hash": "1640690441",
-        "path": "outstatic/content/blogs/thames-water-crisis.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/11th-sept--thames-water-crisis--apollos-private-credit-etf-a-I1ND.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-10T16:53:41.000Z",
-      "readTime": "6",
-      "relatedArticles": "",
-      "slug": "thames-water-crisis",
-      "status": "published",
-      "title": "11th Sept: Thames Water Crisis, Apollo's Private Credit ETF"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "ai-hedge-fund-platform-launch",
       "status": "published",
       "title": "9th Sept: AI Hedge Fund Platform Launch, abrdn Shuts Fund, Regal Targets $1B"
+    },
+    {
+      "__outstatic": {
+        "commit": "3b83dec07614baccbce992f6e9b6f9c3ebc7028f",
+        "hash": "4286271370",
+        "path": "outstatic/content/blogs/thames-water-crisis.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/11th-sept--thames-water-crisis--apollos-private-credit-etf-a-I1ND.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-10T16:53:41.000Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "thames-water-crisis",
+      "status": "published",
+      "title": "11th Sept: Thames Water Crisis, Apollo's Private Credit ETF"
     }
   ]
 }
