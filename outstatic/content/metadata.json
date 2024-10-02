@@ -1,6 +1,6 @@
 {
-  "commit": "72aefdcc209cfcd893391eed7e48b2dd9c440bc7",
-  "generated": "2024-10-02T10:37:12.269Z",
+  "commit": "7762d6a00db31e95b0b1bf098fa2bc65995a01bd",
+  "generated": "2024-10-02T10:41:01.484Z",
   "metadata": [
     {
       "__outstatic": {
@@ -606,28 +606,6 @@
     },
     {
       "__outstatic": {
-        "commit": "639863d7d9e0d76ee0d9d47714a92280695c4ca3",
-        "hash": "1593430660",
-        "path": "outstatic/content/blogs/exoduspoints-decline-viking-s-big-win.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/b43a-cxNj.jpg",
-      "cutOff": "5",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-20T11:42:25.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "exoduspoints-decline-viking-s-big-win",
-      "status": "published",
-      "title": "20th Aug: ExodusPoint's Decline, Viking's Big Win, and Bitcoin ETF Bets"
-    },
-    {
-      "__outstatic": {
         "commit": "94c621677b2f6416c745840e976e5794c251b6e5",
         "hash": "2736965710",
         "path": "outstatic/content/blogs/coal-merger.md"
@@ -1149,6 +1127,28 @@
       "slug": "crypto-moves",
       "status": "published",
       "title": "21st Aug:  Crypto Moves, Hedge Fund Bets, and Nvidia's Surge"
+    },
+    {
+      "__outstatic": {
+        "commit": "7762d6a00db31e95b0b1bf098fa2bc65995a01bd",
+        "hash": "1593430660",
+        "path": "outstatic/content/blogs/exoduspoints-decline-viking-s-big-win.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/b43a-cxNj.jpg",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-20T11:42:25.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "exoduspoints-decline-viking-s-big-win",
+      "status": "published",
+      "title": "20th Aug: ExodusPoint's Decline, Viking's Big Win, and Bitcoin ETF Bets"
     }
   ]
 }
