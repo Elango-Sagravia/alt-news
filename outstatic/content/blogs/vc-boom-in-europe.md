@@ -1,5 +1,5 @@
 ---
-cutOff: '3'
+cutOff: '10'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/vc-boom-in-europe-U4MD.webp'

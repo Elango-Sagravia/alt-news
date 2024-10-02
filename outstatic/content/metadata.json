@@ -1,6 +1,6 @@
 {
-  "commit": "89989ea107bbeb7ff75ebdd514a8d3d47a379e85",
-  "generated": "2024-10-01T15:10:31.416Z",
+  "commit": "be4cabb0cbae426bf89749786b0c9fb7f9245436",
+  "generated": "2024-10-02T08:11:01.639Z",
   "metadata": [
     {
       "__outstatic": {
@@ -119,27 +119,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "57ccaff8b59b160da72a98616cfcc600106d721c",
-        "hash": "1771376916",
-        "path": "outstatic/content/blogs/vc-boom-in-europe.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/vc-boom-in-europe-U4MD.webp",
-      "cutOff": "3",
-      "description": "",
-      "publishedAt": "2024-08-01T10:22:06.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "vc-boom-in-europe",
-      "status": "published",
-      "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
     },
     {
       "__outstatic": {
@@ -1149,6 +1128,27 @@
       "slug": "gip-s-3b-fund-china-stock-rally-squeezes-hedge-funds",
       "status": "published",
       "title": "1st Oct: GIP's $3B fund, China stock rally squeezes hedge funds"
+    },
+    {
+      "__outstatic": {
+        "commit": "be4cabb0cbae426bf89749786b0c9fb7f9245436",
+        "hash": "3163487177",
+        "path": "outstatic/content/blogs/vc-boom-in-europe.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/vc-boom-in-europe-U4MD.webp",
+      "cutOff": "10",
+      "description": "",
+      "publishedAt": "2024-08-01T10:22:06.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "vc-boom-in-europe",
+      "status": "published",
+      "title": "1st Aug: VC Boom in Europe, Swiss Carbon Tech Secures $69M"
     }
   ]
 }
