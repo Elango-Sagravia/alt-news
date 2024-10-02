@@ -1,6 +1,6 @@
 {
-  "commit": "e4c6393b7849956cbc7dabcff0591ee3c6f721fa",
-  "generated": "2024-10-02T09:36:03.345Z",
+  "commit": "45dfb306d21900a6ed77e41e2e9050ca7c0de5e1",
+  "generated": "2024-10-02T09:36:44.283Z",
   "metadata": [
     {
       "__outstatic": {
@@ -589,28 +589,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ac6aa7e4348f86bed6f71ebfb06549256cd4f1e7",
-        "hash": "719573915",
-        "path": "outstatic/content/blogs/blackrock-pipeline-deal.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/12th-sept--blackrock-pipeline-deal--blackstone-optimistic-on-inflation-b-AzMD.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-12T09:14:57.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "blackrock-pipeline-deal",
-      "status": "published",
-      "title": "12th Sept: BlackRock pipeline deal, Blackstone optimistic on inflation"
-    },
-    {
-      "__outstatic": {
         "commit": "61637c113b75918e943eb034b6533f849de0558c",
         "hash": "2908183577",
         "path": "outstatic/content/blogs/cpp-expands-in-brazil.md"
@@ -1149,6 +1127,28 @@
       "slug": "flat-and-down-rounds-surge",
       "status": "published",
       "title": "13th Aug: Flat and Down Rounds Surge, Balderton’s $1.3B Fundraise"
+    },
+    {
+      "__outstatic": {
+        "commit": "45dfb306d21900a6ed77e41e2e9050ca7c0de5e1",
+        "hash": "1314649059",
+        "path": "outstatic/content/blogs/blackrock-pipeline-deal.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/12th-sept--blackrock-pipeline-deal--blackstone-optimistic-on-inflation-b-AzMD.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-12T09:14:57.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "blackrock-pipeline-deal",
+      "status": "published",
+      "title": "12th Sept: BlackRock pipeline deal, Blackstone optimistic on inflation"
     }
   ]
 }
