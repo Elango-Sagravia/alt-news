@@ -1,6 +1,6 @@
 {
-  "commit": "951895e70cdf2fffc492428e16bfa1a5d1e9725b",
-  "generated": "2024-10-02T10:31:01.332Z",
+  "commit": "4dedbfac92b94de6a47aaccb929af4c84fb2fd56",
+  "generated": "2024-10-02T10:34:01.776Z",
   "metadata": [
     {
       "__outstatic": {
@@ -119,28 +119,6 @@
       "slug": "hedge-fund-moves",
       "status": "published",
       "title": "27th Aug: Hedge Fund Moves, AI Fund Launch"
-    },
-    {
-      "__outstatic": {
-        "commit": "b49864dd8987501ec171b8c2c865787821ed445a",
-        "hash": "37158911",
-        "path": "outstatic/content/blogs/sec-eases-vc-rules.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/28th-aug--sec-eases-vc-rules--blackstone-eyes-3.7b-loan-a-gwND.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-28T15:23:44.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "sec-eases-vc-rules",
-      "status": "published",
-      "title": "28th Aug: SEC Eases VC Rules, Blackstone Eyes $3.7B Loan"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "quadratures-us-expansion",
       "status": "published",
       "title": "19th Sept: Quadrature’s US Expansion, Rokos Losses, Japan Hedge Fund Moves"
+    },
+    {
+      "__outstatic": {
+        "commit": "4dedbfac92b94de6a47aaccb929af4c84fb2fd56",
+        "hash": "2553430502",
+        "path": "outstatic/content/blogs/sec-eases-vc-rules.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/28th-aug--sec-eases-vc-rules--blackstone-eyes-3.7b-loan-a-gwND.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-28T15:23:44.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "sec-eases-vc-rules",
+      "status": "published",
+      "title": "28th Aug: SEC Eases VC Rules, Blackstone Eyes $3.7B Loan"
     }
   ]
 }
