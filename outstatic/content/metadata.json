@@ -1,6 +1,6 @@
 {
-  "commit": "aa84fc9e666e2e3a52d58febae4a72f0b1d451bc",
-  "generated": "2024-10-02T09:58:30.307Z",
+  "commit": "0e7271a8805490a7df3f1b29e253b4d9a4e56155",
+  "generated": "2024-10-02T10:00:12.173Z",
   "metadata": [
     {
       "__outstatic": {
@@ -195,28 +195,6 @@
       "slug": "ensure-our-newsletter-reaches-your-inbox",
       "status": "published",
       "title": "Ensure our newsletter reaches your inbox"
-    },
-    {
-      "__outstatic": {
-        "commit": "0ced2b5a0a8dfe740e3d5e1e2255d3a32fdfd0f1",
-        "hash": "1523870587",
-        "path": "outstatic/content/blogs/park-square-raises-eu-4bn.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/park-square-raises--3.4bn--goldman-sells-hedge-stake-a-czND.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-09-06T13:18:01.747Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "park-square-raises-eu-4bn",
-      "status": "published",
-      "title": "6th Sept: Park Square Raises €3.4bn, Goldman Sells Hedge Stake"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "sec-drops-hedge-fund-fee-rule",
       "status": "published",
       "title": "5th Sept: SEC drops hedge fund fee rule, Tikehau sells Preligens stake"
+    },
+    {
+      "__outstatic": {
+        "commit": "0e7271a8805490a7df3f1b29e253b4d9a4e56155",
+        "hash": "485427000",
+        "path": "outstatic/content/blogs/park-square-raises-eu-4bn.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/park-square-raises--3.4bn--goldman-sells-hedge-stake-a-czND.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-09-06T13:18:01.747Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "park-square-raises-eu-4bn",
+      "status": "published",
+      "title": "6th Sept: Park Square Raises €3.4bn, Goldman Sells Hedge Stake"
     }
   ]
 }
