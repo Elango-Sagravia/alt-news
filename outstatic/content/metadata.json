@@ -1,6 +1,6 @@
 {
-  "commit": "4dedbfac92b94de6a47aaccb929af4c84fb2fd56",
-  "generated": "2024-10-02T10:34:01.776Z",
+  "commit": "cb9d3d23efc094f4d51893943613ded30000e7a7",
+  "generated": "2024-10-02T10:36:18.831Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,27 +98,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "075db7fe10b2b11ced3c84a0a7fd3bbad9eca12c",
-        "hash": "4031416091",
-        "path": "outstatic/content/blogs/hedge-fund-moves.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/subject-line--27th-aug--hedge-fund-moves--ai-fund-launch-b-MwNT.webp",
-      "cutOff": "5",
-      "description": "",
-      "publishedAt": "2024-08-27T15:11:15.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "hedge-fund-moves",
-      "status": "published",
-      "title": "27th Aug: Hedge Fund Moves, AI Fund Launch"
     },
     {
       "__outstatic": {
@@ -1149,6 +1128,27 @@
       "slug": "sec-eases-vc-rules",
       "status": "published",
       "title": "28th Aug: SEC Eases VC Rules, Blackstone Eyes $3.7B Loan"
+    },
+    {
+      "__outstatic": {
+        "commit": "cb9d3d23efc094f4d51893943613ded30000e7a7",
+        "hash": "4031416091",
+        "path": "outstatic/content/blogs/hedge-fund-moves.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/subject-line--27th-aug--hedge-fund-moves--ai-fund-launch-b-MwNT.webp",
+      "cutOff": "5",
+      "description": "",
+      "publishedAt": "2024-08-27T15:11:15.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "hedge-fund-moves",
+      "status": "published",
+      "title": "27th Aug: Hedge Fund Moves, AI Fund Launch"
     }
   ]
 }
