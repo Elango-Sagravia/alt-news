@@ -1,6 +1,6 @@
 {
-  "commit": "639863d7d9e0d76ee0d9d47714a92280695c4ca3",
-  "generated": "2024-10-02T09:46:28.037Z",
+  "commit": "20ce5a51697be7b7f81fd86451ac75183b560f02",
+  "generated": "2024-10-02T09:46:56.528Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,28 +98,6 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "29976431c338f54ac2d9f76215a6361c73dea583",
-        "hash": "3706899137",
-        "path": "outstatic/content/blogs/crypto-moves.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/21st-aug_--crypto-moves--hedge-fund-bets--and-nvidia-s-surge-gxOD.webp",
-      "cutOff": "4",
-      "description": "",
-      "latest": "true",
-      "publishedAt": "2024-08-21T12:56:14.000Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "crypto-moves",
-      "status": "published",
-      "title": "21st Aug:  Crypto Moves, Hedge Fund Bets, and Nvidia's Surge"
     },
     {
       "__outstatic": {
@@ -1149,6 +1127,28 @@
       "slug": "exoduspoints-decline-viking-s-big-win",
       "status": "published",
       "title": "20th Aug: ExodusPoint's Decline, Viking's Big Win, and Bitcoin ETF Bets"
+    },
+    {
+      "__outstatic": {
+        "commit": "20ce5a51697be7b7f81fd86451ac75183b560f02",
+        "hash": "4016790731",
+        "path": "outstatic/content/blogs/crypto-moves.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/21st-aug_--crypto-moves--hedge-fund-bets--and-nvidia-s-surge-gxOD.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-08-21T12:56:14.000Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "crypto-moves",
+      "status": "published",
+      "title": "21st Aug:  Crypto Moves, Hedge Fund Bets, and Nvidia's Surge"
     }
   ]
 }
