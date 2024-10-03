@@ -1,6 +1,6 @@
 {
-  "commit": "dd377c904bd2f0c98a4a1a8f13beb3d2b1b49501",
-  "generated": "2024-10-02T13:31:02.833Z",
+  "commit": "1803c25ac60c3a1b115aaf162276449a6d18e0f6",
+  "generated": "2024-10-03T14:07:29.943Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1171,6 +1171,28 @@
       "slug": "apollo-s-10b-target-veyrat-s-biomass-bet",
       "status": "published",
       "title": "2nd Oct: Apollo’s $10B Target, Veyrat’s Biomass Bet"
+    },
+    {
+      "__outstatic": {
+        "commit": "1803c25ac60c3a1b115aaf162276449a6d18e0f6",
+        "hash": "3934591548",
+        "path": "outstatic/content/blogs/deutsche-bahn-approves-15-8b-sale-druckenmiller-avoids-china.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/oct-3--deutsche-bahn-approves-15.8b-sale--druckenmiller-avoids-china-Y0OD.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-03T14:41:24.672Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "deutsche-bahn-approves-15-8b-sale-druckenmiller-avoids-china",
+      "status": "published",
+      "title": "3rd Oct: Deutsche Bahn approves $15.8B sale, Druckenmiller avoids China"
     }
   ]
 }
