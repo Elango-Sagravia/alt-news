@@ -1,6 +1,6 @@
 {
-  "commit": "292485d999bdfe631bed61aeb66b60f60f0575ed",
-  "generated": "2024-10-04T11:24:34.345Z",
+  "commit": "f1dc02281f17f815f0511a068e02509784941d22",
+  "generated": "2024-10-04T11:28:56.847Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1196,8 +1196,8 @@
     },
     {
       "__outstatic": {
-        "commit": "292485d999bdfe631bed61aeb66b60f60f0575ed",
-        "hash": "3987952330",
+        "commit": "f1dc02281f17f815f0511a068e02509784941d22",
+        "hash": "264996991",
         "path": "outstatic/content/blogs/blackstone-eyes-10b-in-asia-southwest-shares-jump.md"
       },
       "author": {
