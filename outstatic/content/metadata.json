@@ -1,6 +1,6 @@
 {
-  "commit": "1803c25ac60c3a1b115aaf162276449a6d18e0f6",
-  "generated": "2024-10-03T14:07:29.943Z",
+  "commit": "292485d999bdfe631bed61aeb66b60f60f0575ed",
+  "generated": "2024-10-04T11:24:34.345Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1193,6 +1193,28 @@
       "slug": "deutsche-bahn-approves-15-8b-sale-druckenmiller-avoids-china",
       "status": "published",
       "title": "3rd Oct: Deutsche Bahn approves $15.8B sale, Druckenmiller avoids China"
+    },
+    {
+      "__outstatic": {
+        "commit": "292485d999bdfe631bed61aeb66b60f60f0575ed",
+        "hash": "3987952330",
+        "path": "outstatic/content/blogs/blackstone-eyes-10b-in-asia-southwest-shares-jump.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/4th-oct--blackstone-eyes-10b-in-asia--southwest-shares-jump-b-k4ND.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-04T12:01:07.643Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "blackstone-eyes-10b-in-asia-southwest-shares-jump",
+      "status": "published",
+      "title": "Oct 4: Blackstone eyes $10B in Asia, Southwest shares jump"
     }
   ]
 }
