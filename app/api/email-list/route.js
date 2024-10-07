@@ -10,7 +10,7 @@ export async function GET(request) {
         SELECT u.id, u.email
         FROM users u
         INNER JOIN subscribers s ON u.id = s.user_id
-        WHERE s.website_id = 1
+        WHERE s.website_id = 2
           AND u.source_id = 1
           AND u.status = 'subscribed'
         LIMIT ${limit}
@@ -20,7 +20,7 @@ export async function GET(request) {
         SELECT u.id, u.email
         FROM users u
         INNER JOIN subscribers s ON u.id = s.user_id
-        WHERE s.website_id = 1
+        WHERE s.website_id = 2
           AND u.source_id = 2
           AND u.status = 'subscribed'
         LIMIT ${limit}
