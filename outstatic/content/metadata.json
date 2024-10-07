@@ -1,6 +1,6 @@
 {
-  "commit": "f1dc02281f17f815f0511a068e02509784941d22",
-  "generated": "2024-10-04T11:28:56.847Z",
+  "commit": "a1e6957b0a3451557797f58b82e090d674dbe001",
+  "generated": "2024-10-07T13:04:18.676Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1215,6 +1215,28 @@
       "slug": "blackstone-eyes-10b-in-asia-southwest-shares-jump",
       "status": "published",
       "title": "Oct 4: Blackstone eyes $10B in Asia, Southwest shares jump"
+    },
+    {
+      "__outstatic": {
+        "commit": "a1e6957b0a3451557797f58b82e090d674dbe001",
+        "hash": "2770349162",
+        "path": "outstatic/content/blogs/oct-7-private-equity-deals-soar-citadel-expands-in-asia.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/oct-7--private-equity-deals-soar--citadel-expands-in-asia-a-M4Nz.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-07T13:40:09.918Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "oct-7-private-equity-deals-soar-citadel-expands-in-asia",
+      "status": "published",
+      "title": "Oct 7: Private Equity Deals Soar, Citadel Expands in Asia"
     }
   ]
 }
