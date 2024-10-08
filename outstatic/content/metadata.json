@@ -1,6 +1,6 @@
 {
-  "commit": "a1e6957b0a3451557797f58b82e090d674dbe001",
-  "generated": "2024-10-07T13:04:18.676Z",
+  "commit": "b6644243bedcc250557fe91ad8831af64e098343",
+  "generated": "2024-10-08T11:53:15.261Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1237,6 +1237,28 @@
       "slug": "oct-7-private-equity-deals-soar-citadel-expands-in-asia",
       "status": "published",
       "title": "Oct 7: Private Equity Deals Soar, Citadel Expands in Asia"
+    },
+    {
+      "__outstatic": {
+        "commit": "b6644243bedcc250557fe91ad8831af64e098343",
+        "hash": "2614606021",
+        "path": "outstatic/content/blogs/shore-capital-raises-1-9b-segantii-exits-hong-kong-office.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-08T12:33:16.108Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "shore-capital-raises-1-9b-segantii-exits-hong-kong-office",
+      "status": "published",
+      "title": "Oct 8: Shore Capital Raises $1.9B, Segantii Exits Hong Kong Office"
     }
   ]
 }
