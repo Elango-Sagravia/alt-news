@@ -3,7 +3,7 @@ cutOff: '6'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
-coverImage: ''
+coverImage: '/images/oct-8-b-QxMz.webp'
 description: ''
 slug: 'shore-capital-raises-1-9b-segantii-exits-hong-kong-office'
 author:

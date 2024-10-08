@@ -1,6 +1,6 @@
 {
-  "commit": "b6644243bedcc250557fe91ad8831af64e098343",
-  "generated": "2024-10-08T11:53:15.261Z",
+  "commit": "bcca6821ee46829ead6ca9470573250c81b7ec4a",
+  "generated": "2024-10-08T11:56:50.076Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1240,8 +1240,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b6644243bedcc250557fe91ad8831af64e098343",
-        "hash": "2614606021",
+        "commit": "bcca6821ee46829ead6ca9470573250c81b7ec4a",
+        "hash": "168855263",
         "path": "outstatic/content/blogs/shore-capital-raises-1-9b-segantii-exits-hong-kong-office.md"
       },
       "author": {
@@ -1249,7 +1249,7 @@
         "picture": ""
       },
       "collection": "blogs",
-      "coverImage": "",
+      "coverImage": "/images/oct-8-b-QxMz.webp",
       "cutOff": "6",
       "description": "",
       "latest": "true",
