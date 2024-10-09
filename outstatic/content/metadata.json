@@ -1,6 +1,6 @@
 {
-  "commit": "34cbc9f7ba72cb78fc3faf66fc12dab072a9e8af",
-  "generated": "2024-10-09T10:55:57.754Z",
+  "commit": "733c579fb6d875421242e2263088734dd34c0f33",
+  "generated": "2024-10-09T11:07:43.158Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1244,8 +1244,8 @@
     },
     {
       "__outstatic": {
-        "commit": "34cbc9f7ba72cb78fc3faf66fc12dab072a9e8af",
-        "hash": "4182471798",
+        "commit": "733c579fb6d875421242e2263088734dd34c0f33",
+        "hash": "3733144218",
         "path": "outstatic/content/policies/privacy-policy.md"
       },
       "author": {
