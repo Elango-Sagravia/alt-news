@@ -16,7 +16,7 @@ publishedAt: '2024-10-09T13:19:50.791Z'
 
 ### China Investors Divided Despite Stimulus Surge
 
-China’s recent stimulus sparked a 20% stock rally, but long-term investors[ remain cautious](https://www.bloomberg.com/news/articles/2024-10-07/the-great-divide-over-investing-in-china-deepens-post-stimulus). Hedge funds are piling in, but asset managers like Lombard Odier are holding back, fearing structural challenges. Corporate pullbacks continue, with Western firms rethinking China's strategies due to geopolitical tensions and economic uncertainty. Although China’s economy remains massive, concerns about growth and profitability persist, and many are waiting to see how U.S. political outcomes influence the market before committing.
+China’s recent stimulus sparked a 20% stock rally, but long-term investors[remain cautious](https://www.bloomberg.com/news/articles/2024-10-07/the-great-divide-over-investing-in-china-deepens-post-stimulus). Hedge funds are piling in, but asset managers like Lombard Odier are holding back, fearing structural challenges. Corporate pullbacks continue, with Western firms rethinking China's strategies due to geopolitical tensions and economic uncertainty. Although China’s economy remains massive, concerns about growth and profitability persist, and many are waiting to see how U.S. political outcomes influence the market before committing.
 
 ### Saudi Fund Trims Nintendo Stake While Eyeing More
 

@@ -1,6 +1,6 @@
 {
-  "commit": "6f96bbeaed6820ce624dced10503535977ee0f10",
-  "generated": "2024-10-09T12:37:22.893Z",
+  "commit": "71dea3416c363ac3675b8145c993d224df869aab",
+  "generated": "2024-10-09T12:37:54.253Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1262,8 +1262,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6f96bbeaed6820ce624dced10503535977ee0f10",
-        "hash": "1144681214",
+        "commit": "71dea3416c363ac3675b8145c993d224df869aab",
+        "hash": "219879574",
         "path": "outstatic/content/blogs/dubai-reit-rumors-saudis-trim-nintendo-stake.md"
       },
       "author": {
