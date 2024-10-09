@@ -32,45 +32,43 @@ Any other information you choose to provideIn compliance with the CAN-SPAM Act, 
 
 We may also collect non-personal information about you automatically when you access or use the Website. This information may include:
 
-- Browser type
+\- Browser type
 
-- Operating system
+\- Operating system
 
-- IP address
+\- IP address
 
-- Pages viewed
+\- Pages viewed
 
-- Time and date of visits
+\- Time and date of visits
 
-- Location data
+\- Location data
 
-- Web or mobile access details
+\- Web or mobile access details
 
-- Browser and device type
+\- Browser and device type
 
-- Other anonymous statistical data involving your use of the Websit
-
-Other anonymous statistical data involving your use of the Website
+\- Other anonymous statistical data involving your use of the Website
 
 **2. How We Use Your Information**
 
 We use the information we collect to:
 
-- Provide and manage our newsletter services.
+\- Provide and manage our newsletter services.
 
-- Personalize your experience on our Website and newsletters.
+\- Personalize your experience on our Website and newsletters.
 
-- Improve our Website, newsletter content, and overall user experience.
+\- Improve our Website, newsletter content, and overall user experience.
 
-- Communicate with you about updates, offers, promotions, or other information related to our newsletters and services.
+\- Communicate with you about updates, offers, promotions, or other information related to our newsletters and services.
 
-- Monitor and analyze usage, behavior, and trends to improve our Website, newsletter offerings, and services.
+\- Monitor and analyze usage, behavior, and trends to improve our Website, newsletter offerings, and services.
 
-- Detect, prevent, and address technical issues, fraud, or illegal activities.
+\- Detect, prevent, and address technical issues, fraud, or illegal activities.
 
-- Comply with legal obligations and enforce our policies where necessary.
+\- Comply with legal obligations and enforce our policies where necessary.
 
-- Conduct research and analysis to understand user preferences better and optimize our content.
+\- Conduct research and analysis to understand user preferences better and optimize our content.
 
 **3. Sharing Your Information**
 
