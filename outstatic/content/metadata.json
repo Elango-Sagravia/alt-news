@@ -1,6 +1,6 @@
 {
-  "commit": "bcca6821ee46829ead6ca9470573250c81b7ec4a",
-  "generated": "2024-10-08T11:56:50.076Z",
+  "commit": "34cbc9f7ba72cb78fc3faf66fc12dab072a9e8af",
+  "generated": "2024-10-09T10:34:28.410Z",
   "metadata": [
     {
       "__outstatic": {
@@ -80,24 +80,6 @@
       "slug": "refund-policy",
       "status": "published",
       "title": "Refund policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "8fe5e6fd59be7390e79caf8bf8e275b85d1a4f76",
-        "hash": "1163091707",
-        "path": "outstatic/content/policies/privacy-policy.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-20T12:21:37.000Z",
-      "slug": "privacy-policy",
-      "status": "published",
-      "title": "Privacy Policy"
     },
     {
       "__outstatic": {
@@ -1259,6 +1241,24 @@
       "slug": "shore-capital-raises-1-9b-segantii-exits-hong-kong-office",
       "status": "published",
       "title": "Oct 8: Shore Capital Raises $1.9B, Segantii Exits Hong Kong Office"
+    },
+    {
+      "__outstatic": {
+        "commit": "34cbc9f7ba72cb78fc3faf66fc12dab072a9e8af",
+        "hash": "928646833",
+        "path": "outstatic/content/policies/privacy-policy.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-20T12:21:37.000Z",
+      "slug": "privacy-policy",
+      "status": "published",
+      "title": "Privacy Policy"
     }
   ]
 }
