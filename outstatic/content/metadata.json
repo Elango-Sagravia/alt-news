@@ -1,6 +1,6 @@
 {
-  "commit": "733c579fb6d875421242e2263088734dd34c0f33",
-  "generated": "2024-10-09T11:07:43.158Z",
+  "commit": "6f96bbeaed6820ce624dced10503535977ee0f10",
+  "generated": "2024-10-09T12:37:22.893Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1259,6 +1259,28 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "6f96bbeaed6820ce624dced10503535977ee0f10",
+        "hash": "1144681214",
+        "path": "outstatic/content/blogs/dubai-reit-rumors-saudis-trim-nintendo-stake.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/oct-9--dubai-reit-rumors--saudis-trim-nintendo-stake-a-k5MT.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-09T13:19:50.791Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "dubai-reit-rumors-saudis-trim-nintendo-stake",
+      "status": "published",
+      "title": "Oct 9: Dubai REIT Rumors, Saudis Trim Nintendo Stake"
     }
   ]
 }
