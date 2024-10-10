@@ -1,6 +1,6 @@
 {
-  "commit": "7546aa9c7d4382219bdffe856fc05cc7d8328ffb",
-  "generated": "2024-10-10T12:20:53.101Z",
+  "commit": "1c92004040e129ac8a218bb001133bda73de7b63",
+  "generated": "2024-10-10T12:42:06.385Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1284,8 +1284,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7546aa9c7d4382219bdffe856fc05cc7d8328ffb",
-        "hash": "1704361563",
+        "commit": "1c92004040e129ac8a218bb001133bda73de7b63",
+        "hash": "2823646601",
         "path": "outstatic/content/blogs/oct-10-even-driven-funds-outperform-kirkoswald-explores-turkey.md"
       },
       "author": {
