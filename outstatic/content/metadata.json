@@ -1,6 +1,6 @@
 {
-  "commit": "a9b9b50e8e343a2496df441c50b8cbc78e3fd367",
-  "generated": "2024-10-09T12:56:30.114Z",
+  "commit": "7546aa9c7d4382219bdffe856fc05cc7d8328ffb",
+  "generated": "2024-10-10T12:20:53.101Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1281,6 +1281,28 @@
       "slug": "dubai-reit-rumors-saudis-trim-nintendo-stake",
       "status": "published",
       "title": "Oct 9: Dubai REIT Rumors, Saudis Trim Nintendo Stake"
+    },
+    {
+      "__outstatic": {
+        "commit": "7546aa9c7d4382219bdffe856fc05cc7d8328ffb",
+        "hash": "1704361563",
+        "path": "outstatic/content/blogs/oct-10-even-driven-funds-outperform-kirkoswald-explores-turkey.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/kirkoswald-boss-targeting-turkey-trades-I4OT.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-10T12:34:18.202Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "oct-10-even-driven-funds-outperform-kirkoswald-explores-turkey",
+      "status": "published",
+      "title": "Oct 10: Even Driven Funds Outperform, Kirkoswald Explores Turkey"
     }
   ]
 }
