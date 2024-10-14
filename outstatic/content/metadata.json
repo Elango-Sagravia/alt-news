@@ -1,6 +1,6 @@
 {
-  "commit": "4c7a1fcdf0962213af442e34285e4c139ded3136",
-  "generated": "2024-10-11T11:28:41.421Z",
+  "commit": "da23b81ef2c667296f04243078d1e98265e24abc",
+  "generated": "2024-10-14T11:31:51.864Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1325,6 +1325,28 @@
       "slug": "sibanye-loses-1b-deal-china-stimulus-shakes-winton-fund",
       "status": "published",
       "title": "Oct 11: Sibanye Loses $1B Deal, China Stimulus Shakes Winton Fund"
+    },
+    {
+      "__outstatic": {
+        "commit": "da23b81ef2c667296f04243078d1e98265e24abc",
+        "hash": "2558765312",
+        "path": "outstatic/content/blogs/blackrock-s-450b-push-bain-vs-kkr-for-fuji-soft.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/14th-oct--blackrock-s--450b-push--bain-vs.-kkr-for-fuji-soft-a-IzNj.jpg",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-14T12:10:00.393Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "blackrock-s-450b-push-bain-vs-kkr-for-fuji-soft",
+      "status": "published",
+      "title": "Oct 14: BlackRock’s $450B Push, Bain vs. KKR for Fuji Soft"
     }
   ]
 }
