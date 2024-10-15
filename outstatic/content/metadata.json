@@ -1,6 +1,6 @@
 {
-  "commit": "da23b81ef2c667296f04243078d1e98265e24abc",
-  "generated": "2024-10-14T11:31:51.864Z",
+  "commit": "500b42059ce741f3e475c2cd5ded7c689aea842e",
+  "generated": "2024-10-15T12:42:33.059Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1347,6 +1347,28 @@
       "slug": "blackrock-s-450b-push-bain-vs-kkr-for-fuji-soft",
       "status": "published",
       "title": "Oct 14: BlackRock’s $450B Push, Bain vs. KKR for Fuji Soft"
+    },
+    {
+      "__outstatic": {
+        "commit": "500b42059ce741f3e475c2cd5ded7c689aea842e",
+        "hash": "906967837",
+        "path": "outstatic/content/blogs/semirara-s-5b-expansion-horizon-robotics-ipo.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/oct-15--semirara-s-5b-expansion--horizon-robotics-ipo-b-k0OD.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-15T13:16:41.401Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "semirara-s-5b-expansion-horizon-robotics-ipo",
+      "status": "published",
+      "title": "Oct 15: Semirara’s $5B Expansion, Horizon Robotics IPO"
     }
   ]
 }
