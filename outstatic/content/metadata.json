@@ -1,6 +1,6 @@
 {
-  "commit": "500b42059ce741f3e475c2cd5ded7c689aea842e",
-  "generated": "2024-10-15T12:42:33.059Z",
+  "commit": "9828cbe20ef99d3df10e9502a2ac2664a1c81fd3",
+  "generated": "2024-10-16T12:11:44.037Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1369,6 +1369,28 @@
       "slug": "semirara-s-5b-expansion-horizon-robotics-ipo",
       "status": "published",
       "title": "Oct 15: Semirara’s $5B Expansion, Horizon Robotics IPO"
+    },
+    {
+      "__outstatic": {
+        "commit": "9828cbe20ef99d3df10e9502a2ac2664a1c81fd3",
+        "hash": "4066110517",
+        "path": "outstatic/content/blogs/wolfspeed-s-1-5b-boost-brazil-hedge-funds-win-climate-cat-bonds.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/oct-16--wolfspeed-s-1.5b-boost--brazil-hedge-funds-win--climate-cat-bonds-b-Q1Nz.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-16T12:51:29.578Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "wolfspeed-s-1-5b-boost-brazil-hedge-funds-win-climate-cat-bonds",
+      "status": "published",
+      "title": "Oct 16: Wolfspeed’s $1.5B Boost, Brazil Hedge Funds Win, Climate Cat Bonds"
     }
   ]
 }
