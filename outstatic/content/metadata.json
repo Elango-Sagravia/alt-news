@@ -1,6 +1,6 @@
 {
-  "commit": "9828cbe20ef99d3df10e9502a2ac2664a1c81fd3",
-  "generated": "2024-10-16T12:11:44.037Z",
+  "commit": "45eccb8c2b26bdc874f08538dea0aa7764295934",
+  "generated": "2024-10-17T11:10:07.731Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1391,6 +1391,28 @@
       "slug": "wolfspeed-s-1-5b-boost-brazil-hedge-funds-win-climate-cat-bonds",
       "status": "published",
       "title": "Oct 16: Wolfspeed’s $1.5B Boost, Brazil Hedge Funds Win, Climate Cat Bonds"
+    },
+    {
+      "__outstatic": {
+        "commit": "45eccb8c2b26bdc874f08538dea0aa7764295934",
+        "hash": "2580212114",
+        "path": "outstatic/content/blogs/trump-drives-dollar-bets-lightmatter-hits-4-4b-valuation.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/oct-17--trump-drives-dollar-bets--lightmatter-hits-4.4b-valuation-a-Q3Nz.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-17T11:49:10.804Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "trump-drives-dollar-bets-lightmatter-hits-4-4b-valuation",
+      "status": "published",
+      "title": "Oct 17: Trump Drives Dollar Bets, Lightmatter Hits $4.4B Valuation"
     }
   ]
 }
