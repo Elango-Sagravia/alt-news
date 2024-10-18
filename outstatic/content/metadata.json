@@ -1,6 +1,6 @@
 {
-  "commit": "45eccb8c2b26bdc874f08538dea0aa7764295934",
-  "generated": "2024-10-17T11:10:07.731Z",
+  "commit": "7179ddd9bb3ffc9f957f77724c92bcc532bfd6a6",
+  "generated": "2024-10-18T12:06:52.298Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1413,6 +1413,28 @@
       "slug": "trump-drives-dollar-bets-lightmatter-hits-4-4b-valuation",
       "status": "published",
       "title": "Oct 17: Trump Drives Dollar Bets, Lightmatter Hits $4.4B Valuation"
+    },
+    {
+      "__outstatic": {
+        "commit": "7179ddd9bb3ffc9f957f77724c92bcc532bfd6a6",
+        "hash": "1149635333",
+        "path": "outstatic/content/blogs/bridgewater-fund-jumps-klarna-s-ps30bn-loan-deal.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/oct-18--bridgewater-fund-jumps--klarna-s--30bn-loan-deal-a-YxND.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-18T12:32:30.530Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "bridgewater-fund-jumps-klarna-s-ps30bn-loan-deal",
+      "status": "published",
+      "title": "Oct 18: Bridgewater Fund Jumps, Klarna’s £30bn Loan Deal"
     }
   ]
 }
