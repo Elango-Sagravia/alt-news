@@ -1,6 +1,6 @@
 {
-  "commit": "7179ddd9bb3ffc9f957f77724c92bcc532bfd6a6",
-  "generated": "2024-10-18T12:06:52.298Z",
+  "commit": "f0a2fcb6bbb5ef86baa1a87fb92563c4fde8cadb",
+  "generated": "2024-10-21T11:42:25.532Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1435,6 +1435,28 @@
       "slug": "bridgewater-fund-jumps-klarna-s-ps30bn-loan-deal",
       "status": "published",
       "title": "Oct 18: Bridgewater Fund Jumps, Klarna’s £30bn Loan Deal"
+    },
+    {
+      "__outstatic": {
+        "commit": "f0a2fcb6bbb5ef86baa1a87fb92563c4fde8cadb",
+        "hash": "298001347",
+        "path": "outstatic/content/blogs/hedge-fund-segantii-exits-amid-insider-trading-scandal-abp-gains-eu23b.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/oct-21--hedge-fund-segantii-exits-amid-insider-trading-scandal--abp-gains--23b-a-g3Mj.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-21T12:22:40.470Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "hedge-fund-segantii-exits-amid-insider-trading-scandal-abp-gains-eu23b",
+      "status": "published",
+      "title": "Oct 21: Hedge fund Segantii exits amid insider trading scandal, ABP gains €23B"
     }
   ]
 }
