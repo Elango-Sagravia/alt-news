@@ -9,7 +9,7 @@ slug: 'elliott-vs-southwest-aca-expands-in-middle-east'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Oct 22: Elliott vs. Southwest, ACA Expands in Middle East'
 publishedAt: '2024-10-22T11:44:05.950Z'
 ---

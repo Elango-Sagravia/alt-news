@@ -1,6 +1,6 @@
 {
-  "commit": "9b70ecd6643ee346cced338965c08e6264d0c332",
-  "generated": "2024-10-22T11:03:10.732Z",
+  "commit": "df594c402a86adefc3cad461e7985f4af55bb5e5",
+  "generated": "2024-10-22T11:15:12.304Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1460,8 +1460,8 @@
     },
     {
       "__outstatic": {
-        "commit": "9b70ecd6643ee346cced338965c08e6264d0c332",
-        "hash": "3822273855",
+        "commit": "df594c402a86adefc3cad461e7985f4af55bb5e5",
+        "hash": "1174151575",
         "path": "outstatic/content/blogs/elliott-vs-southwest-aca-expands-in-middle-east.md"
       },
       "author": {
@@ -1477,7 +1477,7 @@
       "readTime": "4",
       "relatedArticles": "",
       "slug": "elliott-vs-southwest-aca-expands-in-middle-east",
-      "status": "draft",
+      "status": "published",
       "title": "Oct 22: Elliott vs. Southwest, ACA Expands in Middle East"
     }
   ]
