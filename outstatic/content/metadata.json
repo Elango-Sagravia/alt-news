@@ -1,6 +1,6 @@
 {
-  "commit": "f0a2fcb6bbb5ef86baa1a87fb92563c4fde8cadb",
-  "generated": "2024-10-21T11:42:25.532Z",
+  "commit": "9b70ecd6643ee346cced338965c08e6264d0c332",
+  "generated": "2024-10-22T11:03:10.732Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1457,6 +1457,28 @@
       "slug": "hedge-fund-segantii-exits-amid-insider-trading-scandal-abp-gains-eu23b",
       "status": "published",
       "title": "Oct 21: Hedge fund Segantii exits amid insider trading scandal, ABP gains €23B"
+    },
+    {
+      "__outstatic": {
+        "commit": "9b70ecd6643ee346cced338965c08e6264d0c332",
+        "hash": "3822273855",
+        "path": "outstatic/content/blogs/elliott-vs-southwest-aca-expands-in-middle-east.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/hedge-funds-buy-us-tech-stocks-at-fastest-pace-in-five-months-c3ND.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-22T11:44:05.950Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "elliott-vs-southwest-aca-expands-in-middle-east",
+      "status": "draft",
+      "title": "Oct 22: Elliott vs. Southwest, ACA Expands in Middle East"
     }
   ]
 }
