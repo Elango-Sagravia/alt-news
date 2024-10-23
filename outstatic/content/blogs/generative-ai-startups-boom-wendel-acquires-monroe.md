@@ -9,7 +9,7 @@ slug: 'generative-ai-startups-boom-wendel-acquires-monroe'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Oct 23: Generative AI Startups Boom, Wendel Acquires Monroe'
 publishedAt: '2024-10-23T12:07:44.035Z'
 ---
