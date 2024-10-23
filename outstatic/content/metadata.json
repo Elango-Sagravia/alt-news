@@ -1,6 +1,6 @@
 {
-  "commit": "df594c402a86adefc3cad461e7985f4af55bb5e5",
-  "generated": "2024-10-22T11:15:12.304Z",
+  "commit": "885883ea60fbbe4df56962f9390e8d09390ac920",
+  "generated": "2024-10-23T11:33:04.865Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1479,6 +1479,28 @@
       "slug": "elliott-vs-southwest-aca-expands-in-middle-east",
       "status": "published",
       "title": "Oct 22: Elliott vs. Southwest, ACA Expands in Middle East"
+    },
+    {
+      "__outstatic": {
+        "commit": "885883ea60fbbe4df56962f9390e8d09390ac920",
+        "hash": "2210659899",
+        "path": "outstatic/content/blogs/generative-ai-startups-boom-wendel-acquires-monroe.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/digital-assets-funds-see-largest-weekly-inflows-since-july-AyND.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-23T12:07:44.035Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "generative-ai-startups-boom-wendel-acquires-monroe",
+      "status": "draft",
+      "title": "Oct 23: Generative AI Startups Boom, Wendel Acquires Monroe"
     }
   ]
 }
