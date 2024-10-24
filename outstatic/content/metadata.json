@@ -1,6 +1,6 @@
 {
-  "commit": "6c388b16ec5d08829a418308ff83f9076ec0c0ad",
-  "generated": "2024-10-23T11:44:57.597Z",
+  "commit": "af5da940a271e03558ade7ebfce7e19e4fa8fa1d",
+  "generated": "2024-10-24T11:49:18.452Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1501,6 +1501,28 @@
       "slug": "generative-ai-startups-boom-wendel-acquires-monroe",
       "status": "published",
       "title": "Oct 23: Generative AI Startups Boom, Wendel Acquires Monroe"
+    },
+    {
+      "__outstatic": {
+        "commit": "af5da940a271e03558ade7ebfce7e19e4fa8fa1d",
+        "hash": "4279997125",
+        "path": "outstatic/content/blogs/millennium-s-fund-cap-boe-tightens-buyout-monitoring.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/crypto-hedge-fund-merger-targets-pension-flows-kzOT.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-24T12:28:12.576Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "millennium-s-fund-cap-boe-tightens-buyout-monitoring",
+      "status": "published",
+      "title": "Oct 24: Millennium’s Fund Cap, BoE Tightens Buyout Monitoring"
     }
   ]
 }
