@@ -1,6 +1,6 @@
 {
-  "commit": "af5da940a271e03558ade7ebfce7e19e4fa8fa1d",
-  "generated": "2024-10-24T11:49:18.452Z",
+  "commit": "08c7dae0fb2a582bfa5b415c22818623302168ef",
+  "generated": "2024-10-25T11:57:27.391Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1523,6 +1523,28 @@
       "slug": "millennium-s-fund-cap-boe-tightens-buyout-monitoring",
       "status": "published",
       "title": "Oct 24: Millennium’s Fund Cap, BoE Tightens Buyout Monitoring"
+    },
+    {
+      "__outstatic": {
+        "commit": "08c7dae0fb2a582bfa5b415c22818623302168ef",
+        "hash": "3242793877",
+        "path": "outstatic/content/blogs/blg-expands-to-italy-chinese-quants-struggle.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/turkish-pe-fund-eyes-luxury-hotel-properties-in-italy-AwMz.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-25T12:31:14.112Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "blg-expands-to-italy-chinese-quants-struggle",
+      "status": "published",
+      "title": "Oct 25: BLG Expands to Italy, Chinese Quants Struggle"
     }
   ]
 }
