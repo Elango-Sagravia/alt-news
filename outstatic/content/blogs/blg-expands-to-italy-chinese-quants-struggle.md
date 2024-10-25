@@ -24,7 +24,7 @@ In a rare move, ex-hedge fund manager Aaron Barnes, through Newmarket Capital, i
 
 Turkey’s BLG Capital is[ expanding](https://www.bloomberg.com/news/articles/2024-10-24/turkey-s-blg-capital-eyes-italy-real-estate-after-galataport-exit?embedded-checkout=true) its luxury real estate projects into Italy, focusing on hotel developments in Milan. The private equity firm, which recently sold its stake in Istanbul’s $2.2 billion Galataport project, is launching a Mediterranean hospitality fund targeting Italy, Greece, and Turkey. With high interest rates in Turkey stalling local projects, BLG is seeking investment from institutional backers in the U.S. and Europe. The firm is known for restoring historic buildings and managing luxury assets, including branches of Soho House and Ritz Carlton Residences.
 
-###  **Lone Pine Recovers From Previous Losses**
+### **Lone Pine Recovers From Previous Losses**
 
 Lone Pine Capital, led by Stephen Mandel Jr., is[ bouncing back](https://www.hedgeweek.com/lone-pine-recoups-earlier-losses/#:~:text=The%20gains%20have%20helped%20the,and%20Lone%20Cascade%20surging%2032%25.). In Q3, its long-short fund, Lone Cypress, gained 5%, pushing its year-to-date return to 23%. Its long-only fund, Lone Cascade, rose 8%, now up 25% this year. Both funds suffered significant losses in 2021 and 2022, but they rebounded in 2023, with Lone Cypress up 19% and Lone Cascade surging 32%. Heavily invested in tech stocks like Microsoft and Meta, the hedge fund is on the rise, though it’s still working to fully recoup earlier downturns.
 

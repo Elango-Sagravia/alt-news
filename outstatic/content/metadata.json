@@ -1,6 +1,6 @@
 {
-  "commit": "08c7dae0fb2a582bfa5b415c22818623302168ef",
-  "generated": "2024-10-25T11:57:27.391Z",
+  "commit": "dfd22f607e19166f73023763e00d1bc69cbd2749",
+  "generated": "2024-10-25T12:01:47.619Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1526,8 +1526,8 @@
     },
     {
       "__outstatic": {
-        "commit": "08c7dae0fb2a582bfa5b415c22818623302168ef",
-        "hash": "3242793877",
+        "commit": "dfd22f607e19166f73023763e00d1bc69cbd2749",
+        "hash": "4130509046",
         "path": "outstatic/content/blogs/blg-expands-to-italy-chinese-quants-struggle.md"
       },
       "author": {
