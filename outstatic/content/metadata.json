@@ -1,6 +1,6 @@
 {
-  "commit": "dfd22f607e19166f73023763e00d1bc69cbd2749",
-  "generated": "2024-10-25T12:01:47.619Z",
+  "commit": "0ef79d393631ce75b203593eac69933a7eac46fa",
+  "generated": "2024-10-28T10:25:17.216Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1545,6 +1545,28 @@
       "slug": "blg-expands-to-italy-chinese-quants-struggle",
       "status": "published",
       "title": "Oct 25: BLG Expands to Italy, Chinese Quants Struggle"
+    },
+    {
+      "__outstatic": {
+        "commit": "0ef79d393631ce75b203593eac69933a7eac46fa",
+        "hash": "521043309",
+        "path": "outstatic/content/blogs/bhp-s-30b-settlement-southwest-elliott-deal-accel-enters-secondary-market.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/southwest-airlines-strikes-deal-with-activist-elliot-kyOD.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-28T11:09:21.364Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "bhp-s-30b-settlement-southwest-elliott-deal-accel-enters-secondary-market",
+      "status": "draft",
+      "title": "Oct 28: BHP’s $30B Settlement, Southwest-Elliott Deal, Accel Enters Secondary Market"
     }
   ]
 }
