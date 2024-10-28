@@ -1,6 +1,6 @@
 {
-  "commit": "0ef79d393631ce75b203593eac69933a7eac46fa",
-  "generated": "2024-10-28T10:25:17.216Z",
+  "commit": "ccfa8888140b37f4157b78b90a32c8cf803a4cb8",
+  "generated": "2024-10-28T11:15:25.076Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1548,13 +1548,13 @@
     },
     {
       "__outstatic": {
-        "commit": "0ef79d393631ce75b203593eac69933a7eac46fa",
-        "hash": "521043309",
+        "commit": "ccfa8888140b37f4157b78b90a32c8cf803a4cb8",
+        "hash": "1441632330",
         "path": "outstatic/content/blogs/bhp-s-30b-settlement-southwest-elliott-deal-accel-enters-secondary-market.md"
       },
       "author": {
         "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
+        "picture": ""
       },
       "collection": "blogs",
       "coverImage": "/images/southwest-airlines-strikes-deal-with-activist-elliot-kyOD.webp",
@@ -1565,7 +1565,7 @@
       "readTime": "5",
       "relatedArticles": "",
       "slug": "bhp-s-30b-settlement-southwest-elliott-deal-accel-enters-secondary-market",
-      "status": "draft",
+      "status": "published",
       "title": "Oct 28: BHP’s $30B Settlement, Southwest-Elliott Deal, Accel Enters Secondary Market"
     }
   ]

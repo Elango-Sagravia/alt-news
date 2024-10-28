@@ -8,8 +8,8 @@ description: ''
 slug: 'bhp-s-30b-settlement-southwest-elliott-deal-accel-enters-secondary-market'
 author:
   name: ''
-  picture: 'https://avatars.githubusercontent.com/u/177857797?v=4'
-status: 'draft'
+  picture: ''
+status: 'published'
 title: 'Oct 28: BHP’s $30B Settlement, Southwest-Elliott Deal, Accel Enters Secondary Market'
 publishedAt: '2024-10-28T11:09:21.364Z'
 ---
