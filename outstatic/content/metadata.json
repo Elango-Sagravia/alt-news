@@ -1,6 +1,6 @@
 {
-  "commit": "ccfa8888140b37f4157b78b90a32c8cf803a4cb8",
-  "generated": "2024-10-28T11:15:25.076Z",
+  "commit": "9b8b398f39837dc508ca39fc789d06ed0378e0fe",
+  "generated": "2024-10-29T11:15:37.713Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1567,6 +1567,28 @@
       "slug": "bhp-s-30b-settlement-southwest-elliott-deal-accel-enters-secondary-market",
       "status": "published",
       "title": "Oct 28: BHP’s $30B Settlement, Southwest-Elliott Deal, Accel Enters Secondary Market"
+    },
+    {
+      "__outstatic": {
+        "commit": "9b8b398f39837dc508ca39fc789d06ed0378e0fe",
+        "hash": "1692673780",
+        "path": "outstatic/content/blogs/hedge-funds-bet-on-dollar-europe-s-dividend-shake-up.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/hedge-funds-sold-yen-before-us-election-A5MT.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-29T11:49:23.837Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "hedge-funds-bet-on-dollar-europe-s-dividend-shake-up",
+      "status": "published",
+      "title": "Oct 29: Hedge Funds Bet on Dollar, Europe’s Dividend Shake-Up"
     }
   ]
 }
