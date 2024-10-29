@@ -39,6 +39,7 @@ export default function RootLayout({ children }) {
           </AppProvider>
         </ThemeProvider>
       </body>
+      <GoogleAnalytics gaId="G-B6YDWDXPKZ" />
     </html>
   );
 }
