@@ -1,6 +1,6 @@
 {
-  "commit": "9b8b398f39837dc508ca39fc789d06ed0378e0fe",
-  "generated": "2024-10-29T11:15:37.713Z",
+  "commit": "4eec610b54bca111d33b24564d73688d1682943c",
+  "generated": "2024-10-30T11:21:20.619Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1589,6 +1589,28 @@
       "slug": "hedge-funds-bet-on-dollar-europe-s-dividend-shake-up",
       "status": "published",
       "title": "Oct 29: Hedge Funds Bet on Dollar, Europe’s Dividend Shake-Up"
+    },
+    {
+      "__outstatic": {
+        "commit": "4eec610b54bca111d33b24564d73688d1682943c",
+        "hash": "1820881058",
+        "path": "outstatic/content/blogs/pe-s-nuclear-play-sequoia-scores-big-in-crypto.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/doubleline-wantes-to-buy-asset-backed-data-center-assets-M2Mz.webp",
+      "cutOff": "7",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-30T11:57:24.206Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "pe-s-nuclear-play-sequoia-scores-big-in-crypto",
+      "status": "published",
+      "title": "Oct 30: PE’s Nuclear Play, Sequoia Scores Big in Crypto"
     }
   ]
 }
