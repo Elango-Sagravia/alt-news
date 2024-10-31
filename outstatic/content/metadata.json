@@ -1,6 +1,6 @@
 {
-  "commit": "e7731bc96eafd3ac121b41e3d02c99d23424d038",
-  "generated": "2024-10-31T11:27:10.794Z",
+  "commit": "fa1d78810561d09b7dcbb3407bef3490fc0e6f3b",
+  "generated": "2024-10-31T11:47:11.601Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1614,8 +1614,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e7731bc96eafd3ac121b41e3d02c99d23424d038",
-        "hash": "1796187200",
+        "commit": "fa1d78810561d09b7dcbb3407bef3490fc0e6f3b",
+        "hash": "3678342979",
         "path": "outstatic/content/blogs/hedge-funds-bet-on-sgd-samsung-s-ai-struggle.md"
       },
       "author": {
