@@ -1,6 +1,6 @@
 {
-  "commit": "4eec610b54bca111d33b24564d73688d1682943c",
-  "generated": "2024-10-30T11:21:20.619Z",
+  "commit": "e7731bc96eafd3ac121b41e3d02c99d23424d038",
+  "generated": "2024-10-31T11:27:10.794Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1611,6 +1611,28 @@
       "slug": "pe-s-nuclear-play-sequoia-scores-big-in-crypto",
       "status": "published",
       "title": "Oct 30: PE’s Nuclear Play, Sequoia Scores Big in Crypto"
+    },
+    {
+      "__outstatic": {
+        "commit": "e7731bc96eafd3ac121b41e3d02c99d23424d038",
+        "hash": "1796187200",
+        "path": "outstatic/content/blogs/hedge-funds-bet-on-sgd-samsung-s-ai-struggle.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/hedge-funds-turn-to-sgd-to-make-us-election-bet--2--AwNT.webp",
+      "cutOff": "7",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-10-31T11:51:04.271Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "hedge-funds-bet-on-sgd-samsung-s-ai-struggle",
+      "status": "published",
+      "title": "Oct 31: Hedge Funds Bet on SGD, Samsung’s AI Struggle"
     }
   ]
 }
