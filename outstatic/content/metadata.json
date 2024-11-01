@@ -1,6 +1,6 @@
 {
-  "commit": "fa1d78810561d09b7dcbb3407bef3490fc0e6f3b",
-  "generated": "2024-10-31T11:48:12.341Z",
+  "commit": "9afd7987e70a63c3f5da893095dd17bee5671056",
+  "generated": "2024-11-01T12:35:34.334Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1633,6 +1633,28 @@
       "slug": "hedge-funds-bet-on-sgd-samsung-s-ai-struggle",
       "status": "published",
       "title": "Oct 31: Hedge Funds Bet on SGD, Samsung’s AI Struggle"
+    },
+    {
+      "__outstatic": {
+        "commit": "9afd7987e70a63c3f5da893095dd17bee5671056",
+        "hash": "1396109493",
+        "path": "outstatic/content/blogs/nov-1-qantas-scandal-kkr-s-20b-goal-sec-eyes-freeport.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/blackstone-close-to-c7-billion-investment-deal-with-rogers--1--EzMz.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-11-01T13:16:27.506Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "nov-1-qantas-scandal-kkr-s-20b-goal-sec-eyes-freeport",
+      "status": "published",
+      "title": "Nov 1: Qantas Scandal, KKR’s $20B Goal, SEC Eyes Freeport"
     }
   ]
 }
