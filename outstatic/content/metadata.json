@@ -1,6 +1,6 @@
 {
-  "commit": "9afd7987e70a63c3f5da893095dd17bee5671056",
-  "generated": "2024-11-01T12:35:34.334Z",
+  "commit": "f891822cd4f6f3f499dc08e87b3228080d12f67c",
+  "generated": "2024-11-04T11:41:39.549Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1655,6 +1655,28 @@
       "slug": "nov-1-qantas-scandal-kkr-s-20b-goal-sec-eyes-freeport",
       "status": "published",
       "title": "Nov 1: Qantas Scandal, KKR’s $20B Goal, SEC Eyes Freeport"
+    },
+    {
+      "__outstatic": {
+        "commit": "f891822cd4f6f3f499dc08e87b3228080d12f67c",
+        "hash": "1904663126",
+        "path": "outstatic/content/blogs/kkr-s-250b-data-push-la-s-9b-bond-vote.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/prison-health-care-firm-wellpath-prepares-bankruptcy-filing-UyND.webp",
+      "cutOff": "7",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-11-04T12:21:03.454Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "kkr-s-250b-data-push-la-s-9b-bond-vote",
+      "status": "draft",
+      "title": "Nov 4: KKR's $250B Data Push, LA's $9B Bond Vote"
     }
   ]
 }
