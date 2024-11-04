@@ -9,7 +9,7 @@ slug: 'kkr-s-250b-data-push-la-s-9b-bond-vote'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/177857797?v=4'
-status: 'draft'
+status: 'published'
 title: 'Nov 4: KKR''s $250B Data Push, LA''s $9B Bond Vote'
 publishedAt: '2024-11-04T12:21:03.454Z'
 ---

@@ -1,6 +1,6 @@
 {
-  "commit": "f891822cd4f6f3f499dc08e87b3228080d12f67c",
-  "generated": "2024-11-04T11:41:39.549Z",
+  "commit": "25bf3a7db2a3bca2601693792e4c7f6481efc326",
+  "generated": "2024-11-04T12:01:41.979Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1658,8 +1658,8 @@
     },
     {
       "__outstatic": {
-        "commit": "f891822cd4f6f3f499dc08e87b3228080d12f67c",
-        "hash": "1904663126",
+        "commit": "25bf3a7db2a3bca2601693792e4c7f6481efc326",
+        "hash": "3990119568",
         "path": "outstatic/content/blogs/kkr-s-250b-data-push-la-s-9b-bond-vote.md"
       },
       "author": {
@@ -1675,7 +1675,7 @@
       "readTime": "6",
       "relatedArticles": "",
       "slug": "kkr-s-250b-data-push-la-s-9b-bond-vote",
-      "status": "draft",
+      "status": "published",
       "title": "Nov 4: KKR's $250B Data Push, LA's $9B Bond Vote"
     }
   ]
