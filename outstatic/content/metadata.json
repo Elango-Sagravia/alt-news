@@ -1,6 +1,6 @@
 {
-  "commit": "25bf3a7db2a3bca2601693792e4c7f6481efc326",
-  "generated": "2024-11-04T12:01:41.979Z",
+  "commit": "3e44da700d65797e3b6b3cd4df0419d563287193",
+  "generated": "2024-11-05T11:42:09.252Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1677,6 +1677,28 @@
       "slug": "kkr-s-250b-data-push-la-s-9b-bond-vote",
       "status": "published",
       "title": "Nov 4: KKR's $250B Data Push, LA's $9B Bond Vote"
+    },
+    {
+      "__outstatic": {
+        "commit": "3e44da700d65797e3b6b3cd4df0419d563287193",
+        "hash": "2582985827",
+        "path": "outstatic/content/blogs/dollar-bets-rise-sbb-faces-survival-questions-abu-dhabi-fund-launch.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/chinese-fund-manager-indicted-in-us-trade-secrets-case-c0Mz.webp",
+      "cutOff": "5",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-11-05T12:08:01.130Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "dollar-bets-rise-sbb-faces-survival-questions-abu-dhabi-fund-launch",
+      "status": "published",
+      "title": "Nov 5: Dollar bets rise, SBB faces survival questions, Abu Dhabi fund launch"
     }
   ]
 }
