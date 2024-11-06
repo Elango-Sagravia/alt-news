@@ -1,6 +1,6 @@
 {
-  "commit": "3e44da700d65797e3b6b3cd4df0419d563287193",
-  "generated": "2024-11-05T11:42:09.252Z",
+  "commit": "fc58e6f5dcebe1b4476abe1aaf257fe9ffefa161",
+  "generated": "2024-11-06T11:45:20.642Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1699,6 +1699,28 @@
       "slug": "dollar-bets-rise-sbb-faces-survival-questions-abu-dhabi-fund-launch",
       "status": "published",
       "title": "Nov 5: Dollar bets rise, SBB faces survival questions, Abu Dhabi fund launch"
+    },
+    {
+      "__outstatic": {
+        "commit": "fc58e6f5dcebe1b4476abe1aaf257fe9ffefa161",
+        "hash": "1270125058",
+        "path": "outstatic/content/blogs/european-hedge-fund-losses-coatue-s-1bn-ai-bet.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/hong-kong-hedge-fund-zeal-to-shut--returning-1.6-billion-to-investors-QyMz.webp",
+      "cutOff": "7",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-11-06T12:21:25.376Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "european-hedge-fund-losses-coatue-s-1bn-ai-bet",
+      "status": "published",
+      "title": "Nov 6: European Hedge Fund Losses, Coatue’s $1bn AI Bet"
     }
   ]
 }
