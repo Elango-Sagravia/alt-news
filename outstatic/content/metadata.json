@@ -1,6 +1,6 @@
 {
-  "commit": "fc58e6f5dcebe1b4476abe1aaf257fe9ffefa161",
-  "generated": "2024-11-06T11:45:20.642Z",
+  "commit": "08135bc162a7cb34322d180bbd7c63eb0f68dc49",
+  "generated": "2024-11-07T11:45:24.971Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1721,6 +1721,28 @@
       "slug": "european-hedge-fund-losses-coatue-s-1bn-ai-bet",
       "status": "published",
       "title": "Nov 6: European Hedge Fund Losses, Coatue’s $1bn AI Bet"
+    },
+    {
+      "__outstatic": {
+        "commit": "08135bc162a7cb34322d180bbd7c63eb0f68dc49",
+        "hash": "4288481611",
+        "path": "outstatic/content/blogs/schonfeld-outpaces-millennium-hedge-funds-bet-on-lira-stability.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/funds-turn-to-turkish-lira-to-hedge-currency-chaos-M3ND.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-11-07T12:20:34.091Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "schonfeld-outpaces-millennium-hedge-funds-bet-on-lira-stability",
+      "status": "draft",
+      "title": "Nov 7: Schonfeld Outpaces Millennium, Hedge Funds Bet on Lira Stability"
     }
   ]
 }
