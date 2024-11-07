@@ -1,6 +1,6 @@
 {
-  "commit": "08135bc162a7cb34322d180bbd7c63eb0f68dc49",
-  "generated": "2024-11-07T11:45:24.971Z",
+  "commit": "5e17095c9b32d224da59069726145c9b06cd4ac2",
+  "generated": "2024-11-07T11:49:09.658Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1724,8 +1724,8 @@
     },
     {
       "__outstatic": {
-        "commit": "08135bc162a7cb34322d180bbd7c63eb0f68dc49",
-        "hash": "4288481611",
+        "commit": "5e17095c9b32d224da59069726145c9b06cd4ac2",
+        "hash": "2381951383",
         "path": "outstatic/content/blogs/schonfeld-outpaces-millennium-hedge-funds-bet-on-lira-stability.md"
       },
       "author": {
@@ -1741,7 +1741,7 @@
       "readTime": "4",
       "relatedArticles": "",
       "slug": "schonfeld-outpaces-millennium-hedge-funds-bet-on-lira-stability",
-      "status": "draft",
+      "status": "published",
       "title": "Nov 7: Schonfeld Outpaces Millennium, Hedge Funds Bet on Lira Stability"
     }
   ]

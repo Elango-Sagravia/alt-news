@@ -9,7 +9,7 @@ slug: 'schonfeld-outpaces-millennium-hedge-funds-bet-on-lira-stability'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Nov 7: Schonfeld Outpaces Millennium, Hedge Funds Bet on Lira Stability'
 publishedAt: '2024-11-07T12:20:34.091Z'
 ---
