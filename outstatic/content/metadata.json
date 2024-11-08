@@ -1,6 +1,6 @@
 {
-  "commit": "5e17095c9b32d224da59069726145c9b06cd4ac2",
-  "generated": "2024-11-07T11:49:09.658Z",
+  "commit": "684e93ac640cf47bde9ad82a8faeea81a171e681",
+  "generated": "2024-11-08T11:37:44.815Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1743,6 +1743,28 @@
       "slug": "schonfeld-outpaces-millennium-hedge-funds-bet-on-lira-stability",
       "status": "published",
       "title": "Nov 7: Schonfeld Outpaces Millennium, Hedge Funds Bet on Lira Stability"
+    },
+    {
+      "__outstatic": {
+        "commit": "684e93ac640cf47bde9ad82a8faeea81a171e681",
+        "hash": "1157335513",
+        "path": "outstatic/content/blogs/trump-win-hits-esg-elliott-s-citgo-bid.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/faang-stocks-have-changed-systematic-investing--says-invesco--1--QyMT.webp",
+      "cutOff": "6",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-11-08T12:18:12.115Z",
+      "readTime": "4",
+      "relatedArticles": "",
+      "slug": "trump-win-hits-esg-elliott-s-citgo-bid",
+      "status": "draft",
+      "title": "Nov 8: Trump Win Hits ESG, Elliott’s Citgo Bid"
     }
   ]
 }
