@@ -1,6 +1,6 @@
 {
-  "commit": "88c73bd4a9bae9fdd9c2a78f2be7c18ec1cc20f1",
-  "generated": "2024-11-08T11:37:51.493Z",
+  "commit": "43abd3f0d4b81be41d5bb436204b7baced6ae6b6",
+  "generated": "2024-11-08T12:12:34.787Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1746,8 +1746,8 @@
     },
     {
       "__outstatic": {
-        "commit": "88c73bd4a9bae9fdd9c2a78f2be7c18ec1cc20f1",
-        "hash": "3689788924",
+        "commit": "43abd3f0d4b81be41d5bb436204b7baced6ae6b6",
+        "hash": "925433593",
         "path": "outstatic/content/blogs/trump-win-hits-esg-elliott-s-citgo-bid.md"
       },
       "author": {
