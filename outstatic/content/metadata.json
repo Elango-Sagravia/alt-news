@@ -1,6 +1,6 @@
 {
-  "commit": "684e93ac640cf47bde9ad82a8faeea81a171e681",
-  "generated": "2024-11-08T11:37:44.815Z",
+  "commit": "88c73bd4a9bae9fdd9c2a78f2be7c18ec1cc20f1",
+  "generated": "2024-11-08T11:37:51.493Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1746,8 +1746,8 @@
     },
     {
       "__outstatic": {
-        "commit": "684e93ac640cf47bde9ad82a8faeea81a171e681",
-        "hash": "1157335513",
+        "commit": "88c73bd4a9bae9fdd9c2a78f2be7c18ec1cc20f1",
+        "hash": "3689788924",
         "path": "outstatic/content/blogs/trump-win-hits-esg-elliott-s-citgo-bid.md"
       },
       "author": {
@@ -1763,7 +1763,7 @@
       "readTime": "4",
       "relatedArticles": "",
       "slug": "trump-win-hits-esg-elliott-s-citgo-bid",
-      "status": "draft",
+      "status": "published",
       "title": "Nov 8: Trump Win Hits ESG, Elliott’s Citgo Bid"
     }
   ]

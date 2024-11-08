@@ -9,7 +9,7 @@ slug: 'trump-win-hits-esg-elliott-s-citgo-bid'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Nov 8: Trump Win Hits ESG, Elliott’s Citgo Bid'
 publishedAt: '2024-11-08T12:18:12.115Z'
 ---
