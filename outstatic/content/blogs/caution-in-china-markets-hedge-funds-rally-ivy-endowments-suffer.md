@@ -85,5 +85,3 @@ Gold’s appeal also rises amid rising inflation and currency devaluation fears,
 Net Present Value (NPV) is a way to measure the value of a project or investment by looking at the money it’s expected to make in the future but adjusted to reflect the money in today's value. This is done because money now is worth more than money in the future due to things like inflation and the potential to earn interest.
 
 To calculate NPV, you add up all the future cash flows the project will generate, each discounted back to today’s value.
-
-### “In investing, what is comfortable is rarely profitable.” — Robert Arnott
