@@ -1,6 +1,6 @@
 {
-  "commit": "43abd3f0d4b81be41d5bb436204b7baced6ae6b6",
-  "generated": "2024-11-08T12:12:34.787Z",
+  "commit": "7c493749dff62f3bb058ce64906628388c3a3eb4",
+  "generated": "2024-11-11T12:46:05.699Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1765,6 +1765,28 @@
       "slug": "trump-win-hits-esg-elliott-s-citgo-bid",
       "status": "published",
       "title": "Nov 8: Trump Win Hits ESG, Elliott’s Citgo Bid"
+    },
+    {
+      "__outstatic": {
+        "commit": "7c493749dff62f3bb058ce64906628388c3a3eb4",
+        "hash": "3121731165",
+        "path": "outstatic/content/blogs/caution-in-china-markets-hedge-funds-rally-ivy-endowments-suffer.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/top-china-hedge-fund-advises-caution--1--EyNz.webp",
+      "cutOff": "8",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-11-11T13:22:36.451Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "caution-in-china-markets-hedge-funds-rally-ivy-endowments-suffer",
+      "status": "published",
+      "title": "Nov 11: Caution in China markets, hedge funds rally, Ivy endowments suffer"
     }
   ]
 }
