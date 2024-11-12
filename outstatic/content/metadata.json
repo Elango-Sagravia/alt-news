@@ -1,6 +1,6 @@
 {
-  "commit": "e153352e36312385da8269826b7d109b62035a95",
-  "generated": "2024-11-12T11:38:20.485Z",
+  "commit": "47fcb7228c054831cb81f032f8b73f6cd22f3f91",
+  "generated": "2024-11-12T14:55:24.635Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1790,8 +1790,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e153352e36312385da8269826b7d109b62035a95",
-        "hash": "157764294",
+        "commit": "47fcb7228c054831cb81f032f8b73f6cd22f3f91",
+        "hash": "1183980049",
         "path": "outstatic/content/blogs/nov-12-boeing-mulls-6b-jeppesen-sale-hedge-funds-bullish-on-crude.md"
       },
       "author": {
@@ -1802,6 +1802,8 @@
       "coverImage": "/images/trump-market-rally-nets-rokos-almost-1bn-single-day-profit-YyND.webp",
       "cutOff": "8",
       "description": "",
+      "footerBannerContent": "random quote here",
+      "footerBannerTitle": "",
       "latest": "true",
       "publishedAt": "2024-11-12T12:18:12.344Z",
       "readTime": "6",

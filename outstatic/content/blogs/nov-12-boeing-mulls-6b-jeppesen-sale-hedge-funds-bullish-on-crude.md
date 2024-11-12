@@ -1,4 +1,6 @@
 ---
+footerBannerContent: 'random quote here'
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
