@@ -9,6 +9,7 @@ import HTMLContent from "./myComponent";
 import content from "@/content/content";
 import SubscriberForm from "../subscriberForm/subscriberForm";
 import RelatedArticles from "../relatedArticles/relatedArticles";
+import garamond from "@/components/garamond";
 
 const SingleBlog = ({ blog, relatedArticles, index }) => {
   console.log(relatedArticles);
