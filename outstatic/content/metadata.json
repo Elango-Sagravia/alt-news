@@ -1,6 +1,6 @@
 {
-  "commit": "68ed9afdc4bd49dd9490004758b2bb1623510b81",
-  "generated": "2024-11-12T15:21:28.787Z",
+  "commit": "f2b5b8186f117ca012fc9a645ff01a0581a6c195",
+  "generated": "2024-11-12T15:26:39.394Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1790,8 +1790,8 @@
     },
     {
       "__outstatic": {
-        "commit": "68ed9afdc4bd49dd9490004758b2bb1623510b81",
-        "hash": "1088628084",
+        "commit": "f2b5b8186f117ca012fc9a645ff01a0581a6c195",
+        "hash": "3547859909",
         "path": "outstatic/content/blogs/nov-12-boeing-mulls-6b-jeppesen-sale-hedge-funds-bullish-on-crude.md"
       },
       "author": {
