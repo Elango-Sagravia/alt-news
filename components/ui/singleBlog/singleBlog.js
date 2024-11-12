@@ -36,6 +36,28 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
             }
             enableCutOff={index <= 4 ? false : true}
           />
+          {index <= 4
+            ? blog?.footerBannerContent?.length > 0 && (
+                <div className="p-4 md:p-10 bg-nl_background text-white mt-6">
+                  <p className="text-center text-[12px]">
+                    {blog.footerBannerTitle}
+                  </p>
+                  <p className={`text-xl ${garamond.className} text-center`}>
+                    {blog.footerBannerContent}
+                  </p>
+                </div>
+              )
+            : isSubscribed &&
+              blog?.footerBannerContent?.length > 0 && (
+                <div className="p-4 md:p-10 bg-nl_background text-white mt-6">
+                  <p className="text-center text-[12px]">
+                    {blog.footerBannerTitle}
+                  </p>
+                  <p className={`text-xl ${garamond.className} text-center`}>
+                    {blog.footerBannerContent}
+                  </p>
+                </div>
+              )}
         </div>
         {isSubscribed ||
           (index <= 4 && relatedArticles.length > 0 && (
