@@ -1,5 +1,5 @@
 ---
-footerBannerContent: 'random quote here'
+footerBannerContent: '“Risk comes from not knowing what you’re doing.” — Warren Buffett'
 footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'

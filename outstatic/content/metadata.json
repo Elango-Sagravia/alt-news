@@ -1,6 +1,6 @@
 {
-  "commit": "47fcb7228c054831cb81f032f8b73f6cd22f3f91",
-  "generated": "2024-11-12T14:55:24.635Z",
+  "commit": "68ed9afdc4bd49dd9490004758b2bb1623510b81",
+  "generated": "2024-11-12T15:21:28.787Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1790,8 +1790,8 @@
     },
     {
       "__outstatic": {
-        "commit": "47fcb7228c054831cb81f032f8b73f6cd22f3f91",
-        "hash": "1183980049",
+        "commit": "68ed9afdc4bd49dd9490004758b2bb1623510b81",
+        "hash": "1088628084",
         "path": "outstatic/content/blogs/nov-12-boeing-mulls-6b-jeppesen-sale-hedge-funds-bullish-on-crude.md"
       },
       "author": {
@@ -1802,7 +1802,7 @@
       "coverImage": "/images/trump-market-rally-nets-rokos-almost-1bn-single-day-profit-YyND.webp",
       "cutOff": "8",
       "description": "",
-      "footerBannerContent": "random quote here",
+      "footerBannerContent": "“Risk comes from not knowing what you’re doing.” — Warren Buffett",
       "footerBannerTitle": "",
       "latest": "true",
       "publishedAt": "2024-11-12T12:18:12.344Z",
