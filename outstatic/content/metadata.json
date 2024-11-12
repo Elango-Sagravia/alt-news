@@ -1,6 +1,6 @@
 {
-  "commit": "dd59f74e6c5f4d6fafb954bfe562f9275b3bd36b",
-  "generated": "2024-11-11T16:32:59.134Z",
+  "commit": "e153352e36312385da8269826b7d109b62035a95",
+  "generated": "2024-11-12T11:38:20.485Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1787,6 +1787,28 @@
       "slug": "caution-in-china-markets-hedge-funds-rally-ivy-endowments-suffer",
       "status": "published",
       "title": "Nov 11: Caution in China markets, hedge funds rally, Ivy endowments suffer"
+    },
+    {
+      "__outstatic": {
+        "commit": "e153352e36312385da8269826b7d109b62035a95",
+        "hash": "157764294",
+        "path": "outstatic/content/blogs/nov-12-boeing-mulls-6b-jeppesen-sale-hedge-funds-bullish-on-crude.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/trump-market-rally-nets-rokos-almost-1bn-single-day-profit-YyND.webp",
+      "cutOff": "8",
+      "description": "",
+      "latest": "true",
+      "publishedAt": "2024-11-12T12:18:12.344Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "nov-12-boeing-mulls-6b-jeppesen-sale-hedge-funds-bullish-on-crude",
+      "status": "published",
+      "title": "Nov 12: Boeing mulls $6B Jeppesen sale, Hedge funds bullish on crude"
     }
   ]
 }
