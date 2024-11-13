@@ -1,6 +1,6 @@
 {
-  "commit": "f2b5b8186f117ca012fc9a645ff01a0581a6c195",
-  "generated": "2024-11-12T15:26:39.394Z",
+  "commit": "273bce4180f6263ffc718c59d4b61e35feb73209",
+  "generated": "2024-11-13T11:35:17.991Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1811,6 +1811,30 @@
       "slug": "nov-12-boeing-mulls-6b-jeppesen-sale-hedge-funds-bullish-on-crude",
       "status": "published",
       "title": "Nov 12: Boeing mulls $6B Jeppesen sale, Hedge funds bullish on crude"
+    },
+    {
+      "__outstatic": {
+        "commit": "273bce4180f6263ffc718c59d4b61e35feb73209",
+        "hash": "2356143167",
+        "path": "outstatic/content/blogs/ellison-starts-sentence-bitcoin-surge-on-trump-win.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/alameda-boss-ellison-begins-two-year-sentence-over-ftx-fraud-gwNj.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "\"Courage taught me no matter how bad a crisis gets ... any sound investment will eventually pay off.\" — Carlos Slim Helu",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-13T12:06:36.605Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "ellison-starts-sentence-bitcoin-surge-on-trump-win",
+      "status": "published",
+      "title": "Nov 13: Ellison starts sentence, Bitcoin surge on Trump win"
     }
   ]
 }
