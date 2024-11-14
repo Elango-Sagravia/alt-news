@@ -1,6 +1,6 @@
 {
-  "commit": "273bce4180f6263ffc718c59d4b61e35feb73209",
-  "generated": "2024-11-13T11:35:17.991Z",
+  "commit": "e50d3ff15e52780086423c37a9c1174a07d6a9e4",
+  "generated": "2024-11-14T13:24:59.167Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1835,6 +1835,30 @@
       "slug": "ellison-starts-sentence-bitcoin-surge-on-trump-win",
       "status": "published",
       "title": "Nov 13: Ellison starts sentence, Bitcoin surge on Trump win"
+    },
+    {
+      "__outstatic": {
+        "commit": "e50d3ff15e52780086423c37a9c1174a07d6a9e4",
+        "hash": "1694678697",
+        "path": "outstatic/content/blogs/klarna-files-for-ipo-saudi-cuts-nintendo-nissan-soars.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/saudi-arabia-s-sovereign-wealth-fund-trims-nintendo-stake-again-Q3Nj.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“Financial freedom is freedom from fear.” — Robert Kiyosaki",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-14T14:02:31.300Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "klarna-files-for-ipo-saudi-cuts-nintendo-nissan-soars",
+      "status": "published",
+      "title": "Nov 14: Klarna files for IPO, Saudi cuts Nintendo, Nissan soars"
     }
   ]
 }
