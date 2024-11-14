@@ -42,7 +42,7 @@ Sales of Apple Inc.’s newest iPhones in China are up 20% in their first three 
 
 **→ D.E. Shaw’s private credit fund grows:** D.E. Shaw raised [$1 billion](https://www.bloomberg.com/news/articles/2024-11-13/d-e-shaw-raises-1-billion-in-latest-alkali-private-credit-fund?srnd=homepage-americas) for its latest private credit fund, part of its Alkali series focused on corporate and structured debt. This sixth fund targets less liquid assets and has drawn over $500 million from previous investors. With $3.9 billion in the Alkali fund family, D.E. Shaw continues its strong performance in private credit, even as rate cuts may impact returns.
 
-**→ ADIA speeds up deals with quant strategy:** Abu Dhabi’s ADIA is [accelerating](https://www.bloomberg.com/news/articles/2024-11-13/uae-wealth-funds-abu-dhabi-s-1-trillion-adia-rejigs-strategy-to-speed-up-deals) its private credit and equity deals by using data from a 125-person quant team. This marks a pivot from conservative investments like bonds, with ADIA now leveraging data-driven decisions. The fund has broadened its private credit market reach and works with diverse hedge funds. Moving quicker, ADIA has increased its internally managed assets to 64%, creating a more flexible, controlled approach to asset management. 
+**→ ADIA speeds up deals with quant strategy:** Abu Dhabi’s ADIA is [accelerating](https://www.bloomberg.com/news/articles/2024-11-13/uae-wealth-funds-abu-dhabi-s-1-trillion-adia-rejigs-strategy-to-speed-up-deals) its private credit and equity deals by using data from a 125-person quant team. This marks a pivot from conservative investments like bonds, with ADIA now leveraging data-driven decisions. The fund has broadened its private credit market reach and works with diverse hedge funds. Moving quicker, ADIA has increased its internally managed assets to 64%, creating a more flexible, controlled approach to asset management.
 
 **Hedge Funds**
 
@@ -54,9 +54,9 @@ Sales of Apple Inc.’s newest iPhones in China are up 20% in their first three 
 
 **→ Altos Ventures secures $500M fund**: Altos Ventures, a Silicon Valley VC firm, has raised [$500 million](https://techcrunch.com/2024/11/12/altos-ventures-an-early-backer-of-coupang-and-roblox-raises-500m-fund/) for its latest fund. Known for backing Coupang and Roblox, Altos continues its conservative fund-raising approach amid challenging market conditions. With a focus on early-stage enterprise and consumer software, Altos aims to support founder-led growth companies. This fund signals strong interest in smaller VC funds, which data suggests yield higher returns, as Altos sticks to its strategy of prioritizing high-growth investments over inflated valuations.
 
-**→ Intudo Ventures raises $125M for Indonesia:** Indonesia-focused Intudo Ventures closed [$125 million](https://www.venturecapitaljournal.com/sea-warms-up-as-intudo-raises-125m-for-indonesian-start-ups/#:~:text=Indonesia%2Dfocused%20Intudo%20Ventures%20has,for%20a%20renewable%20energy%20fund.) across two funds, with $75 million dedicated to Intudo Venture IV. The firm’s strategy supports Indonesian companies with investments from global players like Orient Growth Ventures and Black Kite Capital. Intudo aims to capitalize on Indonesia’s economic growth and strategic importance in sectors like EVs, batteries, and consumer goods. 
+**→ Intudo Ventures raises $125M for Indonesia:** Indonesia-focused Intudo Ventures closed [$125 million](https://www.venturecapitaljournal.com/sea-warms-up-as-intudo-raises-125m-for-indonesian-start-ups/#:~:text=Indonesia%2Dfocused%20Intudo%20Ventures%20has,for%20a%20renewable%20energy%20fund.) across two funds, with $75 million dedicated to Intudo Venture IV. The firm’s strategy supports Indonesian companies with investments from global players like Orient Growth Ventures and Black Kite Capital. Intudo aims to capitalize on Indonesia’s economic growth and strategic importance in sectors like EVs, batteries, and consumer goods.
 
-**→ CoreWeave hits $650M in secondary sale:** CoreWeave, a GPU cloud provider, secured [$650 million](https://pitchbook.com/news/articles/coreweave-secondary-sale-cisco-fidelity-ipo-nvidia-gpu) in a secondary sale led by Fidelity, Cisco, and others, pushing its valuation to an estimated $23 billion. Originally an Ethereum miner, CoreWeave pivoted to AI-focused GPU rentals, serving clients like Microsoft and Nvidia. This transaction offers liquidity to shareholders and employees while CoreWeave plans for a 2025 IPO. 
+**→ CoreWeave hits $650M in secondary sale:** CoreWeave, a GPU cloud provider, secured [$650 million](https://pitchbook.com/news/articles/coreweave-secondary-sale-cisco-fidelity-ipo-nvidia-gpu) in a secondary sale led by Fidelity, Cisco, and others, pushing its valuation to an estimated $23 billion. Originally an Ethereum miner, CoreWeave pivoted to AI-focused GPU rentals, serving clients like Microsoft and Nvidia. This transaction offers liquidity to shareholders and employees while CoreWeave plans for a 2025 IPO.
 
 **Others**
 
@@ -78,8 +78,8 @@ Second, prices of goods from the US, such as food, fuel, and machinery, go up. T
 
 Finally, foreign investors see a stronger dollar as a sign of safer, higher returns in the US economy. They may pull money out of emerging markets, reducing funds for businesses and growth. For example, in 2018, when the U.S. dollar strengthened, countries like Turkey and Argentina saw investors quickly withdraw, which hurt their economies. Argentina’s peso and Turkey’s lira lost significant value, making imported goods more expensive and increasing debt costs. This left them struggling with inflation, and their governments had to make tough choices to stabilize their economies.
 
-### WHAT IS\
-**\
-Limit order**
+### WHAT IS
+
+**Limit order**
 
 A limit order is a type of order to buy or sell a stock at a specific price. It helps ensure that you don’t pay more or sell for less than you want. Imagine you want to buy a stock, but only if it drops to $50. With a limit order, you set your “limit” price at $50, so the purchase only happens if the stock hits that price.

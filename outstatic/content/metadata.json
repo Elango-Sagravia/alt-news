@@ -1,6 +1,6 @@
 {
-  "commit": "e50d3ff15e52780086423c37a9c1174a07d6a9e4",
-  "generated": "2024-11-14T13:24:59.167Z",
+  "commit": "647a5d1101e6c9419bf2dc82fdc442b81ad76f5d",
+  "generated": "2024-11-14T13:27:32.049Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1838,8 +1838,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e50d3ff15e52780086423c37a9c1174a07d6a9e4",
-        "hash": "1694678697",
+        "commit": "647a5d1101e6c9419bf2dc82fdc442b81ad76f5d",
+        "hash": "2912901287",
         "path": "outstatic/content/blogs/klarna-files-for-ipo-saudi-cuts-nintendo-nissan-soars.md"
       },
       "author": {
