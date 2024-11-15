@@ -1,6 +1,6 @@
 {
-  "commit": "5f1ed8e6c28899b169cb552260acce3f6711fffc",
-  "generated": "2024-11-15T11:56:16.832Z",
+  "commit": "f5148821b9fdbb9038f398bb14530b635d0f5ff0",
+  "generated": "2024-11-15T11:57:22.733Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1859,30 +1859,6 @@
       "slug": "klarna-files-for-ipo-saudi-cuts-nintendo-nissan-soars",
       "status": "published",
       "title": "Nov 14: Klarna files for IPO, Saudi cuts Nintendo, Nissan soars"
-    },
-    {
-      "__outstatic": {
-        "commit": "5f1ed8e6c28899b169cb552260acce3f6711fffc",
-        "hash": "4129743317",
-        "path": "outstatic/content/blogs/sweet-secret-weapon.md"
-      },
-      "author": {
-        "name": "",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/hersheys-chocolate-kxMj.webp",
-      "cutOff": "3",
-      "description": "",
-      "footerBannerContent": "\"The secret of getting ahead is getting started.\" — Mark Twain",
-      "footerBannerTitle": "",
-      "latest": "true",
-      "publishedAt": "2024-11-15T12:26:50.004Z",
-      "readTime": "2",
-      "relatedArticles": "",
-      "slug": "sweet-secret-weapon",
-      "status": "published",
-      "title": "Sweet secret weapon"
     }
   ]
 }
