@@ -1,6 +1,6 @@
 {
-  "commit": "f5148821b9fdbb9038f398bb14530b635d0f5ff0",
-  "generated": "2024-11-15T11:57:22.733Z",
+  "commit": "399d7f68bd0490a44ceec9e5618dcbcc5abff1e7",
+  "generated": "2024-11-15T12:11:48.723Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1859,6 +1859,30 @@
       "slug": "klarna-files-for-ipo-saudi-cuts-nintendo-nissan-soars",
       "status": "published",
       "title": "Nov 14: Klarna files for IPO, Saudi cuts Nintendo, Nissan soars"
+    },
+    {
+      "__outstatic": {
+        "commit": "399d7f68bd0490a44ceec9e5618dcbcc5abff1e7",
+        "hash": "2676150434",
+        "path": "outstatic/content/blogs/wonder-buys-grubhub-de-shaw-shorts-bayer-eastern-european-fund.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/de-shaw-bets-against-bayer-amid-struggles-U1NT.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“Activity is the enemy of investment returns.” Warren Buffett",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-15T12:47:59.169Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "wonder-buys-grubhub-de-shaw-shorts-bayer-eastern-european-fund",
+      "status": "published",
+      "title": "Nov 15: Wonder buys Grubhub, DE Shaw shorts Bayer, Eastern European fund"
     }
   ]
 }
