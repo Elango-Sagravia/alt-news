@@ -1,6 +1,6 @@
 {
-  "commit": "9cc922bcc6fb99da39881290e979f61f41b05ab8",
-  "generated": "2024-11-18T12:02:04.369Z",
+  "commit": "6bcfaa524179d529fd27da33e485900ed473a4e0",
+  "generated": "2024-11-18T12:27:35.502Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1883,6 +1883,30 @@
       "slug": "wonder-buys-grubhub-de-shaw-shorts-bayer-eastern-european-fund",
       "status": "published",
       "title": "Nov 15: Wonder buys Grubhub, DE Shaw shorts Bayer, Eastern European fund"
+    },
+    {
+      "__outstatic": {
+        "commit": "6bcfaa524179d529fd27da33e485900ed473a4e0",
+        "hash": "2539075310",
+        "path": "outstatic/content/blogs/nov-18-gold-drops-post-trump-win-venture-debt-surges-millennium-axes-star-trader.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/chevron--super-micro-among-october-s-most-shorted-stocks--says-hazeltree-kwMT.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“The stock market is a device to transfer money from the impatient to the patient.” - Warren Buffett",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-18T12:56:48.981Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "nov-18-gold-drops-post-trump-win-venture-debt-surges-millennium-axes-star-trader",
+      "status": "published",
+      "title": "Nov 18: Gold drops post-Trump win, Venture debt surges, Millennium axes star trader"
     }
   ]
 }
