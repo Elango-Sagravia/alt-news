@@ -1,6 +1,6 @@
 {
-  "commit": "a0c6d33ca7b1b9921b40d74d28053415535a327b",
-  "generated": "2024-11-18T11:57:33.270Z",
+  "commit": "9cc922bcc6fb99da39881290e979f61f41b05ab8",
+  "generated": "2024-11-18T12:02:04.369Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1883,30 +1883,6 @@
       "slug": "wonder-buys-grubhub-de-shaw-shorts-bayer-eastern-european-fund",
       "status": "published",
       "title": "Nov 15: Wonder buys Grubhub, DE Shaw shorts Bayer, Eastern European fund"
-    },
-    {
-      "__outstatic": {
-        "commit": "a0c6d33ca7b1b9921b40d74d28053415535a327b",
-        "hash": "801510761",
-        "path": "outstatic/content/blogs/a-p-failed-to-adapt.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "/images/the-rise-and-fall-of-a-p--1--E0ND.webp"
-      },
-      "collection": "blogs",
-      "coverImage": "",
-      "cutOff": "3",
-      "description": "",
-      "footerBannerContent": "James Dyson went through 5,127 vacuum cleaner prototypes over five years before finally perfecting his bagless vacuum, showing extreme perseverance in product development.",
-      "footerBannerTitle": "",
-      "latest": "true",
-      "publishedAt": "2024-11-18T12:38:01.897Z",
-      "readTime": "2",
-      "relatedArticles": "",
-      "slug": "a-p-failed-to-adapt",
-      "status": "published",
-      "title": "A&P failed to adapt"
     }
   ]
 }
