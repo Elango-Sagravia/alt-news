@@ -1,6 +1,6 @@
 {
-  "commit": "b0164bd474ce515b64a4b94b18bd6af8541820c5",
-  "generated": "2024-11-19T11:35:05.702Z",
+  "commit": "17b2e06e0d2b957f1d222f53d28a59d1d6404dec",
+  "generated": "2024-11-19T11:57:57.520Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1886,29 +1886,6 @@
     },
     {
       "__outstatic": {
-        "commit": "2da63b5d23ea88819efe9abf97ecd9dbd3aad55f",
-        "hash": "3606783756",
-        "path": "outstatic/content/blogs/nov-19-arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
-      },
-      "collection": "blogs",
-      "coverImage": "",
-      "cutOff": "2",
-      "description": "",
-      "footerBannerContent": "",
-      "footerBannerTitle": "",
-      "publishedAt": "2024-11-19T12:17:06.667Z",
-      "readTime": "2",
-      "relatedArticles": "",
-      "slug": "nov-19-arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost",
-      "status": "draft",
-      "title": "Nov 19: Arcesium’s new tool, Bain’s $5.7B fund, and Meta’s activist boost"
-    },
-    {
-      "__outstatic": {
         "commit": "b0164bd474ce515b64a4b94b18bd6af8541820c5",
         "hash": "2998339285",
         "path": "outstatic/content/blogs/nov-18-gold-drops-post-trump-win-venture-debt-surges-millennium-axes-star-trader.md"
@@ -1930,6 +1907,30 @@
       "slug": "nov-18-gold-drops-post-trump-win-venture-debt-surges-millennium-axes-star-trader",
       "status": "published",
       "title": "Nov 18: Gold drops post-Trump win, Venture debt surges, Millennium axes star trader"
+    },
+    {
+      "__outstatic": {
+        "commit": "17b2e06e0d2b957f1d222f53d28a59d1d6404dec",
+        "hash": "2291229894",
+        "path": "outstatic/content/blogs/arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/sweden-s-eqt-caps-new-asia-focused-fund-at-14.5bn-M3MD.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“I make no attempt to forecast the market—my efforts are devoted to finding undervalued securities.” - Warren Buffett",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-19T12:17:06.667Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost",
+      "status": "published",
+      "title": "Nov 19: Arcesium’s new tool, Bain’s $5.7B fund, and Meta’s activist boost"
     }
   ]
 }

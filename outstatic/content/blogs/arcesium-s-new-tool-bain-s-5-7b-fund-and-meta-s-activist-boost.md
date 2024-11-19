@@ -1,16 +1,17 @@
 ---
-footerBannerContent: ''
+footerBannerContent: '“I make no attempt to forecast the market—my efforts are devoted to finding undervalued securities.” - Warren Buffett'
 footerBannerTitle: ''
-cutOff: '2'
+cutOff: '8'
+latest: 'true'
 relatedArticles: ''
-readTime: '2'
-coverImage: ''
+readTime: '6'
+coverImage: '/images/sweden-s-eqt-caps-new-asia-focused-fund-at-14.5bn-M3MD.webp'
 description: ''
-slug: 'nov-19-arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost'
+slug: 'arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost'
 author:
   name: ''
-  picture: 'https://avatars.githubusercontent.com/u/177857797?v=4'
-status: 'draft'
+  picture: ''
+status: 'published'
 title: 'Nov 19: Arcesium’s new tool, Bain’s $5.7B fund, and Meta’s activist boost'
 publishedAt: '2024-11-19T12:17:06.667Z'
 ---
@@ -19,19 +20,21 @@ publishedAt: '2024-11-19T12:17:06.667Z'
 
 ### **EQT caps Asia fund at $14.5B amid demand**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfyHrEOrpILvZ3AURIqEpCGJCAqfVjZHI8AXl_-1FBrOAlrDpVk5oQb-Xg31dhHr09zHh6tAOdqfrQaj9aoKOMmsnumxWGC6-i4xOCuvdEAewHQCvbW1CNrRmLsubztsMU52-z9yg?key=9inuHxYL9yKwjO95ubWN7g27)
+![EQT caps Asia-focused fund at $14.5 billion, targeting emerging markets and regional growth opportunities](/images/sweden-s-eqt-caps-new-asia-focused-fund-at-14.5bn-YxNT.webp)
 
 Swedish investment firm EQT has set a $14.5 billion cap for its[ Asia-focused fund](https://www.privateequitywire.co.uk/swedens-eqt-caps-new-asia-focused-fund-at-14-5bn/), surpassing its $12.5 billion target. With a focus on emerging markets, EQT aims to capitalize on the region’s growth potential amidst geopolitical tensions. The fund reflects the growing appetite for investments in Asia, aligning with EQT’s strategy to expand its footprint in high-growth regions.
 
 ### ValueAct increases Meta stake to $1B
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe6PIZJtncqLeE4B9bQSasI4cxACMONSIgLnNYTKlUEduVI68ooYWpc4JsfMFdHB3jrWAorR2Z-qPefaPfGd_GoXNw2tuaCLi1AeZVshpqlXL1RwFfYhQ7xbLQDUdK2VvCpPqmJ?key=9inuHxYL9yKwjO95ubWN7g27)**
+![ValueAct boosts Meta stake to $1 billion, signaling confidence in AI-driven growth and innovation](/images/activist-hedge-fund-valueact-adds-121m-to-meta-bet-YxMz.webp)
 
 Activist hedge fund ValueAct has[ raised](https://www.hedgeweek.com/activist-hedge-fund-valueact-adds-121m-to-meta-bet/) its stake in Meta Platforms by $121 million, bringing its total holding to $1 billion. Meta now accounts for 3.08% of ValueAct’s $3.9 billion portfolio. Known for its activist strategies, ValueAct is backing Meta’s focus on AI, reportedly supported by CEO Mason Morfit. The firm’s increasing involvement with Meta highlights investor confidence in the company’s growth potential.
 
 ### CHART
 
 **The S&P 500 has consistently outperformed global peers in eight of the last ten years**
+
+![US stocks dominated global markets recently, but Goldman Sachs forecasts slower S&P 500 growth ahead](/images/us-stock-I1Nz.jpg)
 
 US stocks have consistently outperformed global peers in eight of the past ten years. This dominance of U.S. companies is driven by factors such as robust corporate earnings, technological innovation, and strong investor confidence in U.S. markets.
 
@@ -66,6 +69,8 @@ However, analysts at Goldman Sachs suggest this trend is unlikely to persist. Th
 ### FOUNDATIONS
 
 **Why do central banks raise interest rates to combat inflation?**
+
+![Central banks raise interest rates to curb inflation, balancing economic growth, currency strength, and price stability](/images/why-do-central-banks-raise-interest-rates-to-combat-inflation_-I5NT.webp)
 
 Central banks raise interest rates to combat inflation by making borrowing more expensive and saving more attractive. Higher interest rates discourage consumer and business spending, which reduces demand for goods and services. When demand falls, the upward pressure on prices can ease, helping to bring inflation under control.
 
