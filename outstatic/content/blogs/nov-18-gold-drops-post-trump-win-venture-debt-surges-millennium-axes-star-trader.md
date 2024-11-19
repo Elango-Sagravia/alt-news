@@ -18,13 +18,13 @@ publishedAt: '2024-11-18T12:56:48.981Z'
 
 ### HEADLINES
 
-**Chevron and Super Micro top October shortlist**
+### Chevron and Super Micro top October shortlist
 
 ![Hazeltree report reveals Chevron and Super Micro as most shorted large-cap stocks in October](/images/chevron--super-micro-among-october-s-most-shorted-stocks--says-hazeltree-E3NT.webp)
 
 Hazeltree’s latest report[ reveals](https://www.hedgeweek.com/chevron-super-micro-among-octobers-most-shorted-stocks-says-hazeltree/) Chevron and Super Micro Computer were the most shorted large-cap stocks in the Americas in October, with utilization rates reflecting high investor activity. Chevron scored a Hazeltree Crowdedness Score of 99, while Super Micro followed closely at 94. Top mid-cap shorted stocks included Murphy USA and CNX Resources, while Wolfspeed led small-caps. LVMH and Japan’s SMC Corp topped the EMEA and APAC lists.
 
-**Hedge funds cut gold bets post-election**
+### Hedge funds cut gold bets post-election
 
 ![Hedge funds cut gold bets to a 14-week low post-Trump election](/images/hedge-funds-slash-bullish-wagers-on-gold-over-trump-election-win-I4MD.webp)
 
@@ -52,7 +52,7 @@ The forecast also shows significant contributions from other regions, including 
 
 **Hedge Funds**
 
-→ **Annamite launches digital asset hedge fund:** Annamite Capital is[ debuting](https://www.hedgeweek.com/annamite-capital-launches-multi-strat-digital-asset-hedge-fund/) its digital asset hedge fund on January 2, 2025, targeting absolute returns through crypto investments. Early performance reports impressive USD gains, with low market exposure. The fund will deploy 15 strategies, leveraging proprietary tech across centralized and decentralized exchanges. Co-led by finance veterans, the London-based firm seeks UHNW investors for its multi-strategy approach. 
+→ **Annamite launches digital asset hedge fund:** Annamite Capital is[ debuting](https://www.hedgeweek.com/annamite-capital-launches-multi-strat-digital-asset-hedge-fund/) its digital asset hedge fund on January 2, 2025, targeting absolute returns through crypto investments. Early performance reports impressive USD gains, with low market exposure. The fund will deploy 15 strategies, leveraging proprietary tech across centralized and decentralized exchanges. Co-led by finance veterans, the London-based firm seeks UHNW investors for its multi-strategy approach.
 
 → **Millennium axes trader after rule breaches:** Millennium Management[ parted ways](https://www.hedgeweek.com/millennium-axes-star-trader-after-less-than-year/#:~:text=John%20Curtice%2C%20a%20high%2Dprofile,a%20report%20by%20eFinancial%20Careers.) with star trader John Curtice after repeated risk limit breaches. Curtice joined Millennium from ExodusPoint with high expectations but failed to maintain profitability. While his losses were within stop-loss limits, exceeding risk thresholds was a dealbreaker for the $70 billion hedge fund.
 
