@@ -16,9 +16,9 @@ title: 'Nov 19: Arcesium’s new tool, Bain’s $5.7B fund, and Meta’s activis
 publishedAt: '2024-11-19T12:17:06.667Z'
 ---
 
-### **HEADLINES**
+### HEADLINES
 
-### **EQT caps Asia fund at $14.5B amid demand**
+### EQT caps Asia fund at $14.5B amid demand
 
 ![EQT caps Asia-focused fund at $14.5 billion, targeting emerging markets and regional growth opportunities](/images/sweden-s-eqt-caps-new-asia-focused-fund-at-14.5bn-YxNT.webp)
 
@@ -40,7 +40,7 @@ US stocks have consistently outperformed global peers in eight of the past ten y
 
 However, analysts at Goldman Sachs suggest this trend is unlikely to persist. They project the S&P 500’s annualized nominal total return to slow to just 3% over the next decade, a significant drop from the 13% annualized return of the past 10 years and below its long-term average of 11%. The shift is attributed to rising interest rates, increased competition from bonds, and changing market dynamics.
 
-### **BRIEFS**
+### BRIEFS
 
 **Private Equity**
 
