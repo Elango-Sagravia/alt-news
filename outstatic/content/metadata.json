@@ -1,6 +1,6 @@
 {
-  "commit": "6bcfaa524179d529fd27da33e485900ed473a4e0",
-  "generated": "2024-11-18T12:27:35.502Z",
+  "commit": "2da63b5d23ea88819efe9abf97ecd9dbd3aad55f",
+  "generated": "2024-11-19T11:33:21.808Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1907,6 +1907,29 @@
       "slug": "nov-18-gold-drops-post-trump-win-venture-debt-surges-millennium-axes-star-trader",
       "status": "published",
       "title": "Nov 18: Gold drops post-Trump win, Venture debt surges, Millennium axes star trader"
+    },
+    {
+      "__outstatic": {
+        "commit": "2da63b5d23ea88819efe9abf97ecd9dbd3aad55f",
+        "hash": "3606783756",
+        "path": "outstatic/content/blogs/nov-19-arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "",
+      "cutOff": "2",
+      "description": "",
+      "footerBannerContent": "",
+      "footerBannerTitle": "",
+      "publishedAt": "2024-11-19T12:17:06.667Z",
+      "readTime": "2",
+      "relatedArticles": "",
+      "slug": "nov-19-arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost",
+      "status": "draft",
+      "title": "Nov 19: Arcesium’s new tool, Bain’s $5.7B fund, and Meta’s activist boost"
     }
   ]
 }
