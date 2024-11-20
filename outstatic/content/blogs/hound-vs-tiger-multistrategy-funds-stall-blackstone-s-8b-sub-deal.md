@@ -1,48 +1,50 @@
 ---
-footerBannerContent: ''
+footerBannerContent: '“Far more money has been lost by investors trying to anticipate corrections, than lost in the corrections themselves.” - Peter Lynch'
 footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
 readTime: '7'
-coverImage: ''
+coverImage: '/images/-tiger-seed--fund-sues-robertson-s-firm-to-end-profit-sharing-I4MT.webp'
 description: ''
-slug: 'nov-20-hound-vs-tiger-multistrategy-funds-stall-blackstone-s-8b-sub-deal'
+slug: 'hound-vs-tiger-multistrategy-funds-stall-blackstone-s-8b-sub-deal'
 author:
   name: ''
-  picture: 'https://avatars.githubusercontent.com/u/177857797?v=4'
-status: 'draft'
+  picture: ''
+status: 'published'
 title: 'Nov 20: Hound vs. Tiger, Multistrategy funds stall, Blackstone''s $8B sub deal'
 publishedAt: '2024-11-20T12:48:33.982Z'
 ---
 
-**HEADLINES**
+### HEADLINES
 
-**Tiger seed fund disputes profit-sharing deal**
+### Tiger seed fund disputes profit-sharing deal
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-_RMnyuUgFZkw_Z0U7p87K1GhJLeOjL3ZS54TDavTeyeWcr_Gxio45kyJ9bZG-o7wUh69gFJPljZt96pq4JjHAbuLP0FCoI66MfTRt5n-D0hktcRzyWYJvERR8wcgLr9FyGGkig?key=XyUfBIh6VaYv09EoiBp9PWEd)**
+![Hound Partners sues Tiger Management to end profit-sharing deal tied to Julian Robertson's early investment](/images/-tiger-seed--fund-sues-robertson-s-firm-to-end-profit-sharing-AwOD.webp)
 
 Hound Partners, a "Tiger seed" fund, is[ suing](https://www.bnnbloomberg.ca/business/company-news/2024/11/19/tiger-seed-fund-sues-robertsons-firm-to-end-profit-sharing/) Tiger Management to end a profit-sharing deal that gave Julian Robertson’s firm a share of its earnings. Hound claims Tiger’s support in marketing and client referrals has dwindled in recent years despite Tiger earning over $150 million on its initial $23 million investment. Tiger counters, arguing the agreement is ironclad and transformative for Hound. The lawsuit comes as Tiger’s share, which now benefits Robertson's charitable foundation, increases after years of underperformance.
 
-**Ken Griffin says hedge fund boom is over**
+### Ken Griffin says hedge fund boom is over
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcsheyFrmG06km9CUsFdQzRKqxbjiQ0OVb5yhABGsnNpy6HXDNrPJVSaAMaOH7NQHWwEjtfXF9nqbGbo_gVIIXFisnS9to1OymMEFf7l5Vx8yLqW-2eEB7X4ggVgqkw7qhGJe6h?key=XyUfBIh6VaYv09EoiBp9PWEd)**
+![Ken Griffin discusses plateauing multistrategy hedge fund growth and optimism for U.S. business under Trump](/images/citadel-s-ken-griffin-says-multistrategy-hedge-fund-boom-is-over--1--Q1ND.webp)
 
 Ken Griffin of Citadel believes the explosive growth of multistrategy hedge funds has[ plateaued](https://www.bloomberg.com/news/articles/2024-11-19/citadel-s-ken-griffin-says-multistrategy-hedge-fund-boom-is-over?embedded-checkout=true). Speaking in Oxford, Griffin noted asset flows into such funds have stagnated, with challenges like talent shortages and tighter leverage limits. Citadel, which has grown to manage $65 billion, regularly returns capital to investors, including $25 billion since 2017. Griffin attributes past growth to strong returns and proactive LP engagement. He also hinted at optimism for U.S. businesses under a potential Trump administration, citing revived risk-taking and investment.
 
-**Blackstone eyes $8 billion Jersey Mike’s deal**
+### Blackstone eyes $8 billion Jersey Mike’s deal
 
 Blackstone is reportedly nearing an $8 billion[ acquisition](https://www.privateequitywire.co.uk/blackstone-closing-in-on-8bn-deal-for-jersey-mikes-subs/) of Jersey Mike’s Subs, a U.S. sandwich chain with over 2,800 locations. This follows Blackstone’s strategy of investing in franchise businesses, including its recent purchase of Tropical Smoothie Cafe. Jersey Mike’s would add to the growing trend of private equity investments in food franchises, similar to Roark Capital’s Subway deal last year. The acquisition aligns with Blackstone’s history of scaling recognizable brands, leveraging their growth potential. If confirmed, the deal would mark another milestone in the franchise boom within private equity portfolios.
 
-**CHART**
+### CHART
 
 **Palm oil futures are near two-year highs, raising concerns over food inflation**
+
+![Palm oil futures hit two-year highs](/images/palm-oil--1--Y0OT.webp)
 
 Palm oil futures are trading near two-year highs, reaching levels not seen since July 2022. Prices have surged over 20% this year, driven by supply constraints in Indonesia and Malaysia, which collectively account for over 80% of global production. Weak output in these regions, paired with robust demand, has raised concerns about rising food costs globally.
 
 Palm oil is a key ingredient in a wide range of products, from food items like cookies and ice cream to personal care products and animal feed. This price rally aligns with broader increases in global food staples, potentially leading to higher grocery bills.
 
-**BRIEFS**
+### BRIEFS
 
 **Private Equity**
 
@@ -62,25 +64,23 @@ Palm oil is a key ingredient in a wide range of products, from food items like c
 
 → **Enfabrica raises $115 million for AI chips:** Enfabrica, an AI-focused chipmaker,[ secured](https://pitchbook.com/news/articles/nvidia-backed-ai-chipmaker-enfabrica-raises-115m-series-c) $115 million in a Series C round led by Spark Capital, building on its $295 million valuation from 2023. The company designs semiconductors for data centers critical to generative AI. Backed by Nvidia, Enfabrica has raised $263 million so far, reflecting booming funding in AI chip startups. Demand for AI semiconductors has soared, with Q3 investments reaching $2.7 billion, up 145% from Q1.
 
-→ **Oura hits $5 billion valuation:** Oura, maker of the health-tracking smart ring,[ reached](https://pitchbook.com/news/articles/oura-ring-health-wearable-vc-deal-valuation) a $5 billion valuation after Dexcom’s $75 million investment. Known for tracking biometrics like sleep and heart rate, Oura is doubling its revenue to $500 million this year. A $96 million deal with the Pentagon underscores its growth, despite competition from Apple Watch. 
+→ **Oura hits $5 billion valuation:** Oura, maker of the health-tracking smart ring,[ reached](https://pitchbook.com/news/articles/oura-ring-health-wearable-vc-deal-valuation) a $5 billion valuation after Dexcom’s $75 million investment. Known for tracking biometrics like sleep and heart rate, Oura is doubling its revenue to $500 million this year. A $96 million deal with the Pentagon underscores its growth, despite competition from Apple Watch.
 
 **Others**
 
-→ **Glencore tests copper tech at Chile mine:** Glencore’s Lomas Bayas mine in Chile is[ trialing](https://www.bnnbloomberg.ca/investing/2024/11/19/glencore-strikes-deal-to-test-copper-technology-at-chilean-mine/) Ceibo’s copper leaching technology to extend its mine life by seven years. The process extracts copper from low-grade sulfide ore using electrochemical reactions, a critical innovation as the industry faces dwindling high-quality deposits. Backed by BHP and Khosla Ventures, Ceibo joins a growing list of firms developing sustainable mining solutions. Results are expected by mid-2025, potentially scaling the method to other Glencore sites. 
+→ **Glencore tests copper tech at Chile mine:** Glencore’s Lomas Bayas mine in Chile is[ trialing](https://www.bnnbloomberg.ca/investing/2024/11/19/glencore-strikes-deal-to-test-copper-technology-at-chilean-mine/) Ceibo’s copper leaching technology to extend its mine life by seven years. The process extracts copper from low-grade sulfide ore using electrochemical reactions, a critical innovation as the industry faces dwindling high-quality deposits. Backed by BHP and Khosla Ventures, Ceibo joins a growing list of firms developing sustainable mining solutions. Results are expected by mid-2025, potentially scaling the method to other Glencore sites.
 
-**FOUNDATIONS**
+### FOUNDATIONS
 
 **What factors make a currency strong or weak on the global stage?**
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXejVyZsKJGoqBMWc_gpHPkfdT8qGhRzmW8XkNsA89NKr7odl5ZD_R1n3y1qHsz4j1g23qX_J3or0P0Dplv1PsK524YsBSUuN9stBZn4zo_vl-8tZ26Qv0TuPp2UeVqgzCvCaPqsGA?key=XyUfBIh6VaYv09EoiBp9PWEd)**
+![Currency strength depends on economic growth, political stability, interest rates, inflation, and global demand dynamics](/images/-tiger-seed--fund-sues-robertson-s-firm-to-end-profit-sharing-I4Nj.webp)
 
 A currency's strength is influenced by a combination of economic, political, and market factors. Economic stability and growth are key; countries with strong, growing economies tend to have stronger currencies as they attract foreign investment, increasing demand. Higher interest rates can also make a currency more attractive to investors, as they offer better returns on deposits and investments. Political stability and sound fiscal policy further support a strong currency by enhancing investor confidence.
 
 Conversely, high inflation, large deficits, and political instability can weaken a currency as they signal economic risk. Global demand for a currency, often tied to its role in international trade (like the U.S. dollar), also affects its strength. Central bank policies, trade balances, and speculation play additional roles in currency valuation, creating a complex interplay that determines whether a currency appreciates or depreciates on the global stage.
 
-**WHAT IS**
-
----
+### WHAT IS
 
 **Current Ratio**
 

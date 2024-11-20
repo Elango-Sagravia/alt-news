@@ -1,6 +1,6 @@
 {
-  "commit": "da4aeb738c05e16c1bea68a835fbd0129cdcf114",
-  "generated": "2024-11-20T12:07:44.834Z",
+  "commit": "68e8ff05a8e7aeebb16f7d0187d2aee7e97167ff",
+  "generated": "2024-11-20T12:18:51.072Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1933,30 +1933,6 @@
     },
     {
       "__outstatic": {
-        "commit": "eae4bdac18fb84bc5c3d2978550b7d9717b7c26f",
-        "hash": "775457285",
-        "path": "outstatic/content/blogs/nov-20-hound-vs-tiger-multistrategy-funds-stall-blackstone-s-8b-sub-deal.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
-      },
-      "collection": "blogs",
-      "coverImage": "",
-      "cutOff": "8",
-      "description": "",
-      "footerBannerContent": "",
-      "footerBannerTitle": "",
-      "latest": "true",
-      "publishedAt": "2024-11-20T12:48:33.982Z",
-      "readTime": "7",
-      "relatedArticles": "",
-      "slug": "nov-20-hound-vs-tiger-multistrategy-funds-stall-blackstone-s-8b-sub-deal",
-      "status": "draft",
-      "title": "Nov 20: Hound vs. Tiger, Multistrategy funds stall, Blackstone's $8B sub deal"
-    },
-    {
-      "__outstatic": {
         "commit": "da4aeb738c05e16c1bea68a835fbd0129cdcf114",
         "hash": "907003238",
         "path": "outstatic/content/blogs/arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost.md"
@@ -1978,6 +1954,30 @@
       "slug": "arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost",
       "status": "published",
       "title": "Nov 19: Arcesium’s new tool, Bain’s $5.7B fund, and Meta’s activist boost"
+    },
+    {
+      "__outstatic": {
+        "commit": "68e8ff05a8e7aeebb16f7d0187d2aee7e97167ff",
+        "hash": "507944395",
+        "path": "outstatic/content/blogs/hound-vs-tiger-multistrategy-funds-stall-blackstone-s-8b-sub-deal.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/-tiger-seed--fund-sues-robertson-s-firm-to-end-profit-sharing-I4MT.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“Far more money has been lost by investors trying to anticipate corrections, than lost in the corrections themselves.” - Peter Lynch",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-20T12:48:33.982Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "hound-vs-tiger-multistrategy-funds-stall-blackstone-s-8b-sub-deal",
+      "status": "published",
+      "title": "Nov 20: Hound vs. Tiger, Multistrategy funds stall, Blackstone's $8B sub deal"
     }
   ]
 }
