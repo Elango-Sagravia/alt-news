@@ -1,6 +1,6 @@
 {
-  "commit": "eae4bdac18fb84bc5c3d2978550b7d9717b7c26f",
-  "generated": "2024-11-20T12:06:12.519Z",
+  "commit": "da4aeb738c05e16c1bea68a835fbd0129cdcf114",
+  "generated": "2024-11-20T12:07:44.834Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1933,30 +1933,6 @@
     },
     {
       "__outstatic": {
-        "commit": "17b2e06e0d2b957f1d222f53d28a59d1d6404dec",
-        "hash": "907003238",
-        "path": "outstatic/content/blogs/arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost.md"
-      },
-      "author": {
-        "name": "",
-        "picture": ""
-      },
-      "collection": "blogs",
-      "coverImage": "/images/sweden-s-eqt-caps-new-asia-focused-fund-at-14.5bn-M3MD.webp",
-      "cutOff": "8",
-      "description": "",
-      "footerBannerContent": "“I make no attempt to forecast the market—my efforts are devoted to finding undervalued securities.” - Warren Buffett",
-      "footerBannerTitle": "",
-      "latest": "true",
-      "publishedAt": "2024-11-19T12:17:06.667Z",
-      "readTime": "6",
-      "relatedArticles": "",
-      "slug": "arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost",
-      "status": "published",
-      "title": "Nov 19: Arcesium’s new tool, Bain’s $5.7B fund, and Meta’s activist boost"
-    },
-    {
-      "__outstatic": {
         "commit": "eae4bdac18fb84bc5c3d2978550b7d9717b7c26f",
         "hash": "775457285",
         "path": "outstatic/content/blogs/nov-20-hound-vs-tiger-multistrategy-funds-stall-blackstone-s-8b-sub-deal.md"
@@ -1978,6 +1954,30 @@
       "slug": "nov-20-hound-vs-tiger-multistrategy-funds-stall-blackstone-s-8b-sub-deal",
       "status": "draft",
       "title": "Nov 20: Hound vs. Tiger, Multistrategy funds stall, Blackstone's $8B sub deal"
+    },
+    {
+      "__outstatic": {
+        "commit": "da4aeb738c05e16c1bea68a835fbd0129cdcf114",
+        "hash": "907003238",
+        "path": "outstatic/content/blogs/arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/sweden-s-eqt-caps-new-asia-focused-fund-at-14.5bn-M3MD.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“I make no attempt to forecast the market—my efforts are devoted to finding undervalued securities.” - Warren Buffett",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-19T12:17:06.667Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "arcesium-s-new-tool-bain-s-5-7b-fund-and-meta-s-activist-boost",
+      "status": "published",
+      "title": "Nov 19: Arcesium’s new tool, Bain’s $5.7B fund, and Meta’s activist boost"
     }
   ]
 }
