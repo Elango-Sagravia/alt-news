@@ -1,6 +1,6 @@
 {
-  "commit": "1fc91daa35d58f198d6a5128c321d84327fc0448",
-  "generated": "2024-11-21T13:38:31.314Z",
+  "commit": "494f3c05c638b8c1bdd431b4c631a5031e1f2107",
+  "generated": "2024-11-21T13:43:59.648Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1981,8 +1981,8 @@
     },
     {
       "__outstatic": {
-        "commit": "1fc91daa35d58f198d6a5128c321d84327fc0448",
-        "hash": "936119367",
+        "commit": "494f3c05c638b8c1bdd431b4c631a5031e1f2107",
+        "hash": "2118157254",
         "path": "outstatic/content/blogs/aerovironment-buys-bluehalo-grifols-rejects-6-8bn-bid-nvidia-s-concerns.md"
       },
       "author": {
@@ -1990,7 +1990,7 @@
         "picture": "/images/aerovironment-to-acquire-arlington-capital-s-space-tech-bluehalo-in--4.1bn-deal--1--UzOD.jpg"
       },
       "collection": "blogs",
-      "coverImage": "",
+      "coverImage": "/images/aerovironment-to-acquire-arlington-capital-s-space-tech-bluehalo-in--4.1bn-deal--1--QwNT.jpg",
       "cutOff": "8",
       "description": "",
       "footerBannerContent": "“In the short run, the market is a voting machine. In the long run, it is a weighing machine.” - Benjamin Graham",

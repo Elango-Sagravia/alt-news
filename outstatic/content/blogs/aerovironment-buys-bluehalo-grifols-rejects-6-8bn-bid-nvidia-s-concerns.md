@@ -5,7 +5,7 @@ cutOff: '8'
 latest: 'true'
 relatedArticles: ''
 readTime: '8'
-coverImage: ''
+coverImage: '/images/aerovironment-to-acquire-arlington-capital-s-space-tech-bluehalo-in--4.1bn-deal--1--QwNT.jpg'
 description: ''
 slug: 'aerovironment-buys-bluehalo-grifols-rejects-6-8bn-bid-nvidia-s-concerns'
 author:
@@ -46,7 +46,7 @@ Share repurchases have been a key strategy for these oil majors, particularly af
 
 **→ Australia’s wealth fund shifts focus locally:** Australia’s Future Fund,[ valued](https://www.bnnbloomberg.ca/investing/2024/11/20/australias-wealth-fund-told-to-invest-more-in-domestic-assets/) at A$230 billion, now has a new mandate to invest more in local housing, energy, and infrastructure. This change aligns with the country’s goals to tackle structural shifts like net-zero transitions and demographic changes. By 2032, the fund is expected to reach A$380 billion, as withdrawals are paused until then. The primary focus remains on maximizing returns, targeting 4-5% above inflation. With a portfolio of 40% equities and 10% in infrastructure, the fund is well-positioned to balance national priorities with solid returns.
 
-**→ Arc launches AI platform for private credit:** Fintech startup Arc[ unveiled](https://www.privateequitywire.co.uk/arc-launches-ai-platform-for-private-credit-market/) “AI Private Credit Analyst,” a groundbreaking tool for streamlining credit analysis in the private credit market. The AI-driven platform processes unstructured financial data to create detailed credit memos in minutes, slashing tasks that typically take weeks. With the private credit market expected to hit $2.8 trillion by 2028, Arc's solution improves underwriting speed and precision. Already used by 150 lenders, it’s expanding to more in 2025. By automating data-heavy processes, Arc helps lenders evaluate opportunities faster and more accurately. 
+**→ Arc launches AI platform for private credit:** Fintech startup Arc[ unveiled](https://www.privateequitywire.co.uk/arc-launches-ai-platform-for-private-credit-market/) “AI Private Credit Analyst,” a groundbreaking tool for streamlining credit analysis in the private credit market. The AI-driven platform processes unstructured financial data to create detailed credit memos in minutes, slashing tasks that typically take weeks. With the private credit market expected to hit $2.8 trillion by 2028, Arc's solution improves underwriting speed and precision. Already used by 150 lenders, it’s expanding to more in 2025. By automating data-heavy processes, Arc helps lenders evaluate opportunities faster and more accurately.
 
 **Hedge Funds**
 
