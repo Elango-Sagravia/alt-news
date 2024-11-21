@@ -1,6 +1,6 @@
 {
-  "commit": "68e8ff05a8e7aeebb16f7d0187d2aee7e97167ff",
-  "generated": "2024-11-20T12:18:51.072Z",
+  "commit": "d9f685d87b5bce2d5ca6a1405ce5805700ed245a",
+  "generated": "2024-11-21T13:25:11.133Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1978,6 +1978,30 @@
       "slug": "hound-vs-tiger-multistrategy-funds-stall-blackstone-s-8b-sub-deal",
       "status": "published",
       "title": "Nov 20: Hound vs. Tiger, Multistrategy funds stall, Blackstone's $8B sub deal"
+    },
+    {
+      "__outstatic": {
+        "commit": "d9f685d87b5bce2d5ca6a1405ce5805700ed245a",
+        "hash": "593863980",
+        "path": "outstatic/content/blogs/german-sabotage-rubio-s-latam-plan-embassy-closures.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/russia-arrests-german-citizen-on-sabotage-charges-M1Nz.webp",
+      "cutOff": "9",
+      "description": "",
+      "footerBannerContent": "",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-21T13:53:21.250Z",
+      "readTime": "5",
+      "relatedArticles": "",
+      "slug": "german-sabotage-rubio-s-latam-plan-embassy-closures",
+      "status": "published",
+      "title": "Nov 21: German sabotage, Rubio's LATAM plan, embassy closures"
     }
   ]
 }
