@@ -1,6 +1,6 @@
 {
-  "commit": "494f3c05c638b8c1bdd431b4c631a5031e1f2107",
-  "generated": "2024-11-21T13:43:59.648Z",
+  "commit": "072a4ae5828c1741a124916bc128c0fcbeb9d5be",
+  "generated": "2024-11-21T13:44:26.841Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1981,7 +1981,7 @@
     },
     {
       "__outstatic": {
-        "commit": "494f3c05c638b8c1bdd431b4c631a5031e1f2107",
+        "commit": "072a4ae5828c1741a124916bc128c0fcbeb9d5be",
         "hash": "2118157254",
         "path": "outstatic/content/blogs/aerovironment-buys-bluehalo-grifols-rejects-6-8bn-bid-nvidia-s-concerns.md"
       },
