@@ -1,6 +1,6 @@
 {
-  "commit": "10f015972f4f1cc7186963ef0b0f918b615c633c",
-  "generated": "2024-11-21T13:31:19.354Z",
+  "commit": "1fc91daa35d58f198d6a5128c321d84327fc0448",
+  "generated": "2024-11-21T13:38:31.314Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1978,6 +1978,30 @@
       "slug": "hound-vs-tiger-multistrategy-funds-stall-blackstone-s-8b-sub-deal",
       "status": "published",
       "title": "Nov 20: Hound vs. Tiger, Multistrategy funds stall, Blackstone's $8B sub deal"
+    },
+    {
+      "__outstatic": {
+        "commit": "1fc91daa35d58f198d6a5128c321d84327fc0448",
+        "hash": "936119367",
+        "path": "outstatic/content/blogs/aerovironment-buys-bluehalo-grifols-rejects-6-8bn-bid-nvidia-s-concerns.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "/images/aerovironment-to-acquire-arlington-capital-s-space-tech-bluehalo-in--4.1bn-deal--1--UzOD.jpg"
+      },
+      "collection": "blogs",
+      "coverImage": "",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“In the short run, the market is a voting machine. In the long run, it is a weighing machine.” - Benjamin Graham",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-21T14:21:19.737Z",
+      "readTime": "8",
+      "relatedArticles": "",
+      "slug": "aerovironment-buys-bluehalo-grifols-rejects-6-8bn-bid-nvidia-s-concerns",
+      "status": "published",
+      "title": "Nov 21: AeroVironment buys BlueHalo, Grifols rejects $6.8bn bid, Nvidia’s concerns"
     }
   ]
 }
