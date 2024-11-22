@@ -1,6 +1,6 @@
 {
-  "commit": "072a4ae5828c1741a124916bc128c0fcbeb9d5be",
-  "generated": "2024-11-21T13:44:26.841Z",
+  "commit": "d02cd507e58db221f1bc0395c5adf9bc52d88f64",
+  "generated": "2024-11-22T12:21:44.580Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2002,6 +2002,30 @@
       "slug": "aerovironment-buys-bluehalo-grifols-rejects-6-8bn-bid-nvidia-s-concerns",
       "status": "published",
       "title": "Nov 21: AeroVironment buys BlueHalo, Grifols rejects $6.8bn bid, Nvidia’s concerns"
+    },
+    {
+      "__outstatic": {
+        "commit": "d02cd507e58db221f1bc0395c5adf9bc52d88f64",
+        "hash": "1815591569",
+        "path": "outstatic/content/blogs/two-sigma-layoffs-kioxia-ipo-plans-adani-woes.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/two-sigma-lays-off-200-employees-cyMD.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“A market downturn doesn’t bother us. It is an opportunity to increase our ownership of great companies with great management at good prices.” - Warren Buffett",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-22T12:50:16.727Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "two-sigma-layoffs-kioxia-ipo-plans-adani-woes",
+      "status": "published",
+      "title": "Nov 22: Two Sigma layoffs, Kioxia IPO plans, Adani woes"
     }
   ]
 }
