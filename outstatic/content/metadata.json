@@ -1,6 +1,6 @@
 {
-  "commit": "d02cd507e58db221f1bc0395c5adf9bc52d88f64",
-  "generated": "2024-11-22T12:21:44.580Z",
+  "commit": "c53ce7e347b791feedd2393ef46eb0e6b52f41ea",
+  "generated": "2024-11-22T12:28:48.133Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2005,8 +2005,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d02cd507e58db221f1bc0395c5adf9bc52d88f64",
-        "hash": "1815591569",
+        "commit": "c53ce7e347b791feedd2393ef46eb0e6b52f41ea",
+        "hash": "675293523",
         "path": "outstatic/content/blogs/two-sigma-layoffs-kioxia-ipo-plans-adani-woes.md"
       },
       "author": {

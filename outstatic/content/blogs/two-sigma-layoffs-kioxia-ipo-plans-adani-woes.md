@@ -84,13 +84,10 @@ Economically, globalization fosters interdependence, which can boost growth and 
 
 ![Book cover for 'Thinking, Fast and Slow,' exploring behavioral economics and cognitive biases in decision-making](/images/thinking-fast-and-slow-c1Nj.webp)
 
-On the surface, this Nobel laureate’s groundbreaking 2011 book is a deep dive into human psychology, exploring how we think, decide, and act. But in fact, Thinking, Fast and Slow is a cornerstone for understanding the behavioral economics that drive financial markets. Kahneman masterfully unpacks how our two thinking systems—fast, instinctive reactions and slow, deliberate reasoning—shape investment decisions, risk perception, and market behavior. It reveals how cognitive biases, like overconfidence and loss aversion, lead to irrational financial choices. Packed with insights applicable to both personal finance and institutional investing, it’s a must-read for anyone looking to navigate the unpredictable world of money. 
+On the surface, this Nobel laureate’s groundbreaking 2011 book is a deep dive into human psychology, exploring how we think, decide, and act. But in fact, Thinking, Fast and Slow is a cornerstone for understanding the behavioral economics that drive financial markets. Kahneman masterfully unpacks how our two thinking systems—fast, instinctive reactions and slow, deliberate reasoning—shape investment decisions, risk perception, and market behavior. It reveals how cognitive biases, like overconfidence and loss aversion, lead to irrational financial choices. Packed with insights applicable to both personal finance and institutional investing, it’s a must-read for anyone looking to navigate the unpredictable world of money.
 
 ### WHAT IS
 
 **Net Asset Value (NAV)**
 
 NAV represents the per-share value of a mutual fund or ETF. It’s calculated by dividing the total assets of the fund minus its liabilities by the number of shares. For example, if a mutual fund has $10 million in assets and 1 million shares, the NAV is $10 per share, showing the value of one share.
-
-\
-Photo by kingsmaker
