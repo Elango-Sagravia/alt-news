@@ -1,18 +1,18 @@
 ---
-footerBannerContent: ''
+footerBannerContent: ' 2024 Content 2024 Content 100% 10 G110  “The four most dangerous words in investing are: ‘This time it’s different.’” – Sir John Templeton      	 “The four most dangerous words in investing are: ‘This time it’s different.’” – Sir John Templeton Turn on screen reader support   To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slash'
 footerBannerTitle: ''
 cutOff: '2'
+latest: 'true'
 relatedArticles: ''
-readTime: '2'
-coverImage: ''
+readTime: '7'
+coverImage: '/images/pe-firm-harith-buys-african-infrastructure-fund-for--360-million--1--c1Nj.jpg'
 description: ''
 slug: 'harith-s-360m-deal-honeywell-divests-from-ppe-redwood-s-2-25b-fund'
 author:
   name: ''
-  picture: 'https://avatars.githubusercontent.com/u/177857797?v=4'
-status: 'draft'
-title: 'Nov 25: Harith’s $360M deal, Honeywell divests from PPE, Redwood''s $2.25B fund
-'
+  picture: ''
+status: 'published'
+title: 'Nov 25: Harith’s $360M deal, Honeywell divests from PPE, Redwood''s $2.25B fund '
 publishedAt: '2024-11-25T13:43:36.872Z'
 ---
 
@@ -44,7 +44,7 @@ Bitcoin exchange-traded funds, launched earlier this year, have been a driving f
 
 → **Santo Domingo family exits Spanish real estate:** Colombia’s Santo Domingo family is[ selling](https://www.bnnbloomberg.ca/business/2024/11/22/colombian-billionaires-exit-bet-on-spanish-commercial-property/#:~:text=\(Bloomberg\)%20%2D%2D%20Colombia's%20billionaire%20Santo,class%20for%20wealthy%20global%20investors.) its $172 million stake in Spain’s Inmobiliaria Colonial. Once a lucrative investment, Colonial’s office properties have struggled as remote work shifts real estate trends. The family, known for its beer fortune, has focused more on private equity in recent years, backing KKR and 3G Capital. While billionaires like Amancio Ortega remain active in real estate, the Santo Domingos are diversifying away from traditional property investments, opting for private equity growth opportunities.
 
-→ **Goldman Sachs buys Malta’s Melita broadband firm:** Goldman Sachs Asset Management is[ acquiring](https://www.bnnbloomberg.ca/business/company-news/2024/11/22/eqt-to-sell-broadband-firm-melita-to-goldman-sachs-unit/) Melita, a Maltese broadband and 5G provider, for $782 million from EQT. Melita’s network reaches 99% of Malta, offering broadband, mobile, and data center services. EQT, which acquired the firm in 2019, invested heavily in its international expansion and AI tools. Goldman’s infrastructure arm has managed $16 billion in assets since 2006. 
+→ **Goldman Sachs buys Malta’s Melita broadband firm:** Goldman Sachs Asset Management is[ acquiring](https://www.bnnbloomberg.ca/business/company-news/2024/11/22/eqt-to-sell-broadband-firm-melita-to-goldman-sachs-unit/) Melita, a Maltese broadband and 5G provider, for $782 million from EQT. Melita’s network reaches 99% of Malta, offering broadband, mobile, and data center services. EQT, which acquired the firm in 2019, invested heavily in its international expansion and AI tools. Goldman’s infrastructure arm has managed $16 billion in assets since 2006.
 
 **Hedge Funds**
 
@@ -74,9 +74,9 @@ Bitcoin exchange-traded funds, launched earlier this year, have been a driving f
 
 A stock market bubble occurs when stock prices soar well above their intrinsic value, driven by speculation, excessive optimism, and investor FOMO (fear of missing out). These bubbles often begin with a disruptive event, like the dot-com boom of the late 1990s, when internet companies saw valuations skyrocket despite many lacking profits—or even viable business models.\
 \
- Psychological biases, such as herd behavior, are the key reasons that fuel a bubble. Cheap credit and low interest rates can create bubbles too, as seen during the housing market bubble of the mid-2000s, which contributed to the 2008 financial crisis.\
+Psychological biases, such as herd behavior, are the key reasons that fuel a bubble. Cheap credit and low interest rates can create bubbles too, as seen during the housing market bubble of the mid-2000s, which contributed to the 2008 financial crisis.\
 \
- Bubbles eventually burst when reality doesn’t align with expectations—like the dot-com bubble in 2000, where speculative buying and leverage collapsed under weak fundamentals.
+Bubbles eventually burst when reality doesn’t align with expectations—like the dot-com bubble in 2000, where speculative buying and leverage collapsed under weak fundamentals.
 
 ### WHAT IS
 
