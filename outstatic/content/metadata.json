@@ -1,6 +1,6 @@
 {
-  "commit": "c53ce7e347b791feedd2393ef46eb0e6b52f41ea",
-  "generated": "2024-11-22T12:28:48.133Z",
+  "commit": "d74bae5f26ffcc173f87ef855827ea9b0b2f57e3",
+  "generated": "2024-11-25T12:58:07.768Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2026,6 +2026,29 @@
       "slug": "two-sigma-layoffs-kioxia-ipo-plans-adani-woes",
       "status": "published",
       "title": "Nov 22: Two Sigma layoffs, Kioxia IPO plans, Adani woes"
+    },
+    {
+      "__outstatic": {
+        "commit": "d74bae5f26ffcc173f87ef855827ea9b0b2f57e3",
+        "hash": "1803832530",
+        "path": "outstatic/content/blogs/harith-s-360m-deal-honeywell-divests-from-ppe-redwood-s-2-25b-fund.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "",
+      "cutOff": "2",
+      "description": "",
+      "footerBannerContent": "",
+      "footerBannerTitle": "",
+      "publishedAt": "2024-11-25T13:43:36.872Z",
+      "readTime": "2",
+      "relatedArticles": "",
+      "slug": "harith-s-360m-deal-honeywell-divests-from-ppe-redwood-s-2-25b-fund",
+      "status": "draft",
+      "title": "Nov 25: Harith’s $360M deal, Honeywell divests from PPE, Redwood's $2.25B fund "
     }
   ]
 }
