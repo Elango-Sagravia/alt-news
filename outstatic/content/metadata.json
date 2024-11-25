@@ -1,6 +1,6 @@
 {
   "commit": "db6b5c182462dd5f14a6a83c28bcbee2beee5d83",
-  "generated": "2024-11-25T13:08:43.495Z",
+  "generated": "2024-11-25T16:39:45.596Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2030,7 +2030,7 @@
     {
       "__outstatic": {
         "commit": "db6b5c182462dd5f14a6a83c28bcbee2beee5d83",
-        "hash": "3423263261",
+        "hash": "3000244075",
         "path": "outstatic/content/blogs/harith-s-360m-deal-honeywell-divests-from-ppe-redwood-s-2-25b-fund.md"
       },
       "author": {
@@ -2038,10 +2038,10 @@
         "picture": ""
       },
       "collection": "blogs",
-      "coverImage": "/images/pe-firm-harith-buys-african-infrastructure-fund-for--360-million--1--c1Nj.jpg",
-      "cutOff": "2",
+      "coverImage": "/images/pe-firm-harith-buys-african-infrastructure-fund-for--360-million--1--E1Mz.jpg",
+      "cutOff": "8",
       "description": "",
-      "footerBannerContent": " 2024 Content 2024 Content 100% 10 G110  “The four most dangerous words in investing are: ‘This time it’s different.’” – Sir John Templeton      \t “The four most dangerous words in investing are: ‘This time it’s different.’” – Sir John Templeton Turn on screen reader support   To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slash",
+      "footerBannerContent": "“The four most dangerous words in investing are: ‘This time it’s different.’” – Sir John Templeton",
       "footerBannerTitle": "",
       "latest": "true",
       "publishedAt": "2024-11-25T13:43:36.872Z",

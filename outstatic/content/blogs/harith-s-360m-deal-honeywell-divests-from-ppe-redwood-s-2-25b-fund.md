@@ -1,11 +1,11 @@
 ---
-footerBannerContent: ' 2024 Content 2024 Content 100% 10 G110  “The four most dangerous words in investing are: ‘This time it’s different.’” – Sir John Templeton      	 “The four most dangerous words in investing are: ‘This time it’s different.’” – Sir John Templeton Turn on screen reader support   To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slash'
+footerBannerContent: '“The four most dangerous words in investing are: ‘This time it’s different.’” – Sir John Templeton'
 footerBannerTitle: ''
-cutOff: '2'
+cutOff: '8'
 latest: 'true'
 relatedArticles: ''
 readTime: '7'
-coverImage: '/images/pe-firm-harith-buys-african-infrastructure-fund-for--360-million--1--c1Nj.jpg'
+coverImage: '/images/pe-firm-harith-buys-african-infrastructure-fund-for--360-million--1--E1Mz.jpg'
 description: ''
 slug: 'harith-s-360m-deal-honeywell-divests-from-ppe-redwood-s-2-25b-fund'
 author:
@@ -20,13 +20,13 @@ publishedAt: '2024-11-25T13:43:36.872Z'
 
 **Harith acquires African fund for $360M**
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdH_4Bitx3LPRridAyt-uHieV2kLOhD0V3wLJFQ9Jt86HXfkB2mCQPVNLt-yuf_JlhHDj29XGfH6me_nXzUw6-_01O2LjyQJZHYu23VCMJUm3j4pDq9XvxDOvvi_oFDJN4KxDB_Nw?key=xs1jjJphch-SeOW2Q_G5ITyG)**
+![](/images/pe-firm-harith-buys-african-infrastructure-fund-for--360-million--2--g1Mz.jpg)
 
 South Africa’s Harith General Partners is[ buying](https://www.bnnbloomberg.ca/investing/2024/11/22/pe-firm-harith-buys-african-infrastructure-fund-for-360-million/) the Pan African Infrastructure Development Fund for $360 million, gaining stakes in Lanseria Airport, Kelvin Power Station, and more. The fund’s investors, including the continent’s largest pension fund and Absa Bank, are cashing out amid sluggish private equity exits. Harith’s CEO sees this as a move to expand influence in Africa’s energy transition. With Africa needing $170 billion annually for infrastructure, this deal positions Harith as a key player in the transition.
 
 **Honeywell offloads PPE business for $1.33B**
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXevjhqCrIDs7UFRHJluy_-CiYZSFeK3mBsAxQgRkJ7sOPWL22QAzXLQxgHl9JXEKtmt0ZDiYXICXj08R2aG5CaZ67tOOol4di5Wx2BrOIqx-h50pE-4P9t4TEinX8nYn2UayhVYlw?key=xs1jjJphch-SeOW2Q_G5ITyG)**
+![](/images/honeywell-sells-ppe-business-to-pe-backed-acquirer--1--ExNz.jpg)
 
 Honeywell is[ selling](https://pitchbook.com/news/articles/honeywell-sells-ppe-business-to-pe-backed-acquirer#:~:text=Honeywell%20has%20agreed%20to%20sell,to%20strengthen%20their%20balance%20sheets.) its personal protective equipment unit to Odyssey-backed Protective Industrial Products for $1.33 billion. Facing activist investor pressure, Honeywell is exiting non-core assets to focus on automation, aviation, and energy transition. Analysts expect more carveouts as industrial giants navigate inflation and interest rate risks. This aligns with a $15.8 billion trend of industrial divestitures this year. Honeywell recently spun off its advanced materials division, hinting at further restructuring to meet shareholder demands and improve efficiency.
 
@@ -34,7 +34,7 @@ Honeywell is[ selling](https://pitchbook.com/news/articles/honeywell-sells-ppe-b
 
 **Spot ETFs' ownership of Bitcoin crosses 1 million**
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezJ3NKqkfINge3pY7VcNWgZNogCtAukrdjChyZWlemC9MGiyboEaMbYKLpQQzzY-D-CsKcWVYKgSKWdNTT1JCF2PBRsU8SFoGou4Ug1NAMslSQANLt2jghUp5tAm28-oDdX00jEQ?key=xs1jjJphch-SeOW2Q_G5ITyG)**
+![](/images/bitcoin-MyMD.jpg)
 
 Bitcoin exchange-traded funds, launched earlier this year, have been a driving force behind rising inflows. During the six-day period from November 6 to 13, following the election, these funds attracted a staggering $4.7 billion in net inflows. This surge in interest has propelled US Bitcoin ETFs’ holdings to surpass the significant milestone of 1 million BTC. The rapid accumulation reflects heightened investor confidence, likely driven by broader regulatory clarity and the growing acceptance of Bitcoin as a mainstream asset. This development underscores the crucial role of ETFs in facilitating institutional and retail access to the cryptocurrency market.
 
@@ -70,7 +70,7 @@ Bitcoin exchange-traded funds, launched earlier this year, have been a driving f
 
 **What causes a stock market bubble?**
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhnc0lCa2hWuommxbfdjszsHkslmQMs-YPfMQ7v4bYK2JEpmdAfBw1JCuKdWcU562Bu4AK8SIf-iQefAjcUcgJQGWIX_y1DJa2MVnbLMyUW9OitkP7Jm4ATb66RiZYx4Vb0tFAAw?key=xs1jjJphch-SeOW2Q_G5ITyG)**
+![](/images/what-causes-a-stock-market-bubble_-czMj.jpg)
 
 A stock market bubble occurs when stock prices soar well above their intrinsic value, driven by speculation, excessive optimism, and investor FOMO (fear of missing out). These bubbles often begin with a disruptive event, like the dot-com boom of the late 1990s, when internet companies saw valuations skyrocket despite many lacking profits—or even viable business models.\
 \
