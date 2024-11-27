@@ -1,6 +1,6 @@
 {
-  "commit": "db6b5c182462dd5f14a6a83c28bcbee2beee5d83",
-  "generated": "2024-11-25T16:39:45.596Z",
+  "commit": "6c26ff2be2e825e57d7e35754b8393330fd2ac75",
+  "generated": "2024-11-27T20:06:47.314Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2050,6 +2050,30 @@
       "slug": "harith-s-360m-deal-honeywell-divests-from-ppe-redwood-s-2-25b-fund",
       "status": "published",
       "title": "Nov 25: Harith’s $360M deal, Honeywell divests from PPE, Redwood's $2.25B fund "
+    },
+    {
+      "__outstatic": {
+        "commit": "6c26ff2be2e825e57d7e35754b8393330fd2ac75",
+        "hash": "191165148",
+        "path": "outstatic/content/blogs/gcq-s-japan-bet-pep-offers-780m.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/advent-agrees-sale-of-indian-packaging-firm-to-pag-for-nearly-1bn--2--Y3MT.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“Do not save what is left after spending, but spend what is left after saving.” – Warren Buffett",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-25T20:50:46.000Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "gcq-s-japan-bet-pep-offers-780m",
+      "status": "published",
+      "title": "Nov 26: GCQ’s Japan bet, PEP offers 780m"
     }
   ]
 }
