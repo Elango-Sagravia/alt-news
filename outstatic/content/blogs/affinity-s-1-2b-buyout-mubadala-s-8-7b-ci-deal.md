@@ -1,5 +1,5 @@
 ---
-footerBannerContent: ''
+footerBannerContent: '“Wealth consists not in having great possessions, but in having few wants.” – Epictetus'
 footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
@@ -44,7 +44,7 @@ This disciplined approach is rooted in Buffett’s view that high market valuati
 
 Private Equity
 
-**→  Spain’s IPO market eyes 2025 reboot:** Spain is[ hoping](https://www.bnnbloomberg.ca/investing/2024/11/26/spain-looks-to-big-private-equity-deals-to-kickstart-ipo-market/) two private equity-backed IPOs—Blackstone-owned Cirsa Enterprises and HBX Group—will jumpstart its listings in 2025, targeting €1 billion each. This follows a rocky year despite Puig’s €2.6 billion IPO. Tough earnings and geopolitical jitters, like Trump’s trade tariffs, have made firms cautious. Still, Spain’s economy is outperforming its neighbors, growing at 3% this year. 
+**→  Spain’s IPO market eyes 2025 reboot:** Spain is[ hoping](https://www.bnnbloomberg.ca/investing/2024/11/26/spain-looks-to-big-private-equity-deals-to-kickstart-ipo-market/) two private equity-backed IPOs—Blackstone-owned Cirsa Enterprises and HBX Group—will jumpstart its listings in 2025, targeting €1 billion each. This follows a rocky year despite Puig’s €2.6 billion IPO. Tough earnings and geopolitical jitters, like Trump’s trade tariffs, have made firms cautious. Still, Spain’s economy is outperforming its neighbors, growing at 3% this year.
 
 **→  Stonepeak-backed Digital Edge eyes $500M loan:** Digital Edge DC, a data center operator backed by Stonepeak Infrastructure,[ plans](https://www.bnnbloomberg.ca/business/2024/11/26/stonepeak-backed-digital-edge-mulls-loan-for-india-data-centers/) a $400-$500 million loan to fund its Navi Mumbai project in India. This 300 MW data hub, dubbed BOM1, is set to launch its first phase in early 2025. The data center boom continues, fueled by rising AI demands. Digital Edge isn’t alone; Malaysia-based projects are also seeking private debt.
 
@@ -52,7 +52,7 @@ Private Equity
 
 **→  Millennium backs hedge fund teams with $1.8B:** Millennium Management is[ allocating](https://www.bnnbloomberg.ca/business/company-news/2024/11/26/millennium-backs-two-hedge-fund-teams-with-about-18-billion/) $1.8 billion to two hedge fund teams. Scopia Capital gets $1 billion to manage in a market-neutral strategy, while ex-Kepos Capital pros Chris Tuzzo and Warren Empey are taking $800 million for NorthArrow Capital. Millennium’s multistrat model, managing $70.2 billion, is known for its external partnerships. About 10% of its investment teams come from external managers, reflecting a trend of standalone funds attracting multistrats’ capital.
 
-**→  Quant Olympics hunts finance stars:** WorldQuant’s Quant Championship[ crowned](https://www.bloomberg.com/news/features/2024-11-25/at-singapore-hosted-quant-olympics-competitors-pitch-new-investing-strategies?embedded-checkout=true) Taiwan’s “Ruff Boys” as winners after they outshone 37,300 contestants. The global competition, hosted in Singapore, challenges students to develop quant strategies for real-world trading. Ruff Boys, university students from Taiwan, nailed it with their predictive models, earning $20,000 and career-defining exposure. 
+**→  Quant Olympics hunts finance stars:** WorldQuant’s Quant Championship[ crowned](https://www.bloomberg.com/news/features/2024-11-25/at-singapore-hosted-quant-olympics-competitors-pitch-new-investing-strategies?embedded-checkout=true) Taiwan’s “Ruff Boys” as winners after they outshone 37,300 contestants. The global competition, hosted in Singapore, challenges students to develop quant strategies for real-world trading. Ruff Boys, university students from Taiwan, nailed it with their predictive models, earning $20,000 and career-defining exposure.
 
 **→  Pershing Square bets big on Brookfield:** Bill Ackman’s Pershing Square Capital has[ built](https://www.hedgeweek.com/pershing-square-builds-2-6bn-stake-in-brookfield-corp/) a $2.6 billion stake in Brookfield Corp., now its second-largest holding. Brookfield, a Toronto-based global infrastructure giant, owns critical assets like AI-driven data centers and renewable energy sources. Ackman sees significant upside, noting Brookfield trades at 15x earnings versus peers like KKR (27x). Since April, Brookfield’s stock has surged 40%, and Pershing expects it to double in coming years.
 

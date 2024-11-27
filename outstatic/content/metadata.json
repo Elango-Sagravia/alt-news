@@ -1,6 +1,6 @@
 {
-  "commit": "40d65f0a364550c0cd8e2269c886c13d199fb9ae",
-  "generated": "2024-11-27T20:42:15.371Z",
+  "commit": "1aff41ebbbf19716aa69dd9221d20a4b4be68d50",
+  "generated": "2024-11-27T20:44:36.370Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2077,8 +2077,8 @@
     },
     {
       "__outstatic": {
-        "commit": "40d65f0a364550c0cd8e2269c886c13d199fb9ae",
-        "hash": "1264986",
+        "commit": "1aff41ebbbf19716aa69dd9221d20a4b4be68d50",
+        "hash": "2255870605",
         "path": "outstatic/content/blogs/affinity-s-1-2b-buyout-mubadala-s-8-7b-ci-deal.md"
       },
       "author": {
@@ -2089,7 +2089,7 @@
       "coverImage": "/images/affinity-s--1.2b-yupi-acquisition-marks-largest-buyout-deal-in-se-asia-this-year-A2Mj.jpg",
       "cutOff": "8",
       "description": "",
-      "footerBannerContent": "",
+      "footerBannerContent": "“Wealth consists not in having great possessions, but in having few wants.” – Epictetus",
       "footerBannerTitle": "",
       "latest": "true",
       "publishedAt": "2024-11-26T21:19:55.000Z",
