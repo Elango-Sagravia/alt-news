@@ -1,6 +1,6 @@
 {
-  "commit": "6c26ff2be2e825e57d7e35754b8393330fd2ac75",
-  "generated": "2024-11-27T20:06:47.314Z",
+  "commit": "40d65f0a364550c0cd8e2269c886c13d199fb9ae",
+  "generated": "2024-11-27T20:42:15.371Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2074,6 +2074,30 @@
       "slug": "gcq-s-japan-bet-pep-offers-780m",
       "status": "published",
       "title": "Nov 26: GCQ’s Japan bet, PEP offers 780m"
+    },
+    {
+      "__outstatic": {
+        "commit": "40d65f0a364550c0cd8e2269c886c13d199fb9ae",
+        "hash": "1264986",
+        "path": "outstatic/content/blogs/affinity-s-1-2b-buyout-mubadala-s-8-7b-ci-deal.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/affinity-s--1.2b-yupi-acquisition-marks-largest-buyout-deal-in-se-asia-this-year-A2Mj.jpg",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-26T21:19:55.000Z",
+      "readTime": "7",
+      "relatedArticles": "",
+      "slug": "affinity-s-1-2b-buyout-mubadala-s-8-7b-ci-deal",
+      "status": "published",
+      "title": "Nov 27: Affinity’s 1.2B buyout, Mubadala’s 8.7B CI deal"
     }
   ]
 }
