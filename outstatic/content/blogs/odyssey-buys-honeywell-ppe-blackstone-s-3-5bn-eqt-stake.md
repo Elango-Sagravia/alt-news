@@ -38,9 +38,9 @@ Blackstone Credit is[ investing](https://www.privateequitywire.co.uk/blackstone-
 
 Super Micro Computer Inc. has experienced a volatile year, with its stock outperforming significantly in the early months before plunging due to listing concerns and governance issues. While its gains in March marked a peak, the company struggled in the latter half of the year amid auditor resignations and delayed filings, leading to a sharp decline in share value. Despite recent recovery efforts, including the appointment of a new auditor and a compliance plan submission to Nasdaq, the uncertainty surrounding potential delisting continues to weigh on investor sentiment.
 
-Meanwhile, competitors like Dell Technologies have seen steady performance, outpacing Super Micro's returns during its downturn. Investors remain divided on Super Micro’s outlook, with some optimistic about its recovery potential and others cautious amid ongoing regulatory and governance challenges. The contrasting performance highlights the broader implications of corporate governance and regulatory scrutiny in high-growth sectors like AI and servers.**
+Meanwhile, competitors like Dell Technologies have seen steady performance, outpacing Super Micro's returns during its downturn. Investors remain divided on Super Micro’s outlook, with some optimistic about its recovery potential and others cautious amid ongoing regulatory and governance challenges. The contrasting performance highlights the broader implications of corporate governance and regulatory scrutiny in high-growth sectors like AI and servers.\*\*
 
-**BRIEFS**
+### BRIEFS
 
 **Private equity**
 
@@ -58,7 +58,7 @@ Meanwhile, competitors like Dell Technologies have seen steady performance, outp
 
 **Venture capital**
 
-**→  Cardless raises $30M for fintech growth:** Cardless[ secured](https://vcnewsdaily.com/cardless/venture-capital-funding/gwhxcsrmsq) $30M in growth funding, led by Activant Capital, with backing from Amex Ventures and Mischief. Known for co-branded credit card solutions, Cardless has seen 10x revenue growth since 2023. Its tech-driven platform helps brands offer personalized rewards through seamless digital cards. 
+**→  Cardless raises $30M for fintech growth:** Cardless[ secured](https://vcnewsdaily.com/cardless/venture-capital-funding/gwhxcsrmsq) $30M in growth funding, led by Activant Capital, with backing from Amex Ventures and Mischief. Known for co-branded credit card solutions, Cardless has seen 10x revenue growth since 2023. Its tech-driven platform helps brands offer personalized rewards through seamless digital cards.
 
 **→  Eon raises $70M, hits $1.4B valuation:** Cloud backup startup Eon[ raised](https://vcnewsdaily.com/eon/venture-capital-funding/jpfztfrnwn) $70M in a Series C round led by BOND, boosting its valuation to $1.4B. Backed by Sequoia and Lightspeed, Eon’s automated backup management platform makes cloud data easily accessible and useful. With 200 patents filed since its launch in 2024, Eon is revolutionizing the cloud storage industry.\
 \

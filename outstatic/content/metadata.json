@@ -1,6 +1,6 @@
 {
-  "commit": "d6a80c08c0450302aa58c2087a9634adb7e82c73",
-  "generated": "2024-11-28T12:13:18.725Z",
+  "commit": "34198de989794f4cf6bea896a47e24e71dd1b998",
+  "generated": "2024-11-28T12:24:44.943Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2101,8 +2101,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d6a80c08c0450302aa58c2087a9634adb7e82c73",
-        "hash": "2376472543",
+        "commit": "34198de989794f4cf6bea896a47e24e71dd1b998",
+        "hash": "3421241022",
         "path": "outstatic/content/blogs/odyssey-buys-honeywell-ppe-blackstone-s-3-5bn-eqt-stake.md"
       },
       "author": {
