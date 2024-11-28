@@ -1,6 +1,6 @@
 {
-  "commit": "1aff41ebbbf19716aa69dd9221d20a4b4be68d50",
-  "generated": "2024-11-27T20:44:36.370Z",
+  "commit": "d6a80c08c0450302aa58c2087a9634adb7e82c73",
+  "generated": "2024-11-28T12:13:18.725Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2098,6 +2098,30 @@
       "slug": "affinity-s-1-2b-buyout-mubadala-s-8-7b-ci-deal",
       "status": "published",
       "title": "Nov 27: Affinity’s 1.2B buyout, Mubadala’s 8.7B CI deal"
+    },
+    {
+      "__outstatic": {
+        "commit": "d6a80c08c0450302aa58c2087a9634adb7e82c73",
+        "hash": "2376472543",
+        "path": "outstatic/content/blogs/odyssey-buys-honeywell-ppe-blackstone-s-3-5bn-eqt-stake.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/177857797?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/odyssey-s-pip-to-acquire-honeywell-s-ppe-business-for-1.33bn-g0OT.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“Every portfolio benefits from a few good companies held for the long term.” – Steven Cohen",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-28T12:52:02.608Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "odyssey-buys-honeywell-ppe-blackstone-s-3-5bn-eqt-stake",
+      "status": "published",
+      "title": "Nov 28: Odyssey buys Honeywell PPE, Blackstone’s 3.5bn EQT stake"
     }
   ]
 }
