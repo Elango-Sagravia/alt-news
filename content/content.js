@@ -40,12 +40,6 @@ const content = {
     formSection: {
       left: [
         {
-          title: "General Inquiries",
-          type: "email",
-          href: "contact@altdaily.co",
-          content: "contact@altdaily.co",
-        },
-        {
           title: "Front desk",
           type: "phone",
           href: "+1 (307) 429-0673",
@@ -54,12 +48,6 @@ const content = {
         {
           title: "Advertise with us",
           type: "email",
-          href: "contact@altdaily.co",
-          content: "contact@altdaily.co",
-        },
-        {
-          title: "Speak to sales",
-          type: "link",
           href: "contact@altdaily.co",
           content: "contact@altdaily.co",
         },
@@ -73,19 +61,35 @@ const content = {
     },
   },
   contactPage: {
+     formSection: {
+      left: [
+        {
+          title: "General Inquiries",
+          type: "email",
+          href: "contact@altdaily.co",
+          content: "contact@altdaily.co",
+        },
+        {
+          title: "Front desk",
+          type: "phone",
+          href: "+1 (307) 429-0673",
+          content: "(307) 429-0673",
+        },
+      ],
+    },
     faqSection: {
       list: [
         {
           question: "How do I subscribe to the newsletter?",
-          answer: `To subscribe, enter your email address in the subscription box and click "Join Free." Our newsletters are sent every weekday, ensuring you stay updated with concise geopolitical news and analysis.`,
+          answer: `To subscribe, enter your email address in the subscription box and click "Join Free."`,
         },
         {
           question: "How often will I receive newsletters?",
-          answer: `You will receive our newsletters every weekday, keeping you informed with daily geopolitical insights.`,
+          answer: `You’ll receive the AltDaily newsletter every weekday, Monday through Friday. `,
         },
         {
           question: "What type of content will be included in the newsletters?",
-          answer: `Our newsletters feature concise summaries of the most important geopolitical news, expert analysis, and key insights to keep you informed.`,
+          answer: `Our newsletters feature curated private equity news, expert analysis, and key insights into the alternative investment landscape.`,
         },
         {
           question: "How do I unsubscribe or change my email preferences?",
