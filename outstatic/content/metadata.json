@@ -1,6 +1,6 @@
 {
-  "commit": "173b28c1c7eb0bcee3a69cdb8f177c132b4310c9",
-  "generated": "2024-11-29T12:30:00.502Z",
+  "commit": "eea1b707df1d99ccbd1e40085d636d678c0e1d29",
+  "generated": "2024-11-29T12:33:57.165Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2125,7 +2125,7 @@
     },
     {
       "__outstatic": {
-        "commit": "173b28c1c7eb0bcee3a69cdb8f177c132b4310c9",
+        "commit": "eea1b707df1d99ccbd1e40085d636d678c0e1d29",
         "hash": "3823554227",
         "path": "outstatic/content/blogs/renewi-acquisition-offer-japan-s-165b-real-estate-boom.md"
       },
