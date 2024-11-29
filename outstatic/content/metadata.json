@@ -1,6 +1,6 @@
 {
-  "commit": "34198de989794f4cf6bea896a47e24e71dd1b998",
-  "generated": "2024-11-28T12:24:44.943Z",
+  "commit": "de0a9127d2437083db2756510493c5368c736b07",
+  "generated": "2024-11-29T12:15:41.531Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2122,6 +2122,30 @@
       "slug": "odyssey-buys-honeywell-ppe-blackstone-s-3-5bn-eqt-stake",
       "status": "published",
       "title": "Nov 28: Odyssey buys Honeywell PPE, Blackstone’s 3.5bn EQT stake"
+    },
+    {
+      "__outstatic": {
+        "commit": "de0a9127d2437083db2756510493c5368c736b07",
+        "hash": "3772920828",
+        "path": "outstatic/content/blogs/renewi-acquisition-offer-japan-s-165b-real-estate-boom.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/macquarie-offers-to-buy-renewi-for--887-million-in-fresh-attempt--1--Y5Nj.jpg",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "“The biggest risk is not taking any.” – unknown",
+      "footerBannerTitle": "",
+      "latest": "true",
+      "publishedAt": "2024-11-29T12:43:57.242Z",
+      "readTime": "8",
+      "relatedArticles": "",
+      "slug": "renewi-acquisition-offer-japan-s-165b-real-estate-boom",
+      "status": "published",
+      "title": "Nov 29: Renewi acquisition offer, Japan’s 165B real estate boom"
     }
   ]
 }
