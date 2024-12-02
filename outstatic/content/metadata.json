@@ -1,6 +1,6 @@
 {
-  "commit": "7cc7f62f3dff8cbe149e502eab1cb01f49fd6da5",
-  "generated": "2024-12-02T12:07:52.405Z",
+  "commit": "95e0c55e27bf8bf2b3e0e09aac35152cb3ba85b6",
+  "generated": "2024-12-02T12:16:40.487Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2149,8 +2149,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7cc7f62f3dff8cbe149e502eab1cb01f49fd6da5",
-        "hash": "387733355",
+        "commit": "95e0c55e27bf8bf2b3e0e09aac35152cb3ba85b6",
+        "hash": "3212450319",
         "path": "outstatic/content/blogs/blackrock-s-acquisition-typhoo-entered-administration-16b-dream.md"
       },
       "author": {
@@ -2163,6 +2163,7 @@
       "description": "",
       "footerBannerContent": "\"Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria.\" – Sir John Templeton",
       "footerBannerTitle": "",
+      "latest": "true",
       "publishedAt": "2024-12-02T12:42:25.913Z",
       "readTime": "6",
       "relatedArticles": "",

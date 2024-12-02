@@ -2,6 +2,7 @@
 footerBannerContent: '"Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria." – Sir John Templeton'
 footerBannerTitle: ''
 cutOff: '8'
+latest: 'true'
 relatedArticles: ''
 readTime: '6'
 coverImage: '/images/blackrock-is-near-deal-to-buy-private-credit-manager-hps-MwOT.webp'
@@ -21,13 +22,13 @@ publishedAt: '2024-12-02T12:42:25.913Z'
 
 ![BlackRock is set to acquire HPS Investment Partners in a deal valued at approximately $12 billion](/images/blackrock-is-near-deal-to-buy-private-credit-manager-hps-kyOD.webp)
 
-BlackRock is closing in on[ acquiring](https://www.bnnbloomberg.ca/business/company-news/2024/12/01/blackrock-is-near-deal-to-buy-private-credit-manager-hps/) HPS Investment Partners in a $12 billion deal. HPS manages $123 billion in private credit and an additional $22 billion in public credit. This deal pushes BlackRock’s alternative assets to over $500 billion. The acquisition builds on its recent $12.5 billion purchase of Global Infrastructure Partners. With this move, they aim to rival private asset leaders like KKR and Apollo. 
+BlackRock is closing in on[ acquiring](https://www.bnnbloomberg.ca/business/company-news/2024/12/01/blackrock-is-near-deal-to-buy-private-credit-manager-hps/) HPS Investment Partners in a $12 billion deal. HPS manages $123 billion in private credit and an additional $22 billion in public credit. This deal pushes BlackRock’s alternative assets to over $500 billion. The acquisition builds on its recent $12.5 billion purchase of Global Infrastructure Partners. With this move, they aim to rival private asset leaders like KKR and Apollo.
 
 **120-year history at risk**
 
 ![Typhoo tea faces bankruptcy amid declining UK tea consumption](/images/pe-backed-tea-brand-typhoo-faces-collapse-AyOT.webp)
 
-UK tea brand Typhoo Tea, owned by Zetland Capital, is on the brink of[ collapse](https://pitchbook.com/news/articles/pe-backed-tea-brand-typhoo-faces-collapse) after entering bankruptcy administration. Supreme, a consumer goods company, is in advanced talks to acquire the brand. Typhoo’s financial struggles worsened last year, with pre-tax losses widening to £38 million and revenue dropping to £25.3 million. The collapse can be attributed to the [reduced](https://www.itv.com/news/2023-08-21/coffee-beats-tea-as-britains-favourite-beverage-research-suggests) tea consumption in the UK for several years. Experts claim that people started to prefer coffee over tea because it provides versatility. 
+UK tea brand Typhoo Tea, owned by Zetland Capital, is on the brink of[ collapse](https://pitchbook.com/news/articles/pe-backed-tea-brand-typhoo-faces-collapse) after entering bankruptcy administration. Supreme, a consumer goods company, is in advanced talks to acquire the brand. Typhoo’s financial struggles worsened last year, with pre-tax losses widening to £38 million and revenue dropping to £25.3 million. The collapse can be attributed to the [reduced](https://www.itv.com/news/2023-08-21/coffee-beats-tea-as-britains-favourite-beverage-research-suggests) tea consumption in the UK for several years. Experts claim that people started to prefer coffee over tea because it provides versatility.
 
 ### CHART
 
@@ -43,29 +44,29 @@ The investment focus includes expanding data centers, developing custom chips, a
 
 **Private Equity**
 
-**→ BOE warns of PE risks in insurance:** The Bank of England [raises](https://www.bnnbloomberg.ca/business/2024/11/29/private-equity-tie-ups-with-insurers-create-risks-boe-says/) red flags about private equity’s increasing role in the insurance industry. PE-backed insurers often take on riskier investments, which could lead to asset “fire sales” during downturns, disrupting markets. The BOE highlights concerns about falling solvency ratios, which might trigger reinsurance contract terminations and liquidity stress. 
+**→ BOE warns of PE risks in insurance:** The Bank of England [raises](https://www.bnnbloomberg.ca/business/2024/11/29/private-equity-tie-ups-with-insurers-create-risks-boe-says/) red flags about private equity’s increasing role in the insurance industry. PE-backed insurers often take on riskier investments, which could lead to asset “fire sales” during downturns, disrupting markets. The BOE highlights concerns about falling solvency ratios, which might trigger reinsurance contract terminations and liquidity stress.
 
-**→ Indonesian tycoon’s $16B dream:** Indonesian tycoon Sugianto Kusuma is[ investing](https://www.bloomberg.com/news/articles/2024-11-28/indonesian-tycoon-eyes-theme-park-f1-in-16-billion-project?embedded-checkout=true) $16 billion to transform North Jakarta’s Pantai Indah Kapuk Dua (PIK 2) into a tourism hotspot. Plans include a port, convention center, luxury hotels, and possibly a Formula 1 racetrack. Kusuma believes this project requires a huge investment and confirmed this will not be a short-term investment. 
+**→ Indonesian tycoon’s $16B dream:** Indonesian tycoon Sugianto Kusuma is[ investing](https://www.bloomberg.com/news/articles/2024-11-28/indonesian-tycoon-eyes-theme-park-f1-in-16-billion-project?embedded-checkout=true) $16 billion to transform North Jakarta’s Pantai Indah Kapuk Dua (PIK 2) into a tourism hotspot. Plans include a port, convention center, luxury hotels, and possibly a Formula 1 racetrack. Kusuma believes this project requires a huge investment and confirmed this will not be a short-term investment.
 
-**→ GTCR invests $1.33B:** Private equity firm GTCR has[ invested](https://www.privateequitywire.co.uk/gtcr-makes-1-3bn-tricentis-investment/) $1.33 billion in Tricentis, a software testing leader, valuing the company at $4.5 billion. Known for its software quality assurance and used by over 60% of Fortune 500 companies, Tricentis is projected to generate $425 million in revenue this year with a Y-O-Y growth rate of 27%. 
+**→ GTCR invests $1.33B:** Private equity firm GTCR has[ invested](https://www.privateequitywire.co.uk/gtcr-makes-1-3bn-tricentis-investment/) $1.33 billion in Tricentis, a software testing leader, valuing the company at $4.5 billion. Known for its software quality assurance and used by over 60% of Fortune 500 companies, Tricentis is projected to generate $425 million in revenue this year with a Y-O-Y growth rate of 27%.
 
 **Hedge Funds**
 
-**→ Bitcoin fund hits 1,000x return:** Pantera Capital’s Bitcoin Fund has[ delivered](https://www.hedgeweek.com/pantera-capitals-bitcoin-fund-surpasses-1000x-return/) a 1,000x return since its 2013 launch. Early investments were made when bitcoin traded at $74, and now, with prices nearing $100,000, the fund’s returns exceed 132,000%. CEO Dan Morehead predicts Bitcoin could hit $740,000 by 2028, citing untapped financial markets. 
+**→ Bitcoin fund hits 1,000x return:** Pantera Capital’s Bitcoin Fund has[ delivered](https://www.hedgeweek.com/pantera-capitals-bitcoin-fund-surpasses-1000x-return/) a 1,000x return since its 2013 launch. Early investments were made when bitcoin traded at $74, and now, with prices nearing $100,000, the fund’s returns exceed 132,000%. CEO Dan Morehead predicts Bitcoin could hit $740,000 by 2028, citing untapped financial markets.
 
-**→ Hong Kong proposes tax breaks:** Hong Kong plans to[ exempt](https://www.hedgeweek.com/hong-kong-proposes-crypto-tax-breaks-to-attract-hedge-funds-and-wealthy-families/) hedge funds and private investors from taxes on crypto gains to attract asset managers. The proposal, part of a broader strategy to rival Singapore, also includes exemptions for private credit and carbon credits. 
+**→ Hong Kong proposes tax breaks:** Hong Kong plans to[ exempt](https://www.hedgeweek.com/hong-kong-proposes-crypto-tax-breaks-to-attract-hedge-funds-and-wealthy-families/) hedge funds and private investors from taxes on crypto gains to attract asset managers. The proposal, part of a broader strategy to rival Singapore, also includes exemptions for private credit and carbon credits.
 
 **Venture Capital**
 
-**→ Sequoia eyes first deal in Asia-Pacific split:** Sequoia Capital is nearing a $30 million[ investment](https://techcrunch.com/2024/11/29/sequoia-nears-first-asia-pacific-deal-since-regional-split/) in Vance, a Bengaluru-based startup specializing in cross-border payments. This marks Sequoia’s first Asia-Pacific deal since parting ways with its regional partners. 
+**→ Sequoia eyes first deal in Asia-Pacific split:** Sequoia Capital is nearing a $30 million[ investment](https://techcrunch.com/2024/11/29/sequoia-nears-first-asia-pacific-deal-since-regional-split/) in Vance, a Bengaluru-based startup specializing in cross-border payments. This marks Sequoia’s first Asia-Pacific deal since parting ways with its regional partners.
 
-**→ DANNCE.AI secures $2.6M pre-seed funding:** Boston-based DANNCE.AI has[ raised](https://vcnewsdaily.com/dannce.ai/venture-capital-funding/thmqkrljpy) $2.6 million in pre-seed funding, led by LDV Capital with participation from Glasswing Ventures and Merck Digital Sciences Studio. 
+**→ DANNCE.AI secures $2.6M pre-seed funding:** Boston-based DANNCE.AI has[ raised](https://vcnewsdaily.com/dannce.ai/venture-capital-funding/thmqkrljpy) $2.6 million in pre-seed funding, led by LDV Capital with participation from Glasswing Ventures and Merck Digital Sciences Studio.
 
 **Others**
 
-**→ Australia tightens anti-money laundering rules:** Australia has[ expanded](https://www.bnnbloomberg.ca/business/international/2024/11/28/australia-tightens-money-laundering-rules-for-real-estate-gems/) anti-money laundering regulations to include real estate agents, jewelers, and service providers. The new law targets high-risk areas like luxury property and precious stones, which have been exploited for illicit cash flows. This amendment, passed in parliament, aims to address money laundering activities that cause A$60.1 billion in harm annually. 
+**→ Australia tightens anti-money laundering rules:** Australia has[ expanded](https://www.bnnbloomberg.ca/business/international/2024/11/28/australia-tightens-money-laundering-rules-for-real-estate-gems/) anti-money laundering regulations to include real estate agents, jewelers, and service providers. The new law targets high-risk areas like luxury property and precious stones, which have been exploited for illicit cash flows. This amendment, passed in parliament, aims to address money laundering activities that cause A$60.1 billion in harm annually.
 
-**→ Japan’s chips and AI endeavors:** Japan is[ allocating](https://www.bnnbloomberg.ca/business/technology/2024/11/29/japan-earmarks-extra-99-billion-for-chips-and-ai-this-year/) ¥1.5 trillion ($9.9 billion) to strengthen its semiconductor and AI sectors. The funds will support next-gen chip development, AI research, and projects like Rapidus Corp.’s factory in Hokkaido. This move is part of a broader ¥10 trillion budget allocation pledged by Prime Minister Shigeru Ishiba. 
+**→ Japan’s chips and AI endeavors:** Japan is[ allocating](https://www.bnnbloomberg.ca/business/technology/2024/11/29/japan-earmarks-extra-99-billion-for-chips-and-ai-this-year/) ¥1.5 trillion ($9.9 billion) to strengthen its semiconductor and AI sectors. The funds will support next-gen chip development, AI research, and projects like Rapidus Corp.’s factory in Hokkaido. This move is part of a broader ¥10 trillion budget allocation pledged by Prime Minister Shigeru Ishiba.
 
 ### FOUNDATIONS
 
