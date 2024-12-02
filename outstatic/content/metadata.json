@@ -1,6 +1,6 @@
 {
-  "commit": "eea1b707df1d99ccbd1e40085d636d678c0e1d29",
-  "generated": "2024-11-29T12:33:57.165Z",
+  "commit": "7cc7f62f3dff8cbe149e502eab1cb01f49fd6da5",
+  "generated": "2024-12-02T12:07:52.405Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2146,6 +2146,29 @@
       "slug": "renewi-acquisition-offer-japan-s-165b-real-estate-boom",
       "status": "published",
       "title": "Nov 29: Renewi acquisition offer, Japan’s 165B real estate boom"
+    },
+    {
+      "__outstatic": {
+        "commit": "7cc7f62f3dff8cbe149e502eab1cb01f49fd6da5",
+        "hash": "387733355",
+        "path": "outstatic/content/blogs/blackrock-s-acquisition-typhoo-entered-administration-16b-dream.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "blogs",
+      "coverImage": "/images/blackrock-is-near-deal-to-buy-private-credit-manager-hps-MwOT.webp",
+      "cutOff": "8",
+      "description": "",
+      "footerBannerContent": "\"Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria.\" – Sir John Templeton",
+      "footerBannerTitle": "",
+      "publishedAt": "2024-12-02T12:42:25.913Z",
+      "readTime": "6",
+      "relatedArticles": "",
+      "slug": "blackrock-s-acquisition-typhoo-entered-administration-16b-dream",
+      "status": "published",
+      "title": "Dec 2: BlackRock’s acquisition, Typhoo entered administration, 16B dream "
     }
   ]
 }
