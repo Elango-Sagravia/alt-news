@@ -11,11 +11,38 @@ import { GoogleAnalytics } from "@next/third-parties/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "AltDaily News",
-  description: "Alternative insights, fresh off the press",
-};
+// export const metadata = {
+//   title: "AltDaily News",
+//   description: "Alternative insights, fresh off the press",
+// };
 
+const thumbnail = "/og.png";
+const baseUrl = process.env.url;
+export async function generateMetadata() {
+  const title = "AltDaily";
+
+  const description = "Alternative insights, fresh off the press";
+
+  return {
+    metadataBase: new URL(process.env.url),
+    title,
+    description,
+    themeColor: "#6b705c",
+    openGraph: {
+      title,
+      description,
+      url: baseUrl,
+      images: [
+        {
+          url: thumbnail,
+          secureUrl: thumbnail,
+          alt: "AltDaily",
+        },
+      ],
+      type: "website",
+    },
+  };
+}
 export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en" className={inter.className}>
