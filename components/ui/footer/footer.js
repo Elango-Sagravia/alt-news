@@ -36,6 +36,28 @@ export default function Footer() {
             </div>
           </div>
           <div>
+            <ul className="ml-60">
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank"  href="https://www.facebook.com/people/Alternative-Investment-News/61563115340167/">Facebook</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.instagram.com/readaltdaily/">Instagram</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://x.com/readaltdaily">Twitter</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.threads.net/@readaltdaily">Threads</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.reddit.com/user/AltInvestmentNews/">Reddit</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.linkedin.com/showcase/altdailynews/">LinkedIn</Link>
+              </li>
+            </ul>
+          </div>
+          <div>
             <ul>
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link href="/advertise">Advertise</Link>
@@ -59,7 +81,30 @@ export default function Footer() {
               </div>
             </Link>
           </div>
-          <div className="mt-8">
+          <div className="flex">
+             <div className="mt-8">
+            <ul>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.facebook.com/people/Alternative-Investment-News/61563115340167/">Facebook</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.instagram.com/readaltdaily/">Instagram</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://x.com/readaltdaily">Twitter</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.threads.net/@readaltdaily">Threads</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.reddit.com/user/AltInvestmentNews/">Reddit</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.linkedin.com/showcase/altdailynews/">LinkedIn</Link>
+              </li>
+            </ul>
+          </div>
+          <div className="mt-8 ml-10">
             <ul>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link href="/advertise">Advertise</Link>
@@ -72,6 +117,8 @@ export default function Footer() {
               </li>
             </ul>
           </div>
+            
+         </div>
           <div>
             <ul className="flex mt-4">
               <li className="underline hover:underline underline-offset-8 text-[12px] text-gray-400">
