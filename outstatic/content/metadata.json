@@ -1,6 +1,10 @@
 {
   "commit": "51e91cc3a447b7455b9de19e1b8b844168dc6d72",
+<<<<<<< HEAD
   "generated": "2024-12-13T17:14:41.039Z",
+=======
+  "generated": "2024-12-18T17:45:12.285Z",
+>>>>>>> 289e3ce0147872241ecd6c635f8011e6f92a0d09
   "metadata": [
     {
       "__outstatic": {
@@ -2382,6 +2386,7 @@
     {
       "__outstatic": {
         "commit": "51e91cc3a447b7455b9de19e1b8b844168dc6d72",
+<<<<<<< HEAD
         "hash": "2526391059",
         "path": "outstatic/content/blogs/1-7bn-bain-offer-blackstone-s-tokyo-deal-sanjay-shah-jailed.md"
       },
@@ -2404,6 +2409,22 @@
       "slug": "1-7bn-bain-offer-blackstone-s-tokyo-deal-sanjay-shah-jailed",
       "status": "published",
       "title": "Dec 13: 1.7bn Bain offer, Blackstone's Tokyo deal, Sanjay Shah jailed"
+=======
+        "hash": "2647319260",
+        "path": "outstatic/content/pages/test.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-12-18T18:18:04.940Z",
+      "slug": "test",
+      "status": "published",
+      "title": "test"
+>>>>>>> 289e3ce0147872241ecd6c635f8011e6f92a0d09
     }
   ]
 }
