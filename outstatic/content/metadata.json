@@ -1,6 +1,6 @@
 {
-  "commit": "b70c3f796557eef73da8b7d2467bb3095ea39d10",
-  "generated": "2024-12-27T08:28:01.501Z",
+  "commit": "69192a08e168b08cffeb0d38c6cd95a01119b3c0",
+  "generated": "2024-12-27T09:50:27.435Z",
   "metadata": [
     {
       "__outstatic": {
@@ -80,24 +80,6 @@
       "slug": "refund-policy",
       "status": "published",
       "title": "Refund policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "3b97ed01ad7b141db3669bcf0bd96b11d72260e3",
-        "hash": "3100775800",
-        "path": "outstatic/content/policies/terms-of-use.md"
-      },
-      "author": {
-        "name": "",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-20T15:17:31.000Z",
-      "slug": "terms-of-use",
-      "status": "published",
-      "title": "Terms of use"
     },
     {
       "__outstatic": {
@@ -2300,6 +2282,24 @@
       "slug": "temasek-s-debt-bet-whale-rock-s-fund-blackrock-backlash",
       "status": "published",
       "title": "Dec 9: Temasek’s debt bet, Whale Rock’s fund, BlackRock backlash"
+    },
+    {
+      "__outstatic": {
+        "commit": "69192a08e168b08cffeb0d38c6cd95a01119b3c0",
+        "hash": "2647516166",
+        "path": "outstatic/content/policies/terms-of-use.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-20T15:17:31.000Z",
+      "slug": "terms-of-use",
+      "status": "published",
+      "title": "Terms of use"
     }
   ]
 }

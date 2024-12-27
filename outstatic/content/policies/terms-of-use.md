@@ -54,6 +54,26 @@ To the fullest extent permitted by law, the Company shall not be liable for any 
 
 The Company has no obligation to maintain the confidentiality of any information or materials submitted, except as explicitly stated in these Terms, the Privacy Notice, or any additional terms and conditions, or as required by law. The commercial use, reproduction, transmission, or distribution of any information, software, or other material available without the prior written consent of the Company is strictly prohibited. The Company reserves the right to take appropriate legal action, including, but not limited to, referring matters to law enforcement for any illegal or unauthorized use. The Company has the right to fully cooperate with any law enforcement authorities or court orders requesting or directing us to disclose the identity or other information of anyone posting any materials on or through the Website. YOU AGREE TO INDEMNIFY AND HOLD HARMLESS THE COMPANY AND ITS AFFILIATES, SUBSIDIARIES, LICENSORS, AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY THE COMPANY DURING, OR AS A CONSEQUENCE OF, INVESTIGATIONS BY EITHER THE COMPANY OR LAW ENFORCEMENT AUTHORITIES.
 
+4.4 Financial Content
+
+4.4.1 General Information
+
+The information provided on the Website and in the Long and Short newsletter is for informational and educational purposes only. It should not be interpreted as financial, investment, legal, or tax advice. While we strive to provide accurate and timely information, we make no guarantees regarding the accuracy, reliability, or completeness of the content.
+
+The content may contain forward-looking statements based on assumptions, expectations, and projections about future events. These statements are inherently uncertain and are not guarantees of future performance. Actual results may differ materially due to various factors, including market conditions and geopolitical developments.
+
+4.4.2 No Investment Advice
+
+We are not a registered investment advisor, broker-dealer, or financial planner. The content shared through our Website and newsletter does not constitute an offer or recommendation to buy, sell, or hold any securities, financial products, or instruments. You are encouraged to consult with a licensed financial professional or conduct your own research before making any financial decisions.
+
+4.4.3 Risk Warning
+
+All investments involve risks, including the loss of principal. Past performance does not guarantee future results. By using our Website or newsletter, you acknowledge that you are solely responsible for your investment decisions, and the Company will not be held liable for any financial losses or damages.
+
+4.4 No Guarantees
+
+We make no representations or warranties regarding the completeness, accuracy, or timeliness of the information shared. All opinions expressed in the newsletter are those of the authors and may change without notice.
+
 **5. Communications**\
 \
 By accessing and/or using the Services, you are engaging in electronic communication with us and consent to receive electronic communications from us. You acknowledge and agree that all agreements, notices, disclosures, and other communications we provide to you electronically fulfill any legal requirement that such communications be in writing.
