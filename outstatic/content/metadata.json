@@ -1,6 +1,6 @@
 {
-  "commit": "69192a08e168b08cffeb0d38c6cd95a01119b3c0",
-  "generated": "2024-12-27T09:50:27.435Z",
+  "commit": "c27809b1c5abb967848ad900f579365426219a98",
+  "generated": "2024-12-27T09:50:47.820Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1226,24 +1226,6 @@
     },
     {
       "__outstatic": {
-        "commit": "733c579fb6d875421242e2263088734dd34c0f33",
-        "hash": "3733144218",
-        "path": "outstatic/content/policies/privacy-policy.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-20T12:21:37.000Z",
-      "slug": "privacy-policy",
-      "status": "published",
-      "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
         "commit": "a9b9b50e8e343a2496df441c50b8cbc78e3fd367",
         "hash": "1124713804",
         "path": "outstatic/content/blogs/dubai-reit-rumors-saudis-trim-nintendo-stake.md"
@@ -2300,6 +2282,24 @@
       "slug": "terms-of-use",
       "status": "published",
       "title": "Terms of use"
+    },
+    {
+      "__outstatic": {
+        "commit": "c27809b1c5abb967848ad900f579365426219a98",
+        "hash": "2746110183",
+        "path": "outstatic/content/policies/privacy-policy.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-20T12:21:37.000Z",
+      "slug": "privacy-policy",
+      "status": "published",
+      "title": "Privacy Policy"
     }
   ]
 }
