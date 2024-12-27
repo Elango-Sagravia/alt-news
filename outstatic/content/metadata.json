@@ -1,6 +1,6 @@
 {
-  "commit": "fc1865b95da82df6916fb5653e459936dd2640de",
-  "generated": "2024-12-27T11:43:22.343Z",
+  "commit": "a8150e1de911fafa95bd05b775b7f6bcd6f15b55",
+  "generated": "2024-12-27T12:05:06.231Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2378,31 +2378,6 @@
       "slug": "blackrock-s-platform-nippon-life-mulls-acquisition-bain-raises-offer",
       "status": "published",
       "title": "Dec 12: BlackRock’s platform, Nippon Life mulls acquisition, Bain raises offer"
-    },
-    {
-      "__outstatic": {
-        "commit": "fc1865b95da82df6916fb5653e459936dd2640de",
-        "hash": "1890588352",
-        "path": "outstatic/content/blogs/test.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
-      },
-      "collection": "blogs",
-      "coverImage": "",
-      "cutOff": "4",
-      "description": "",
-      "emailHtml": "",
-      "emailHtmlPreview": "",
-      "footerBannerContent": "",
-      "footerBannerTitle": "",
-      "publishedAt": "2024-12-27T12:16:05.053Z",
-      "readTime": "4",
-      "relatedArticles": "",
-      "slug": "test",
-      "status": "published",
-      "title": "test"
     }
   ]
 }
