@@ -1,6 +1,6 @@
 {
-  "commit": "7527be8d5c6da371ac9ca8f38861491087a09c82",
-  "generated": "2024-12-27T08:26:32.597Z",
+  "commit": "b70c3f796557eef73da8b7d2467bb3095ea39d10",
+  "generated": "2024-12-27T08:28:01.501Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2300,31 +2300,6 @@
       "slug": "temasek-s-debt-bet-whale-rock-s-fund-blackrock-backlash",
       "status": "published",
       "title": "Dec 9: Temasek’s debt bet, Whale Rock’s fund, BlackRock backlash"
-    },
-    {
-      "__outstatic": {
-        "commit": "7527be8d5c6da371ac9ca8f38861491087a09c82",
-        "hash": "3006715174",
-        "path": "outstatic/content/blogs/test-blog-asdasds.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176796160?v=4"
-      },
-      "collection": "blogs",
-      "coverImage": "",
-      "cutOff": "5",
-      "description": "",
-      "emailHtml": "",
-      "emailHtmlPreview": "",
-      "footerBannerContent": "",
-      "footerBannerTitle": "",
-      "publishedAt": "2024-12-27T08:59:02.877Z",
-      "readTime": "5",
-      "relatedArticles": "",
-      "slug": "test-blog-asdasds",
-      "status": "published",
-      "title": "test blog asdasds"
     }
   ]
 }
