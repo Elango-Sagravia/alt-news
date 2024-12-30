@@ -4,6 +4,16 @@ import Subscribe from "@/components/ui/subscribe/subscribe";
 import libre from "@/components/libre-font";
 import ContactHeader from "@/components/ui/contactHeader/contactHeader";
 
+
+export const metadata = {
+  title: "Contact AltDaily - Reach Out to Us",
+  description:
+    "Need assistance or have questions? Contact AltDaily for prompt support and information about our newsletters or services.",
+  alternates: {
+    canonical: "https://www.altdaily.co/contact",
+  },
+};
+
 export default function Contact() {
   return (
     <main>

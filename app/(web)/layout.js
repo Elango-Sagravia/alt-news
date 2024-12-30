@@ -19,9 +19,9 @@ const inter = Inter({ subsets: ["latin"] });
 const thumbnail = "/og.png";
 const baseUrl = process.env.url;
 export async function generateMetadata() {
-  const title = "AltDaily";
+  const title = "AltDaily - Daily Insights for Alternative Investments";
 
-  const description = "Alternative insights, fresh off the press";
+  const description = "Stay updated with AltDaily’s concise weekday finance tailored for alternative investment professionals. A quick 4-minute read to stay informed.";
 
   return {
     metadataBase: new URL(process.env.url),

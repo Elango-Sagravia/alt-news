@@ -19,6 +19,15 @@ async function getData() {
   return blogs;
 }
 
+export const metadata = {
+  title: "AltDaily Archives - Access Past Newsletters",
+  description:
+    "Explore AltDaily's archives for past newsletters. Dive into concise updates and key insights into the alternative investment industry.",
+  alternates: {
+    canonical: "https://www.altdaily.co/archives",
+  },
+};
+
 export default async function archive() {
   const blogs = await getData();
   return (
