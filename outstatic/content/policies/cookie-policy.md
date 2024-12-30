@@ -7,6 +7,8 @@ author:
 slug: 'cookie-policy'
 description: ''
 coverImage: ''
+seoTitle: 'Cookie Policy - AltDaily'
+seoDescription: 'Understand how AltDaily uses cookies to enhance your browsing experience. Read our cookie policy for full transparency and details.'
 publishedAt: '2024-08-20T12:47:14.000Z'
 ---
 

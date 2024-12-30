@@ -1,6 +1,6 @@
 {
-  "commit": "a8150e1de911fafa95bd05b775b7f6bcd6f15b55",
-  "generated": "2024-12-27T12:05:06.231Z",
+  "commit": "c057e382d9459976ab6fd7719d31407991170524",
+  "generated": "2024-12-30T09:41:20.712Z",
   "metadata": [
     {
       "__outstatic": {
@@ -44,24 +44,6 @@
       "slug": "my-first-test-blog-from-prod",
       "status": "draft",
       "title": "My first test blog from prod"
-    },
-    {
-      "__outstatic": {
-        "commit": "01f7a66bf49e97b6b2f686d03a8f7d34ece1d37c",
-        "hash": "2165738497",
-        "path": "outstatic/content/policies/cookie-policy.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-20T12:47:14.000Z",
-      "slug": "cookie-policy",
-      "status": "published",
-      "title": "Cookie Policy"
     },
     {
       "__outstatic": {
@@ -2378,6 +2360,26 @@
       "slug": "blackrock-s-platform-nippon-life-mulls-acquisition-bain-raises-offer",
       "status": "published",
       "title": "Dec 12: BlackRock’s platform, Nippon Life mulls acquisition, Bain raises offer"
+    },
+    {
+      "__outstatic": {
+        "commit": "c057e382d9459976ab6fd7719d31407991170524",
+        "hash": "2651003713",
+        "path": "outstatic/content/policies/cookie-policy.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-20T12:47:14.000Z",
+      "seoDescription": "Understand how AltDaily uses cookies to enhance your browsing experience. Read our cookie policy for full transparency and details.",
+      "seoTitle": "Cookie Policy - AltDaily",
+      "slug": "cookie-policy",
+      "status": "published",
+      "title": "Cookie Policy"
     }
   ]
 }
