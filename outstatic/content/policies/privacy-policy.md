@@ -7,6 +7,8 @@ author:
 slug: 'privacy-policy'
 description: ''
 coverImage: ''
+seoTitle: 'Privacy Policy - AltDaily'
+seoDescription: 'Learn how AltDaily safeguards your data. Read our privacy policy to understand our commitment to protecting your personal information.'
 publishedAt: '2024-08-20T12:21:37.000Z'
 ---
 
