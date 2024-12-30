@@ -1,6 +1,6 @@
 {
-  "commit": "21e143417570dfc4273203d4721ab864a2783f88",
-  "generated": "2024-12-30T09:41:58.351Z",
+  "commit": "2e1e8d8e5e8b9a60ca1b3d560247b5fecc00403b",
+  "generated": "2024-12-30T09:42:35.701Z",
   "metadata": [
     {
       "__outstatic": {
@@ -2249,24 +2249,6 @@
     },
     {
       "__outstatic": {
-        "commit": "69192a08e168b08cffeb0d38c6cd95a01119b3c0",
-        "hash": "2647516166",
-        "path": "outstatic/content/policies/terms-of-use.md"
-      },
-      "author": {
-        "name": "",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-20T15:17:31.000Z",
-      "slug": "terms-of-use",
-      "status": "published",
-      "title": "Terms of use"
-    },
-    {
-      "__outstatic": {
         "commit": "e2605b960ddf3a3769c1135656a65fedc226bacc",
         "hash": "1631289212",
         "path": "outstatic/content/blogs/blackstone-chases-urbaser-boliden-1-5b-deal-unilever-debt-prep.md"
@@ -2382,6 +2364,26 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "2e1e8d8e5e8b9a60ca1b3d560247b5fecc00403b",
+        "hash": "4116361678",
+        "path": "outstatic/content/policies/terms-of-use.md"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-20T15:17:31.000Z",
+      "seoDescription": "Review AltDaily's terms and conditions to understand the guidelines and policies governing the use of our newsletter services.",
+      "seoTitle": "Terms of Use - AltDaily",
+      "slug": "terms-of-use",
+      "status": "published",
+      "title": "Terms of use"
     }
   ]
 }

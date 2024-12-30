@@ -7,6 +7,8 @@ author:
 slug: 'terms-of-use'
 description: ''
 coverImage: ''
+seoTitle: 'Terms of Use - AltDaily'
+seoDescription: 'Review AltDaily''s terms and conditions to understand the guidelines and policies governing the use of our newsletter services.'
 publishedAt: '2024-08-20T15:17:31.000Z'
 ---
 
