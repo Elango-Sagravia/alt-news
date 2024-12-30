@@ -1,6 +1,6 @@
 {
-  "commit": "2e1e8d8e5e8b9a60ca1b3d560247b5fecc00403b",
-  "generated": "2024-12-30T09:42:35.701Z",
+  "commit": "c9d7e08e0da3ac826e8178a658a432b56a8c7222",
+  "generated": "2024-12-30T09:43:40.759Z",
   "metadata": [
     {
       "__outstatic": {
@@ -44,24 +44,6 @@
       "slug": "my-first-test-blog-from-prod",
       "status": "draft",
       "title": "My first test blog from prod"
-    },
-    {
-      "__outstatic": {
-        "commit": "299a0bae4c798b266829b8ffd61bf15451bff68b",
-        "hash": "3068710031",
-        "path": "outstatic/content/policies/refund-policy.md"
-      },
-      "author": {
-        "name": "Camy",
-        "picture": ""
-      },
-      "collection": "policies",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-08-20T13:27:16.000Z",
-      "slug": "refund-policy",
-      "status": "published",
-      "title": "Refund policy"
     },
     {
       "__outstatic": {
@@ -2384,6 +2366,26 @@
       "slug": "terms-of-use",
       "status": "published",
       "title": "Terms of use"
+    },
+    {
+      "__outstatic": {
+        "commit": "c9d7e08e0da3ac826e8178a658a432b56a8c7222",
+        "hash": "903332944",
+        "path": "outstatic/content/policies/refund-policy.md"
+      },
+      "author": {
+        "name": "Camy",
+        "picture": ""
+      },
+      "collection": "policies",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-20T13:27:16.000Z",
+      "seoDescription": "Learn about AltDaily’s refund policy for newsletter subscriptions. We ensure a fair and transparent process for all our subscribers.",
+      "seoTitle": "Refund Policy - AltDaily",
+      "slug": "refund-policy",
+      "status": "published",
+      "title": "Refund policy"
     }
   ]
 }

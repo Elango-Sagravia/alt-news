@@ -7,6 +7,8 @@ author:
 slug: 'refund-policy'
 description: ''
 coverImage: ''
+seoTitle: 'Refund Policy - AltDaily'
+seoDescription: 'Learn about AltDaily’s refund policy for newsletter subscriptions. We ensure a fair and transparent process for all our subscribers.'
 publishedAt: '2024-08-20T13:27:16.000Z'
 ---
 
