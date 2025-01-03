@@ -13,22 +13,22 @@ const content = {
   advertise: {
     hero: {
       title:
-        "Our mission is to share alternative investment insights with the world.",
+        "Our mission is to share financial news and insights with the world.",
       subTitle:
-        "To reach our engaged audience of 200,000 subscribers, contact us below.",
+        "To reach our audience of finance professionals and enthusiasts, contact us below.",
       buttonText: "Advertise with us",
     },
     statusSection: {
-      heading: "Reach new customers with Alternative Investment News.",
+      heading: "Reach new customers with Long and Short",
       list: [
         {
-          title: "54%",
-          description: "of our subscribers read our newsletters every weekday.",
+          title: "38%",
+          description: "of our subscribers read our newsletters every day.",
         },
         {
-          title: "10k",
+          title: "1000",
           description:
-            "new subscribers join Alternative Investment News monthly",
+            "new subscribers join Long and Short monthly.",
         },
         {
           title: "2%",
@@ -48,8 +48,8 @@ const content = {
         {
           title: "Advertise with us",
           type: "email",
-          href: "contact@altdaily.co",
-          content: "contact@altdaily.co",
+          href: "contact@longandshort.com",
+          content: "contact@longandshort.com",
         },
       ],
     },
@@ -85,11 +85,11 @@ const content = {
         },
         {
           question: "How often will I receive newsletters?",
-          answer: `You’ll receive the AltDaily newsletter every weekday, Monday through Friday. `,
+          answer: `You’ll receive the Long and Short newsletter every weekday, Monday through Friday.`,
         },
         {
           question: "What type of content will be included in the newsletters?",
-          answer: `Our newsletters feature curated private equity news, expert analysis, and key insights into the alternative investment landscape.`,
+          answer: `Our newsletters feature concise financial updates, including market trends, global finance news, educational content, and the latest job opportunities in the financial sector.`,
         },
         {
           question: "How do I unsubscribe or change my email preferences?",
