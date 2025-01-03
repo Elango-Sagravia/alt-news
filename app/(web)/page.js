@@ -6,9 +6,9 @@ import ArchiveHome from "@/components/ui/archiveHome/archiveHome";
 import Subscribe from "@/components/ui/subscribe/subscribe";
 
 export const metadata = {
-  title: "AltDaily - Daily Insights for Alternative Investments",
+  title: "Long and Short",
   description:
-    "Stay updated with AltDaily’s concise weekday finance tailored for alternative investment professionals. A quick 4-minute read to stay informed.",
+    "Markets in minutes",
   alternates: {
     canonical: "https://www.altdaily.co/",
   },

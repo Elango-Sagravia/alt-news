@@ -19,9 +19,9 @@ const inter = Inter({ subsets: ["latin"] });
 const thumbnail = "/og.png";
 const baseUrl = process.env.url;
 export async function generateMetadata() {
-  const title = "AltDaily - Daily Insights for Alternative Investments";
+  const title = "Long and Short";
 
-  const description = "Stay updated with AltDaily’s concise weekday finance tailored for alternative investment professionals. A quick 4-minute read to stay informed.";
+  const description = "Markets in minutes";
 
   return {
     metadataBase: new URL(process.env.url),
@@ -43,6 +43,28 @@ export async function generateMetadata() {
     },
   };
 }
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Presidential Summary",
+  alternateName: "presidentialsummary",
+  url: "https://www.presidentialsummary.com/",
+  logo: "https://www.presidentialsummary.com/logo.png",
+  contactPoint: {
+    "@type": "ContactPoint",
+    telephone: "(307) 429-0673",
+    contactType: "customer service",
+    contactOption: "TollFree",
+    areaServed: "US",
+    availableLanguage: "en",
+  },
+  sameAs: [
+    "https://www.facebook.com/people/Presidential-Summary/61562652791256/",
+    "https://www.instagram.com/presidentialsummary/",
+    "https://www.linkedin.com/showcase/presidentialsummary/",
+  ],
+};
 export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en" className={inter.className}>

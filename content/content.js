@@ -2,9 +2,9 @@ const content = {
   homePage: {
     hero: {
       title:
-        "Insider news for the guild of private equity and alternative investments.",
+        "Insider news for the world of finance",
       subTitle:
-        "Written for alternative investment professionals. Weekday newsletter to keep track of happenings inside the industry. A brief 4-minute read.",
+        "Markets in minutes. Unbiased, fact-checked finance news, 5-minute read.",
     },
   },
   subscribe: {
