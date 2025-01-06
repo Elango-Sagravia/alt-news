@@ -7,8 +7,8 @@ author:
 slug: 'terms-of-use'
 description: ''
 coverImage: ''
-seoTitle: 'Terms of Use - AltDaily'
-seoDescription: 'Review AltDaily''s terms and conditions to understand the guidelines and policies governing the use of our newsletter services.'
+seoTitle: 'Terms of Use - Long & Short Website Terms & Conditions'
+seoDescription: 'Read Long & Short’s terms of use, including rules, guidelines, and user agreements for accessing our platform.'
 publishedAt: '2025-01-01T15:17:31.000Z'
 ---
 
