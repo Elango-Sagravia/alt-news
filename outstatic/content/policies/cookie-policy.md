@@ -9,10 +9,10 @@ description: ''
 coverImage: ''
 seoTitle: 'Cookie Policy - AltDaily'
 seoDescription: 'Understand how AltDaily uses cookies to enhance your browsing experience. Read our cookie policy for full transparency and details.'
-publishedAt: '2024-08-20T12:47:14.000Z'
+publishedAt: '2025-01-01T12:47:14.000Z'
 ---
 
-Alternative Investments News ("Website") is a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). Our website uses cookies and similar tracking technologies to enhance your browsing experience, analyze website traffic, and personalize content. This Cookie Policy explains what cookies are, how we use them, and how you can manage your cookie preferences.
+Long and Short ("Website") is a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). Our website uses cookies and similar tracking technologies to enhance your browsing experience, analyze website traffic, and personalize content. This Cookie Policy explains what cookies are, how we use them, and how you can manage your cookie preferences.
 
 **1. What Are Cookies?**
 
@@ -58,4 +58,4 @@ We may update this Cookie Policy from time to time to reflect changes in our pra
 
 **7. Contact Information**
 
-If you have any questions about this Policy, please contact us at [contact@altdaily.co](mailto:contact@altdaily.co).
+If you have any questions about this Policy, please contact us at [contact@longandshort.com](mailto:contact@longandshort.com).
