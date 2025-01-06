@@ -9,10 +9,10 @@ description: ''
 coverImage: ''
 seoTitle: 'Refund Policy - AltDaily'
 seoDescription: 'Learn about AltDaily’s refund policy for newsletter subscriptions. We ensure a fair and transparent process for all our subscribers.'
-publishedAt: '2024-08-20T13:27:16.000Z'
+publishedAt: '2025-01-01T13:27:16.000Z'
 ---
 
-Alternative Investment News ("Website") is a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). We are committed to ensuring that our customers are satisfied with their experience. This Refund Policy outlines the conditions under which refunds may be issued.
+Long and Short ("Website") is a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). We are committed to ensuring that our customers are satisfied with their experience. This Refund Policy outlines the conditions under which refunds may be issued.
 
 **1. Eligibility for Refunds**
 
@@ -58,7 +58,7 @@ To request a refund, please follow these steps:
 
 3.1 Contact Us
 
-Email us at [contact@altdaily.co](mailto:contact@altdaily.co) within 7 days of the scheduled newsletter publication date. Please include your advertisement details, the issue encountered, and any supporting documentation.
+Email us at [contact@longandshort.com ](mailto:contact@altdaily.co)within 7 days of the scheduled newsletter publication date. Please include your advertisement details, the issue encountered, and any supporting documentation.
 
 3.2 Review Process
 
@@ -78,4 +78,4 @@ We reserve the right to modify or update this Refund Policy at any time. Any cha
 
 **6. Contact Information**
 
-If you have any questions or concerns about this Refund Policy, please contact us at [contact@altdaily.co](mailto:contact@altdaily.co).
+If you have any questions or concerns about this Refund Policy, please contact us at [contact@longandshort.com](mailto:contact@longandshort.com).
