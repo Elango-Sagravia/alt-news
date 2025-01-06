@@ -22,7 +22,7 @@ const transporter = nodemailer.createTransport({
 // Function to send an email
 async function sendEmail(email, slug) {
   let mailOptions = {
-    from: '"AltDaily" <no-reply@altdaily.co>', // Sender email address
+    from: '"AltDaily" <no-reply@longandshort.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
     subject: "Welcome to AltDaily!",
@@ -44,12 +44,15 @@ async function sendEmail(email, slug) {
 // API handler function for POST request
 export async function POST(request) {
   try {
-    const response = await fetch("https://www.altdaily.co/api/blogs/latest", {
-      method: "GET",
-      headers: {
-        "Content-Type": "application/json",
-      },
-    });
+    const response = await fetch(
+      "https://www.longandshort.com/api/blogs/latest",
+      {
+        method: "GET",
+        headers: {
+          "Content-Type": "application/json",
+        },
+      }
+    );
     const blog = await response.json();
 
     const body = await request.json(); // Parse the request body as JSON

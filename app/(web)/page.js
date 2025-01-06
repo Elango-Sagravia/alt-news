@@ -7,10 +7,9 @@ import Subscribe from "@/components/ui/subscribe/subscribe";
 
 export const metadata = {
   title: "Long and Short",
-  description:
-    "Markets in minutes",
+  description: "Markets in minutes",
   alternates: {
-    canonical: "https://www.altdaily.co/",
+    canonical: "https://www.longandshort.com/",
   },
 };
 

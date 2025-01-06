@@ -24,7 +24,7 @@ export const metadata = {
   description:
     "Explore AltDaily's archives for past newsletters. Dive into concise updates and key insights into the alternative investment industry.",
   alternates: {
-    canonical: "https://www.altdaily.co/archives",
+    canonical: "https://www.longandshort.com/archives",
   },
 };
 

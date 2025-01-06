@@ -140,11 +140,11 @@ export const emailContent = `<!doctype html>
             <td  style="width:150px;">
               
         <a
-           href="https://www.altdaily.co" target="_blank"
+           href="https://www.longandshort.com" target="_blank"
         >
           
       <img
-         alt="" height="auto" src="https://www.altdaily.co/an-logo-grey.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="150"
+         alt="" height="auto" src="https://www.longandshort.com/an-logo-grey.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="150"
       />
     
         </a>
@@ -376,7 +376,7 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.altdaily.co/verified" 
+              href="https://www.longandshort.com/verified" 
               target="_blank"
              >Verify</a></div>
     
@@ -637,7 +637,7 @@ export const emailContent = `<!doctype html>
       <div
          style="font-family:Roboto, Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
       ><p style="font-size: 16px; line-height: 1.4;">
-            For everyone else, check out our safelist instructions <a href="https://www.altdaily.co/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>.
+            For everyone else, check out our safelist instructions <a href="https://www.longandshort.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>.
           </p></div>
     
                 </td>
@@ -798,7 +798,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href=" https://www.facebook.com/profile.php?id=61563115340167" target="_blank">
                     <img
-                       height="30" src="https://www.altdaily.co/icons/social/facebook.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.longandshort.com/icons/social/facebook.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -831,7 +831,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://x.com/readaltdaily" target="_blank">
                     <img
-                       height="30" src="https://www.altdaily.co/icons/social/x.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.longandshort.com/icons/social/x.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -864,7 +864,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href=" https://www.instagram.com/readaltdaily/" target="_blank">
                     <img
-                       height="30" src="https://www.altdaily.co/icons/social/instagram.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.longandshort.com/icons/social/instagram.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -897,7 +897,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://www.reddit.com/user/AltInvestmentNews/" target="_blank">
                     <img
-                       height="30" src="https://www.altdaily.co/icons/social/reddit.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.longandshort.com/icons/social/reddit.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -928,7 +928,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href="https://www.linkedin.com/showcase/altdailynews/" target="_blank">
                     <img
-                       height="30" src="https://www.altdaily.co/icons/social/linkedin.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.longandshort.com/icons/social/linkedin.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -959,7 +959,7 @@ export const emailContent = `<!doctype html>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
                   <a  href=" https://www.threads.net/@readaltdaily" target="_blank">
                     <img
-                       height="30" src="https://www.altdaily.co/icons/social/threads.png" style="border-radius:3px;display:block;" width="30"
+                       height="30" src="https://www.longandshort.com/icons/social/threads.png" style="border-radius:3px;display:block;" width="30"
                     />
                   </a>
                 </td>
@@ -1044,10 +1044,10 @@ export const emailContent = `<!doctype html>
                   
       <div
          style="font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
-      ><p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>. </a>. </p>
-          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+      ><p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@longandshort.com" target="_blank">readers@longandshort.com</a>. </a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.longandshort.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
           <p style="font-size: 12px; color: #000; line-height: 2">
-           <a href="https://www.altdaily.co/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+           <a href="https://www.longandshort.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
           </p>
           <p style="
           margin-top:25px;

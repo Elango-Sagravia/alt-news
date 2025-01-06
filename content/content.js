@@ -1,8 +1,7 @@
 const content = {
   homePage: {
     hero: {
-      title:
-        "Insider news for the world of finance",
+      title: "Insider news for the world of finance",
       subTitle:
         "Markets in minutes. Unbiased, fact-checked finance news, 5-minute read.",
     },
@@ -27,8 +26,7 @@ const content = {
         },
         {
           title: "1000",
-          description:
-            "new subscribers join Long and Short monthly.",
+          description: "new subscribers join Long and Short monthly.",
         },
         {
           title: "2%",
@@ -61,13 +59,13 @@ const content = {
     },
   },
   contactPage: {
-     formSection: {
+    formSection: {
       left: [
         {
           title: "General Inquiries",
           type: "email",
-          href: "contact@altdaily.co",
-          content: "contact@altdaily.co",
+          href: "contact@longandshort.com",
+          content: "contact@longandshort.com",
         },
         {
           title: "Front desk",

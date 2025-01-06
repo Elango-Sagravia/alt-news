@@ -53,7 +53,7 @@ export async function generateMetadata({ params }) {
   const post = getDocumentBySlug("blogs", params.slug, ["slug"]);
   return {
     alternates: {
-      canonical: `https://www.altdaily.co/archives/${slug}`,
+      canonical: `https://www.longandshort.com/archives/${slug}`,
     },
   };
 }
