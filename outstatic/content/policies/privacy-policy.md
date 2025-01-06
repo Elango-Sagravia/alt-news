@@ -7,8 +7,8 @@ author:
 slug: 'privacy-policy'
 description: ''
 coverImage: ''
-seoTitle: 'Privacy Policy - AltDaily'
-seoDescription: 'Learn how AltDaily safeguards your data. Read our privacy policy to understand our commitment to protecting your personal information.'
+seoTitle: 'Privacy Policy - How Long & Short Protects Your Data'
+seoDescription: 'Learn how Long & Short handles your personal data, privacy rights, and security in our comprehensive privacy policy.'
 publishedAt: '2025-01-01T12:21:37.000Z'
 ---
 
