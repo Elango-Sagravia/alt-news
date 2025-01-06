@@ -4,11 +4,11 @@ import { emailContent } from "./content.js"; // Import the email content from co
 
 // Create a transporter
 const transporter = nodemailer.createTransport({
-  host: "mail.altinvestment.email",
+  host: "mail.longandshort.email",
   port: 465,
   secure: true, // Use TLS
   auth: {
-    user: "daily@altinvestment.email", // Your email address
+    user: "daily@longandshort.email", // Your email address
     pass: "Sagravia123$$", // Your email password
   },
 });
@@ -16,7 +16,7 @@ const transporter = nodemailer.createTransport({
 // Function to send an email
 async function sendEmail(email) {
   let mailOptions = {
-    from: '"AltDaily" <daily@altinvestment.email>',
+    from: '"AltDaily" <daily@longandshort.email>',
     to: email,
     bcc: "elango@sagravia.com", // Recipient email from the API path
     subject: "Verify us, or we go to spam 🥺",
