@@ -7,8 +7,8 @@ author:
 slug: 'refund-policy'
 description: ''
 coverImage: ''
-seoTitle: 'Refund Policy - AltDaily'
-seoDescription: 'Learn about AltDaily’s refund policy for newsletter subscriptions. We ensure a fair and transparent process for all our subscribers.'
+seoTitle: 'Refund Policy - Long & Short Payment & Refund Terms'
+seoDescription: 'Review Long & Short’s refund policy, including eligibility, process, and conditions for payment returns.'
 publishedAt: '2025-01-01T13:27:16.000Z'
 ---
 
