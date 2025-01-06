@@ -20,9 +20,9 @@ async function getData() {
 }
 
 export const metadata = {
-  title: "AltDaily Archives - Access Past Newsletters",
+  title: "Long & Short Archives - Explore Past News & Stories",
   description:
-    "Explore AltDaily's archives for past newsletters. Dive into concise updates and key insights into the alternative investment industry.",
+    "Browse the Long & Short archives for past news, articles, and analysis on politics, business, and global affairs.",
   alternates: {
     canonical: "https://www.longandshort.com/archives",
   },

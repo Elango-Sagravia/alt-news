@@ -4,9 +4,9 @@ import AdvertiseQuestion from "@/components/ui/advertiseQuestion/advertiseQuesti
 import AdvertiseStatus from "@/components/ui/advertiseStatus/advertiseStatus";
 
 export const metadata = {
-  title: "Advertise with AltDaily - Reach Investment Experts",
+  title: "Advertise with Long & Short - Reach a Global Audience",
   description:
-    "Promote your brand to alternative investment professionals through AltDaily’s newsletters. Connect with an engaged audience effectively.",
+    "Promote your brand with Long & Short. Explore advertising opportunities and engage with a wide, informed audience.",
   alternates: {
     canonical: "https://www.longandshort.com/advertise",
   },

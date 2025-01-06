@@ -5,9 +5,9 @@ import libre from "@/components/libre-font";
 import ContactHeader from "@/components/ui/contactHeader/contactHeader";
 
 export const metadata = {
-  title: "Contact AltDaily - Reach Out to Us",
+  title: "Contact Long & Short - Get in Touch with Us",
   description:
-    "Need assistance or have questions? Contact AltDaily for prompt support and information about our newsletters or services.",
+    "Have questions or feedback? Contact Long & Short for inquiries, support, and partnership opportunities.",
   alternates: {
     canonical: "https://www.longandshort.com/contact",
   },

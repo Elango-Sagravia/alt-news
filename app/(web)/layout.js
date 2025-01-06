@@ -19,9 +19,9 @@ const inter = Inter({ subsets: ["latin"] });
 const thumbnail = "/og.png";
 const baseUrl = process.env.url;
 export async function generateMetadata() {
-  const title = "Long and Short";
+  const title = "Long & Short - News, Analysis & Insights";
 
-  const description = "Markets in minutes";
+  const description = "Stay updated with in-depth news, expert analysis, and insightful stories on global events, politics, business, and more.";
 
   return {
     metadataBase: new URL(process.env.url),
