@@ -9,10 +9,10 @@ description: ''
 coverImage: ''
 seoTitle: 'Terms of Use - AltDaily'
 seoDescription: 'Review AltDaily''s terms and conditions to understand the guidelines and policies governing the use of our newsletter services.'
-publishedAt: '2024-08-20T15:17:31.000Z'
+publishedAt: '2025-01-01T15:17:31.000Z'
 ---
 
-Welcome to Alternative Investments News ("Website"), a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). By accessing or using the Website, you agree to comply with and be bound by these Terms & Conditions ("Terms"). If you do not agree to these Terms, please do not use the Website.
+Welcome to Long and Short ("Website"), a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). By accessing or using the Website, you agree to comply with and be bound by these Terms & Conditions ("Terms"). If you do not agree to these Terms, please do not use the Website.
 
 **1. Use of the Website**
 
@@ -169,4 +169,4 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 **12. Contact Information**
 
-If you have any questions about these Terms, please contact us at [contact@altdaily.co](mailto:contact@altdaily.co).
+If you have any questions about these Terms, please contact us at [contact@longandshort.com](mailto:contact@longandshort.com).
