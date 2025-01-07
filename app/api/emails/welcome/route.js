@@ -8,24 +8,23 @@ async function getData() {
   return blogs;
 }
 // Create a transporter for Gmail
-const transporter = nodemailer.createTransport({
-  service: "Gmail", // Use Gmail service
-  host: "smtp.gmail.com",
+let transporter = nodemailer.createTransport({
+  host: "email-smtp.us-west-1.amazonaws.com",
   port: 465,
   secure: true, // Use TLS
   auth: {
-    user: "no-reply@sagravia.com", // Your Gmail address
-    pass: "okxv ymta sdzb akwm", // Your Gmail App Password
+    user: "AKIA2NK3YI6CCAPQWFRM", // Your email address
+    pass: "BDnyrXQc50NkERw3+zBruzEHvY6jywwOeP53sfVdVO02", // Your email password
   },
 });
 
 // Function to send an email
 async function sendEmail(email, slug) {
   let mailOptions = {
-    from: '"AltDaily" <no-reply@longandshort.com>', // Sender email address
+    from: '"AltDaily" <no-reply@mail.longandshort.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
-    subject: "Welcome to AltDaily!",
+    subject: "Welcome to Long and Short!",
     text: "", // Plain text content
     html: emailContent
       .replaceAll("test@test.com", email)
