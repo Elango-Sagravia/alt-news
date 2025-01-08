@@ -383,7 +383,7 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.longandshort.com/archives/%slug%" 
+              href="https://www.longandshort.com/archives/%slug%?email=test@test.com" 
               target="_blank"
              >Check out our latest issue</a></div>
     
