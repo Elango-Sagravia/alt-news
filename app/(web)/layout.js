@@ -21,7 +21,8 @@ const baseUrl = process.env.url;
 export async function generateMetadata() {
   const title = "Long & Short - News, Analysis & Insights";
 
-  const description = "Stay updated with in-depth news, expert analysis, and insightful stories on global events, politics, business, and more.";
+  const description =
+    "Stay updated with in-depth news, expert analysis, and insightful stories on global events, politics, business, and more.";
 
   return {
     metadataBase: new URL(process.env.url),
@@ -47,10 +48,10 @@ export async function generateMetadata() {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "Presidential Summary",
-  alternateName: "presidentialsummary",
-  url: "https://www.presidentialsummary.com/",
-  logo: "https://www.presidentialsummary.com/logo.png",
+  name: "Long & Short",
+  alternateName: "longandshort",
+  url: "https://www.longandshort.com/",
+  logo: "https://www.longandshort.com/logo.png",
   contactPoint: {
     "@type": "ContactPoint",
     telephone: "(307) 429-0673",
@@ -60,11 +61,12 @@ const jsonLd = {
     availableLanguage: "en",
   },
   sameAs: [
-    "https://www.facebook.com/people/Presidential-Summary/61562652791256/",
-    "https://www.instagram.com/presidentialsummary/",
-    "https://www.linkedin.com/showcase/presidentialsummary/",
+    "https://www.facebook.com/profile.php?id=61563115340167",
+    "https://www.instagram.com/readlongandshort/",
+    "https://x.com/longandshortsum",
   ],
 };
+
 export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en" className={inter.className}>
