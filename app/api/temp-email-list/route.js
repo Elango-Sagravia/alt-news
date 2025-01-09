@@ -5,6 +5,7 @@ function containsDomain(email, domains) {
 }
 
 const domains = ["yahoo.com", "ymail.com", "aol.com", "rocketmail.com"];
+// const domains = [];
 
 export async function GET(request) {
   try {
