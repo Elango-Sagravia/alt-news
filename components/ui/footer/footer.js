@@ -3,6 +3,7 @@ import Link from "next/link";
 export default function Footer() {
   return (
     <>
+    {/* desktop footer */}
       <footer className="hidden lg:block px-4 md:px-16 py-8 bg-black text-white ">
         <div className="flex justify-between">
           <div className="flex flex-col justify-between">
@@ -36,6 +37,28 @@ export default function Footer() {
             </div>
           </div>
           <div>
+            <ul className="ml-60">
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank"  href="https://www.facebook.com/people/Long-and-Short/61563115340167/">Facebook</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#">Instagram</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://x.com/readaltdaily">Twitter</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.threads.net/@readlongandshort">Threads</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.reddit.com/user/AltInvestmentNews/?rdt=63466">Reddit</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.linkedin.com/showcase/readlongandshort/">LinkedIn</Link>
+              </li>
+            </ul>
+          </div>
+          <div>
             <ul>
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link href="/advertise">Advertise</Link>
@@ -50,6 +73,8 @@ export default function Footer() {
           </div>
         </div>
       </footer>
+
+      {/* mobile footer */}
       <footer className="block lg:hidden px-4 md:px-16 py-8 bg-black text-white ">
         <div className="justify-between">
           <div className="flex flex-col justify-between">
@@ -59,7 +84,31 @@ export default function Footer() {
               </div>
             </Link>
           </div>
+
+          <div className="flex">
           <div className="mt-8">
+            <ul>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.facebook.com/people/Long-and-Short/61563115340167/">Facebook</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#">Instagram</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://x.com/readaltdaily">Twitter</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.threads.net/@readlongandshort">Threads</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.reddit.com/user/AltInvestmentNews/?rdt=63466">Reddit</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link target="_blank" href="https://www.linkedin.com/showcase/readlongandshort/">LinkedIn</Link>
+              </li>
+            </ul>
+          </div>
+          <div className="mt-8 ml-10">
             <ul>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link href="/advertise">Advertise</Link>
@@ -72,8 +121,10 @@ export default function Footer() {
               </li>
             </ul>
           </div>
+           </div>
+         
           <div>
-            <ul className="flex mt-4">
+            <ul className="flex mt-8">
               <li className="underline hover:underline underline-offset-8 text-[12px] text-gray-400">
                 <Link href="/policy/privacy-policy">Privacy policy</Link>
               </li>
