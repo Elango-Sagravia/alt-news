@@ -21,15 +21,15 @@ const content = {
       heading: "Reach new customers with Long and Short",
       list: [
         {
-          title: "38%",
+          title: "38.8%",
           description: "of our subscribers read our newsletters every day.",
         },
         {
-          title: "1000",
+          title: "1K",
           description: "new subscribers join Long and Short monthly.",
         },
         {
-          title: "2%",
+          title: "2.5%",
           description:
             "of our active subscribers engage with our sponsored content daily.",
         },
