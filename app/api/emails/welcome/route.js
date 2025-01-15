@@ -24,7 +24,7 @@ async function sendEmail(email, slug) {
     from: '"Long & Short" <no-reply@mail.longandshort.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
-    subject: "Welcome to Long and Short!",
+    subject: "Welcome to Long and Short",
     text: "", // Plain text content
     html: emailContent
       .replaceAll("test@test.com", email)
