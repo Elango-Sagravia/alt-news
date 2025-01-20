@@ -30,9 +30,9 @@ export default function Navbar() {
 
   const pathname = usePathname();
   return (
-    <header className="fixed top-0 w-full bg-nl_sec_background px-4 md:px-16 py-4 flex justify-between items-center border-b border-nl_button_border z-10">
+    <header className="sticky top-0 bg-nl_sec_background px-4 md:px-16 py-6 flex justify-between items-center border-b border-nl_button_border z-10">
       <Link href="/">
-        <div className="w-32 md:w-38">
+        <div className="w-32 md:w-48">
           <img src="/logo.png" layout="responsive" alt="Logo" />
         </div>
       </Link>
