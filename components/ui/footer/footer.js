@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex justify-between">
           <div className="flex flex-col justify-between">
             <Link href="/">
-              <div className="w-32 md:w-48">
+              <div className="w-32 md:w-38">
                 <img src="/logo-dark.png" layout="responsive" alt="Logo" />
               </div>
             </Link>
@@ -79,7 +79,7 @@ export default function Footer() {
         <div className="justify-between">
           <div className="flex flex-col justify-between">
             <Link href="/">
-              <div className="w-32 md:w-48">
+              <div className="w-32 md:w-38">
                 <img src="/logo-dark.png" layout="responsive" alt="Logo" />
               </div>
             </Link>
