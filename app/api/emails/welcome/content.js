@@ -76,9 +76,9 @@ export const emailContent = `<!doctype html>
       <div
          style="background-color:#f0f1f3;"
       >
-        <div style="display: none; max-height: 0px; overflow: hidden;">Markets in minutes</div>
+        <div style="display: none; max-height: 0px; overflow: hidden;">Markets in minutes.</div>
       <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
-      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
       <div
          style="height:15px;line-height:15px;"
       >&#8202;</div>
@@ -253,187 +253,6 @@ export const emailContent = `<!doctype html>
       <div
          style="height:10px;line-height:10px;"
       >&#8202;</div>
-    <!-- Spotlight 2 -->
-      
-      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="mj_fsection-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-    
-      
-      <div  class="mj_fsection" style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
-        
-        <table
-           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"
-        >
-          <tbody>
-            <tr>
-              <td
-                 style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"
-              >
-                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="" ><![endif]-->
-            
-      <div
-         style="height:0px;line-height:0px;"
-      >&#8202;</div>
-    
-          <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
-            
-      <div
-         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"
-      >
-        
-      <table
-         border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#ffffff;vertical-align:top;" width="100%"
-      >
-        <tbody>
-          
-              <tr>
-                <td
-                   align="left" style="font-size:0px;padding:10px 12px 0px 12px;word-break:break-word;"
-                >
-                  
-      <div
-         style="font-family:Roboto;font-size:13px;line-height:1;text-align:left;color:white;"
-      ><h2 style="
-          color:#6b705c;
-            text-align: left;
-            letter-spacing:6px;
-            border-bottom:2px solid #6b705c;
-            text-transform:uppercase;
-              font-size: 20px;
-              line-height: 1.2;
-              font-weight: 300;
-              padding: 18px 8px 10px 8px;
-              
-            ">WHAT TO EXPECT</h2></div>
-    
-                </td>
-              </tr>
-            
-        </tbody>
-      </table>
-    
-      </div>
-    
-          <!--[if mso | IE]></td></tr></table><![endif]-->
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        
-      </div>
-    
-      
-      <!--[if mso | IE]></td></tr></table><![endif]-->
-    
-    <!-- Spotlight contents --><!-- Content sections -->
-      
-      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-    
-      
-      <div  style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
-        
-        <table
-           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"
-        >
-          <tbody>
-            <tr>
-              <td
-                 style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"
-              >
-                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
-            
-      <div
-         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"
-      >
-        
-      <table
-         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"
-      >
-        <tbody>
-          
-              <tr>
-                <td
-                   align="left" style="font-size:0px;padding:10px 12px;word-break:break-word;"
-                >
-                  
-      <div
-         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
-      ><p style="font-size: 16px; line-height: 1.4"><strong>- Daily briefing</strong> with the top headlines in a format that takes just minutes to read.</p>
-          <p style="font-size: 16px; line-height: 1.4"><strong>- Educative write-ups</strong> on finance topics.</p>
-          <p style="font-size: 16px; line-height: 1.4"><strong>- Special editions</strong> for our most inquisitive readers.</p></div>
-    
-                </td>
-              </tr>
-            
-              <tr>
-                <td
-                   align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;"
-                >
-                  
-      <div
-         style="font-family:Roboto;font-size:13px;line-height:1;text-align:left;color:#000000;"
-      ><a style="
-              display:block;
-              background:#6b705c;
-              font-size: 16px;
-              line-height: 1.5;
-              padding: 10px;
-              text-align: center;
-              width: 200px; 
-              margin: 0 auto;
-              border-radius: 0px;
-              color: #FFFFFF;
-              text-decoration: none;" 
-              href="https://www.longandshort.com/archives/%slug%?email=test@test.com" 
-              target="_blank"
-             >Check out our latest issue</a></div>
-    
-                </td>
-              </tr>
-            
-              <tr>
-                <td
-                   style="font-size:0px;word-break:break-word;"
-                >
-                  
-      <div
-         style="height:3px;line-height:3px;"
-      >&#8202;</div>
-    
-                </td>
-              </tr>
-            
-              <tr>
-                <td
-                   align="left" style="font-size:0px;padding:10px 12px;word-break:break-word;"
-                >
-                  
-      <div
-         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
-      ><p style="font-size: 16px; line-height: 1.4">To ensure we don’t end up in spam, please verify your email by following the instructions below.</p></div>
-    
-                </td>
-              </tr>
-            
-        </tbody>
-      </table>
-    
-      </div>
-    
-          <!--[if mso | IE]></td></tr></table><![endif]-->
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        
-      </div>
-    
-      
-      <!--[if mso | IE]></td></tr></table><![endif]-->
-    
-    
-      <div
-         style="height:10px;line-height:10px;"
-      >&#8202;</div>
     <!-- Spotlight -->
       
       <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="mj_fsection-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
@@ -484,7 +303,7 @@ export const emailContent = `<!doctype html>
               font-weight: 300;
               padding: 18px 8px 10px 8px;
               
-            ">VERIFY</h2></div>
+            ">YOU‘RE IN</h2></div>
     
                 </td>
               </tr>
@@ -538,7 +357,7 @@ export const emailContent = `<!doctype html>
                   
       <div
          style="font-family:Roboto, Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
-      ><p style="font-size: 16px; line-height: 1.4;">Verify your email below.</p></div>
+      ><p style="font-size: 16px; line-height: 1.4;">To ensure we don’t end up in spam, please verify your email by clicking on the button</p></div>
     
                 </td>
               </tr>
@@ -562,7 +381,7 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.longandshort.com/verified" 
+              href="https://www.longandshort.com/verified?email=test@test.com" 
               target="_blank"
              >Verify</a></div>
     
@@ -589,7 +408,7 @@ export const emailContent = `<!doctype html>
       <div
          style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
       ><p style="font-size: 16px; line-height: 1.4; ">
-            To ensure every issue of Long and Short reaches your inbox, simply reply with <strong>‘hello’</strong> or follow the steps below to whitelist our email address.
+            or follow the steps below to whitelist our email address.
           </p></div>
     
                 </td>
@@ -821,10 +640,180 @@ export const emailContent = `<!doctype html>
                 >
                   
       <div
-         style="font-family:Roboto, Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
       ><p style="font-size: 16px; line-height: 1.4;">
-            For everyone else, check out our safelist instructions <a href="https://www.longandshort.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>.
+            For everyone else, check out our safelist instructions <strong><a href="https://www.longandshort.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a></strong>.
           </p></div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        
+      </div>
+    
+      
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+    
+    
+      <div
+         style="height:10px;line-height:10px;"
+      >&#8202;</div>
+    <!-- Spotlight 2 -->
+      
+      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="mj_fsection-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    
+      
+      <div  class="mj_fsection" style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+        
+        <table
+           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"
+        >
+          <tbody>
+            <tr>
+              <td
+                 style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"
+              >
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="" ><![endif]-->
+            
+      <div
+         style="height:0px;line-height:0px;"
+      >&#8202;</div>
+    
+          <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+            
+      <div
+         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"
+      >
+        
+      <table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#ffffff;vertical-align:top;" width="100%"
+      >
+        <tbody>
+          
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:10px 12px 0px 12px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto;font-size:13px;line-height:1;text-align:left;color:white;"
+      ><h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">WHAT TO EXPECT</h2></div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        
+      </div>
+    
+      
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+    
+    <!-- Spotlight contents --><!-- Content sections -->
+      
+      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    
+      
+      <div  style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+        
+        <table
+           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"
+        >
+          <tbody>
+            <tr>
+              <td
+                 style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"
+              >
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+            
+      <div
+         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"
+      >
+        
+      <table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"
+      >
+        <tbody>
+          
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:10px 12px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
+      ><p style="font-size: 16px; line-height: 1.4"><strong>- Daily briefing</strong> with the top headlines in a format that takes just minutes to read.</p>
+          <p style="font-size: 16px; line-height: 1.4"><strong>- Educative write-ups</strong> on finance topics.</p>
+          <p style="font-size: 16px; line-height: 1.4"><strong>- Featured job opportunities</strong> in finance.</p>
+          <p style="font-size: 16px; line-height: 1.4"><strong>- Special editions</strong> for our most inquisitive readers.</p></div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto;font-size:13px;line-height:1;text-align:left;color:#000000;"
+      ><a style="
+              display:block;
+              background:#6b705c;
+              font-size: 16px;
+              line-height: 1.5;
+              padding: 10px;
+              text-align: center;
+              width: 200px; 
+              margin: 0 auto;
+              border-radius: 0px;
+              color: #FFFFFF;
+              text-decoration: none;" 
+              href="https://www.longandshort.com/archives/%slug%?email=test@test.com" 
+              target="_blank"
+             >Check out our latest issue</a></div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   style="font-size:0px;word-break:break-word;"
+                >
+                  
+      <div
+         style="height:3px;line-height:3px;"
+      >&#8202;</div>
     
                 </td>
               </tr>
@@ -982,7 +971,7 @@ export const emailContent = `<!doctype html>
             <tbody>
               <tr>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
-                  <a  href=" https://www.facebook.com/profile.php?id=61563115340167" target="_blank">
+                  <a  href="https://www.facebook.com/people/Long-and-Short/61563115340167/" target="_blank">
                     <img
                        height="30" src="https://www.longandshort.com/icons/social/facebook.png" style="border-radius:3px;display:block;" width="30"
                     />
@@ -1015,7 +1004,7 @@ export const emailContent = `<!doctype html>
             <tbody>
               <tr>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
-                  <a  href="https://x.com/readaltdaily" target="_blank">
+                  <a  href="https://x.com/longandshortsum" target="_blank">
                     <img
                        height="30" src="https://www.longandshort.com/icons/social/x.png" style="border-radius:3px;display:block;" width="30"
                     />
@@ -1048,7 +1037,7 @@ export const emailContent = `<!doctype html>
             <tbody>
               <tr>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
-                  <a  href=" https://www.instagram.com/readaltdaily/" target="_blank">
+                  <a  href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" target="_blank">
                     <img
                        height="30" src="https://www.longandshort.com/icons/social/instagram.png" style="border-radius:3px;display:block;" width="30"
                     />
@@ -1112,7 +1101,7 @@ export const emailContent = `<!doctype html>
             <tbody>
               <tr>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
-                  <a  href="https://www.linkedin.com/showcase/altdailynews/" target="_blank">
+                  <a  href="https://www.linkedin.com/showcase/readlongandshort/" target="_blank">
                     <img
                        height="30" src="https://www.longandshort.com/icons/social/linkedin.png" style="border-radius:3px;display:block;" width="30"
                     />
@@ -1143,7 +1132,7 @@ export const emailContent = `<!doctype html>
             <tbody>
               <tr>
                 <td  style="font-size:0;height:30px;vertical-align:middle;width:30px;">
-                  <a  href="https://www.threads.net/@readaltdaily" target="_blank">
+                  <a  href="https://www.threads.net/@readlongandshort" target="_blank">
                     <img
                        height="30" src="https://www.longandshort.com/icons/social/threads.png" style="border-radius:3px;display:block;" width="30"
                     />
