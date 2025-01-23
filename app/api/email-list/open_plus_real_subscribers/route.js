@@ -2,7 +2,7 @@ import { query } from "@/lib/db";
 
 export async function GET(request) {
   try {
-    const websiteId = 1; // Website ID to filter
+    const websiteId = 2; // Website ID to filter
     const sourceId = 1; // Source ID for the second list
 
     // SQL to fetch List 1: Users who opened emails for campaigns related to the given website_id
