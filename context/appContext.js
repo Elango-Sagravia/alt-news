@@ -15,7 +15,7 @@ const AppProvider = ({ children }) => {
     // Check if localStorage is available
     const storedEmail =
       typeof window !== "undefined"
-        ? localStorage.getItem("presidential_summary_email")
+        ? localStorage.getItem("alt_daily_email")
         : null;
     if (storedEmail) {
       setEmail(storedEmail);
@@ -28,7 +28,7 @@ const AppProvider = ({ children }) => {
     newEmail.length > 0 && setMessage("successfully subscribed");
     newEmail.length === 0 && setMessage("");
     if (typeof window !== "undefined") {
-      localStorage.setItem("presidential_summary_email", newEmail); // Save to localStorage
+      localStorage.setItem("alt_daily_email", newEmail); // Save to localStorage
     }
   };
 
