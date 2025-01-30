@@ -9,22 +9,26 @@ const AppProvider = ({ children }) => {
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
   const isSubscribed = email.length > 0;
+  const [tempEmail, setTempEmail] = useState("");
 
   useEffect(() => {
     // Check if localStorage is available
     const storedEmail =
       typeof window !== "undefined"
-        ? localStorage.getItem("alt_daily_email")
+        ? localStorage.getItem("presidential_summary_email")
         : null;
     if (storedEmail) {
       setEmail(storedEmail);
+      storedEmail.length > 0 && setMessage("successfully subscribed");
     }
   }, []);
 
   const handleSetEmail = (newEmail) => {
     setEmail(newEmail);
+    newEmail.length > 0 && setMessage("successfully subscribed");
+    newEmail.length === 0 && setMessage("");
     if (typeof window !== "undefined") {
-      localStorage.setItem("alt_daily_email", newEmail); // Save to localStorage
+      localStorage.setItem("presidential_summary_email", newEmail); // Save to localStorage
     }
   };
 
@@ -36,6 +40,8 @@ const AppProvider = ({ children }) => {
         isSubscribed,
         setMessage,
         message,
+        tempEmail,
+        setTempEmail,
       }}
     >
       {children}
