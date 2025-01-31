@@ -381,7 +381,7 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.longandshort.com/verified?email=test@test.com" 
+              href="https://www.longandshort.com/verified?uniqueid=%unique-id%" 
               target="_blank"
              >Verify</a></div>
     
