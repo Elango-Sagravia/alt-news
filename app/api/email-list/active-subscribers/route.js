@@ -34,7 +34,7 @@ export async function GET(request) {
         JOIN subscribers s ON u.id = s.user_id
         WHERE s.website_id = $1
           AND s.status = 'subscribed'
-          AND s.created_at >= NOW() - INTERVAL '30 days'
+          AND s.created_at >= NOW() - INTERVAL '10 days'
           AND s.created_at < NOW() - INTERVAL '7 days'
           AND u.zbstatus IN ('valid', 'catch-all')
       )
