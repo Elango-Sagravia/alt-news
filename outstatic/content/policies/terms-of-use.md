@@ -9,7 +9,7 @@ description: ''
 coverImage: ''
 seoTitle: 'Terms of Use - Long & Short Website Terms & Conditions'
 seoDescription: 'Read Long & Short’s terms of use, including rules, guidelines, and user agreements for accessing our platform.'
-publishedAt: '2025-01-01T15:17:31.000Z'
+publishedAt: '2025-02-05T15:17:31.000Z'
 ---
 
 Welcome to Long and Short ("Website"), a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). By accessing or using the Website, you agree to comply with and be bound by these Terms & Conditions ("Terms"). If you do not agree to these Terms, please do not use the Website.
