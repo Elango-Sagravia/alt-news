@@ -63,7 +63,7 @@ On the other hand, carbon offsets occur when an organization funds projects like
 
 In Voluntary carbon markets, the **buyers** are companies, non-profit organizations, and individuals who **purchase carbon credits voluntarily.** It could be as a part of corporate social responsibility (CSR) or sustainability initiatives. Unlike compliance markets, VCMs function as an open marketplace where participants voluntarily offset their emissions.
 
-![](/images/a6-YwOD.jpg)
+![](/images/a6-Q5Nj.jpg)
 
 source-*Ecosystem of the voluntary carbon market. Source: [https://greenblogs.crown-monkey.com/challenges-of-voluntary-carbon-market-and-how-to-overcome-them/](https://greenblogs.crown-monkey.com/challenges-of-voluntary-carbon-market-and-how-to-overcome-them/)*
 
@@ -99,7 +99,7 @@ After issuance, credits are bought and sold, often by specialist retailers who a
 
 The **price of carbon credits is influenced by their quality,** which depends on internationally or domestically recognized standards. These standards establish rigorous methodologies for calculating emissions reductions or removals, setting the benchmark for high-quality carbon credits.
 
-![](/images/a1-M0Nj.jpg)
+![](/images/a1-MxMD.jpg)
 
 source-*Factors affecting the price of carbon credits. Source: [https://www.thallo.io/the-price-of-carbon-credits-an-overview/](https://www.thallo.io/the-price-of-carbon-credits-an-overview/)*
 
@@ -165,7 +165,7 @@ If implemented correctly, carbon markets can be a valuable tool in combating cli
 
 **One major issue is the lack of a unified global carbon market**, leading to variations in regulation and the exploitation of loopholes. Without standardized rules, inconsistencies arise, weakening the system’s integrity. Corruption and weak enforcement enable companies to bypass regulations. This fragmented enforcement contributes to carbon leakage, where businesses relocate to countries with weaker environmental regulations to avoid carbon pricing or compliance costs.
 
-![](/images/a5-c0Nz.jpg)
+![](/images/a5-ExNj.jpg)
 
 *source-Graphic representation of the process and barriers of carbon credit cycle. Source: [https://rmi.org/our-work/climate-intelligence/carbon-markets-initiative/](https://rmi.org/our-work/climate-intelligence/carbon-markets-initiative/)*
 
@@ -181,8 +181,7 @@ As a large corporation, one way to acquire carbon offsets is by purchasing direc
 
 Trading carbon credits functions similarly to stock trading, buyers aim to purchase credits at a low price and sell them at a higher price. 
 
-## \
-**What is the scope?**
+## **What is the scope?**
 
 **The future of carbon trading is promising but complex.** As global efforts to reduce emissions intensify, carbon markets will play an increasingly critical role. In 2023, the price of carbon in the European trading system reached 100 euros per tonne for the first time, reflecting heightened activity and investment in the sector. **Achieving net zero by 2050 will require an estimated $4.6 trillion annually by 2030,** yet fewer than 40% of companies are currently on track to meet their sustainability commitments.
 
