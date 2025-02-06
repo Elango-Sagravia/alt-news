@@ -18,8 +18,8 @@ Carbon markets emerged as a revolutionary tool to reduce emissions by assigning 
 The idea of monetizing pollution has roots in a bold experiment from the late 1980s. At the time, America faced a significant environmental crisis: its power plants were emitting large amounts of sulfur dioxide, causing acid rain that damaged ecosystems and infrastructure. **Despite the environmental destruction, industries had no motive to reduce these harmful emissions.** \
 ![](/images/a3-Y1Mz.jpg)
 
-*source-Front page of The Japan Times on December 12, 1997, the day after the signing of The Kyoto Protocol. Source: [https://www.climateforesight.eu/articles/success-or-failure-the-kyoto-protocols-troubled-legacy/](https://www.climateforesight.eu/articles/success-or-failure-the-kyoto-protocols-troubled-legacy/)*\
-\
+*source-Front page of The Japan Times on December 12, 1997, the day after the signing of The Kyoto Protocol. Source: [https://www.climateforesight.eu/articles/success-or-failure-the-kyoto-protocols-troubled-legacy/](https://www.climateforesight.eu/articles/success-or-failure-the-kyoto-protocols-troubled-legacy/)*
+
 In 1990, the US government introduced an innovative solution: a cap-and-trade system. This system required polluters to purchase permits for their emissions. This market-based approach led to a 20% reduction in acid rain levels across eastern America within eight years. At last, there was a possible solution to tackle the issue. Leveraging economic incentives could drive environmental progress.
 
 Inspired by this success, the **1997 Kyoto Protocol introduced the concept of carbon markets on a global scale**. Carbon markets are centred on the commodity of carbon credits. But what exactly are carbon credits? **Each carbon credit represents one ton of CO2** either removed from the atmosphere or avoided through sustainable practices.
