@@ -7,6 +7,7 @@ import { usePathname } from "next/navigation";
 const routes = [
   { path: "/advertise", name: "Advertise" },
   { path: "/archives", name: "Archives" },
+  // { path: "/articles", name: "Articles" },
   { path: "/contact", name: "Contact us" },
 ];
 import {
@@ -17,7 +18,6 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
-import { Button } from "../button";
 import { Menu } from "lucide-react";
 import { useState } from "react";
 
@@ -32,7 +32,7 @@ export default function Navbar() {
   return (
     <header className="fixed top-0 left-0 w-full bg-nl_sec_background px-4 md:px-16 py-4 flex justify-between items-center border-b border-nl_button_border z-50">
       <Link href="/">
-        <div className="w-32 md:w-38">
+        <div className="w-32 md:w-40">
           <img src="/logo.png" layout="responsive" alt="Logo" />
         </div>
       </Link>
