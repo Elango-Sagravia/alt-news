@@ -16,6 +16,7 @@ publishedAt: '2025-02-06T10:10:17.958Z'
 Carbon markets emerged as a revolutionary tool to reduce emissions by assigning a price to pollution. By making polluters pay for their emissions, these markets found a way to curb greenhouse gases while incentivizing sustainable practices.
 
 The idea of monetizing pollution has roots in a bold experiment from the late 1980s. At the time, America faced a significant environmental crisis: its power plants were emitting large amounts of sulfur dioxide, causing acid rain that damaged ecosystems and infrastructure. **Despite the environmental destruction, industries had no motive to reduce these harmful emissions.** \
+\
 ![](/images/a3-Y1Mz.jpg)
 
 *source-Front page of The Japan Times on December 12, 1997, the day after the signing of The Kyoto Protocol. Source: [https://www.climateforesight.eu/articles/success-or-failure-the-kyoto-protocols-troubled-legacy/](https://www.climateforesight.eu/articles/success-or-failure-the-kyoto-protocols-troubled-legacy/)*
