@@ -160,7 +160,7 @@ On the other hand, carbon offsets occur when an organization funds projects like
 
   Despite recent economic uncertainties and climate-related disruptions, net-zero and decarbonization strategies are expected to accelerate in 2025.
 
-  # Sources
+  ## Sources
   1. [Carboncredits.com](https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/#3)
   2. [Investopedia](https://www.investopedia.com/carbon-markets-7972128)
   3. [Climateimpact.com](https://www.climateimpact.com/services-projects/carbon-credits-explained-what-they-are-and-how-they-work/)
