@@ -18,7 +18,7 @@ Carbon markets emerged as a revolutionary tool to reduce emissions by assigning 
 The idea of monetizing pollution has roots in a bold experiment from the late 1980s. At the time, America faced a significant environmental crisis: its power plants were emitting large amounts of sulfur dioxide, causing acid rain that damaged ecosystems and infrastructure. **Despite the environmental destruction, industries had no motive to reduce these harmful emissions.** \
 ![](/images/a3-Y1Mz.jpg)
 
-*source- Front page of The Japan Times on December 12, 1997, the day after the signing of The Kyoto Protocol. Source: [https://www.climateforesight.eu/articles/success-or-failure-the-kyoto-protocols-troubled-legacy/](https://www.climateforesight.eu/articles/success-or-failure-the-kyoto-protocols-troubled-legacy/)*\
+*source-Front page of The Japan Times on December 12, 1997, the day after the signing of The Kyoto Protocol. Source: [https://www.climateforesight.eu/articles/success-or-failure-the-kyoto-protocols-troubled-legacy/](https://www.climateforesight.eu/articles/success-or-failure-the-kyoto-protocols-troubled-legacy/)*\
 In 1990, the US government introduced an innovative solution: a cap-and-trade system. This system required polluters to purchase permits for their emissions. This market-based approach led to a 20% reduction in acid rain levels across eastern America within eight years. At last, there was a possible solution to tackle the issue. Leveraging economic incentives could drive environmental progress.
 
 Inspired by this success, the **1997 Kyoto Protocol introduced the concept of carbon markets on a global scale**. Carbon markets are centred on the commodity of carbon credits. But what exactly are carbon credits? **Each carbon credit represents one ton of CO2** either removed from the atmosphere or avoided through sustainable practices.
@@ -31,7 +31,7 @@ For example, planting trees absorbs carbon dioxide (removed), while transitionin
 
 ![](/images/a2-g2ND.jpg)
 
-*source- A depiction of credit to offset journey. Source: [https://www.thallo.io/the-price-of-carbon-credits-an-overview/](https://www.thallo.io/the-price-of-carbon-credits-an-overview/)*
+*source-A depiction of credit to offset journey. Source: [https://www.thallo.io/the-price-of-carbon-credits-an-overview/](https://www.thallo.io/the-price-of-carbon-credits-an-overview/)*
 
 On the other hand, carbon offsets occur when an organization funds projects like reforestation or clean energy initiatives to balance out its unavoidable emissions. The two allow displacement and replacement of CO2 from the environment. Though often used interchangeably, carbon credits and offsets are distinct mechanisms operating within the carbon market.
 
@@ -43,13 +43,14 @@ On the other hand, carbon offsets occur when an organization funds projects like
 
   ![](/images/a7-E0OT.jpg)
 
-  *source- A graphic representation of compliance market emissions trading system via cap-and-trade. Source: [https://carboncredits.com/who-certifies-carbon-credits/](https://carboncredits.com/who-certifies-carbon-credits/)*
+  *source-A graphic representation of compliance market emissions trading system via cap-and-trade. Source: [https://carboncredits.com/who-certifies-carbon-credits/](https://carboncredits.com/who-certifies-carbon-credits/)*
 
   To illustrate, imagine that country X sets an annual CO2 emission limit, let’s say 100 tons, for companies in the energy sector. Now consider two companies, Company A produces electricity by burning coal and emits 150 tons of CO2 annually. Company B produces electricity using wind turbines and emits only 50 tons of CO2 annually. \
   \
   Since Company B emits less than its limit, it holds 50 surplus carbon credits. These credits can be sold to companies like Company A, which exceeds its cap or can be stored for future use.
 
   Meanwhile, Company A faces a challenge, it has exceeded its limit and has two options. It can buy carbon credits from Company B, or offset its emissions through climate-friendly projects or switch to cleaner technologies. This is the essence of cap-and-trade.
+
 - **Voluntary market**
 
   The voluntary market on the other hand is a completely different ballgame. The goals remains the same; to reduce or eliminate carbon emissions to fight climate change. However, the voluntary market operates without regulatory mandates. **Compliance markets are regulated by governments.** In these markets, carbon credits are issued by governments and bought and sold only among organizations.
@@ -61,7 +62,7 @@ On the other hand, carbon offsets occur when an organization funds projects like
   In Voluntary carbon markets, the **buyers** are companies, non-profit organizations, and individuals who **purchase carbon credits voluntarily.** It could be as a part of corporate social responsibility (CSR) or sustainability initiatives. Unlike compliance markets, **VCMs function as an open marketplace** where participants voluntarily offset their emissions.
 
   ![](/images/a6-g3Nj.jpg)\
-  *source- Ecosystem of the voluntary carbon market. Source: [https://greenblogs.crown-monkey.com/challenges-of-voluntary-carbon-market-and-how-to-overcome-them/](https://greenblogs.crown-monkey.com/challenges-of-voluntary-carbon-market-and-how-to-overcome-them/)*
+  *source-Ecosystem of the voluntary carbon market. Source: [https://greenblogs.crown-monkey.com/challenges-of-voluntary-carbon-market-and-how-to-overcome-them/](https://greenblogs.crown-monkey.com/challenges-of-voluntary-carbon-market-and-how-to-overcome-them/)*
 
   On the other end, the **sellers** of the voluntary carbon market are **project developers with independent projects** that generate tradable carbon offsets certificates. A fundamental feature of VCMs is that they provide a platform for environmental projects aimed at either reducing or preventing emissions from the atmosphere. These projects span across various sectors, including energy, forestry, agriculture, and wetlands, where initiatives such as reforestation, renewable energy development, and carbon sequestration take place.
 
@@ -70,6 +71,7 @@ On the other hand, carbon offsets occur when an organization funds projects like
   A crucial aspect of voluntary carbon markets is ensuring the credibility of offset projects. To maintain high standards, **organizations such as Gold Standard and Verra set rigorous criteria** that projects must meet to qualify as high-quality offsets. These standard setters develop methodologies, oversee implementation, and ensure that carbon reductions are accurately quantified and monitored.
 
   The process typically follows these steps:
+
   1. Project Development – A developer creates an initiative aimed at carbon reduction or removal.
   2. Validation and Verification – Third-party auditors assess whether the project meets established criteria and ensure compliance with standards.
   3. Registration – Once approved, the project is officially registered in the voluntary carbon market.
@@ -90,38 +92,45 @@ On the other hand, carbon offsets occur when an organization funds projects like
 
   ![](/images/a1-k2OT.jpg)
 
-  *source- Factors affecting the price of carbon credits. Source: [https://www.thallo.io/the-price-of-carbon-credits-an-overview/](https://www.thallo.io/the-price-of-carbon-credits-an-overview/)*
+  *source-Factors affecting the price of carbon credits. Source: [https://www.thallo.io/the-price-of-carbon-credits-an-overview/](https://www.thallo.io/the-price-of-carbon-credits-an-overview/)*
 
   While market conditions and the traditional supply-demand dynamic are the primary drivers of carbon credit prices, other factors influence carbon pricing as well. This is particularly true in the case of voluntary carbon markets. The price of a carbon credit is a reflection of its quality, co-benefits, and market forces.
 
   High-quality carbon credits are valuable because they help mitigate climate change and support a sustainable future for communities worldwide.
 
   Six key attributes define carbon credit quality:
+
 - **Additionality**\
   *Does the project rely on carbon credit revenue to exist?*\
   Additionality ensures that a project wouldn’t happen without the financial support from carbon credit sales. The funding from credits must be the cornerstone of the project, making or breaking its feasibility.
+
 - **Quantification**\
   *How accurate are the emissions reductions or removals being claimed?* Quantification ensures that one carbon credit equals exactly one metric ton of CO2 equivalent (CO2e). Standardized methodologies are used to calculate both the baseline (emissions without the project) and the reductions achieved.
 
   However, some degree of estimation is often involved. High-quality projects document any deviations from standard approaches and include buffer pools to account for potential inaccuracies.
+
 - **Leakage**\
   *Are the project’s benefits unintentionally offset elsewhere?*\
   Leakage occurs when emissions reductions within a project lead to increased emissions outside its boundaries. For example, protecting a forest from deforestation might shift logging pressure to nearby areas.
 
   High-quality projects proactively identify and address leakage risks, incorporating them into their calculations.
+
 - **Permeance risk**\
   *Will the project’s climate benefits last?*\
   Permanence refers to the durability of a project’s emissions reductions. For instance, if a forest protected by carbon credits is later destroyed by logging or fire, the climate benefits are reversed.
 
   To mitigate this risk, some projects set aside a portion of their credits as insurance. Buyers can also self-insure by purchasing surplus credits.
+
 - **Vintage**\
   *How recent are the carbon credits?*\
   The vintage of a carbon credit refers to the year it was issued. Recent credits are more likely to meet updated standards and support innovative, active projects. For example, programs like **CORSIA** only allow credits from projects starting after 2016.
+
 - **Co-benfits**\
   *Does the project deliver benefits beyond reducing emissions?*\
   Many high-quality projects offer additional social or environmental benefits, such as improving public health, creating jobs, or enhancing biodiversity. This improves credit quality and drives up their prices.
 
   In addition to quality, other factors affecting credit prices include:
+
   - **Project Type:** Tech-based solutions (e.g., direct air capture) are often more expensive than nature-based solutions (e.g., reforestation).
 
   - **Geographic Location:** Projects in remote or vulnerable regions may incur higher costs.
@@ -136,7 +145,7 @@ On the other hand, carbon offsets occur when an organization funds projects like
 
   ![](/images/a5-Y5OD.jpg)
 
-  *source- Graphic representation of the process and barriers of carbon credit cycle. Source: [https://rmi.org/our-work/climate-intelligence/carbon-markets-initiative/](https://rmi.org/our-work/climate-intelligence/carbon-markets-initiative/)*
+  *source-Graphic representation of the process and barriers of carbon credit cycle. Source: [https://rmi.org/our-work/climate-intelligence/carbon-markets-initiative/](https://rmi.org/our-work/climate-intelligence/carbon-markets-initiative/)*
 
   Measurement challenges persist, particularly in distinguishing between direct and indirect emissions. The complexity of tracking emissions across supply chains makes accurate accounting difficult, increasing the risk of misreporting. Additionally, issues such as double counting the same emission and greenwashing, where companies falsely market themselves as environmentally or falsify evidence without adhering to rigorous carbon reduction or offsetting practices, raise concerns about accountability.
 
@@ -148,7 +157,7 @@ On the other hand, carbon offsets occur when an organization funds projects like
 
   ![](/images/a4-c0MT.jpg)
 
-  *source- Carbon credits global market report 2024. Source: [https://www.thebusinessresearchcompany.com/report/carbon-credits-global-market-report](https://www.thebusinessresearchcompany.com/report/carbon-credits-global-market-report)*
+  *source-Carbon credits global market report 2024. Source: [https://www.thebusinessresearchcompany.com/report/carbon-credits-global-market-report](https://www.thebusinessresearchcompany.com/report/carbon-credits-global-market-report)*
 
   As a large corporation, one way to acquire carbon offsets is by purchasing directly from project developers. For individuals or small businesses, buying from retailers is the simplest option. Retailers provide access to small quantities of carbon offsets and usually retire the credits on behalf of the buyer. Another option is purchasing credits through carbon exchanges. Platforms like Xpansiv CBL, AirCarbon Exchange, and Carbon Trade Exchange facilitate the buying and selling of carbon offsets. This method often results in lower costs compared to brokers.
 
@@ -161,6 +170,7 @@ On the other hand, carbon offsets occur when an organization funds projects like
   Despite recent economic uncertainties and climate-related disruptions, net-zero and decarbonization strategies are expected to accelerate in 2025.
 
   ## Sources
+
   1. [Carboncredits.com](https://carboncredits.com/the-ultimate-guide-to-understanding-carbon-credits/#3)
   2. [Investopedia](https://www.investopedia.com/carbon-markets-7972128)
   3. [Climateimpact.com](https://www.climateimpact.com/services-projects/carbon-credits-explained-what-they-are-and-how-they-work/)
