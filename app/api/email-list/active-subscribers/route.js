@@ -2,7 +2,7 @@ import { query } from "@/lib/db";
 
 export async function GET(request) {
   try {
-    const websiteId = 1; // Website ID to filter
+    const websiteId = 2; // Website ID to filter
 
     // SQL Query to fetch required subscribers
     const sql = `
