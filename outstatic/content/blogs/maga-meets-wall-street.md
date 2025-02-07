@@ -16,8 +16,7 @@ author:
   name: ''
   picture: ''
 status: 'published'
-title: 'Feb 7: MAGA meets Wall Street 🏦
-'
+title: 'Feb 7: MAGA meets Wall Street 🏦 '
 publishedAt: '2025-02-07T14:39:27.111Z'
 ---
 
