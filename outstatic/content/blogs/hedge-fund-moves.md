@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 relatedArticles: ''
 readTime: '5'
@@ -35,7 +41,7 @@ Hedge fund Millennium Management has [closed two investment teams](https://finan
 
 ### Pilbara Minerals Halts Expansion Amid Lithium Slump
 
-![](/images/subject-line--27th-aug--hedge-fund-moves--ai-fund-launch-b-A3MT.webp)
+![Hedge fund activity and AI fund launch on August 27](/images/subject-line--27th-aug--hedge-fund-moves--ai-fund-launch-b-A3MT.webp)
 
 Australian lithium miner Pilbara Minerals is cutting back on expansion projects after an [89% drop in net income](https://www.bnnbloomberg.ca/investing/2024/08/25/pilbara-minerals-reports-profit-plunge-after-lithium-price-crash/) due to falling lithium prices. The company is reducing capital expenditure and pausing new projects, including its Salinas mine in Brazil until the market recovers. Lithium prices have plunged by 70% as EV sales slow and supply increases, leading to oversupply concerns. Despite the challenges, Pilbara remains a potential takeover target, though no suitors have emerged yet. The company’s cautious approach reflects the broader struggles in the lithium market.
 
