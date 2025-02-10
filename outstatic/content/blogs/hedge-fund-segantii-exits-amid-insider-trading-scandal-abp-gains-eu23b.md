@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -20,7 +26,7 @@ Farrer Capital has hit its target,[ raising](https://www.bnnbloomberg.ca/investi
 
 ### Third Point Buys Stake in Danish Freight Co
 
-![Activist hedge fund Third Point invests in Danish logistics firm DSV](/images/oct-21--hedge-fund-segantii-exits-amid-insider-trading-scandal--abp-gains--23b-a-E1ND.webp)
+![Hedge fund Segantii exits amid insider trading scandal, ABP gains $23B](/images/oct-21--hedge-fund-segantii-exits-amid-insider-trading-scandal--abp-gains--23b-a-E1ND.webp)
 
 Activist hedge fund Third Point has[ acquired](https://www.hedgeweek.com/third-point-acquires-stake-in-danish-freight-co-dsv/) a new stake in Danish logistics giant DSV. The firm, led by Daniel Loeb, sees significant upside in DSV’s upcoming joint venture with Saudi Arabia and its planned acquisition of Schenker, the logistics arm of Deutsche Bahn. Loeb believes these moves will drive earnings growth by over 30% and position DSV as a top performer in Europe’s logistics market. With a strong track record of value creation through strategic acquisitions, DSV’s future looks promising under its new CEO, Jens Lund, who’s laser-focused on shareholder value.
 
