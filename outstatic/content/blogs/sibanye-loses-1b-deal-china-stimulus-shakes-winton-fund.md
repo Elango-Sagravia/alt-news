@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -16,7 +22,7 @@ publishedAt: '2024-10-11T12:05:29.609Z'
 
 ### Swiss Billionaires Oppose EU Deal Talks
 
-![Swiss billionaires, including Partners Group founders, oppose EU negotiations](/images/oct-11--sibanye-loses-1b-deal--china-stimulus-shakes-winton-fund-a--1--MyND.webp)
+![Sibanye loses $1B deal as China stimulus shakes Winton Fund](/images/oct-11--sibanye-loses-1b-deal--china-stimulus-shakes-winton-fund-a--1--MyND.webp)
 
 Switzerland's billionaires, including the founders of Partners Group, are[ pushing back](https://www.bnnbloomberg.ca/business/company-news/2024/10/10/private-equity-billionaires-seek-to-torpedo-swiss-eu-talks/) against the country's new negotiations with the EU. They argue that any treaty with the EU should not only require public approval but also be ratified by a majority of Switzerland's regions. This could make agreements involving immigration and the free movement of people tough to pass. While their influence might not directly change the negotiations, their stance signals that even the business community is divided on a potential EU deal.
 
