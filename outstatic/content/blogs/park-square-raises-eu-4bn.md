@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
@@ -28,7 +34,7 @@ Park Square Capital, a European private credit specialist, has [raised](https://
 
 ### Goldman Sells Hedge Fund Stake for $258m
 
-![Goldman Sachs](/images/park-square-raises--3.4bn--goldman-sells-hedge-stake-a-U2OT.webp)
+![Park Square raises $3.4B, Goldman sells hedge fund stake](/images/park-square-raises--3.4bn--goldman-sells-hedge-stake-a-U2OT.webp)
 
 Goldman Sachs' private equity arm, Petershill Partners, has [sold](https://www.hedgeweek.com/goldman-sachs-sells-hedge-fund-stake-for-up-to-258m-amid-valuation-concerns/#:~:text=Goldman%20Sachs%27%20private%20equity%20investment,a%20report%20by%20The%20Times.) an 18% stake in hedge fund LMR Partners for up to $258 million. This sale aims to address concerns about asset valuations, with the price being slightly higher than last year's valuation. The sale reflects Petershill's ability to accurately value its holdings, and analysts believe it will ease market concerns. The deal aligns with Petershill's strategy of focusing more on private markets, which they view as having greater growth potential compared to hedge funds.
 
