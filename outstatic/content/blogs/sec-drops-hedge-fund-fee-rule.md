@@ -34,7 +34,7 @@ Ace Capital, a Brazilian hedge fund, is [growing](https://www.bnnbloomberg.ca/bu
 
 ### Tikehau Capital Sells Preligens Stake to Safran
 
-![Safran](/images/sec-drops-hedge-fund-fee-rule--tikehau-sells-preligens-stake-a-UyNj.webp)
+![SEC eliminates hedge fund fee rule, Tikehau exits Preligens investment](/images/sec-drops-hedge-fund-fee-rule--tikehau-sells-preligens-stake-a-UyNj.webp)
 
 Tikehau Capital has [sold its stake](https://www.privateequitywire.co.uk/tikehau-capital-completes-e220m-sale-of-preligens-stake-to-safran/) in AI-focused Preligens to aerospace giant Safran for €220 million. The sale follows an exclusive negotiation process and marks a successful exit for Tikehau, generating a 2.4x return on investment. Preligens, founded in 2016, specializes in AI solutions for aerospace and defense, and under Tikehau’s support, it has significantly grown its revenue and workforce.
 
