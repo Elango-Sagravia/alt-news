@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
@@ -28,7 +34,7 @@ ACA Group, a governance, risk, and compliance solutions provider, has[ acquired]
 
 ### Hedge Funds Snapping Up US Tech Stocks
 
-![Hedge funds are quickly buying US tech stocks, focusing on semiconductors and hardware](/images/hedge-funds-buy-us-tech-stocks-at-fastest-pace-in-five-months-gwMD.webp)
+![Hedge funds buy US tech stocks at the fastest pace in five months](/images/hedge-funds-buy-us-tech-stocks-at-fastest-pace-in-five-months-gwMD.webp)
 
 Hedge funds have been on a buying spree, snapping up US tech stocks at the[ fastest pace](https://www.hedgeweek.com/hedge-funds-buy-us-tech-stocks-at-fastest-pace-in-five-months/) in five months. Funds have been increasing their long positions, particularly in semiconductors and hardware, while covering short positions. However, they’ve been offloading software stocks. The rush comes as the third-quarter earnings season kicks off, with funds betting on key players like AMD and Nvidia. Tech now makes up 16.1% of hedge fund exposure, down from earlier this year.
 
