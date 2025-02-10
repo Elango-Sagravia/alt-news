@@ -40,7 +40,7 @@ Dubai Holding is considering[ launching](https://www.bnnbloomberg.ca/investing/2
 
 ### Brent Crude Jumps as Hedge Funds Reverse Bets
 
-![Brent Crude Jumps as Hedge Funds Reverse Bets](/images/oct-9--dubai-reit-rumors--saudis-trim-nintendo-stake-b-AzOT.webp)
+![Dubai REIT rumors and Saudi Arabia’s Nintendo stake sale](/images/oct-9--dubai-reit-rumors--saudis-trim-nintendo-stake-b-AzOT.webp)
 
 Brent crude[ soared](https://www.hedgeweek.com/brent-crude-soars-above-80-as-hedge-fund-reverse-short-bets/#:~:text=Oil%20prices%20surged%20above%20%2480,report%20by%20the%20Financial%20Tines.) above $80 per barrel, with hedge funds reversing short bets amid Middle East tensions and a looming hurricane in the Gulf of Mexico. Funds shifted to long positions last week, triggering an 8% rally, the largest since early 2023. The surge came after Iran’s missile attack on Israel fueled fears of supply disruptions. Analysts suggest computer-driven funds were still positioned against oil, but the escalating geopolitical risks and potential hurricane impact are likely to keep prices elevated. Hedge funds are now adjusting for a longer-term oil price boost.
 
