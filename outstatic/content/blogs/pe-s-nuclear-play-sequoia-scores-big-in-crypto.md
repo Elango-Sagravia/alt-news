@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '7'
 latest: 'true'
 relatedArticles: ''
@@ -22,7 +28,7 @@ With digital demand[ booming](https://www.bnnbloomberg.ca/investing/2024/10/29/d
 
 ### Private Equity Backs Nuclear Power Growth
 
-![Private equity and tech giants invest in nuclear energy to meet rising AI-driven power needs and reliable energy demands](/images/pe-s-next-bet-is-on-ai-in-nuclear-energy-M4Mz.webp)
+![Private equity’s next big bet is AI in nuclear energy](/images/pe-s-next-bet-is-on-ai-in-nuclear-energy-M4Mz.webp)
 
 Private equity is taking a bet on nuclear power, aligning with tech companies’ massive energy needs driven by AI. Firms like Carlyle and Apollo are[ exploring ways](https://www.bloomberg.com/news/articles/2024-10-29/private-equity-s-next-bet-on-artificial-intelligence-is-nuclear-energy?embedded-checkout=true) to finance nuclear plants, while Brookfield is expanding its stake. Microsoft and Amazon have inked power deals, with the revived Three Mile Island plant now back in operation. Nuclear promises stable returns and reliable energy, which appeals to private equity. Despite long timelines and regulatory hurdles, private capital is increasingly seeing nuclear as a viable investment, especially with demand rising as economies electrify and tech needs grow.
 
