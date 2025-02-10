@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -20,7 +26,7 @@ China’s recent stimulus sparked a 20% stock rally, but long-term investor [rem
 
 ### Saudi Fund Trims Nintendo Stake While Eyeing More
 
-![Saudi Fund Trims Nintendo Stake While Eyeing More](/images/oct-9--dubai-reit-rumors--saudis-trim-nintendo-stake-a-UzNz.webp)
+![Dubai REIT rumors and Saudi Arabia trimming Nintendo stake](/images/oct-9--dubai-reit-rumors--saudis-trim-nintendo-stake-a-UzNz.webp)
 
 Saudi Arabia’s Public Investment Fund (PIF) trimmed its Nintendo stake to[ 7.54%](https://www.bnnbloomberg.ca/business/2024/10/08/saudi-fund-trims-nintendo-stake-after-saying-it-wants-more/) but hinted at deploying more capital into the gaming giant. Despite trimming its holdings, PIF remains a top Nintendo shareholder, reflecting its broader push to diversify beyond oil and build an entertainment hub. This move aligns with PIF’s $38 billion gaming strategy, targeting companies across Japan and Korea. While the sale may be a portfolio adjustment, PIF’s long-term goal of deepening ties with gaming companies seems intact.
 
