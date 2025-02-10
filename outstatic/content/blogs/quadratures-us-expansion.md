@@ -26,7 +26,7 @@ Rokos Capital Management had a rough August, with its macro strategy [down](http
 
 ### Vista Equity Weighs Sale of Finastra Unit
 
-![Quadrature’s US expansion, Rokos hedge fund losses, Japan fund moves](/images/19th-sept--quadrature-s-us-expansion--rokos-losses--japan-hedge-fund-moves-a-A4MD.webp)
+![Quadrature’s expansion, Rokos hedge fund losses, and Japan market moves](/images/19th-sept--quadrature-s-us-expansion--rokos-losses--japan-hedge-fund-moves-a-A4MD.webp)
 
 Vista Equity Partners is [considering](https://www.bnnbloomberg.ca/business/company-news/2024/09/18/vista-picks-evercore-to-help-sell-finastras-capital-markets-arm/) selling Finastra’s Treasury and Capital Markets business, with estimates valuing the unit at $2 billion. The division, which provides financial institutions with software for processing trades and managing risk, generates about $200 million in annual earnings. Vista has been working with Evercore Inc. to explore the potential sale, but no final decision has been made yet. Finastra was formed in 2017 from the merger of Misys Group and D+H Corp, and this sale could be part of Vista’s broader strategy to optimize its portfolio.
 
