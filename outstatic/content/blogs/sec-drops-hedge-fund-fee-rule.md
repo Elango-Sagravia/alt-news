@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
@@ -42,7 +48,7 @@ Kite Lake Capital Management and Astaris, two London-based hedge funds, are [clo
 
 ### Hedge Funds Close Equity Performance Gap in July
 
-![Hedge Funds](/images/sec-drops-hedge-fund-fee-rule--tikehau-sells-preligens-stake-b-c4OD.webp)
+![SEC drops hedge fund fee rule, Tikehau sells Preligens stake](/images/sec-drops-hedge-fund-fee-rule--tikehau-sells-preligens-stake-b-c4OD.webp)
 
 Hedge funds [significantly narrowed](https://www.hedgeweek.com/hedge-funds-narrow-global-equities-performance-gap-in-july/) the performance gap with global equities in July, coming within 0.17% of the MSCI World Index’s 1.78% gain. According to Preqin’s data, this marked the closest hedge funds have come to matching equity returns since 2019. Hedge funds benefitted from strong bond and small-cap equity markets, but the decline in commodity prices, especially metals, hurt some strategies. Overall, hedge fund assets under management continued to grow, reaching $4.7 trillion, despite ongoing net outflows across many strategies.
 
