@@ -56,6 +56,6 @@ Hedge funds are[ slashing](https://www.bnnbloomberg.ca/investing/2024/10/11/hedg
 
 ### Hedge Funds Post 1.22% Gain in September Despite Market Volatility
 
-![Hedge Funds Post 1.22% Gain in September Despite Market Volatility](/images/oct-15--semirara-s-5b-expansion--horizon-robotics-ipo-a-gyMj.webp)
+![Semirara’s $5B expansion and Horizon Robotics IPO developments](/images/oct-15--semirara-s-5b-expansion--horizon-robotics-ipo-a-gyMj.webp)
 
 Hedge funds[ posted](https://www.hedgeweek.com/hedge-funds-up-1-22-in-september-says-ssc-globeop/#:~:text=Hedge%20funds%20gained%201.22%25%20in,Index%20declined%200.44%25%20in%20October.) a 1.22% gain in September, according to SS&C GlobeOp’s Hedge Fund Performance Index. While market volatility and rising interest rates have created challenges, hedge funds continue to generate attractive returns. However, capital flows into hedge funds declined by 0.44% in October due to portfolio rebalancing. Investors are still looking to hedge funds to navigate inflation, volatility, and economic uncertainty, providing opportunities for alpha generation even in challenging market conditions.
