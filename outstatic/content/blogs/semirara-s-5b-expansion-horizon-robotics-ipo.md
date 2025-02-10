@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -20,7 +26,7 @@ Retailers are facing a scary Halloween as consumer spending is expected to[ drop
 
 ### Horizon Robotics Targets $800M IPO Backed by Alibaba
 
-![Horizon Robotics Targets $800M IPO Backed by Alibaba](/images/oct-15--semirara-s-5b-expansion--horizon-robotics-ipo-b-QyOD.webp)
+![Semirara’s $5B expansion and Horizon Robotics IPO](/images/oct-15--semirara-s-5b-expansion--horizon-robotics-ipo-b-QyOD.webp)
 
 Horizon Robotics is gearing up for a major IPO in Hong Kong, aiming to[ raise $800 million](https://www.bnnbloomberg.ca/business/technology/2024/10/14/horizon-robotics-said-to-draw-alibaba-baidu-as-investors-in-ipo/) with backing from big names like Alibaba and Baidu. Known for its autonomous driving systems, Horizon plans to use the funds to fuel its expansion in AI and autonomous technology. Despite reporting a significant loss of $721 million in the first half of 2024, the company’s growing revenue and strategic partnerships, including a joint venture with Volkswagen, make it one of the year’s most anticipated IPOs. Investors are watching closely as it taps into China’s booming AI sector.
 
