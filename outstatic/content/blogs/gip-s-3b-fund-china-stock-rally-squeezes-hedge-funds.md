@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
@@ -24,7 +30,7 @@ Hedge funds and large investors have ramped up [bullish](https://www.hedgeweek.c
 
 ### Alternative Investments Surge in 2024
 
-![$76.6 billion in illiquid alternatives sold in 2023](/images/1st-oct--gips-3b-fund--china-stock-rally-squeezes-hedge-funds-a--1--U3ND.webp)
+![GIPS $3B fund launch and China stock rally impact on hedge funds](/images/1st-oct--gips-3b-fund--china-stock-rally-squeezes-hedge-funds-a--1--U3ND.webp)
 
 Financial advisors have [sold](https://www.investmentnews.com/alternatives/sales-of-alternative-investments-climbing-in-2024/257435#:~:text=%E2%80%9CFundraising%20in%20alternative%20investments%20through,chairman%20of%20Robert%20A.%20Stanger.) $76.6 billion worth of illiquid alternative investments through August, matching 2023’s full-year total. Nontraded REITs are having a tough year, raising just $4.2 billion, down from a $33 billion high in 2022. However, nontraded business development companies (BDCs) are becoming the favored alternative, raising $23.7 billion so far this year. BDCs offer attractive yields, lending to small and mid-sized private companies. Investors are flocking to alternatives for higher returns amid a shifting economic landscape.
 
