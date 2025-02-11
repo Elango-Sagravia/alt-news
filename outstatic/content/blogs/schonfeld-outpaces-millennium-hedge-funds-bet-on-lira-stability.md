@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -34,7 +40,7 @@ AI-driven Quadrature Capital[ reported](https://www.hedgeweek.com/quadrature-pro
 
 ### AFC Returning to Islamic Bond Market
 
-![](/images/afc-eyes-return-to-islamic-bond-market-with-300-million-deal--IyNT.webp)
+![AFC eyes a return to the Islamic bond market with a $300 million deal](/images/afc-eyes-return-to-islamic-bond-market-with-300-million-deal--IyNT.webp)
 
 The Africa Finance Corporation (AFC) is[ planning](https://www.bnnbloomberg.ca/business/2024/11/06/afc-eyes-return-to-islamic-bond-market-with-300-million-deal/) to issue a $300 million Islamic bond by the end of the year, the first since 2017. This move aligns with increasing interest from Gulf investors aiming to fund African infrastructure. Partnering with First Abu Dhabi Bank and others, AFC looks to expand relationships with Middle Eastern investors, including the Saudi Export-Import Bank. This bond also ties into AFC’s broader goal to end 2024 with $2.8 billion in debt financing. With this strategy, AFC is well-positioned to support Africa’s growth through strategic infrastructure investments backed by new global alliances.
 
