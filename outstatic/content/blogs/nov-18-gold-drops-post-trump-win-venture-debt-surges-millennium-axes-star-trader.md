@@ -1,4 +1,8 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“The stock market is a device to transfer money from the impatient to the patient.” - Warren Buffett'
 footerBannerTitle: ''
 cutOff: '8'
@@ -74,7 +78,7 @@ The forecast also shows significant contributions from other regions, including 
 
 **Why is the US dollar the world’s reserve currency?**
 
-![The U.S. dollar dominates global finance as the main reserve currency](/images/why-is-the-u.s.-dollar-the-world-s-reserve-currency_-I4MD.webp)
+![Why is the U.S. dollar the world's reserve currency?](/images/why-is-the-u.s.-dollar-the-world-s-reserve-currency_-I4MD.webp)
 
 The U.S. dollar is the world’s primary reserve currency due to historical, economic, and geopolitical factors. After World War II, the Bretton Woods Agreement established the dollar as the anchor for global finance, pegging it to gold and making it the most trusted currency.
 
