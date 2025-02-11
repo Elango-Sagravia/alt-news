@@ -38,7 +38,7 @@ After Donald Trump’s election win, hedge funds[ reduced](https://www.bnnbloomb
 
 **Asia-Pacific is expected to lead electricity generation growth**
 
-![Asia Pacific, led by China, drives global electricity demand growth as the world shifts toward cleaner energy](/images/egergy-AyMj.webp)
+![Global energy market trends and investments](/images/egergy-AyMj.webp)
 
 The Asia Pacific region, led by China, is expected to contribute the most to this growth, reflecting the region's increasing energy demand and ongoing industrialization. Electricity use has been growing at twice the pace of overall energy demand over the past decade, signaling a shift away from fossil fuels toward cleaner energy sources.
 
