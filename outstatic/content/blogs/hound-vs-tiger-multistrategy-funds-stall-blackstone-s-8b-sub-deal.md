@@ -24,7 +24,7 @@ publishedAt: '2024-11-20T12:48:33.982Z'
 
 ### Tiger seed fund disputes profit-sharing deal
 
-![Hound Partners sues Tiger Management to end profit-sharing deal tied to Julian Robertson's early investment](/images/-tiger-seed--fund-sues-robertson-s-firm-to-end-profit-sharing-AwOD.webp)
+![Tiger Seed fund sues Robertson’s firm to end profit-sharing deal](/images/-tiger-seed--fund-sues-robertson-s-firm-to-end-profit-sharing-AwOD.webp)
 
 Hound Partners, a "Tiger seed" fund, is[ suing](https://www.bnnbloomberg.ca/business/company-news/2024/11/19/tiger-seed-fund-sues-robertsons-firm-to-end-profit-sharing/) Tiger Management to end a profit-sharing deal that gave Julian Robertson’s firm a share of its earnings. Hound claims Tiger’s support in marketing and client referrals has dwindled in recent years despite Tiger earning over $150 million on its initial $23 million investment. Tiger counters, arguing the agreement is ironclad and transformative for Hound. The lawsuit comes as Tiger’s share, which now benefits Robertson's charitable foundation, increases after years of underperformance.
 
