@@ -22,7 +22,7 @@ publishedAt: '2024-09-27T14:57:23.696Z'
 
 ### Dubai Fast-Tracks Hedge Fund Growth
 
-![Dubai Fast-Tracks Hedge Fund Growth](/images/27th-sept--dubais-hedge-fund-boom--omers-europe-exit--elliott-eyes-southwest-ceo-a-A4OT.webp)
+![Dubai’s hedge fund boom, OMERS Europe exit, Elliott eyes Southwest CEO](/images/27th-sept--dubais-hedge-fund-boom--omers-europe-exit--elliott-eyes-southwest-ceo-a-A4OT.webp)
 
 Dubai is stepping up its game by [launching](https://www.bnnbloomberg.ca/business/2024/09/26/dubai-seeks-to-fast-track-hedge-fund-boom-with-new-platform/) a new platform for hedge funds and investment companies to start operations faster. Capricorn Fund Managers Ltd., based in London, is introducing a regulatory hosting platform at the Dubai International Financial Centre (DIFC). This service allows fund managers to operate under Capricorn’s license, cutting costs and administrative hassles. Dubai’s low taxes and strategic location are attracting hedge funds, with firms like Millennium Management and Balyasny already expanding there. The city’s hedge fund industry now employs over 1,000 people, solidifying Dubai as a top global financial hub.
 
