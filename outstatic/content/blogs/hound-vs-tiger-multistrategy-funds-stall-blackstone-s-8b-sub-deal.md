@@ -1,4 +1,8 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“Far more money has been lost by investors trying to anticipate corrections, than lost in the corrections themselves.” - Peter Lynch'
 footerBannerTitle: ''
 cutOff: '8'
@@ -38,7 +42,7 @@ Blackstone is reportedly nearing an $8 billion[ acquisition](https://www.private
 
 **Palm oil futures are near two-year highs, raising concerns over food inflation**
 
-![Palm oil futures hit two-year highs](/images/palm-oil--1--Y0OT.webp)
+![Palm oil industry trends and market analysis](/images/palm-oil--1--Y0OT.webp)
 
 Palm oil futures are trading near two-year highs, reaching levels not seen since July 2022. Prices have surged over 20% this year, driven by supply constraints in Indonesia and Malaysia, which collectively account for over 80% of global production. Weak output in these regions, paired with robust demand, has raised concerns about rising food costs globally.
 
