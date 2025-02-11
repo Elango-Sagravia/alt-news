@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 relatedArticles: ''
 readTime: '5'
@@ -23,7 +29,7 @@ JP Morgan has adjusted its European credit spread forecasts upwards in response 
 
 ### Saudi Arabia Goes All-In on AI with $40 Billion Fund
 
-![Saudi Arabia](/images/saudi-arabia-UxMz.webp)
+![Saudi Arabia's economy and financial market overview](/images/saudi-arabia-UxMz.webp)
 
 Saudi Arabia is making a bold move into the artificial intelligence sector with plans to establish a $40 billion fund dedicated to AI investments. This initiative is part of the kingdom's broader Vision 2030 strategy, which aims to diversify its economy beyond oil dependency. The Saudi Public Investment Fund is exploring a strategic partnership with tech giant Andreessen Horowitz, positioning the kingdom as a significant player in the global AI industry. This ambitious plan underscores Saudi Arabia's intent to become a leader in emerging technologies, potentially reshaping the AI landscape on a global scale.
 
