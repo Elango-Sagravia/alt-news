@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '7'
 latest: 'true'
 relatedArticles: ''
@@ -22,7 +28,7 @@ Hedge funds are[ using](https://www.bnnbloomberg.ca/business/international/2024/
 
 ### KKR’s $50B Partnership Targets AI Infrastructure
 
-![KKR and Energy Capital Partners team up on a $50 billion initiative to build sustainable AI infrastructure](/images/kkr-and-energy-capital-partners-form-50-billion-partnership-YxOT.webp)
+![KKR and Energy Capital Partners form a $50 billion partnership](/images/kkr-and-energy-capital-partners-form-50-billion-partnership-YxOT.webp)
 
 KKR and Energy Capital Partners are[ joining forces](https://www.bnnbloomberg.ca/business/technology/2024/10/30/kkr-and-energy-capital-partners-form-50-billion-ai-partnership/) in a $50 billion initiative to build AI-related infrastructure, focusing on data centers and power systems. They project a $1 trillion need in AI infrastructure by 2030. This partnership reflects KKR’s expansion in the infrastructure sector, which now manages $77 billion. By combining KKR’s financial strength with Energy Capital’s power expertise, they aim to deliver sustainable, affordable, and reliable infrastructure for the AI industry, addressing the needs of tech companies and consumers alike as demand for data and energy-intensive AI applications grows.
 
@@ -64,4 +70,4 @@ Jefferies’ hedge fund 352 Capital is[ suing](https://www.hedgeweek.com/jefferi
 
 ### Ex-Goldman Banker Takes on Korean Chaebol
 
-Billionaire Michael Kim’s private equity firm MBK Partners is waging a  [takeover battle](https://www.bnnbloomberg.ca/business/international/2024/10/29/ex-goldman-banker-turned-pe-billionaire-takes-on-koreas-chaebol/) for Korea Zinc, challenging Korea’s powerful family-run chaebol system. MBK and partner Young Poong Corp. have invested heavily to acquire a 38% stake in Korea Zinc, the world’s largest zinc refiner. The takeover, backed by improved corporate governance aims, faces opposition from current management and Bain Capital. Kim, seen as a reform advocate, views Korea as a ‘value market,’ with chaebols offering the potential for substantial growth. This battle could reshape Korea’s corporate landscape by promoting shareholder-friendly practices.
+Billionaire Michael Kim’s private equity firm MBK Partners is waging a [takeover battle](https://www.bnnbloomberg.ca/business/international/2024/10/29/ex-goldman-banker-turned-pe-billionaire-takes-on-koreas-chaebol/) for Korea Zinc, challenging Korea’s powerful family-run chaebol system. MBK and partner Young Poong Corp. have invested heavily to acquire a 38% stake in Korea Zinc, the world’s largest zinc refiner. The takeover, backed by improved corporate governance aims, faces opposition from current management and Bain Capital. Kim, seen as a reform advocate, views Korea as a ‘value market,’ with chaebols offering the potential for substantial growth. This battle could reshape Korea’s corporate landscape by promoting shareholder-friendly practices.
