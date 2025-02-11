@@ -24,7 +24,7 @@ publishedAt: '2024-11-19T12:17:06.667Z'
 
 ### EQT caps Asia fund at $14.5B amid demand
 
-![EQT caps Asia-focused fund at $14.5 billion, targeting emerging markets and regional growth opportunities](/images/sweden-s-eqt-caps-new-asia-focused-fund-at-14.5bn-YxNT.webp)
+![Sweden’s EQT caps new Asia-focused fund at $14.5B](/images/sweden-s-eqt-caps-new-asia-focused-fund-at-14.5bn-YxNT.webp)
 
 Swedish investment firm EQT has set a $14.5 billion cap for its[ Asia-focused fund](https://www.privateequitywire.co.uk/swedens-eqt-caps-new-asia-focused-fund-at-14-5bn/), surpassing its $12.5 billion target. With a focus on emerging markets, EQT aims to capitalize on the region’s growth potential amidst geopolitical tensions. The fund reflects the growing appetite for investments in Asia, aligning with EQT’s strategy to expand its footprint in high-growth regions.
 
