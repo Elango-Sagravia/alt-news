@@ -48,7 +48,7 @@ Dutch pension giant ABP[ reported](https://www.swfinstitute.org/news/104518/abp-
 
 ### Hedge Funds Bet Against Clean Energy
 
-![](/images/oct-21--hedge-fund-segantii-exits-amid-insider-trading-scandal--abp-gains--23b-b-I0Nj.webp)
+![Hedge fund Segantii exits amid insider trading scandal, ABP gains $23B](/images/oct-21--hedge-fund-segantii-exits-amid-insider-trading-scandal--abp-gains--23b-b-I0Nj.webp)
 
 Hedge funds are[ increasingly](https://www.bloomberg.com/graphics/2024-hedge-funds-climate-change-green-energy-stocks/?embedded-checkout=true) shorting clean energy stocks, favoring fossil fuels instead. Despite government green initiatives, many funds are skeptical about the returns on solar, EVs, and hydrogen. Bloomberg’s analysis reveals that since 2021, green energy stocks have lost significant value while fossil fuel investments are thriving. China’s dominance in green tech supply chains and ongoing geopolitical tensions are key concerns. However, there are some bright spots—wind energy and power infrastructure have attracted long positions.
 
