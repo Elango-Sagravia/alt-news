@@ -44,7 +44,7 @@ CVC Capital Partners [raised](https://www.bnnbloomberg.ca/investing/2024/09/05/p
 
 ### Walleye Hedge Fund Outshines Competitors
 
-![Walleye Hedge Fund](/images/park-square-raises--3.4bn--goldman-sells-hedge-stake-b-Q0OT.webp)
+![Park Square raises $3.4B, Goldman sells hedge fund stake](/images/park-square-raises--3.4bn--goldman-sells-hedge-stake-b-Q0OT.webp)
 
 Walleye Capital's $4.8 billion multi-strategy hedge fund [posted](https://www.hedgeweek.com/walleye-leads-august-multi-strat-gains/) impressive results in August, gaining 3.4%. This brings its year-to-date return to 11.3%, outperforming big players like Citadel and Millennium. Walleye's volatility strategies helped navigate turbulent markets, contributing significantly to its success. The fund's origins as an options market-maker gave it an edge during volatile periods. Despite its smaller size, Walleye has consistently outpaced industry giants and expects to hit $5 billion in assets by the end of the year.
 
