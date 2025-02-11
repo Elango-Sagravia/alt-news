@@ -1,4 +1,8 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“I make no attempt to forecast the market—my efforts are devoted to finding undervalued securities.” - Warren Buffett'
 footerBannerTitle: ''
 cutOff: '8'
@@ -26,7 +30,7 @@ Swedish investment firm EQT has set a $14.5 billion cap for its[ Asia-focused fu
 
 ### ValueAct increases Meta stake to $1B
 
-![ValueAct boosts Meta stake to $1 billion, signaling confidence in AI-driven growth and innovation](/images/activist-hedge-fund-valueact-adds-121m-to-meta-bet-YxMz.webp)
+![Activist hedge fund ValueAct adds $121M to its Meta investment](/images/activist-hedge-fund-valueact-adds-121m-to-meta-bet-YxMz.webp)
 
 Activist hedge fund ValueAct has[ raised](https://www.hedgeweek.com/activist-hedge-fund-valueact-adds-121m-to-meta-bet/) its stake in Meta Platforms by $121 million, bringing its total holding to $1 billion. Meta now accounts for 3.08% of ValueAct’s $3.9 billion portfolio. Known for its activist strategies, ValueAct is backing Meta’s focus on AI, reportedly supported by CEO Mason Morfit. The firm’s increasing involvement with Meta highlights investor confidence in the company’s growth potential.
 
