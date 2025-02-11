@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -42,7 +48,7 @@ Clearlake Capital has [agreed to acquire MV Credit Partners](https://www.bnnbloo
 
 ### Morgan Stanley Targets Hedge Funds to Reclaim Top Spot
 
-![Morgan Stanley](/images/4th-sept--morgan-stanley-targets-hedge-funds--newspring-invests-in-hotels-b--1--YxNj.webp)
+![Morgan Stanley targets hedge funds, Newspring invests in hotels](/images/4th-sept--morgan-stanley-targets-hedge-funds--newspring-invests-in-hotels-b--1--YxNj.webp)
 
 Morgan Stanley is [focusing on hedge funds](https://www.hedgeweek.com/morgan-stanley-targets-hedge-funds-in-bid-to-reclaim-stock-trading-top-spot/#:~:text=Morgan%20Stanley%20is%20targeting%20hedge,report%20by%20the%20Financial%20Times.) as part of its effort to regain its position as the top stock trading firm, a title it lost to Goldman Sachs after the Archegos collapse. Under the leadership of new CEO Ted Pick, the bank has narrowed the gap with Goldman, reporting strong equities trading revenues. Morgan Stanley is renewing its efforts to attract both quantitative and traditional equity hedge funds by offering more credit and leveraging its technology investments. This strategy aims to reestablish Morgan Stanley as a leader in the equities market.
 
