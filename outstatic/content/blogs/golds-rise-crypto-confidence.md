@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
@@ -24,7 +30,7 @@ The Bitcoin 2024 conference has injected fresh optimism into the cryptocurrency 
 
 ### Italian Wines Shine Amidst Overall Fine Wine Market Decline
 
-![Italian wines](/images/italian-wine-resilience-cyMz.webp)
+![The resilience of the Italian wine industry amid global challenges](/images/italian-wine-resilience-cyMz.webp)
 
 The fine wine market experienced a challenging first half of 2024, with major indices such as the Liv-Ex 100 and Liv-Ex 1000 declining by 3.4% and 6.3%, respectively. Despite this overall downturn, Italian wines have shown remarkable resilience, outperforming other regions. Iconic labels like Solaia and Masseto have emerged as top performers, helping to cushion the impact on the Italy 100 index, which saw a smaller decline of just 2.1%. This performance highlights the growing global appreciation for Italian wines, even as the broader fine wine market struggles. Collectors and investors continue to show strong interest in Italy’s premium offerings, which are increasingly seen as both culturally significant and financially valuable.
 
