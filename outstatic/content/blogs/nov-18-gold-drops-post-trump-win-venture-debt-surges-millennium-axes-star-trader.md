@@ -24,7 +24,7 @@ publishedAt: '2024-11-18T12:56:48.981Z'
 
 ### Chevron and Super Micro top October shortlist
 
-![Hazeltree report reveals Chevron and Super Micro as most shorted large-cap stocks in October](/images/chevron--super-micro-among-october-s-most-shorted-stocks--says-hazeltree-E3NT.webp)
+![Chevron and Super Micro among October’s most shorted stocks, says Hazeltree](/images/chevron--super-micro-among-october-s-most-shorted-stocks--says-hazeltree-E3NT.webp)
 
 Hazeltree’s latest report[ reveals](https://www.hedgeweek.com/chevron-super-micro-among-octobers-most-shorted-stocks-says-hazeltree/) Chevron and Super Micro Computer were the most shorted large-cap stocks in the Americas in October, with utilization rates reflecting high investor activity. Chevron scored a Hazeltree Crowdedness Score of 99, while Super Micro followed closely at 94. Top mid-cap shorted stocks included Murphy USA and CNX Resources, while Wolfspeed led small-caps. LVMH and Japan’s SMC Corp topped the EMEA and APAC lists.
 
