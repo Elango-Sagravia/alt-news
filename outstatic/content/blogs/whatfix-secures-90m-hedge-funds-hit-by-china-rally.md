@@ -48,7 +48,7 @@ China-focused hedge funds saw a major [boost](https://www.hedgeweek.com/china-fo
 
 ### Southwest Airlines Raises Revenue Forecast
 
-![Southwest Airlines Raises Revenue Forecast](/images/30th-sept--whatfix-secures-90m--hedge-funds-hit-by-china-rally-b-A5ND.webp)
+![Whatfix secures $90M, hedge funds struggle with China rally losses](/images/30th-sept--whatfix-secures-90m--hedge-funds-hit-by-china-rally-b-A5ND.webp)
 
 Facing pressure from activist hedge fund Elliott Investment Management, Southwest Airlines has revised its revenue forecast [upwards](https://www.hedgeweek.com/elliott-pressure-prompts-southwest-to-up-revenue-outlook-and-announce-strategic-changes/#:~:text=Southwest%20Airlines%20has%20revised%20its,by%20the%20New%20York%20Post.) for the third quarter. The company now expects unit revenue to increase by 3%, up from a previously expected 2% decline, thanks to strong summer travel demand. Southwest also announced a $2.5 billion share buyback program and several strategic changes, including introducing assigned seating and extra legroom options. These changes come as part of the airline’s efforts to boost earnings and respond to Elliott’s calls for better leadership and governance following criticism of CEO Bob Jordan’s performance.
 
