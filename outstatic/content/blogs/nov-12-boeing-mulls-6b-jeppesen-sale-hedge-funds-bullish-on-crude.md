@@ -30,7 +30,7 @@ Macro trader Chris Rokos scored[ nearly $1 billion](https://www.hedgeweek.com/tr
 
 ### Hedge funds boost bullish bets on WTI Crude
 
-![Hedge funds boost net long positions on WTI crude](/images/hedge-funds-up-bullish-wti-bets-to-highest-level-since-march-g2Nj.webp)
+![Hedge funds increase bullish WTI crude bets to highest level since March](/images/hedge-funds-up-bullish-wti-bets-to-highest-level-since-march-g2Nj.webp)
 
 Hedge funds are betting big on West Texas Intermediate (WTI) crude, with net long positions at their[ highest](https://www.hedgeweek.com/hedge-funds-up-bullish-wti-bets-to-highest-level-since-march/#:~:text=Hedge%20funds%20have%20boosted%20their,to%20a%20report%20by%20Bloomberg.) since March. Driven by OPEC+ delaying output hikes and rising geopolitical tensions in the Middle East, hedge funds see potential for WTI prices to keep climbing. Increased demand for oil amid fears of supply disruptions is also contributing to this bullish stance. For energy market watchers, this move signals that WTI could continue its upward trend as hedge funds back oil’s ongoing demand.
 
