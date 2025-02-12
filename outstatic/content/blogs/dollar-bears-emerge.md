@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 relatedArticles: ''
 readTime: '5'
@@ -41,7 +47,7 @@ In Taiwan's swap markets, there's a noticeable gap between [deliverable and non-
 
 ### UK Rocket Engine Maker Sees Valuation Cut
 
-![UK Rocket](/images/2nd-sept--dollar-bears-emerge--taiwan-swap-market-tensions-a-QyNT.webp)
+![Dollar bears emerge as Taiwan swap market tensions rise](/images/2nd-sept--dollar-bears-emerge--taiwan-swap-market-tensions-a-QyNT.webp)
 
 Reaction Engines Ltd., a UK-based company developing hypersonic rocket engines, has seen its [valuation slashed by over £200 million](https://www.bnnbloomberg.ca/business/2024/08/30/bae-backed-uk-rocket-engine-maker-has-value-cut-by-225-million/) by key investors. Artemis Fund Managers and Schroders have both reduced their stakes due to slower-than-expected revenue growth. Despite raising £150 million previously, Reaction Engines is currently seeking additional funding. The company's technology, which promises significant advancements in air and space travel, has faced delays in commercialization, leading to this substantial valuation reduction.
 
