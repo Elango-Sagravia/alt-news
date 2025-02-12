@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
@@ -24,7 +30,7 @@ Goldman Sachs just[ refinanced](https://www.bnnbloomberg.ca/business/company-new
 
 ### Hedge Funds Bet Against the Yen
 
-![Japan's yen faces hedge fund pressure amid political uncertainty, with rates near 153 yen per dollar](/images/hedge-funds-sold-yen-before-us-election-gzNz.webp)
+![Hedge funds sold yen positions before the U.S. election](/images/hedge-funds-sold-yen-before-us-election-gzNz.webp)
 
 Hedge funds recently flipped[ bearish](https://www.bnnbloomberg.ca/business/international/2024/10/27/hedge-funds-sold-yen-just-before-election-catapulted-japan-risk/) on Japan’s yen, just as Japan’s ruling party failed to secure a majority. This surprise loss left Prime Minister Shigeru Ishiba in a tight spot, raising political uncertainty around Japan’s economy. Speculators are shorting the yen, expecting further declines, with rates now around 153 yen per dollar—near a three-month low. This bearish outlook could keep the yen under pressure, especially if the Japanese government doesn’t stabilize soon.
 
