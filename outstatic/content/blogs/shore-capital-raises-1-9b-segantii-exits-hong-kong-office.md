@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -20,7 +26,7 @@ Activist hedge fund Elliott Associates has lost its[ appeal](https://www.hedgewe
 
 ### Apollo Buys Barnes Group for $3.6 Billion
 
-![Apollo Buys Barnes Group for $3.6 Billion](/images/oct-8-b-UwOD.webp)
+![Key financial and market news updates from October 8](/images/oct-8-b-UwOD.webp)
 
 Apollo Global Management is acquiring Barnes Group, an aerospace and tech manufacturer, in a deal valued at[ $3.6 billion](https://www.bnnbloomberg.ca/business/company-news/2024/10/07/apollo-to-pay-36-billion-for-aerospace-manufacturer-barnes/). Barnes shareholders will receive $47.50 per share, a 22% premium on the stock’s price before news of the sale emerged. The all-cash transaction is expected to close by Q1 2025. Barnes shares are up 39% this year, and the deal marks a significant premium for investors. Apollo’s acquisition reflects the continued consolidation in the aerospace sector amid rising demand for cutting-edge technologies.
 
