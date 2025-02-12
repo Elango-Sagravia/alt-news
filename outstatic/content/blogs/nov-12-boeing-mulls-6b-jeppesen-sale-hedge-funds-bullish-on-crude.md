@@ -24,7 +24,7 @@ publishedAt: '2024-11-12T12:18:12.344Z'
 
 ### Trump rally nets Chris Rokos $1B profit
 
-![Macro trader Chris Rokos earns nearly $1 billion in a day from Trump re-election rally](/images/trump-market-rally-nets-rokos-almost-1bn-single-day-profit-MzND.webp)
+![Trump market rally nets Rokos almost $1B in single-day profit](/images/trump-market-rally-nets-rokos-almost-1bn-single-day-profit-MzND.webp)
 
 Macro trader Chris Rokos scored[ nearly $1 billion](https://www.hedgeweek.com/trump-market-rally-nets-rokos-almost-1bn-single-day-profit/) in one day following Donald Trump’s re-election rally. His hedge fund capitalized on soaring stock prices, rising U.S. Treasury yields, and a stronger dollar. Rokos Capital Management saw its year-to-date return jump to around 20% by October, making this one of the firm’s most lucrative days. With a market favoring the dollar and U.S. equities, other funds like Element Capital also gained, benefiting from the post-election momentum.
 
