@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -20,7 +26,7 @@ Korea Investment Corporation (KIC) has [appointed](https://www.swfinstitute.org/
 
 ### Real Estate Bonds Outperform Nvidia
 
-![Real Estate Bonds Outperform Nvidia](/images/30th-sept--whatfix-secures-90m--hedge-funds-hit-by-china-rally-a-EyMD.webp)
+![Whatfix secures $90M funding, hedge funds hit by China market rally](/images/30th-sept--whatfix-secures-90m--hedge-funds-hit-by-china-rally-a-EyMD.webp)
 
 In a surprising turn, the [riskiest](https://www.bnnbloomberg.ca/investing/2024/09/28/riskiest-real-estate-bonds-are-beating-nvidias-returns/) real estate bonds, known as hybrids, have outpaced Nvidia’s stock in 2024, with top-performing bonds yielding returns of up to 170%. These subordinated bonds, which had been hit hard by rising interest rates in 2022, are now benefiting from central banks cutting borrowing costs. Investors who bought at the bonds' lows are reaping huge rewards, but experts caution that much of the value may already be priced in. While the real estate market may be bottoming out, strategists are warning that the trade may be running out of steam.
 
