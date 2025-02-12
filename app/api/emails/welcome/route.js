@@ -21,7 +21,7 @@ let transporter = nodemailer.createTransport({
 // Function to send an email
 async function sendEmail(email, slug, uniqueId) {
   let mailOptions = {
-    from: '"Long & Short" <no-reply@mail.longandshort.com>', // Sender email address
+    from: '"Long & Short" <no-reply@newsletter.longandshort.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
     subject: "Welcome to Long and Short",
