@@ -74,7 +74,7 @@ However, analysts at Goldman Sachs suggest this trend is unlikely to persist. Th
 
 **Why do central banks raise interest rates to combat inflation?**
 
-![Central banks raise interest rates to curb inflation, balancing economic growth, currency strength, and price stability](/images/why-do-central-banks-raise-interest-rates-to-combat-inflation_-I5NT.webp)
+![Why do central banks raise interest rates to combat inflation?](/images/why-do-central-banks-raise-interest-rates-to-combat-inflation_-I5NT.webp)
 
 Central banks raise interest rates to combat inflation by making borrowing more expensive and saving more attractive. Higher interest rates discourage consumer and business spending, which reduces demand for goods and services. When demand falls, the upward pressure on prices can ease, helping to bring inflation under control.
 
