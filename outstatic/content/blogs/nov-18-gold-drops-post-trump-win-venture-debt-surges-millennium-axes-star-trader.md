@@ -30,7 +30,7 @@ Hazeltree’s latest report[ reveals](https://www.hedgeweek.com/chevron-super-mi
 
 ### Hedge funds cut gold bets post-election
 
-![Hedge funds cut gold bets to a 14-week low post-Trump election](/images/hedge-funds-slash-bullish-wagers-on-gold-over-trump-election-win-I4MD.webp)
+![Hedge funds slash bullish gold wagers after Trump election win](/images/hedge-funds-slash-bullish-wagers-on-gold-over-trump-election-win-I4MD.webp)
 
 After Donald Trump’s election win, hedge funds[ reduced](https://www.bnnbloomberg.ca/investing/2024/11/15/hedge-funds-slash-bullish-wagers-on-gold-over-trump-election-win/) bullish gold bets to a 14-week low. With gold prices dropping 8% since late October, safe-haven demand has waned. Hedge funds held net-long positions stood at 197,362 tonnes as of November 12, marking a sharp shift in sentiment. Market volatility often triggers gold buying, but confidence in a stable political landscape has shifted investor focus, suppressing gold’s allure for now.
 
