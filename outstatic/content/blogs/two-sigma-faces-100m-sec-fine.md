@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -20,7 +26,7 @@ Oaktree has [agreed](https://www.privateequitywire.co.uk/oaktree-agrees-200m-dea
 
 ### Hedge Funds Turn Bearish on Diesel and Gasoil
 
-![Hedge Funds Turn Bearish on Diesel and Gasoil](/images/23rd-sep--two-sigma-faces-100m-sec-fine--hedge-funds-bearish-on-diesel-a-A5Nj.webp)
+![Two Sigma faces $100M SEC fine, hedge funds turn bearish on diesel](/images/23rd-sep--two-sigma-faces-100m-sec-fine--hedge-funds-bearish-on-diesel-a-A5Nj.webp)
 
 Hedge funds are now more [bearish](https://www.bnnbloomberg.ca/investing/2024/09/20/hedge-funds-turn-most-bearish-on-diesel-gasoil-on-record/) on diesel and gasoil than ever before. Concerns over global economic slowdown and weaker fuel demand have led money managers to deepen bearish positions to record levels. In Europe, industrial activity has declined, reducing diesel consumption. Meanwhile, US manufacturing shrank for the fifth straight month, and distillate fuel inventories are at their highest since 2021. With demand weakening and supply growing, hedge funds expect further declines in diesel and gasoil markets, reflecting broader concerns about an economic slowdown.
 
