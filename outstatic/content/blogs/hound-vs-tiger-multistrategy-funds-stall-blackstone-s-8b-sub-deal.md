@@ -30,7 +30,7 @@ Hound Partners, a "Tiger seed" fund, is[ suing](https://www.bnnbloomberg.ca/busi
 
 ### Ken Griffin says hedge fund boom is over
 
-![Ken Griffin discusses plateauing multistrategy hedge fund growth and optimism for U.S. business under Trump](/images/citadel-s-ken-griffin-says-multistrategy-hedge-fund-boom-is-over--1--Q1ND.webp)
+![Citadel’s Ken Griffin says the multistrategy hedge fund boom is over](/images/citadel-s-ken-griffin-says-multistrategy-hedge-fund-boom-is-over--1--Q1ND.webp)
 
 Ken Griffin of Citadel believes the explosive growth of multistrategy hedge funds has[ plateaued](https://www.bloomberg.com/news/articles/2024-11-19/citadel-s-ken-griffin-says-multistrategy-hedge-fund-boom-is-over?embedded-checkout=true). Speaking in Oxford, Griffin noted asset flows into such funds have stagnated, with challenges like talent shortages and tighter leverage limits. Citadel, which has grown to manage $65 billion, regularly returns capital to investors, including $25 billion since 2017. Griffin attributes past growth to strong returns and proactive LP engagement. He also hinted at optimism for U.S. businesses under a potential Trump administration, citing revived risk-taking and investment.
 
