@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
@@ -28,7 +34,7 @@ Salt Lake City, UT - Vanilla, an award-winning estate planning software company,
 
 ### HistoSonics Closes $102M Series D to Advance Non-Invasive Tumor Treatment
 
-![](/images/histonics-c4MT.webp)
+![Histonics: Innovations in the medical device industry](/images/histonics-c4MT.webp)
 
 Minneapolis, MN - HistoSonics, the developer of the Edison® Histotripsy System, has secured $102 million in an oversubscribed Series D funding round. Led by Alpha Wave Ventures, with contributions from new investors like Amzak Health and HealthQuest Capital, the financing will propel the commercialization of HistoSonics' non-invasive histotripsy therapy platforms. The company's technology uses focused ultrasound to destroy and liquefy tumors mechanically. It currently targets liver treatments in the US and selects global markets. HistoSonics aims to expand its applications to other organs, including the kidney, pancreas, and prostate, positioning itself as a leader in innovative, non-invasive cancer treatments.
 
