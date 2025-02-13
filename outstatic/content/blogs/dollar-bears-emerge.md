@@ -33,7 +33,7 @@ Millennium Management is backing the [launch of Sone Capital](https://www.hedgew
 
 ### TS Imagine Introduces Platform 3.0
 
-![TS Imagine](/images/2nd-sept--dollar-bears-emerge--taiwan-swap-market-tensions-b-Q3Nj.webp)
+![Dollar bears emerge as Taiwan swap market tensions rise](/images/2nd-sept--dollar-bears-emerge--taiwan-swap-market-tensions-b-Q3Nj.webp)
 
 TS Imagine has [launched Platform 3.0](https://www.hedgeweek.com/ts-imagine-launches-platform-3-0/), an upgraded suite of trading, portfolio, and risk management solutions. This new platform includes expanded data coverage, integration with Snowflake for enhanced data analysis, and the introduction of AI-powered automation in trading and risk management. Platform 3.0 also features AutoRoute, an advanced tool for automating order flow management, which increases efficiency and compliance. The platform now offers access to over 20 million financial instruments, enabling traders to diversify their strategies and improve risk management.
 
