@@ -30,7 +30,7 @@ Caroline Ellison, former CEO of Alameda Research,[ started](https://www.hedgewee
 
 ### Verde Asset Management bets on bitcoin
 
-![Brazil's Verde Asset Management bets on Bitcoin amid pro-crypto policy optimism](/images/brazilian-hedge-fund-verde-says-it-made-bitcoin-bet-before-trump-win-c3Mj.webp)
+![Brazilian hedge fund Verde reveals Bitcoin bet before Trump’s election win](/images/brazilian-hedge-fund-verde-says-it-made-bitcoin-bet-before-trump-win-c3Mj.webp)
 
 Brazilian hedge fund Verde Asset Management took a[ bold position](https://www.bnnbloomberg.ca/investing/2024/11/11/brazilian-hedge-fund-verde-says-it-made-bitcoin-bet-before-trump-win/) in Bitcoin ahead of Donald Trump’s presidential win. With Bitcoin recently crossing $87,000, Verde’s investment reflects its optimism around pro-crypto policies expected from Trump and the new Congress. In addition to Bitcoin, Verde has shifted to a bearish stance on the Chinese yuan and oil prices, maintaining a bullish outlook on the Indian rupee. Despite a recent minor dip, Verde has outperformed local Brazilian hedge fund benchmarks, making strategic moves across currencies and commodities for future growth.
 
