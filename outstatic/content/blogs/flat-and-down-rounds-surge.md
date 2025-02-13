@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 relatedArticles: ''
 readTime: '5'
@@ -27,7 +33,7 @@ Houston-based UptimeAI, the pioneer of AI-based plant monitoring software for in
 
 ### Prana Thoracic Secures $3M in Series A Extension
 
-![Prana thoracic](/images/prana-thoracic-IzMD.webp)
+![Prana Thoracic: Advancements in medical technology](/images/prana-thoracic-IzMD.webp)
 
 Houston-based medtech startup Prana Thoracic has closed a $3 million Series A extension round, bringing its total Series A funding to $9 million, including a non-dilutive grant. The company focused on revolutionizing lung cancer intervention, and attracted new investors such as Cultivate (MD), GenHenn Capital, and Houston Angel Network, alongside previous lead investor New World Angels. Existing backers include Johnson & Johnson Development Corp, Texas Medical Center Venture Fund, and the Cancer Prevention & Research Institute of Texas (CPRIT). This oversubscribed round highlights strong investor confidence in Prana Thoracic’s innovative approach to Medtech.
 
