@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
@@ -32,7 +38,7 @@ MassMutual is beefing up its [alternative investment options](https://www.invest
 
 ### Arch and Consol Merge to Create Coal Giant
 
-![](/images/22nd-aug_-coal-merger--tokyo-tower-bid--tech-surge-a--1--AyNj.webp)
+![Coal merger, Tokyo Tower bid, and tech stock surge on August 22](/images/22nd-aug_-coal-merger--tokyo-tower-bid--tech-surge-a--1--AyNj.webp)
 
 Arch Resources and Consol Energy are [merging in a $2.3 billion deal](https://www.reuters.com/markets/commodities/consol-energy-arch-resources-merge-create-5-bln-coal-mining-entity-2024-08-21/#:~:text=Commodities-,Consol%20Energy%2C%20Arch%20Resources%20strike%20merger%20deal%20to,%245%20billion%20coal%20mining%20giant&text=Aug%2021%20\(Reuters\)%20%2D%20Arch,at%20more%20than%20%245%20billion.) to create a North American coal powerhouse. The combined company, Core Natural Resources, will own 11 mines producing thermal and metallurgical coal, focusing on exporting to global markets. Despite the push for cleaner energy, coal remains crucial for steel production and electricity generation. The deal is expected to close by early 2025, and the new company will have the largest coal export capacity in North America. This merger is a bet on the continued demand for coal, even in a shifting energy landscape.
 
