@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
@@ -24,7 +30,7 @@ Private equity firms in the UK are lobbying hard to protect their [favorable tax
 
 ### Hedge Funds Attract AI Talent from DeepMind
 
-![AI](/images/23rd-aug_-bolts-450m-deal--uk-private-equity-faces-tax-hike-a-U0Mz.webp)
+![Bolts secures $450M deal as UK private equity faces tax hike](/images/23rd-aug_-bolts-450m-deal--uk-private-equity-faces-tax-hike-a-U0Mz.webp)
 
 Top hedge funds like Balyasny Capital Management and SquarePoint Capital are hiring AI experts from Google's DeepMind to boost their strategies. With AI becoming increasingly crucial in finance, these firms are strengthening their teams with experienced researchers. Balyasny's AI, BAM ChatGPT, is described as an "AI equivalent of a senior analyst," reflecting how deeply these funds are integrating AI into their operations. The move shows how hedge funds are staying competitive by leveraging cutting-edge technology.
 
