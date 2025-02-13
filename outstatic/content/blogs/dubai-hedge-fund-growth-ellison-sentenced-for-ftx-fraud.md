@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -38,7 +44,7 @@ Private equity giants like Blackstone and Goldman Sachs are going back to [basic
 
 ### NYC Transit Approves $65.4 Billion Upgrade
 
-![NYC Transit Approves $65.4 Billion Upgrade](/images/26th-sep--dubai-hedge-fund-growth--ellison-sentenced-for-ftx-fraud-b-Y2OD.webp)
+![Dubai hedge fund growth and Ellison sentenced for FTX fraud](/images/26th-sep--dubai-hedge-fund-growth--ellison-sentenced-for-ftx-fraud-b-Y2OD.webp)
 
 New York City’s transit system is about to get a major [facelift](https://www.bnnbloomberg.ca/investing/2024/09/25/nyc-transit-system-approves-record-654-billion-capital-program/) with a $65.4 billion capital plan approved for 2025–2029. The Metropolitan Transportation Authority (MTA) is aiming to modernize subway signals, replace aging rail cars, and renovate power stations. Half the plan’s funding still needs to be secured, but Governor Kathy Hochul is promising to fight for the money. This upgrade is crucial for low-income riders who depend on the MTA for work and school.
 
