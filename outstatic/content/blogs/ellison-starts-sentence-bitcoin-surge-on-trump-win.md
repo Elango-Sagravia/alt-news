@@ -70,7 +70,7 @@ Monthly unicorn formations surged to an unprecedented peak in 2021, with over 70
 
 **Why are tech stocks volatile in a high-interest-rate environment?**
 
-![Tech stocks see volatility as rising interest rates hike borrowing costs and reduce future earnings appeal](/images/why-are-tech-stocks-volatile-in-a-high-interest-rate-environment_-E1OD.webp)
+![Why are tech stocks volatile in a high-interest-rate environment?](/images/why-are-tech-stocks-volatile-in-a-high-interest-rate-environment_-E1OD.webp)
 
 Tech stocks are particularly volatile in a high-interest-rate environment because rising rates increase borrowing costs, impacting companies that rely on debt to fuel growth. Many tech companies, especially younger ones, depend on external financing to develop new products, invest in R&D, or expand operations. For instance, Meta’s significant investment in the metaverse required substantial capital, which becomes more expensive as interest rates climb, pressuring profit margins.
 
