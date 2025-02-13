@@ -1,4 +1,8 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '"Courage taught me no matter how bad a crisis gets ... any sound investment will eventually pay off." — Carlos Slim Helu'
 footerBannerTitle: ''
 cutOff: '8'
@@ -20,7 +24,7 @@ publishedAt: '2024-11-13T12:06:36.605Z'
 
 ### Alameda boss starts prison sentence over FTX fraud
 
-![Caroline Ellison, former Alameda Research CEO, begins two-year prison sentence for role in FTX's $11 billion fraud case](/images/alameda-boss-ellison-begins-two-year-sentence-over-ftx-fraud-QyND.webp)
+![Alameda Research boss Caroline Ellison begins two-year sentence for FTX fraud](/images/alameda-boss-ellison-begins-two-year-sentence-over-ftx-fraud-QyND.webp)
 
 Caroline Ellison, former CEO of Alameda Research,[ started](https://www.hedgeweek.com/alameda-boss-ellison-begins-two-year-sentence-over-ftx-fraud/) her two-year sentence at Danbury Federal Correctional Institution on November 7, 2024. Inmate 36854-510, Ellison played a pivotal role in FTX’s $11 billion fraud, leading to the downfall of the $32 billion crypto exchange. Her cooperation, after a December 2022 plea deal, was key in convicting Sam Bankman-Fried, FTX's founder, who received a 25-year sentence for misuse of customer funds. Other FTX execs faced repercussions, including former engineering director Nishad Singh and co-CEO Ryan Salame, underscoring the vast impact of FTX’s collapse.
 
