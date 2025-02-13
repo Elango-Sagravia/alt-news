@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
@@ -54,6 +60,6 @@ PGIM Real Estate, Prudential’s $206 billion property arm, is[ partnering](http
 
 ### NYC Pension Funds Tighten Fossil-Fuel Rules
 
-![New York City's pension funds are enforcing stricter restrictions on fossil-fuel investments](/images/nyc-funds-plan-additional-fossil-fuel-investing-restrictions-IxOD.webp)
+![NYC funds plan additional restrictions on fossil fuel investments](/images/nyc-funds-plan-additional-fossil-fuel-investing-restrictions-IxOD.webp)
 
 New York City’s pension funds are [planning](https://www.bnnbloomberg.ca/investing/2024/10/22/nycs-lander-proposes-fossil-fuel-divestments-in-private-markets/) additional restrictions on fossil-fuel investments, targeting private equity and infrastructure portfolios. This move, part of a 2021 pledge to reach net zero by 2040, will affect three of the city’s five retirement plans. Comptroller Brad Lander’s proposal will block future investments in energy infrastructure like pipelines and LNG terminals. The funds, managing $206 billion as of August, had already divested from publicly traded fossil-fuel companies, aligning with broader efforts to combat climate change.
