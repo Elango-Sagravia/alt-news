@@ -1,4 +1,10 @@
 ---
+metaDescription: ''
+metaTitle: ''
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 relatedArticles: ''
 readTime: '5'
@@ -27,7 +33,7 @@ DevRev, a Silicon Valley startup focused on building an AI-native platform for c
 
 ### Miru Raises $20 Million Series A for Electrochromic Windows
 
-![](/images/electrochromic-A4ND.webp)
+![Electrochromic technology: Smart glass innovations](/images/electrochromic-A4ND.webp)
 
 Miru, a startup specializing in electrochromic technology for bright windows, has raised a $20 million Series A funding round led by BDC Capital and Angelo Paletta of TNG Capital. The funds will be used to develop further Miru’s innovative technology, which allows windows to change tint on demand, providing energy efficiency and enhancing occupant comfort. Electrochromic windows are gaining traction in both commercial and residential markets as a sustainable solution to reduce energy consumption by controlling the amount of light and heat that enters a building. With this new investment, Miru plans to scale its manufacturing capabilities, expand its product line, and explore partnerships with key construction and real estate players.
 
