@@ -36,7 +36,7 @@ A disappointing press conference from China's National Development and Reform Co
 
 ### Hedge Funds Boost Crypto Exposure in 2024
 
-![Hedge fund cryptocurrency exposure rises](/images/oct-11--sibanye-loses-1b-deal--china-stimulus-shakes-winton-fund-b--1--Y4NT.webp)
+![Sibanye loses $1B deal, China stimulus shakes Winton Fund](/images/oct-11--sibanye-loses-1b-deal--china-stimulus-shakes-winton-fund-b--1--Y4NT.webp)
 
 Nearly half of traditional hedge funds are now[ dabbling in cryptocurrencies](https://www.bnnbloomberg.ca/business/company-news/2024/10/10/almost-half-of-traditional-hedge-funds-are-dabbling-in-crypto/). Regulatory clarity and the launch of crypto ETFs are driving the trend, with 47% of hedge funds now exposed to digital assets, up from 29% in 2023. Funds are trading more derivatives in the space, eyeing the lucrative returns crypto markets offer. While some hedge funds remain cautious, many are exploring advanced strategies to capture high returns from this volatile market.
 
