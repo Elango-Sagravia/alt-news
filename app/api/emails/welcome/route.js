@@ -24,7 +24,7 @@ async function sendEmail(email, slug, uniqueId) {
     from: '"Long & Short" <no-reply@newsletter.longandshort.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
-    subject: "Action required: confirm your Long and Short subscription",
+    subject: "Action required: confirm your subscription",
     text: "", // Plain text content
     html: emailContent
       .replaceAll("test@test.com", email)
