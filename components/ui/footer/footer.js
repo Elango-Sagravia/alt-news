@@ -51,9 +51,6 @@ export default function Footer() {
                 <Link target="_blank" href="https://www.threads.net/@readlongandshort">Threads</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.reddit.com/user/AltInvestmentNews/?rdt=63466">Reddit</Link>
-              </li>
-              <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.linkedin.com/showcase/readlongandshort/">LinkedIn</Link>
               </li>
             </ul>
@@ -99,9 +96,6 @@ export default function Footer() {
               </li>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.threads.net/@readlongandshort">Threads</Link>
-              </li>
-              <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.reddit.com/user/AltInvestmentNews/?rdt=63466">Reddit</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.linkedin.com/showcase/readlongandshort/">LinkedIn</Link>
