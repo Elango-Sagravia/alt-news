@@ -72,7 +72,7 @@ export default async function Home({ params }) {
   );
   return (
     <div>
-      <Suspense>
+      <Suspense className="archive-page-slug">
         <SingleBlog
           index={index}
           blog={blog}
