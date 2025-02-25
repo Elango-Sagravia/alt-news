@@ -71,8 +71,8 @@ export default async function Home({ params }) {
     relatedBlogsSlugs.includes(el.slug)
   );
   return (
-    <div>
-      <Suspense className="archive-page-slug">
+    <div className="archive-page-slug">
+      <Suspense>
         <SingleBlog
           index={index}
           blog={blog}
