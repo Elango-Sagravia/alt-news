@@ -12,7 +12,7 @@ export default function NotFound() {
         <p className="mt-4">
           Sorry, the page you are looking for does not exist.
         </p>
-        <Link className="block mt-5 text-nl_background" href={"/"}>
+        <Link className="block mt-5 text-nl_background" href="/">
           Visit Home
         </Link>
       </div>
