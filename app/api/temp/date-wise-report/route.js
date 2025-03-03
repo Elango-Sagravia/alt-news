@@ -11,9 +11,10 @@ export async function GET(request) {
     ? searchParams.get("website_ids").split(",").map(Number)
     : [1]; // Default to website_id 1 if not provided
 
-  // Set default dates from Jan 1, 2025, to yesterday
-  const start_date = "2025-01-01";
-  const end_date = "2025-03-3";
+  // Get start_date and end_date from query parameters, defaulting if not provided
+  const start_date = searchParams.get("start_date") || "2025-01-01";
+  const end_date =
+    searchParams.get("end_date") || new Date().toISOString().split("T")[0]; // Default to today's date
 
   try {
     // Fetch daily cumulative subscribers count
