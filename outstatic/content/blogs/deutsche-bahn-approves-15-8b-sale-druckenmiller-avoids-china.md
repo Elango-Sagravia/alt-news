@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Deutsche Bahn approves a $15.8B sale as Druckenmiller moves away from China. Get the details on these major financial shifts'
+metaTitle: 'Deutsche Bahn’s $15.8B Sale & Druckenmiller’s China Exit'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
