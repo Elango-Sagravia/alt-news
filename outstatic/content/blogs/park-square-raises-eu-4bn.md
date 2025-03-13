@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Park Square secures €4 billion to expand its private equity investments.'
+metaTitle: 'Park Square Raises €4B for New Private Equity Fund'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
