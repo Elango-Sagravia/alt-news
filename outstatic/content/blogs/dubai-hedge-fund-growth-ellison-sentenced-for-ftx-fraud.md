@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Hedge funds in Dubai expand as Ellison’s sentencing for FTX fraud shakes the crypto world.'
+metaTitle: ' Dubai Hedge Funds Grow as Ellison Faces FTX Fraud Sentence.'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
