@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Ellison starts serving time while Bitcoin rallies following Trump’s election win.'
+metaTitle: 'Ellison Begins Sentence as Bitcoin Surges on Trump Victory'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: '"Courage taught me no matter how bad a crisis gets ... any sound investment will eventually pay off." — Carlos Slim Helu'
