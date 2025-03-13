@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Hedge funds bet on SGD while Samsung struggles with AI competition. Get the latest insights.'
+metaTitle: ' Hedge Funds Eye SGD as Samsung Faces AI Challenges'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
