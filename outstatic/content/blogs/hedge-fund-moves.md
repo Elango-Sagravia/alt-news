@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Hedge funds adjust their strategies as market trends evolve. Discover the latest fund movements.'
+metaTitle: 'Hedge Funds Shift Strategies Amid Market Volatility'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
