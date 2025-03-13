@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Whatfix raises $90M while hedge funds struggle with China’s volatile market trends.'
+metaTitle: 'Whatfix Secures $90M as Hedge Funds Face China Rally'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
