@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'The SEC rolls back a hedge fund fee rule following resistance from financial firms.'
+metaTitle: 'SEC Drops Hedge Fund Fee Rule After Industry Pushback'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
