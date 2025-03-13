@@ -1,4 +1,10 @@
 ---
+metaDescription: 'BLG enters the Italian market while Chinese quantitative funds struggle under economic pressures. Learn what this means for global finance.'
+metaTitle: 'BLG Expands to Italy as Chinese Quant Funds Face Struggles'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
