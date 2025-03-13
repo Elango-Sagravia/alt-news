@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Schonfeld outperforms Millennium as hedge funds make bold bets on Turkish lira stability.'
+metaTitle: 'Schonfeld Outpaces Millennium as Hedge Funds Bet on Lira'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
