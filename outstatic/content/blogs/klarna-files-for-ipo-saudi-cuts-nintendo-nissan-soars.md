@@ -1,4 +1,8 @@
 ---
+metaDescription: ' Klarna moves toward an IPO while Saudi Arabia cuts investments and Nissan’s stock surges.'
+metaTitle: 'Klarna Files for IPO as Saudi Cuts & Nissan Soars'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“Financial freedom is freedom from fear.” — Robert Kiyosaki'
 footerBannerTitle: ''
 cutOff: '8'
