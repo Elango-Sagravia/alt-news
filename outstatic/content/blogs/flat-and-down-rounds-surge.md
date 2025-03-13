@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Startups face funding challenges as flat and down rounds rise.'
+metaTitle: 'Flat & Down Rounds Surge in Private Market Funding'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
