@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Market caution in China grows as hedge funds rally while Ivy League endowments face losses. A closer look at global market trends.'
+metaTitle: 'China Market Caution as Hedge Funds Rally & Ivy Endowments Dip'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
