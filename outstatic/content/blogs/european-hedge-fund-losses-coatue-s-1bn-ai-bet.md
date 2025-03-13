@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Hedge fund losses in Europe rise as Coatue makes a $1B AI investment.'
+metaTitle: 'European Hedge Fund Losses & Coatue’s $1B AI Bet'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '7'
 latest: 'true'
 relatedArticles: ''
