@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Hedge funds are ramping up their crypto investments. Explore the factors influencing this growing trend.'
+metaTitle: 'Hedge Funds Double Down on Crypto Amid Market Shifts'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
