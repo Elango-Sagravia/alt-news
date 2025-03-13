@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Loan defaults decline, signaling improved economic conditions. What’s driving this trend?'
+metaTitle: 'Loan Defaults Dip as Economic Stability Improves'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
