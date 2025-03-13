@@ -1,4 +1,8 @@
 ---
+metaDescription: ' GCQ places a strategic bet in Japan, while PEP makes a $780M offer. Get insights into the latest private equity moves'
+metaTitle: 'GCQ’s Japan Bet & PEP’s $780M Offer Shake Markets'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“Do not save what is left after spending, but spend what is left after saving.” – Warren Buffett'
 footerBannerTitle: ''
 cutOff: '8'
