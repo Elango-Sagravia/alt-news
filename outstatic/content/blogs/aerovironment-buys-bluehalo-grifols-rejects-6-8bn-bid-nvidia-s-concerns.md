@@ -1,4 +1,8 @@
 ---
+metaDescription: 'AeroVironment acquires BlueHalo, Grifols rejects a major takeover offer, and Nvidia raises fresh concerns. Stay ahead with key business updates.'
+metaTitle: 'AeroVironment Buys BlueHalo, Grifols Rejects $6.8B Bid'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“In the short run, the market is a voting machine. In the long run, it is a weighing machine.” - Benjamin Graham'
 footerBannerTitle: ''
 cutOff: '8'
