@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Qantas faces backlash while KKR sets an ambitious $20B goal. The SEC also monitors Freeport deals.'
+metaTitle: 'Qantas Scandal & KKR’s $20B Target Explained'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
