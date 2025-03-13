@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Private equity deals hit new highs while Citadel pushes forward with its Asia expansion strategy.'
+metaTitle: 'Private Equity Deals Surge as Citadel Expands in Asia'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
