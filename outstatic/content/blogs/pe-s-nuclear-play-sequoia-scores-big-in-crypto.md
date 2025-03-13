@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: ' Private equity firms turn to nuclear investments while Sequoia secures major crypto gains.'
+metaTitle: 'Private Equity Bets on Nuclear as Sequoia Wins in Crypto'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
