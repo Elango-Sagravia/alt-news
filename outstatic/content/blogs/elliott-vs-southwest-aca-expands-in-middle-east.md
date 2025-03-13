@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Elliott battles Southwest while ACA expands in the Middle East. See how these moves affect business.'
+metaTitle: 'Elliott vs. Southwest & ACA’s Middle East Expansion'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
