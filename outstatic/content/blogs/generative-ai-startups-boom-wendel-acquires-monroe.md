@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'The generative AI market surges as Wendel acquires Monroe. Explore the latest in AI innovation and private equity.'
+metaTitle: 'Generative AI Startups Boom as Wendel Buys Monroe'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
