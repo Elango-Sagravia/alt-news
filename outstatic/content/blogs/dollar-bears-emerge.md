@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Investors turn bearish on the US dollar as market dynamics change. What’s next for currency traders?'
+metaTitle: 'Dollar Bears Emerge as Market Trends Shift in 2024'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
