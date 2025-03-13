@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Wolfspeed secures a $1.5B investment while Brazil’s hedge funds see major gains.'
+metaTitle: 'Wolfspeed’s $1.5B Boost & Brazil’s Hedge Fund Wins'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
