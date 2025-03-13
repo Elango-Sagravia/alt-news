@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Gold prices drop after Trump’s win as venture debt sees a significant rise.'
+metaTitle: 'Gold Falls Post-Trump Win & Venture Debt Surges'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: '“The stock market is a device to transfer money from the impatient to the patient.” - Warren Buffett'
