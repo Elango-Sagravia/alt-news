@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Apollo sets a $10B investment target, and Veyrat pushes for sustainable biomass solutions. Explore the latest in finance and energy markets.'
+metaTitle: 'Apollo’s $10B Target, Veyrat Bets Big on Biomass Energy'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
