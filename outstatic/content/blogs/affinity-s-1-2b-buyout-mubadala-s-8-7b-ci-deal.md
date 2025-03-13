@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Affinity agrees to a $1.2B buyout while Mubadala closes an $8.7B CI deal. Explore the latest in high-stakes global investments.'
+metaTitle: 'Affinity’s $1.2B Buyout, Mubadala’s $8.7B Investment Deal'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“Wealth consists not in having great possessions, but in having few wants.” – Epictetus'
 footerBannerTitle: ''
 cutOff: '8'
