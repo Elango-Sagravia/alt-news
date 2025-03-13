@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Odyssey buys Honeywell’s PPE unit while Blackstone secures a $3.5B EQT stake.'
+metaTitle: 'Odyssey Acquires Honeywell PPE & Blackstone’s EQT Stake'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“Every portfolio benefits from a few good companies held for the long term.” – Steven Cohen'
 footerBannerTitle: ''
 cutOff: '8'
