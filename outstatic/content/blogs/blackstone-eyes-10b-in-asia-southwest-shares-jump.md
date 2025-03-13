@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Blackstone plans a $10B expansion in Asia, while Southwest Airlines shares jump. Explore major financial and aviation market trends.'
+metaTitle: ' Blackstone Eyes $10B in Asia, Southwest Airlines Surges'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
