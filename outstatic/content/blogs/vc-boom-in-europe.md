@@ -1,4 +1,10 @@
 ---
+metaDescription: 'European VC funding surges as investors bet big on startups and innovation.'
+metaTitle: 'Venture Capital Booms in Europe as Startups Thrive'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '10'
 relatedArticles: ''
 readTime: '5'
