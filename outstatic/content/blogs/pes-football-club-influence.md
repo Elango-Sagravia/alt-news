@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Private equity firms expand their influence in football club ownership and operations.'
+metaTitle: 'Private Equity’s Growing Influence in Football Clubs'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
