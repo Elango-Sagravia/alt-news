@@ -1,4 +1,10 @@
 ---
+metaDescription: ' Hedge fund Two Sigma undergoes leadership changes as it reshapes its strategy.'
+metaTitle: 'Two Sigma Announces Leadership Changes Amid Restructuring'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 relatedArticles: ''
 readTime: '5'
