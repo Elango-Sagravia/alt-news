@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'A major coal industry merger reshapes competition and investment trends. See how this deal affects energy markets.'
+metaTitle: 'Major Coal Merger Reshapes Energy Sector Competition'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
