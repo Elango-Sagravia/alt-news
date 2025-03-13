@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Renewi receives a major acquisition offer as Japan’s real estate market sees record growth.'
+metaTitle: 'Renewi’s Acquisition Offer & Japan’s $165B Real Estate Boom'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“The biggest risk is not taking any.” – unknown'
 footerBannerTitle: ''
 cutOff: '8'
