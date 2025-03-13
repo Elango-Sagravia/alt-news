@@ -1,4 +1,10 @@
 ---
+metaDescription: 'BlackRock expands with a $450B fund, and Bain competes with KKR for Fuji Soft. Get insights into major investment moves.'
+metaTitle: 'BlackRock’s $450B Push, Bain vs. KKR for Fuji Soft'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
