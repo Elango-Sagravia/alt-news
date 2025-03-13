@@ -1,4 +1,10 @@
 ---
+metaDescription: ' Florida boosts PE investments across industries.'
+metaTitle: 'Florida Expands Private Equity Investments in Key Sectors'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '3'
 relatedArticles: ''
 readTime: '5'
