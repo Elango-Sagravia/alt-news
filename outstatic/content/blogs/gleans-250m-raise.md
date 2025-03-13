@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Glean raises $250M to expand its AI capabilities. Find out how this funding will impact the AI landscape.'
+metaTitle: 'Glean Secures $250M Funding to Drive AI Expansion'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
