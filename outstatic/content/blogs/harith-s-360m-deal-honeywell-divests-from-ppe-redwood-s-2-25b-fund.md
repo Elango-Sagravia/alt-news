@@ -1,4 +1,8 @@
 ---
+metaDescription: ' Harith secures a $360M deal as Honeywell divests from PPE. Redwood also raises a $2.25B fund.'
+metaTitle: 'Harith’s $360M Deal & Honeywell’s PPE Exit Explained'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“The four most dangerous words in investing are: ‘This time it’s different.’” – Sir John Templeton'
 footerBannerTitle: ''
 cutOff: '8'
