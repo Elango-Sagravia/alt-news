@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Gold prices rise alongside growing confidence in crypto markets. What’s driving investor sentiment?'
+metaTitle: 'Gold Prices Surge as Crypto Confidence Strengthens'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
