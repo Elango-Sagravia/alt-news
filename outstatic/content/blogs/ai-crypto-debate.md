@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'The AI and crypto industries clash over dominance in finance. Will AI revolutionize trading, or will crypto remain a key asset? Find out more.'
+metaTitle: 'AI vs. Crypto: The Future of Investment and Innovation'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
