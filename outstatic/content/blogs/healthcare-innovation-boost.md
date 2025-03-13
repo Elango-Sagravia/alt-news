@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: ' Investment in healthcare innovation surges as companies push new breakthroughs. Get insights into the latest trends.'
+metaTitle: 'Healthcare Innovation Sees Major Investment Boost'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
