@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Morgan Stanley shifts focus to hedge funds amid changing financial landscapes.'
+metaTitle: ' Morgan Stanley Eyes Hedge Funds for New Investments'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
