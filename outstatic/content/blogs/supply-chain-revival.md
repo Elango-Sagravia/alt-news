@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Supply chain disruptions ease as global trade recovers. What’s driving this revival?'
+metaTitle: 'Global Supply Chains Rebound as Trade Recovers'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 relatedArticles: ''
 readTime: '5'
