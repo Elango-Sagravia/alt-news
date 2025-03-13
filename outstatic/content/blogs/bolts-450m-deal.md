@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Bolt raises $450 million to fuel growth and innovation. Find out how this deal impacts the company’s future and the fintech sector.'
+metaTitle: 'Bolt Secures $450M Deal to Accelerate Expansion Plans'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
