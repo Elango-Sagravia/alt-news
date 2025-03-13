@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Trend Micro gets acquired in a major cybersecurity deal, reshaping the industry.'
+metaTitle: 'Trend Micro Acquired in Major Cybersecurity Buyout'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
