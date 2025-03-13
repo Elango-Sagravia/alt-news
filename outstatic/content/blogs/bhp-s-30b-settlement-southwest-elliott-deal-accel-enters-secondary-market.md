@@ -1,4 +1,10 @@
 ---
+metaDescription: 'BHP settles for $30B, Southwest sees a key Elliott deal, and Accel makes a secondary market move. Get the latest in finance and aviation.'
+metaTitle: 'BHP’s $30B Settlement, Elliott’s Southwest Deal, Accel Expands'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
