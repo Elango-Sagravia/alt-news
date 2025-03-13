@@ -1,4 +1,10 @@
 ---
+metaDescription: ' A new AI-powered hedge fund platform aims to transform financial markets. Discover how automation and machine learning are reshaping investments.'
+metaTitle: 'AI Hedge Fund Platform Launches to Disrupt Finance'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
