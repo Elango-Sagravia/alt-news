@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: ' Segantii exits following an insider trading scandal, while ABP reports €23B in gains.'
+metaTitle: 'Segantii Exits Amid Scandal & ABP Gains €23B'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
