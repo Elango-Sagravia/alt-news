@@ -1,4 +1,10 @@
 ---
+metaDescription: 'ExodusPoint faces losses while Viking Capital secures a major financial victory.'
+metaTitle: 'ExodusPoint Declines as Viking Capital Scores Big Win'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
