@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Bridgewater sees major fund gains, while Klarna secures a £30 billion loan deal. Explore the latest in hedge funds and fintech.'
+metaTitle: 'Bridgewater Fund Surges & Klarna’s £30B Loan Deal Explained'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
