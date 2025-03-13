@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Blackstone closes a $13.5 billion deal, expanding its portfolio with strategic investments. Discover the details behind this high-stakes acquisition.'
+metaTitle: 'Blackstone’s $13.5B Deal Signals Major Investment Move'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
