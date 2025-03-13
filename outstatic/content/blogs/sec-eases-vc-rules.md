@@ -1,4 +1,10 @@
 ---
+metaDescription: ' The SEC relaxes venture capital regulations to encourage startup funding and innovation.'
+metaTitle: 'SEC Eases VC Rules to Boost Startup Investments'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
