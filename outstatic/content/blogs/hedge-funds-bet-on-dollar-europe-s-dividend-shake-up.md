@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Hedge funds make bold dollar bets while European dividend policies undergo major changes.'
+metaTitle: 'Hedge Funds Bet on Dollar as Europe’s Dividends Shift'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
