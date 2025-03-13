@@ -1,4 +1,10 @@
 ---
+metaDescription: 'The crypto landscape is evolving with major moves shaping the industry. Explore the latest developments in digital assets.'
+metaTitle: 'Crypto Markets Shift as Investors Eye New Opportunities'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
