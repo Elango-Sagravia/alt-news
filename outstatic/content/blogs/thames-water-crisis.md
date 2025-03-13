@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Thames Water deals with mounting financial challenges and operational issues.'
+metaTitle: 'Thames Water Faces Crisis Amid Financial Struggles'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
