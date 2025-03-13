@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Castik launches a €2 billion fund, while CVC makes a major bid for Schenker. Discover the latest private equity moves.'
+metaTitle: 'Castik’s €2B Fund & CVC’s Bid for Schenker Shake Markets'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
