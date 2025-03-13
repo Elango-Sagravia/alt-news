@@ -1,4 +1,10 @@
 ---
+metaDescription: ' Blackstone invests $8.4 billion in Smartsheet, strengthening its position in tech. Explore the impact of this major acquisition.'
+metaTitle: 'Blackstone’s $8.4B Smartsheet Deal Boosts Tech Investments'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
