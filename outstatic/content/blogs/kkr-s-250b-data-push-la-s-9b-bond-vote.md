@@ -1,4 +1,10 @@
 ---
+metaDescription: 'KKR invests in data, while Los Angeles prepares for a $9B bond decision.'
+metaTitle: 'KKR’s $250B Data Bet & LA’s $9B Bond Vote Explained'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '7'
 latest: 'true'
 relatedArticles: ''
