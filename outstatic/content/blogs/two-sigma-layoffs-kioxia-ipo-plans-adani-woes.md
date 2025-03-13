@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Two Sigma announces layoffs, Kioxia preps for an IPO, and Adani faces financial setbacks.'
+metaTitle: 'Two Sigma Layoffs & Kioxia’s IPO Plans Amid Adani Woes'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“A market downturn doesn’t bother us. It is an opportunity to increase our ownership of great companies with great management at good prices.” - Warren Buffett'
 footerBannerTitle: ''
 cutOff: '8'
