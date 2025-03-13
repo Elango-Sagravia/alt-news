@@ -1,4 +1,8 @@
 ---
+metaDescription: ' Wonder acquires Grubhub while D.E. Shaw bets against Bayer.'
+metaTitle: 'Wonder Buys Grubhub as D.E. Shaw Shorts Bayer'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '“Activity is the enemy of investment returns.” Warren Buffett'
 footerBannerTitle: ''
 cutOff: '8'
@@ -24,7 +28,7 @@ publishedAt: '2024-11-15T12:47:59.169Z'
 
 Hedge fund DE Shaw has taken a [$108 million short position](https://www.hedgeweek.com/de-shaw-makes-108m-bayer-short-bet/) on Bayer, following a recent earnings report that sent the pharma giant’s shares tumbling to a two-decade low. CEO Bill Anderson warned of further earnings declines, especially in agricultural markets, compounding challenges for Bayer as it pursues a turnaround. DE Shaw’s bet reflects investor skepticism over Bayer’s prospects in the near term, highlighting the pressure on Anderson’s strategy to revive the company’s performance.
 
-### **Wonder acquires Grubhub for $650M** 
+### **Wonder acquires Grubhub for $650M**
 
 ![Foodtech company Wonder acquires Grubhub for $650 million](/images/wonder-acquires-grubhub-for-650m--E4Nj.webp)
 
@@ -67,7 +71,7 @@ Global spending on renewable energy needs to accelerate substantially to zero ou
 
 **Others**
 
-**→ MinRes pays rent to director-linked entities:** Mineral Resources (MinRes) disclosed paying around [A$32 million](https://www.bnnbloomberg.ca/investing/2024/11/14/minres-says-it-paid-rent-of-a32m-to-entities-linked-to-ellison/) in rent to entities linked to Chris Ellison, its managing director since 2007.** Ellison is under scrutiny for “disappointing” conduct that sparked investigations by both the company and regulatory authorities. In addition, MinRes provided “rent relief” to a ship agency owned by Ellison’s daughter. Following an internal investigation, Ellison faces an A$8.8 million fine and plans to retire within 18 months.
+**→ MinRes pays rent to director-linked entities:** Mineral Resources (MinRes) disclosed paying around [A$32 million](https://www.bnnbloomberg.ca/investing/2024/11/14/minres-says-it-paid-rent-of-a32m-to-entities-linked-to-ellison/) in rent to entities linked to Chris Ellison, its managing director since 2007.\*\* Ellison is under scrutiny for “disappointing” conduct that sparked investigations by both the company and regulatory authorities. In addition, MinRes provided “rent relief” to a ship agency owned by Ellison’s daughter. Following an internal investigation, Ellison faces an A$8.8 million fine and plans to retire within 18 months.
 
 **→ PIF reduces Saudi Telecom stake with $1B share sale:** The Public Investment Fund (PIF) sold [100 million shares](https://www.pif.gov.sa/en/news-and-insights/press-releases/2024/pif-announces-sale-of-100-million-shares-in-stc/#:~:text=PIF%20today%20announced%20the%20completion,of%20stc's%20issued%20share%20capital.) in Saudi Telecom Company (STC), raising SAR 3.86 billion ($1.03 billion) through an accelerated bookbuild. This sale represents 2% of STC’S issued capital and is the largest offering of its kind in the MENA region. While PIF still holds a 62% stake, the move aims to increase STC’S free float and diversify its investor base. The sale attracted both local and international institutional investors, showing the appeal of Saudi’s capital market and the demand for STC shares.
 
