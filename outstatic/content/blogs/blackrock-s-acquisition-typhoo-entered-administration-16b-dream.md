@@ -1,4 +1,8 @@
 ---
+metaDescription: 'BlackRock secures a major acquisition, Typhoo enters administration, and a $16B investment dream unfolds. Get the latest financial updates.'
+metaTitle: 'BlackRock’s Acquisition, Typhoo’s Struggles, $16B Vision'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: '"Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria." – Sir John Templeton'
 footerBannerTitle: ''
 cutOff: '8'
