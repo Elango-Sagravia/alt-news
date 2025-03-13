@@ -1,4 +1,10 @@
 ---
+metaDescription: ' Stay updated on the latest market shifts and investment trends shaping global finance.'
+metaTitle: 'Market Moves: Key Trends Driving Investment Decisions'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
