@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Thrive secures $5B for its latest fund, supporting high-growth startups and tech ventures.'
+metaTitle: 'Thrive Raises $5B Fund to Fuel Startup Growth'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 relatedArticles: ''
 readTime: '5'
