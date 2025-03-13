@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'Hound and Tiger funds struggle as Blackstone’s $8B sub-deal hangs in the balance.'
+metaTitle: ' Hound vs. Tiger: Multi-Strategy Funds Face Stalling'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: '“Far more money has been lost by investors trying to anticipate corrections, than lost in the corrections themselves.” - Peter Lynch'
