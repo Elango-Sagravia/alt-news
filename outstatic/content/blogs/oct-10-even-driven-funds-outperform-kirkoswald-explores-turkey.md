@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Event-driven funds see gains while Kirkoswald explores new investment opportunities in Turkey.'
+metaTitle: 'Event-Driven Funds Outperform as Kirkoswald Eyes Turkey'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
