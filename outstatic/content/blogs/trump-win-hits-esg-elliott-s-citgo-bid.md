@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Trump’s victory affects ESG investments while Elliott makes a move for Citgo.'
+metaTitle: 'Trump Win Impacts ESG as Elliott Bids for Citgo'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
