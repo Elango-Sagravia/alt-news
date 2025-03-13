@@ -1,4 +1,10 @@
 ---
+metaDescription: ' Trump’s policies drive dollar speculation while Lightmatter reaches a $4.4B valuation.'
+metaTitle: 'Trump Fuels Dollar Bets as Lightmatter Hits $4.4B Valuation'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
