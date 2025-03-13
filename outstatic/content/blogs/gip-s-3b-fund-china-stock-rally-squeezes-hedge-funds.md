@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: 'GIP launches a $3B fund, while China’s stock rally pressures hedge funds. Get the latest market insights.'
+metaTitle: ' GIP’s $3B Fund & China’s Stock Rally Squeeze Hedge Funds'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
