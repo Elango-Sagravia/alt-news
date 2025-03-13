@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Patria raises $100M for a new fund, aiming to boost its investment strategy across markets.'
+metaTitle: 'Patria Launches $100M Fund to Expand Investment Portfolio'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
