@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Hedge funds increase gold investments as market risks rise. Discover what’s driving this shift in strategy.'
+metaTitle: 'Hedge Funds Bet Big on Gold Amid Market Uncertainty'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
