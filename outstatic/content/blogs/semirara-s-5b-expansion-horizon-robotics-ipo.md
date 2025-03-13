@@ -1,6 +1,6 @@
 ---
-metaDescription: ''
-metaTitle: ''
+metaDescription: ' Semirara invests $5B in expansion while Horizon Robotics gears up for its IPO.'
+metaTitle: 'Semirara’s $5B Expansion & Horizon Robotics’ IPO Plans'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: ''
