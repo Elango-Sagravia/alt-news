@@ -38,7 +38,7 @@ export async function generateMetadata() {
         {
           url: thumbnail,
           secureUrl: thumbnail,
-          alt: "AltDaily",
+          alt: "Long & Short",
         },
       ],
       type: "website",

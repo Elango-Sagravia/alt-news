@@ -54,12 +54,28 @@ export async function generateMetadata({ params }) {
     "slug",
     "metaTitle",
     "metaDescription",
+    "coverImage",
   ]);
   return {
     title: post.metaTitle,
     description: post.metaDescription,
     alternates: {
       canonical: `https://www.longandshort.com/archives/${slug}`,
+    },
+    metadataBase: new URL(process.env.url),
+    themeColor: "#6b705c",
+    openGraph: {
+      title: post.metaTitle,
+      description: post.metaDescription,
+      url: process.env.url,
+      images: [
+        {
+          url: post.coverImage,
+          secureUrl: post.coverImage,
+          alt: "Long & Short",
+        },
+      ],
+      type: "article",
     },
   };
 }
