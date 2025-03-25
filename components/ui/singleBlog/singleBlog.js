@@ -44,10 +44,7 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
           <div
             className="archive"
             dangerouslySetInnerHTML={{
-              __html: blog.emailHtmlPreview.replaceAll(
-                "<a",
-                `<a target="_blank"`
-              ),
+              __html: blog.emailHtml.replaceAll("<a", `<a target="_blank"`),
             }}
           />
           <div className="max-w-[600px] mx-auto bg-white py-16">
