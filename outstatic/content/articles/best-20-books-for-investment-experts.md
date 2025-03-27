@@ -1,4 +1,7 @@
 ---
+coverImageAltText: ''
+metaDescription: ''
+metaTitle: ''
 readTime: '8'
 coverImage: '/images/thumbnail-I4MD.jpg'
 description: 'In the well-picked list find the best investment books recommended for investors to refine and revamp investment strategies. This list is curated to cover most aspects of investments and guide towards financial literacy. '
