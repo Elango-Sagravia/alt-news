@@ -9,7 +9,7 @@ slug: 'best-20-books-for-investment-experts'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/196736953?v=4'
-status: 'published'
+status: 'draft'
 title: 'Best 20 books for investment experts'
 publishedAt: '2025-02-13T12:16:42.437Z'
 ---
