@@ -3,12 +3,18 @@ import AdvertiseHero from "@/components/ui/advertiseHero/advertiseHero";
 import AdvertiseQuestion from "@/components/ui/advertiseQuestion/advertiseQuestion";
 import AdvertiseStatus from "@/components/ui/advertiseStatus/advertiseStatus";
 
+const title = "Advertise on Long & Short Newsletter";
+const description =
+  "Promote your brand in Long & Short newsletter. Reach a global, informed audience through targeted and effective newsletter advertising.";
 export const metadata = {
-  title: "Advertise with Long & Short - Reach a Global Audience",
-  description:
-    "Promote your brand with Long & Short. Explore advertising opportunities and engage with a wide, informed audience.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.longandshort.com/advertise",
+  },
+  openGraph: {
+    title,
+    description,
   },
 };
 

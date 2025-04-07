@@ -19,12 +19,18 @@ async function getData() {
   return blogs;
 }
 
+const title = "Long & Short Archives - Past Editions";
+const description =
+  "Browse the Long & Short archives to access previous editions. Revisit past news, market analysis, and financial insights.";
 export const metadata = {
-  title: "Long & Short Archives - Explore Past News & Stories",
-  description:
-    "Browse the Long & Short archives for past news, articles, and analysis on politics, business, and global affairs.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.longandshort.com/archives",
+  },
+  openGraph: {
+    title,
+    description,
   },
 };
 

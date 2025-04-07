@@ -36,7 +36,26 @@ export async function generateStaticParams() {
   const policies = getDocumentSlugs("policies");
   return policies.map((slug) => ({ slug }));
 }
+export async function generateMetadata({ params }) {
+  const { slug } = params;
 
+  // Fetch metadata for the slug
+  const post = getDocumentBySlug("policies", params.slug, [
+    "seoTitle",
+    "seoDescription",
+  ]);
+  return {
+    title: post.seoTitle,
+    description: post.seoDescription,
+    alternates: {
+      canonical: `https://www.longandshort.com/policy/${slug}`,
+    },
+    openGraph: {
+      title: post.seoTitle,
+      description: post.seoDescription,
+    },
+  };
+}
 export default async function Home({ params }) {
   const policy = await getData(params);
   console.log("policy in slug", policy);

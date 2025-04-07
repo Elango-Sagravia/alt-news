@@ -20,10 +20,10 @@ const inter = Inter({ subsets: ["latin"] });
 const thumbnail = "/og.png";
 const baseUrl = process.env.url;
 export async function generateMetadata() {
-  const title = "Long & Short - News, Analysis & Insights";
+  const title = "Long & Short - Markets in minutes";
 
   const description =
-    "Stay updated with in-depth news, expert analysis, and insightful stories on global events, politics, business, and more.";
+    "Stay informed with Long & Short. Unbiased, fact-checked finance news, 5-minute read.";
 
   return {
     metadataBase: new URL(process.env.url),

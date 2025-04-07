@@ -6,8 +6,9 @@ import ArchiveHome from "@/components/ui/archiveHome/archiveHome";
 import Subscribe from "@/components/ui/subscribe/subscribe";
 
 export const metadata = {
-  title: "Long & Short - News, Analysis & Insights",
-  description: "Stay updated with in-depth news, expert analysis, and insightful stories on global events, politics, business, and more.",
+  title: "Long & Short - Markets in minutes",
+  description:
+    "Stay informed with Long & Short. Unbiased, fact-checked finance news, 5-minute read.",
   alternates: {
     canonical: "https://www.longandshort.com/",
   },

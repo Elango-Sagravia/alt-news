@@ -41,13 +41,21 @@ function truncateDescription(description, slug) {
   );
 }
 
+const title = "Long & Short Articles - Market Trends & Investment Insights";
+const description =
+  "Stay ahead with expert analysis on stocks, hedge funds, private equity, and global markets. Get the latest financial news and investment strategies";
 export const metadata = {
-  title: "",
-  description: "",
+  title,
+  description,
   alternates: {
     canonical: "https://www.longandshort.com/articles",
   },
+  openGraph: {
+    title,
+    description,
+  },
 };
+
 export default async function blogs() {
   const blogs = await getData();
   console.log(blogs);

@@ -4,12 +4,18 @@ import Subscribe from "@/components/ui/subscribe/subscribe";
 import libre from "@/components/libre-font";
 import ContactHeader from "@/components/ui/contactHeader/contactHeader";
 
+const title = "Contact Long & Short - Reach Our Team";
+const description =
+  "Have a question or inquiry? Contact the Long & Short team for support, partnerships, or advertising requests.";
 export const metadata = {
-  title: "Contact Long & Short - Get in Touch with Us",
-  description:
-    "Have questions or feedback? Contact Long & Short for inquiries, support, and partnership opportunities.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.longandshort.com/contact",
+  },
+  openGraph: {
+    title,
+    description,
   },
 };
 
