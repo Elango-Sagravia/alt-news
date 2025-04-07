@@ -7,8 +7,8 @@ author:
 slug: 'refund-policy'
 description: ''
 coverImage: ''
-seoTitle: 'Refund Policy - Long & Short Payment & Refund Terms'
-seoDescription: 'Review Long & Short’s refund policy, including eligibility, process, and conditions for payment returns.'
+seoTitle: 'Refund Policy - Long & Short'
+seoDescription: 'Read Long & Short’s refund policy for newsletter advertisers. We provide a clear and transparent process for advertising refunds.'
 publishedAt: '2025-01-01T13:27:16.000Z'
 ---
 
