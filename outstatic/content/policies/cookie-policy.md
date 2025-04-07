@@ -7,8 +7,8 @@ author:
 slug: 'cookie-policy'
 description: ''
 coverImage: ''
-seoTitle: 'Cookie Policy - How Long & Short Uses Cookies'
-seoDescription: 'Understand how we use cookies to enhance user experience and ensure website functionality in our cookie policy.'
+seoTitle: 'Cookie Policy - Long & Short'
+seoDescription: 'Learn how Long & Short uses cookies to improve your browsing experience and maintain transparency.'
 publishedAt: '2025-01-01T12:47:14.000Z'
 ---
 
