@@ -7,8 +7,8 @@ author:
 slug: 'terms-of-use'
 description: ''
 coverImage: ''
-seoTitle: 'Terms of Use - Long & Short Website Terms & Conditions'
-seoDescription: 'Read Long & Short’s terms of use, including rules, guidelines, and user agreements for accessing our platform.'
+seoTitle: 'Terms of Use - Long & Short'
+seoDescription: 'Review the terms and conditions of using Long & Short. Understand your rights and our policies for responsible use.'
 publishedAt: '2025-02-05T15:17:31.000Z'
 ---
 
