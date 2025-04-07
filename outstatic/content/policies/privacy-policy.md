@@ -7,8 +7,8 @@ author:
 slug: 'privacy-policy'
 description: ''
 coverImage: ''
-seoTitle: 'Privacy Policy - How Long & Short Protects Your Data'
-seoDescription: 'Learn how Long & Short handles your personal data, privacy rights, and security in our comprehensive privacy policy.'
+seoTitle: 'Privacy Policy - Long & Short'
+seoDescription: 'Read how Long & Short collects, uses, and protects your personal data.'
 publishedAt: '2025-01-01T12:21:37.000Z'
 ---
 
