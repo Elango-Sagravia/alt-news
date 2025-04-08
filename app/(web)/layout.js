@@ -68,6 +68,13 @@ const jsonLd = {
   ],
 };
 
+const nameJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "Long and Short",
+  url: "https://www.longandshort.com/",
+};
+
 export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en" className={inter.className}>
@@ -77,6 +84,13 @@ export default function RootLayout({ children }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(jsonLd),
+          }}
+        />
+        <Script
+          id="schema-name"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(nameJsonLd),
           }}
         />
         <meta
@@ -113,6 +127,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     `,
           }}
         />
+        <meta name="application-name" content="Long and Short" />
+        <meta property="og:site_name" content="Long and Short" />
+        <meta name="apple-mobile-web-app-title" content="Long and Short" />
       </head>
 
       <body>
