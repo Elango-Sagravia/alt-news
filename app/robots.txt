@@ -1,4 +1,8 @@
+User-agent: PerplexityBot
+Disallow: /outstatic
+
 User-agent: *
+Disallow: /outstatic
 Allow: /
-Disallow: /outstatic/
+
 Sitemap: https://www.longandshort.com/sitemap.xml
