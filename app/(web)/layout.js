@@ -9,7 +9,6 @@ import Footer from "@/components/ui/footer/footer";
 import AppProvider from "@/context/appContext";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import Script from "next/script";
-import Head from "next/head";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -80,7 +79,7 @@ const nameJsonLd = {
 export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en" className={inter.className}>
-      <Head>
+      <head>
         <Script
           id="schema"
           type="application/ld+json"
@@ -88,18 +87,11 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify(jsonLd),
           }}
         />
-        <script
+        <Script
           id="schema-name"
           type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "WebSite",
-              name: "Long and Short",
-              alternateName: "Long & Short",
-              url: "https://www.longandshort.com",
-            }),
-          }}
+          strategy="beforeInteractive" // Make sure it's loaded early
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(nameJsonLd) }}
         />
         <meta
           name="viewport"
@@ -138,7 +130,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <meta name="application-name" content="Long and Short" />
         <meta property="og:site_name" content="Long and Short" />
         <meta name="apple-mobile-web-app-title" content="Long and Short" />
-      </Head>
+      </head>
 
       <body>
         <ThemeProvider
