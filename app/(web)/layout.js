@@ -87,11 +87,18 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify(jsonLd),
           }}
         />
-        <Script
+        <script
           id="schema-name"
           type="application/ld+json"
-          strategy="beforeInteractive" // Make sure it's loaded early
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(nameJsonLd) }}
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Long and Short",
+              alternateName: "Long & Short",
+              url: "https://www.longandshort.com",
+            }),
+          }}
         />
         <meta
           name="viewport"
