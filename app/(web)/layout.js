@@ -72,7 +72,8 @@ const nameJsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "Long and Short",
-  url: "https://www.longandshort.com/",
+  alternateName: "Long & Short",
+  url: "https://www.longandshort.com",
 };
 
 export default function RootLayout({ children }) {
@@ -89,9 +90,8 @@ export default function RootLayout({ children }) {
         <Script
           id="schema-name"
           type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(nameJsonLd),
-          }}
+          strategy="beforeInteractive" // Make sure it's loaded early
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(nameJsonLd) }}
         />
         <meta
           name="viewport"
