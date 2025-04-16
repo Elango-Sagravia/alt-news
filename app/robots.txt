@@ -1,6 +1,9 @@
 User-agent: PerplexityBot
 Disallow: /outstatic
 
+User-agent: GPTBot
+Disallow: /outstatic
+
 User-agent: *
 Disallow: /outstatic
 Allow: /
