@@ -45,31 +45,31 @@ const nextConfig = {
         destination: "https://longandshort.com/:path*", // Redirect to the new domain with path preservation
         permanent: true, // Use a 301 redirect
       },
-      { source: "/sitemap.xml", destination: "/sitemap", permanent: false },
+      { source: "/sitemap.xml", destination: "/sitemap", permanent: true },
       {
         source: "/sitemap_main.xml",
         destination: "/sitemap_main",
-        permanent: false,
+        permanent: true,
       },
       {
         source: "/sitemap_blogs.xml",
         destination: "/sitemap_blogs",
-        permanent: false,
+        permanent: true,
       },
       {
         source: "/sitemap_policies.xml",
         destination: "/sitemap_policies",
-        permanent: false,
+        permanent: true,
       },
       {
         source: "/sitemap_pages.xml",
         destination: "/sitemap_pages",
-        permanent: false,
+        permanent: true,
       },
       {
         source: "/sitemap_articles.xml",
         destination: "/sitemap_articles",
-        permanent: false,
+        permanent: true,
       },
     ];
   },
