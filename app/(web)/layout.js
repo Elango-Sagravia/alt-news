@@ -21,10 +21,10 @@ const inter = Inter({ subsets: ["latin"] });
 const thumbnail = "/og.png";
 const baseUrl = process.env.url;
 export async function generateMetadata() {
-  const title = "Long & Short - Markets in minutes";
+  const title = "Long and Short - Markets in minutes";
 
   const description =
-    "Stay informed with Long & Short. Unbiased, fact-checked finance news, 5-minute read.";
+    "Stay informed with Long and Short. Unbiased, fact-checked finance news, 5-minute read.";
 
   return {
     metadataBase: new URL(process.env.url),
@@ -50,7 +50,7 @@ export async function generateMetadata() {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  name: "Long & Short",
+  name: "Long and Short",
   alternateName: "longandshort",
   url: "https://www.longandshort.com/",
   logo: "https://www.longandshort.com/logo.png",
