@@ -69,14 +69,6 @@ const jsonLd = {
   ],
 };
 
-const nameJsonLd = {
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  name: "Long and Short",
-  alternateName: "Long & Short",
-  url: "https://www.longandshort.com",
-};
-
 export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en" className={inter.className}>
