@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             {children}
             <Analytics />
             <SpeedInsights />
-            <PassendoAd />
+            {/* <PassendoAd /> */}
             <Footer />
           </AppProvider>
         </ThemeProvider>
