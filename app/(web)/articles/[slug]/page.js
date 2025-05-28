@@ -79,9 +79,9 @@ const customStyles = {
   h3: "text-2xl font-bold mt-8 mb-4",
   p: "mb-4",
   img: "max-w-full h-auto",
-  a: "text-blue-500 hover:text-blue-700 break-words",
-  ol: "list-decimal list-inside mb-4",
-  ul: "list-disc list-inside mb-4",
+  a: "no-underline border-b-2 border-[#6b705c]",
+  ol: "list-decimal mb-4",
+  ul: "list-disc mb-4",
   li: "ml-4 mb-4",
 };
 export default async function Home({ params }) {
@@ -94,6 +94,7 @@ export default async function Home({ params }) {
     .replace(/<img /g, `<img class="${customStyles.img}" `)
     .replace(/<a /g, `<a target="_blank" class="${customStyles.a}" `)
     .replace(/<ol>/g, `<ol class="${customStyles.ol}">`)
+    .replace(/<ul>/g, `<ul class="${customStyles.ul}">`)
     .replace(/<li>/g, `<li class="${customStyles.li}">`)
     .replace(/<p class="mb-4"><em>source-/g, `<p class="mb-4 source-link"><em>`)
     .replace(/<p class="mb-4">source-/g, `<p class="mb-4 source-link">`)

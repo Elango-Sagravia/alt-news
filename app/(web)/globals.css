@@ -115,7 +115,12 @@ input {
   }
 }
 
-.archive-page-slug ::selection{
-  background-color: rgba(107, 112, 92, 1.0);
-  color: white; 
+.archive-page-slug ::selection {
+  background-color: rgba(107, 112, 92, 1);
+  color: white;
+}
+
+body ::selection {
+  background-color: rgba(107, 112, 92, 1);
+  color: white;
 }
