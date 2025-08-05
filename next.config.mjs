@@ -32,47 +32,47 @@ const nextConfig = {
       },
     ];
   },
-  async redirects() {
-    return [
-      {
-        source: "/:path*", // Match all paths
-        has: [
-          {
-            type: "host",
-            value: "www.altdaily.co", // Match the domain
-          },
-        ],
-        destination: "https://longandshort.com/:path*", // Redirect to the new domain with path preservation
-        permanent: true, // Use a 301 redirect
-      },
-      // { source: "/sitemap.xml", destination: "/sitemap", permanent: true },
-      // {
-      //   source: "/sitemap_main.xml",
-      //   destination: "/sitemap_main",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/sitemap_blogs.xml",
-      //   destination: "/sitemap_blogs",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/sitemap_policies.xml",
-      //   destination: "/sitemap_policies",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/sitemap_pages.xml",
-      //   destination: "/sitemap_pages",
-      //   permanent: true,
-      // },
-      // {
-      //   source: "/sitemap_archives.xml",
-      //   destination: "/sitemap_archives",
-      //   permanent: true,
-      // },
-    ];
-  },
+  // async redirects() {
+  //   return [
+  //     {
+  //       source: "/:path*", // Match all paths
+  //       has: [
+  //         {
+  //           type: "host",
+  //           value: "www.altdaily.co", // Match the domain
+  //         },
+  //       ],
+  //       destination: "https://longandshort.com/:path*", // Redirect to the new domain with path preservation
+  //       permanent: true, // Use a 301 redirect
+  //     },
+  //     // { source: "/sitemap.xml", destination: "/sitemap", permanent: true },
+  //     // {
+  //     //   source: "/sitemap_main.xml",
+  //     //   destination: "/sitemap_main",
+  //     //   permanent: true,
+  //     // },
+  //     // {
+  //     //   source: "/sitemap_blogs.xml",
+  //     //   destination: "/sitemap_blogs",
+  //     //   permanent: true,
+  //     // },
+  //     // {
+  //     //   source: "/sitemap_policies.xml",
+  //     //   destination: "/sitemap_policies",
+  //     //   permanent: true,
+  //     // },
+  //     // {
+  //     //   source: "/sitemap_pages.xml",
+  //     //   destination: "/sitemap_pages",
+  //     //   permanent: true,
+  //     // },
+  //     // {
+  //     //   source: "/sitemap_archives.xml",
+  //     //   destination: "/sitemap_archives",
+  //     //   permanent: true,
+  //     // },
+  //   ];
+  // },
 };
 
 export default nextConfig;
