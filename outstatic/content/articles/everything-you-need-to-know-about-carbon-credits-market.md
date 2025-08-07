@@ -1,4 +1,7 @@
 ---
+coverImageAltText: ''
+metaDescription: ''
+metaTitle: ''
 readTime: '8'
 coverImage: '/images/adeline-blog-AzOD.jpg'
 description: 'Carbon markets emerged as a revolutionary tool to reduce emissions by assigning a price to pollution. By making polluters pay for their emissions, these markets found a way to curb greenhouse gases while incentivizing sustainable practices.'
@@ -105,7 +108,7 @@ source-*Factors affecting the price of carbon credits. Source: [https://www.thal
 
 While market conditions and the traditional supply-demand dynamic are the primary drivers of carbon credit prices, other factors influence carbon pricing as well. This is particularly true in the case of voluntary carbon markets. The price of a carbon credit is a reflection of its quality, co-benefits, and market forces.
 
-High-quality carbon credits are valuable because they help mitigate climate change and support a sustainable future for communities worldwide. 
+High-quality carbon credits are valuable because they help mitigate climate change and support a sustainable future for communities worldwide.
 
 Six key attributes define carbon credit quality.
 
@@ -179,7 +182,7 @@ Large corporations, organizations, and investors can participate in carbon marke
 
 As a large corporation, one way to acquire carbon offsets is by purchasing directly from project developers. For individuals or small businesses, buying from retailers is the simplest option. **Retailers provide access to small quantities of carbon offsets** and usually retire the credits on behalf of the buyer. Another option is purchasing credits through carbon exchanges. Platforms like **Xpansiv CBL, AirCarbon Exchange,** and **Carbon Trade Exchange** facilitate the buying and selling of carbon offsets. This method often results in lower costs compared to brokers.
 
-Trading carbon credits functions similarly to stock trading, buyers aim to purchase credits at a low price and sell them at a higher price. 
+Trading carbon credits functions similarly to stock trading, buyers aim to purchase credits at a low price and sell them at a higher price.
 
 ## **What is the scope?**
 
